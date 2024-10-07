@@ -1,18 +1,18 @@
-{
-  "app_id": "",
-  "client_secret": "",
-  "tenant_id": "",
-  "openai_key": ""
-}
-
+import json
 import msal
 import requests
 import openai
 
-def get_graph_access_token():
-  client_id = "YOUR_APP_ID"
-  client_secret = "YOUR_CLIENT_SECRET"
-  tenant_id = "YOUR_TENANT_ID"
+def load_config():
+  with open("config.json", "r") as file:
+    config = json.load(file)
+  #end with
+  return config
+
+def get_graph_access_token(config):
+  client_id = config["app_id"]
+  client_secret = config["client_secret"]
+  tenant_id = config["tenant_id"]
   authority_url = f"https://login.microsoftonline.com/{tenant_id}"
   scopes = ['https://graph.microsoft.com/.default']
   app = msal.ConfidentialClientApplication(client_id, authority=authority_url, client_credential=client_secret)
@@ -29,8 +29,8 @@ def fetch_emails(access_token):
   response = requests.get(graph_api_endpoint, headers=headers)
   return response.json()
 
-def summarize_email(email_content):
-  openai.api_key ="YOUR_OPENAI_API_KEY"
+def summarize_email(email_content, config):
+  openai.api_key = config["openai_key"]
   response = openai.Completion.create(
     engine="text-davinci-003",
     prompt=f"Summarize the following email: {email_content}",
@@ -39,20 +39,20 @@ def summarize_email(email_content):
   return response.choices[0].text.strip()
 
 def main():
-    access_token = get_graph_access_token()
+    config = load_config()
+    access_token = get_graph_access_token(config)
     emails = fetch_emails(access_token)
 
     for email in emails['value']:
         subject = email['subject']
         body = email['body']['content']
-        summary = summarize_email(body)
-        printf(f"Subject: {subject}")
-        printf(f"Summary: {summary}")
+        summary = summarize_email(body, config)
+        print(f"Subject: {subject}")
+        print(f"Summary: {summary}")
     #end for
 #end def
 
 if __name__ == "__main__":
-    main()
-  #end if
+  main()
+#end if
 
-#end
