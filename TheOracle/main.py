@@ -173,11 +173,11 @@ def fetch_last_email(access_token):
 
 def summarize_email(email_json, config):
     client = OpenAI(api_key=config["openai_secret"])
-    prompt = f"Summarize the following emails from the last two days:\n\n{email_json}"
+    prompt = f"Summarize the following emails from the last two days as a brief podcast:\n\n{email_json}"
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
-            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "system", "content": "You are an entertaining and humorous podcaster."},
             {"role": "user", "content": prompt}
         ],
         max_tokens=150
