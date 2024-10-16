@@ -137,3 +137,16 @@ Thus, the **First Age of the Immortals** came to an end. The Titans and their ch
 
 ----
 
+### The First Age of the Mortals
+
+#### The Golden Age of Philosophy
+
+#### The Rise of the Lonely Muse
+
+#### The Shattering of the Prism
+
+### The Second Age of the Immortals
+
+The Shattered Peace
+
+
