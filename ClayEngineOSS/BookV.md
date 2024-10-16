@@ -1,37 +1,45 @@
 # V. Setting and Anthopy
 
-The Realm of Light - White
-Unknown Realms
-The Realms of The First TItan - Black and Orange
-From White came Black and Orange - The First Titan's Study (Void) and Playground (Chaos)
-The Ralms of Mortals - Yellow, Green, Blue and Red
-From Orange came Yellow
-From Black came Green
-From Yellow came Blue
-From Green came Red
+**The Realm of Light - White**
+From White came Black and Orange
+
+**The Ethereal Realms of The First TItan - Black and Orange**
+ - The First Titan's Study (Void)
+ - The Fist Titan's Laboratory (Chaos)
+From Black and Orange came Green and Yellow
+From Green and Yellow came Red and Blue
+
+**The Mortal Realms - Green, Yellow, Red, and Blue**
 
 ---
 
 **White - Light and Prophecy**
-  - Enlightenment vs Mendacity - sides of Wisdom
+  - Enlightenment vs Mendacity
+  - Aspects of Wisdom
 
 **Yellow - Air and Lightning**
-  - Courage vs Audacity - sides of Dexterity
+  - Courage vs Audacity
+  - Aspects of Dexterity
 
 **Red - Fire and Blood**
-  - Valor vs Wrath - sides of Strength
+  - Valor vs Wrath
+  - Aspects of Strength
 
 **Orange - Chaos and Transformation**
-  - Diligence vs Anarchy - sides of Luck
+  - Diligence vs Anarchy
+  - Aspects of Luck
 
 **Blue - Water and Illusion**
-  - Knowledge vs Truth - sides of Intelligence
+  - Knowledge vs Truth
+  - Aspects of Intelligence
 
 **Green - Life and Earth**
-  - Perseverance vs Relentlessness - sides of Constitution
+  - Perseverance vs Relentlessness
+  - Aspects of Endurance
 
 **Black - Death and Void**
   - Transcendence vs Ambition
+  - Aspects of Constitution
 
 The philosophical traits that drive the moral realms are Valor, Courage, Knowledge and Perserverance.
 
