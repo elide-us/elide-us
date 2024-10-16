@@ -85,7 +85,7 @@ In the aftermath of the First Titan’s fateful discovery, the cosmos trembled, 
 
 In shock, the remaining Titans gathered. The strongest and wisest among them, drawn by the gravity of their shared fate, formed a **council**. At its head stood the First Titan—though death had torn them apart, it still lived, his form marked by the chaos she had touched, their presence shadowed by the void. And yet, it was no longer simply a victim of these forces. He had mastered them. The very energies that had undone her now resided within, and from this place of hard-won wisdom, they led the council with the gravest caution.
 
-“We must understand what we have seen,” he said, our voice echoing through the stars, “and we must not err again. The light is far more than we knew. It is a **Prism**, and we must learn its edges with care.”
+“We must understand what we have seen,” they said, our voice echoing through the stars, “and we must not err again. The light is far more than we knew. It is a **Prism**, and we must learn its edges with care.”
 
 The council, now guided by this profound understanding, turned its gaze back toward the Prism. They moved with a new respect, a tempered resolve. The light was not to be fully opened again, not recklessly, not like before. They would peel away the layers gently, searching for the other truths hidden within. And so, from the **death** they had uncovered, they found its counterbalance: **life**.
 
