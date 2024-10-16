@@ -95,7 +95,7 @@ But from **chaos**, there was yet more to uncover. The Titans turned their atten
 
 Thus, from the depths of **Green**, life rooted in the **earth**, and from the heights of **Yellow**, storms raged with purpose. These two schools were unlike death and chaos, yet they were **synergized with the light**. They were born not of destruction but of creation and transformation. They were part of the Prism’s natural order, connected intimately to the White, each a reflection of its careful balance.
 
-And so, the **Titans**, having learned from the folly of their first discovery, cautiously extracted these truths from the Prism. With great wisdom, they now understood that the edges of the Prism could be explored, if only with patience and care. And so, the schools of **Green** and **Yellow** were born—firmament and soil, sky and earth, life and air, the powers of renewal and storm that would forever shape the universe.
+And so, the **Titans**, having learned from the folly of their first discovery, cautiously extracted these truths from the Light. With great wisdom, they now understood that the edges of the Prism could be explored, if only with patience and care. And so, the schools of **Green** and **Yellow** were born—firmament and soil, sky and earth, life and air, the powers of renewal and storm that would forever shape the universe.
 
 ---
 
