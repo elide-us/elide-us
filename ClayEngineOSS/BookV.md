@@ -63,7 +63,7 @@ The philosophical traits that drive the moral realms are Valor, Courage, Knowled
 
 ---
 
-In the beginning, there was only light. Endless, pure, and unbroken. No land, no sky, no stars, and no people—only the **Titans**, colossal entities tasked with shaping the universe, their purpose hidden deep within the radiant brilliance. The light was everything: the source of all, the fount of knowledge, the beacon of creation.
+In the beginning, there was only light. Endless, pure, and unbroken. No land, no sky, no stars, no living thing—only the **Titans**, colossal entities tasked with shaping the universe, their purpose hidden deep within the radiant brilliance. The light was everything: the source of all, the fount of knowledge, the beacon of creation.
 
 Among these Titans, there was one who dared to gaze deeper into the light, yearning to uncover its wisdom, to dissect it and extract its ultimate truth. This Titan, driven by an insatiable hunger to understand the light’s secrets, ventured beyond the radiance—beyond the comfortable glow of creation. The Titan sought the core of all knowledge, believing that within the light lay all answers.
 
