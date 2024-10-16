@@ -99,8 +99,6 @@ And so, the **Titans**, having learned from the folly of their first discovery, 
 
 ---
 
-Wrong color version:
-
 As the Titans’ curiosity deepened, they realized that the universe was still unbalanced. Though they had uncovered the powers of life, earth, air, and lightning, there were two more colors waiting within the spectrumb—**sympathetic colors**, just outside the edges of what they had already discovered.
 
 First, seeking balance to Green, they found on the edge of Yellow a terrible glow: Red. It was the flame, the pulse, the beating heart of life. In so many ways, it stood in opposition to life, but the Titans saw its necessity. The **soil**, rich and fertile, needed the **blood** of life to sustain itself. And while **life** grew from the earth, **fire** brought both destruction and rebirth. **Red** balanced the equation, for the **blood** of life flowed from the earth, and fire gave warmth and strength to all things. Thus, from the depths of **Green**, cousin to **Yellow**, the Titans found **Red**, the magic of Fire and Blood.
@@ -108,20 +106,6 @@ First, seeking balance to Green, they found on the edge of Yellow a terrible glo
 But the Titans were not finished. Balancing Yellow, they sensed on the edge of Green another sympathetic force—one tied closely to life and the air itself. In the skies, within the chaos of storms, they found **Water**. Blue, they realized, was born of the air, hidden within the clouds, and for the first time, **rain** fell upon the earth. Water, fluid and reflective, brought a new kind of magic: **Illusion**, the unseen, the hidden truths that danced like reflections on the surface of a stream. **Blue** flowed through the air, from cloud to earth, nourishing life as the **rains** poured down for the first time.
 
 With these final discoveries—**Red** and **Blue**, fire and water—the Titans felt the spectrum had revealed all it needed to. There was **balance** now, between life and death, between chaos and order, between fire and water. The universe was complete. And so, the Titans ceased their explorations, content with what they had uncovered. They left the magic of **Prism** to flow through the realms, allowing **life** to flourish, nourished by the balance they had restored to the universe.
-
----
-
-Regenerated too verbose version:
-
-As the Titans searched for balance within the Prism, they knew their discoveries were incomplete. There were still forces within the universe waiting to be revealed, tied to the colors that lay beyond what they had already found. They recognized that to maintain balance, they had to explore opposite sides of the spectrum they had uncovered. It was not enough to have only life and death, or chaos and order—they needed to draw from both sides to find the equilibrium they sought.
-
-Looking first to the realm of **Green (Earth and Life)**, the Titans understood that **life** needed a counterbalance. From the depth of the **earth** emerged **Red (Fire and Blood)**. Though life and fire seemed opposed, the Titans saw the truth: **life** could not exist without **blood**, and the earth itself could not be reborn without the purifying heat of **fire**. **Red**, which now rested beside **Yellow**, was the force of vitality, strength, and destruction. **Fire** was as essential to **life** as the soil from which it sprang, creating a perfect harmony between the two. 
-
-From the **Yellow (Air and Lightning)** school, the Titans then sought its counterpart, and they found it in the **Blue (Water and Illusion)**. **Water**, carried by the winds and found in the clouds, brought the **rains** that nourished the earth. But **Blue** was more than just water—it was the power of **Illusion**, the fluid, ever-shifting nature of reality. Just as the **winds** and **lightning** tore through the skies, **water** flowed and changed, creating a delicate balance between the chaotic forces of the air and the steady, reflective nature of water.
-
-Thus, from both sides of the septagram, the Titans uncovered the last two schools. **Red** and **Blue**, derived from **Green** and **Yellow**, completed the spectrum. This ensured the balance they had sought from the start.
-
-With this perfect balance established, the Titans believed their task was complete. Life could now flourish in the universe, guided by the harmony of all seven colors of the Prism.
 
 ---
 
