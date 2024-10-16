@@ -87,7 +87,7 @@ In shock, the remaining Titans gathered. The strongest and wisest among them, dr
 
 “We must understand what we have seen,” they said, our voice echoing through the stars, “and we must not err again. The light is far more than we knew. It is a **Prism**, and we must learn its edges with care.”
 
-The council, now guided by this profound understanding, turned its gaze back toward the Prism. They moved with a new respect, a tempered resolve. The light was not to be fully opened again, not recklessly, not like before. They would peel away the layers gently, searching for the other truths hidden within. And so, from the **death** they had uncovered, they found its counterbalance: **life**.
+The council, now guided by this profound understanding, turned its gaze back toward the Light. They moved with a new respect, a tempered resolve. The light was not to be fully opened again, not recklessly, not like before. They would peel away the layers gently, searching for the other truths hidden within. And so, from the **death** they had uncovered, they found its counterbalance: **life**.
 
 Life emerged, not as a distant idea but as a force in its own right. It did not rise in the heavens but was born from the **ground**, from the foundation of existence itself. The **earth**, firm and fertile, became the cradle of life. **Green**, the school of **Earth and Life**, took shape—rich, profound, and unyielding. The Titans felt its weight, its promise, for it was from this soil that all things would grow. Life would spring forth, reborn from the death that had preceded it. Here, in this profound balance, the Titans saw the strength of renewal. It was the essence of the **Green** school, a reminder that even in the shadow of death, life finds a way to bloom.
 
