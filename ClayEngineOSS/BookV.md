@@ -14,7 +14,7 @@ To stop her and to preserve reality itself, the Prism was shattered. The **Titan
 **The Ethereal Realms - Black and Orange**
 
 From White came Black and Orange:
- - The First Titan's Study (Death amd Void)
+ - The First Titan's Study (Death and Void)
  - The First Titan's Laboratory (Chaos and Transformation)
 
 **The Mortal Realms - Green, Yellow, Red, and Blue**
