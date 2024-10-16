@@ -12,8 +12,8 @@ From Green came Red
 
 ---
 
-**White - School of Light and Prophecy**
-  - Wisdom vs Cunning (Unfinalized)
+**White - Light and Prophecy**
+  - Enlightenment vs Mendacity - sides of Wisdom
 
 **Yellow - Air and Lightning**
   - Courage vs Audacity - sides of Dexterity
@@ -22,16 +22,16 @@ From Green came Red
   - Valor vs Wrath - sides of Strength
 
 **Orange - Chaos and Transformation**
-  - Liberty vs Anarchy (Unfinalized)
+  - Diligence vs Anarchy - sides of Luck
 
 **Blue - Water and Illusion**
   - Knowledge vs Truth - sides of Intelligence
 
 **Green - Life and Earth**
-  - Perseverance vs Hubris - sides of Constitution
+  - Perseverance vs Relentlessness - sides of Constitution
 
 **Black - Death and Void**
-  - Sacrifice vs Control (Unfinalized)
+  - Transcendence vs Ambition
 
 The philosophical traits that drive the moral realms are Valor, Courage, Knowledge and Perserverance.
 
