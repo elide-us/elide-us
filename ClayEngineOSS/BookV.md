@@ -107,7 +107,7 @@ First, seeking balance to Green, they found on the edge of Yellow a terrible glo
 
 But the Titans were not finished. Balancing Yellow, they sensed on the edge of Green another sympathetic force—one tied closely to life and the air itself. In the skies, within the chaos of storms, they found **Water**. Blue, they realized, was born of the air, hidden within the clouds, and for the first time, **rain** fell upon the earth. Water, fluid and reflective, brought a new kind of magic: **Illusion**, the unseen, the hidden truths that danced like reflections on the surface of a stream. **Blue** flowed through the air, from cloud to earth, nourishing life as the **rains** poured down for the first time.
 
-With these final discoveries—**Red** and **Blue**, fire and water—the Titans felt the Prism had revealed all it needed to. There was **balance** now, between life and death, between chaos and order, between fire and water. The universe was complete. And so, the Titans ceased their explorations, content with what they had uncovered. They left the magic of the **Prism** to flow through the realms, allowing **life** to flourish, nourished by the balance they had restored to the universe.
+With these final discoveries—**Red** and **Blue**, fire and water—the Titans felt the spectrum had revealed all it needed to. There was **balance** now, between life and death, between chaos and order, between fire and water. The universe was complete. And so, the Titans ceased their explorations, content with what they had uncovered. They left the magic of **Prism** to flow through the realms, allowing **life** to flourish, nourished by the balance they had restored to the universe.
 
 ---
 
