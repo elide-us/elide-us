@@ -1,17 +1,35 @@
 # V. Setting and Anthopy
 
-**The Realm of Light - White**
-From White came Black and Orange
+The Realms of Prism today are seven. But it was not always so.
 
-**The Ethereal Realms of The First TItan - Black and Orange**
- - The First Titan's Study (Void)
- - The Fist Titan's Laboratory (Chaos)
-From Black and Orange came Green and Yellow
-From Green and Yellow came Red and Blue
+In the time before, all realms were unified, existing together in harmony. Magic flowed freely, and the elements intertwined, creating a world of balance and unity. But this era of oneness came to a violent end with the rise of the Lonely Muse, whose relentless pursuit of power and truth threatened to unravel the very fabric of the universe.
+
+To stop her and to preserve reality itself, the Prism was shattered. The **Titans**, led by the wisdom of the **First Titan**, made the choice to divide the world, creating a new order to contain the Muse’s power. Each realm was given its place in this new, fragmented reality, organized according to the very design of magic itself.
+
+---
+
+**The Realm of Light - White**
+  - The Realm of Light (Light and Prophecy)
+
+**The Ethereal Realms - Black and Orange**
+
+From White came Black and Orange:
+ - The First Titan's Study (Death amd Void)
+ - The First Titan's Laboratory (Chaos and Transformation)
 
 **The Mortal Realms - Green, Yellow, Red, and Blue**
 
+From Black and Orange came Green and Yellow:
+  - Terria (Earth and Life)
+  - Aerolon (Air and Lightning)
+
+From Green and Yellow came Red and Blue
+  - Sanguia (Fire and Blood)
+  - Aquia (Water and Illusion)
+
 ---
+
+Each realm is associated with a specific statistic and associated philosophies which are studied and reinforced in each school.
 
 **White - Light and Prophecy**
   - Enlightenment vs Mendacity
