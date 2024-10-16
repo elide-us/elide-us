@@ -131,7 +131,7 @@ But with the passage of **millions of years**, the world of the mortals began to
 
 All that remained were the forces the Titans had unleashed: **magic** and **mortality**. The once-immortal beings faded from memory, and with them, the connection to the ancient balance of the Prism. Mortals built their own worlds, their own stories, but even as they advanced, even as they mastered magic and the elements, they sensed something **missing**. Something vital had been lost from their existence—a sense of purpose that transcended even their greatest achievements.
 
-Thus, the **First Age of the Immortals** came to an end. The Titans and their children faded into legend, leaving behind only the echoes of their creations and the powerful magic that flowed through the world. But even in this age of mortality, the world waited. The Prism had more yet to reveal, and though the Titans slept, the forces of the universe would stir once more, in time.
+Thus, the **First Age of the Immortals** came to an end. The Titans and their children faded into legend, leaving behind only the echoes of their creations and the powerful magic that flowed through the world. But even in this age of mortality, the world waited. The Light had more yet to reveal, and though the Titans slept, the forces of the universe would stir once more, in time.
 
 ----
 
