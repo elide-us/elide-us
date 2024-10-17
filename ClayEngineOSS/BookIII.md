@@ -1,212 +1,191 @@
 # III. World System Design
 
-# Simplified Elemental System
+  This book is meant to describe the systems that drive the procedural world generation. We start from a simplified elemental system and build into various compounds that are used in gameplay.
 
-## Purpose and Design
+## Simplified Elemental System
+
+  The game world is composed of voxels, but unlike traditional cubes that represent just one material, our voxels can both change shape, and are but containers for elements. The contents of any given voxel determines the material. While common interactions with voxels can interact at the level of a voxel material, the simulation undergirding the generation of the world is driven by real-world chemistry and real-world environmental processes. Diamonds aren't produced at random, they're the result of a lot of carbon and temperature and pressure, and this is how we generate them here, too.
+
+### Purpose and Design
 
 The **Simplified Elemental System** serves as the foundational mechanism for simulating material properties, crafting resources, and driving environmental interactions within the voxel-based world of our MMORPG. This system is meticulously designed to enhance realism and player engagement by:
 
 1. **Providing a Foundation for Material Properties, Crafting, and Environmental Interactions:**
-   - Establishing a core framework that simulates the physical and chemical properties of materials.
-   - Enabling a diverse range of crafting possibilities and resource management strategies.
-   - Driving environmental interactions that affect gameplay and world dynamics.
+  - Establishing a core framework that simulates the physical and chemical properties of materials.
+  - Enabling a diverse range of crafting possibilities and resource management strategies.
+  - Driving environmental interactions that affect gameplay and world dynamics.
 
 2. **Facilitating Environmental Processes:**
-   - Simulating natural phenomena such as erosion, sedimentation, and material transformation.
-   - Shaping the landscape in a dynamic way, influencing resource distribution and availability.
-   - Allowing players to witness and interact with a living world that responds to both natural forces and player actions.
+  - Simulating natural phenomena such as erosion, sedimentation, and material transformation.
+  - Shaping the landscape in a dynamic way, influencing resource distribution and availability.
+  - Allowing players to witness and interact with a living world that responds to both natural forces and player actions.
 
 3. **Acting as Interactive Building Blocks for Gameplay Mechanics:**
-   - Treating each voxel as a dynamic container holding one or more elements.
-   - Allowing the contents of a voxel to be manipulated through mining, building, or environmental forces.
-   - Enabling voxels to respond to player actions and natural events, leading to extraction, concentration, compression, and erosion of elements within them.
+  - Treating each voxel as a dynamic container holding one or more elements.
+  - Allowing the contents of a voxel to be manipulated through mining, building, or environmental forces.
+  - Enabling voxels to respond to player actions and natural events, leading to extraction, concentration, compression, and erosion of elements within them.
 
 4. **Creating a Realistic and Engaging World Simulation:**
-   - Enhancing player immersion by simulating realistic environmental and geological processes.
-   - Encouraging exploration and strategic resource management.
-   - Providing a responsive environment where player decisions have tangible effects on the world.
+  - Enhancing player immersion by simulating realistic environmental and geological processes.
+  - Encouraging exploration and strategic resource management.
+  - Providing a responsive environment where player decisions have tangible effects on the world.
 
 5. **Streamlining Gameplay and Simulation:**
-   - Selecting key elements based on essential transformation pathways and biological processes.
-   - Focusing on elements that facilitate realistic simulations of erosion, sediment distribution, and plant growth.
-   - Simplifying the elemental system to balance complexity with accessibility for players.
+  - Selecting key elements based on essential transformation pathways and biological processes.
+  - Focusing on elements that facilitate realistic simulations of erosion, sediment distribution, and plant growth.
+  - Simplifying the elemental system to balance complexity with accessibility for players.
 
-# Simplified Periodic Table
+## Simplified Periodic Table
 
-## **Group 1: Alkali Metals (1 Valence Electron)**
+### **Group 1-2:**
 
 1. **Hydrogen (H)**
-   - **Atomic Number:** 1
-   - **Valence Electrons:** 1
-   - **Uses:** Fundamental for water formation and energy production.
+  - **Atomic Number:** 1
+  - **Valence Electrons:** 1
+  - **Uses:** Fundamental for water formation and energy production.
 
 2. **Sodium (Na)**
-   - **Atomic Number:** 11
-   - **Valence Electrons:** 1
-   - **Uses:** Crucial for salt production and glassmaking.
+  - **Atomic Number:** 11
+  - **Valence Electrons:** 1
+  - **Uses:** Crucial for salt production and glassmaking.
 
 3. **Potassium (K)**
-   - **Atomic Number:** 19
-   - **Valence Electrons:** 1
-   - **Uses:** Key component in fertilizers for plant growth.
+  - **Atomic Number:** 19
+  - **Valence Electrons:** 1
+  - **Uses:** Key component in fertilizers for plant growth.
+
+4. **Calcium (Ca)**
+  - **Atomic Number:** 20
+  - **Valence Electrons:** 2
+  - **Uses:** Essential for making limestone, cement, and mortar.
 
 ---
 
-## **Group 2: Alkaline Earth Metals (2 Valence Electrons)**
+### **Group 3-12: Transition Metals**
 
-1. **Calcium (Ca)**
-   - **Atomic Number:** 20
-   - **Valence Electrons:** 2
-   - **Uses:** Essential for making limestone, cement, and mortar.
+5. **Titanium (Ti)**
+  - **Atomic Number:** 22
+  - **Valence Electrons:** 4
+  - **Uses:** Ideal for advanced tools and armor due to its strength and light weight.
 
----
+6. **Chromium (Cr)**
+  - **Atomic Number:** 24
+  - **Valence Electrons:** 6
+  - **Uses:** Used in stainless steel and metal plating.
 
-## **Group 3-12: Transition Metals (Variable Valence Electrons)**
+7. **Iron (Fe)**
+  - **Atomic Number:** 26
+  - **Valence Electrons:** 2
+  - **Uses:** Fundamental for tools, weapons, and construction materials.
 
-1. **Titanium (Ti)**
-   - **Atomic Number:** 22
-   - **Valence Electrons:** 4
-   - **Uses:** Ideal for advanced tools and armor due to its strength and light weight.
+8. **Cobalt (Co)**
+  - **Atomic Number:** 27
+  - **Valence Electrons:** 2
+  - **Uses:** Essential for magnets and advanced alloys.
 
-2. **Chromium (Cr)**
-   - **Atomic Number:** 24
-   - **Valence Electrons:** 6
-   - **Uses:** Used in stainless steel and metal plating.
+9. **Nickel (Ni)**
+  - **Atomic Number:** 28
+  - **Valence Electrons:** 2
+  - **Uses:** Used in stainless steel and advanced crafting.
 
-3. **Iron (Fe)**
-   - **Atomic Number:** 26
-   - **Valence Electrons:** 2
-   - **Uses:** Fundamental for tools, weapons, and construction materials.
+10. **Copper (Cu)**
+  - **Atomic Number:** 29
+  - **Valence Electrons:** 1
+  - **Uses:** Used in electrical components, tools, and construction.
 
-4. **Cobalt (Co)**
-   - **Atomic Number:** 27
-   - **Valence Electrons:** 2
-   - **Uses:** Essential for magnets and advanced alloys.
+11. **Zinc (Zn)**
+  - **Atomic Number:** 30
+  - **Valence Electrons:** 2
+  - **Uses:** Important for galvanization and brass alloy crafting.
 
-5. **Nickel (Ni)**
-   - **Atomic Number:** 28
-   - **Valence Electrons:** 2
-   - **Uses:** Used in stainless steel and advanced crafting.
+12. **Silver (Ag)**
+  - **Atomic Number:** 47
+  - **Valence Electrons:** 1
+  - **Uses:** Valuable for currency, jewelry, and electronics.
 
-6. **Copper (Cu)**
-   - **Atomic Number:** 29
-   - **Valence Electrons:** 1
-   - **Uses:** Used in electrical components, tools, and construction.
+13. **Platinum (Pt)**
+  - **Atomic Number:** 78
+  - **Valence Electrons:** 1
+  - **Uses:** Used in advanced technology and high-end crafting.
 
-7. **Zinc (Zn)**
-   - **Atomic Number:** 30
-   - **Valence Electrons:** 2
-   - **Uses:** Important for galvanization and brass alloy crafting.
+14. **Gold (Au)**
+  - **Atomic Number:** 79
+  - **Valence Electrons:** 1
+  - **Uses:** Rare metal for high-end crafting and electronics.
 
-8. **Silver (Ag)**
-   - **Atomic Number:** 47
-   - **Valence Electrons:** 1
-   - **Uses:** Valuable for currency, jewelry, and electronics.
-
-9. **Platinum (Pt)**
-   - **Atomic Number:** 78
-   - **Valence Electrons:** 1
-   - **Uses:** Used in advanced technology and high-end crafting.
-
-10. **Gold (Au)**
-    - **Atomic Number:** 79
-    - **Valence Electrons:** 1
-    - **Uses:** Rare metal for high-end crafting and electronics.
-
-11. **Uranium (U)**
-    - **Atomic Number:** 92
-    - **Valence Electrons:** 6
-    - **Uses:** Rare element used for advanced technology or as an energy source.
+15. **Uranium (U)**
+  - **Atomic Number:** 92
+  - **Valence Electrons:** 6
+  - **Uses:** Rare element used for advanced technology or as an energy source.
 
 ---
 
-## **Group 13: Boron Group (3 Valence Electrons)**
+### **Group 13-18:**
 
-1. **Aluminum (Al)**
-   - **Atomic Number:** 13
-   - **Valence Electrons:** 3
-   - **Uses:** Lightweight metal crucial for crafting and construction.
+16. **Aluminum (Al)**
+  - **Atomic Number:** 13
+  - **Valence Electrons:** 3
+  - **Uses:** Lightweight metal crucial for crafting and construction.
 
----
+17. **Carbon (C)**
+  - **Atomic Number:** 6
+  - **Valence Electrons:** 4
+  - **Uses:** Foundation of organic materials, coal, and diamonds.
 
-## **Group 14: Carbon Group (4 Valence Electrons)**
+18. **Silicon (Si)**
+  - **Atomic Number:** 14
+  - **Valence Electrons:** 4
+  - **Uses:** Central to rocks, sand, glass, and ceramics.
 
-1. **Carbon (C)**
-   - **Atomic Number:** 6
-   - **Valence Electrons:** 4
-   - **Uses:** Foundation of organic materials, coal, and diamonds.
+19. **Tin (Sn)**
+  - **Atomic Number:** 50
+  - **Valence Electrons:** 4
+  - **Uses:** Used in bronze alloys and various crafting applications.
 
-2. **Silicon (Si)**
-   - **Atomic Number:** 14
-   - **Valence Electrons:** 4
-   - **Uses:** Central to rocks, sand, glass, and ceramics.
+20. **Lead (Pb)**
+  - **Atomic Number:** 82
+  - **Valence Electrons:** 4
+  - **Uses:** Heavy metal used for radiation shielding and batteries.
 
-3. **Tin (Sn)**
-   - **Atomic Number:** 50
-   - **Valence Electrons:** 4
-   - **Uses:** Used in bronze alloys and various crafting applications.
+21. **Nitrogen (N)**
+  - **Atomic Number:** 7
+  - **Valence Electrons:** 5
+  - **Uses:** Vital for fertilizers and plant growth.
 
-4. **Lead (Pb)**
-   - **Atomic Number:** 82
-   - **Valence Electrons:** 4
-   - **Uses:** Heavy metal used for radiation shielding and batteries.
+22.  **Phosphorus (P)**
+  - **Atomic Number:** 15
+  - **Valence Electrons:** 5
+  - **Uses:** Important for fertilizers and energy production.
 
----
+23. **Oxygen (O)**
+  - **Atomic Number:** 8
+  - **Valence Electrons:** 6
+  - **Uses:** Essential for combustion, oxidation, and water formation.
 
-## **Group 15: Pnictogens (5 Valence Electrons)**
+24. **Sulfur (S)**
+  - **Atomic Number:** 16
+  - **Valence Electrons:** 6
+  - **Uses:** Used in crafting and various chemical reactions.
 
-1. **Nitrogen (N)**
-   - **Atomic Number:** 7
-   - **Valence Electrons:** 5
-   - **Uses:** Vital for fertilizers and plant growth.
+25. **Chlorine (Cl)**
+  - **Atomic Number:** 17
+  - **Valence Electrons:** 7
+  - **Uses:** Used in chemical synthesis and biological functions.
 
-2. **Phosphorus (P)**
-   - **Atomic Number:** 15
-   - **Valence Electrons:** 5
-   - **Uses:** Important for fertilizers and energy production.
+26. **Helium (He)**
+  - **Atomic Number:**
+  - **Valence Electrons:** 
+  - **Uses:** Used to make people laugh and make other stuff float.
+  
+  --- 
 
----
-
-## **Group 16: Chalcogens (6 Valence Electrons)**
-
-1. **Oxygen (O)**
-   - **Atomic Number:** 8
-   - **Valence Electrons:** 6
-   - **Uses:** Essential for combustion, oxidation, and water formation.
-
-2. **Sulfur (S)**
-   - **Atomic Number:** 16
-   - **Valence Electrons:** 6
-   - **Uses:** Used in crafting and various chemical reactions.
-
----
-
-## **Group 17: Halogens (7 Valence Electrons)**
-
-1. **Chlorine (Cl)**
-   - **Atomic Number:** 17
-   - **Valence Electrons:** 7
-   - **Uses:** Used in chemical synthesis and biological functions.
-
----
-
-## **Group 18: Noble Gases (8 Valence Electrons)**
-
-- **No elements in this group**
-
----
-
-### **Notes on Valence Electrons and Gameplay Mechanics**
+#### **Notes on Valence Electrons and Gameplay Mechanics**
 
 - **Transition Metals:** Transition metals have variable valence electrons due to their d-orbitals. For gameplay purposes, assigning them common valence counts aids in crafting recipes and understanding elemental interactions.
 
 - **Valence Electrons:** Understanding valence electrons helps players predict how elements interact, enhancing the alchemy and crafting systems.
 
-- **Vertical Ordering:** Elements are listed from lighter to heavier within each group, reflecting their arrangement in the periodic table.
-
----
-
-### **Gameplay Benefits**
+#### **Gameplay Benefits**
 
 - **Intuitive Crafting:** Players can use the atomic number and valence electron information to anticipate crafting outcomes, making the system more engaging.
 
@@ -214,98 +193,81 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 
 - **Resource Management:** A balanced distribution of common and rare elements ensures progressive gameplay, allowing players to advance from basic to advanced crafting.
 
-# Common Compounds in Voxels
+---
+
+## Common Compounds in Voxels
 
 Elements combine within voxels to form compounds that represent different materials with unique properties and uses. These compounds are essential for various gameplay mechanics, including crafting, building, and environmental interactions.
 
-## Common Compounds
+### Common Compounds
 
-**1. Water (H₂O)**
-- **Formation:** Composed of hydrogen and oxygen.
-- **Extracted Element:** [**Hydrogen (H)**](https://github.com/elide-us/ClayEngineOSS/wiki/II.-Simplified-Periodic-Table#group-1-alkali-metals-1-valence-electron)
-- **Uses:**
-  - Essential for plant growth and biological functions.
-  - Plays a critical role in erosion processes and sediment transport.
-  - Used in crafting recipes and alchemical processes.
+1. **Water (H₂O)**
+  - **Formation:** Composed of hydrogen and oxygen.
+  - **Uses:**
+    - Essential for plant growth and biological functions.
+    - Plays a critical role in erosion processes and sediment transport.
+    - Used in crafting recipes and alchemical processes.
 
----
+2. **Carbon Dioxide (CO₂)**
+  - **Formation:** Composed of carbon and oxygen.
+  - **Uses:**
+    - Vital for plant photosynthesis.
+    - Influences environmental processes and atmospheric dynamics.
+    - Can be involved in crafting and chemical reactions.
 
-**2. Carbon Dioxide (CO₂)**
-- **Formation:** Composed of carbon and oxygen.
-- **Uses:**
-  - Vital for plant photosynthesis.
-  - Influences environmental processes and atmospheric dynamics.
-  - Can be involved in crafting and chemical reactions.
+3. **Silicon Dioxide (SiO₂)**
+  - **Occurrence:** Found in quartz, sand, and glass.
+  - **Uses:**
+    - Fundamental material for crafting glass and ceramics.
+    - Used in building structures and as a raw material for advanced items.
+    - Integral in creating molds and casting components.
 
----
+4. **Calcium Carbonate (CaCO₃)**
+  - **Occurrence:** Found in limestone, marble, and chalk.
+  - **Uses:**
+    - Essential for construction materials like cement and mortar.
+    - Used in crafting decorative items and sculptures.
+    - Influences soil pH and can affect plant growth.
 
-**3. Silicon Dioxide (SiO₂)**
-- **Occurrence:** Found in quartz, sand, and glass.
-- **Uses:**
-  - Fundamental material for crafting glass and ceramics.
-  - Used in building structures and as a raw material for advanced items.
-  - Integral in creating molds and casting components.
+5. **Iron Oxide (Fe₂O₃)**
+  - **Occurrence:** Found in rust and iron ores.
+  - **Uses:**
+    - Used for coloring materials and crafting pigments.
+    - Important in crafting tools, weapons, and building materials.
+    - Can indicate the presence of iron deposits for mining.
 
----
+6. **Sodium Chloride (NaCl)**
+  - **Common Name:** Salt.
+  - **Uses:**
+    - Used in food preservation and seasoning.
+    - Essential in various chemical processes and crafting recipes.
+    - Can be employed in curing hides and preserving materials.
 
-**4. Calcium Carbonate (CaCO₃)**
-- **Occurrence:** Found in limestone, marble, and chalk.
-- **Uses:**
-  - Essential for construction materials like cement and mortar.
-  - Used in crafting decorative items and sculptures.
-  - Influences soil pH and can affect plant growth.
+7. **Potassium Nitrate (KNO₃)**
+  - **Uses:**
+    - Key ingredient in fertilizers to enhance plant growth.
+    - Used in crafting recipes like gunpowder for explosives.
+    - Can be involved in food preservation techniques.
 
----
+8. **Copper Sulfate (CuSO₄)**
+  - **Uses:**
+    - Employed in crafting fungicides and pesticides.
+    - Used in chemical processes and as a mordant in dyeing.
+    - Can be part of advanced crafting and alchemy recipes.
 
-**5. Iron Oxide (Fe₂O₃)**
-- **Occurrence:** Found in rust and iron ores.
-- **Uses:**
-  - Used for coloring materials and crafting pigments.
-  - Important in crafting tools, weapons, and building materials.
-  - Can indicate the presence of iron deposits for mining.
-
----
-
-**6. Sodium Chloride (NaCl)**
-- **Common Name:** Salt.
-- **Uses:**
-  - Used in food preservation and seasoning.
-  - Essential in various chemical processes and crafting recipes.
-  - Can be employed in curing hides and preserving materials.
-
----
-
-**7. Potassium Nitrate (KNO₃)**
-- **Uses:**
-  - Key ingredient in fertilizers to enhance plant growth.
-  - Used in crafting recipes like gunpowder for explosives.
-  - Can be involved in food preservation techniques.
-
----
-
-**8. Copper Sulfate (CuSO₄)**
-- **Uses:**
-  - Employed in crafting fungicides and pesticides.
-  - Used in chemical processes and as a mordant in dyeing.
-     - Can be part of advanced crafting and alchemy recipes.
+9. **Phosphoric Acid (H₃PO₄)**
+  - **Uses:**
+    - Essential in producing fertilizers.
+    - Used in various industrial and crafting processes.
+    - Can be involved in rust removal and metal treatment.
 
 ---
 
-**9. Phosphoric Acid (H₃PO₄)**
-- **Uses:**
-  - Essential in producing fertilizers.
-  - Used in various industrial and crafting processes.
-  - Can be involved in rust removal and metal treatment.
+### Alloy Compounds
 
----
+Alloys are combinations of metals that result in materials with enhanced properties, crucial for advanced crafting and construction.
 
-## Alloy Compounds
-
-Alloys are combinations of metals that result in materials with enhanced properties, crucial for advanced crafting and construction. Expanding the selection of alloys in your game enriches the crafting system and provides players with more options for creating specialized tools, weapons, and items. Below are additional common alloys that can be integrated into your game, all derived from the **Simplified Elemental System**.
-
----
-
-**1. Brass (CuZn)**
+1. **Brass (CuZn)**
 
 - **Composition:** Alloy of copper (Cu) and zinc (Zn).
 - **Uses:**
@@ -317,9 +279,7 @@ Alloys are combinations of metals that result in materials with enhanced propert
   - **Machinability and workability.**
     - Easy to cast and shape, allowing for intricate designs and detailed craftsmanship.
 
----
-
-**2. Pewter (SnPb)**
+2. **Pewter (SnPb)**
 
 - **Composition:** Alloy of tin (Sn) and lead (Pb).
 - **Uses:**
@@ -330,9 +290,7 @@ Alloys are combinations of metals that result in materials with enhanced propert
   - **Affordable alternative to silver.**
     - Provides a lustrous appearance similar to silver at a lower cost.
 
----
-
-**3. Cast Iron (FeC)**
+3. **Cast Iron (FeC)**
 
 - **Composition:** Alloy of iron (Fe) with a higher carbon content (2-4%) than steel.
 - **Uses:**
@@ -343,9 +301,8 @@ Alloys are combinations of metals that result in materials with enhanced propert
   - **Resistance to deformation.**
     - Provides durability for items subjected to heavy use.
 
----
 
-**4. Solder (SnPb)**
+4. **Solder (SnPb)**
 
 - **Composition:** Alloy of tin (Sn) and lead (Pb) in varying proportions.
 - **Uses:**
@@ -356,9 +313,7 @@ Alloys are combinations of metals that result in materials with enhanced propert
   - **Electrical applications.**
     - Provides conductive joints in electrical components and circuitry.
 
----
-
-**5. Sterling Silver (AgCu)**
+5. **Sterling Silver (AgCu)**
 
 - **Composition:** Alloy of silver (Ag) (92.5%) and copper (Cu) (7.5%).
 - **Uses:**
@@ -369,9 +324,7 @@ Alloys are combinations of metals that result in materials with enhanced propert
   - **Antimicrobial properties.**
     - Suitable for crafting medical instruments and containers for perishables.
 
----
-
-**6. Electrum (AuAg)**
+6. **Electrum (AuAg)**
 
 - **Composition:** Natural alloy of gold (Au) and silver (Ag).
 - **Uses:**
@@ -382,9 +335,7 @@ Alloys are combinations of metals that result in materials with enhanced propert
   - **Symbol of wealth and status.**
     - Can be integrated into quests or as rewards for achievements.
 
----
-
-**7. Gunmetal (CuSnZn)**
+7. **Gunmetal (CuSnZn)**
 
 - **Composition:** Alloy of copper (Cu), tin (Sn), and zinc (Zn).
 - **Uses:**
@@ -395,9 +346,7 @@ Alloys are combinations of metals that result in materials with enhanced propert
   - **Decorative items.**
     - Has a dark, lustrous appearance favored in statues and medals.
 
----
-
-**8. Nickel Silver (CuNiZn)**
+8. **Nickel Silver (CuNiZn)**
 
 - **Composition:** Alloy of copper (Cu), nickel (Ni), and zinc (Zn).
 - **Uses:**
@@ -408,9 +357,7 @@ Alloys are combinations of metals that result in materials with enhanced propert
   - **Jewelry making.**
     - Provides an affordable alternative to silver with similar aesthetics.
 
----
-
-**9. Wrought Iron (Fe with Slag Inclusions)**
+9. **Wrought Iron (Fe with Slag Inclusions)**
 
 - **Composition:** Iron (Fe) with very low carbon content and fibrous slag inclusions.
 - **Uses:**
@@ -421,9 +368,7 @@ Alloys are combinations of metals that result in materials with enhanced propert
   - **Tools and hardware.**
     - Suitable for making nails, hooks, and chains.
 
----
-
-**10. White Gold (AuNi)**
+10. **White Gold (AuNi)**
 
 - **Composition:** Alloy of gold (Au) and nickel (Ni), sometimes with palladium.
 - **Uses:**
@@ -434,9 +379,7 @@ Alloys are combinations of metals that result in materials with enhanced propert
   - **Setting for gemstones.**
     - Provides a neutral backdrop that enhances the appearance of diamonds and colored stones.
 
----
-
-**11. Bronze Variations**
+11. **Bronze Variations**
 
 - **Phosphor Bronze (CuSnP)**
   - **Composition:** Copper (Cu), tin (Sn), and phosphorus (P).
@@ -453,9 +396,7 @@ Alloys are combinations of metals that result in materials with enhanced propert
     - **Coins and medals.**
       - Durable with a golden appearance.
 
----
-
-**12. Steel Variations**
+12. **Steel Variations**
 
 - **Carbon Steel (FeC)**
   - **Composition:** Iron (Fe) with varying carbon (C) content.
@@ -472,9 +413,7 @@ Alloys are combinations of metals that result in materials with enhanced propert
     - **Medical instruments and devices.**
       - Hygienic and easy to sterilize.
 
----
-
-**13. Bell Metal (CuSn)**
+13. **Bell Metal (CuSn)**
 
 - **Composition:** Alloy of copper (Cu) and tin (Sn) with a higher tin content than bronze.
 - **Uses:**
@@ -485,9 +424,7 @@ Alloys are combinations of metals that result in materials with enhanced propert
   - **Historical currency.**
     - Occasionally used in coinage due to its distinctive sound.
 
----
-
-**14. Coinage Alloys**
+14. **Coinage Alloys**
 
 - **Billon (AgCu)**
   - **Composition:** Silver (Ag) and copper (Cu) with a higher proportion of copper.
@@ -506,85 +443,67 @@ Alloys are combinations of metals that result in materials with enhanced propert
 
 ---
 
-## Biological Compounds
+### Biological Compounds
 
 In addition to inorganic compounds, voxels can contain biological chemicals crucial for plant growth, decay processes, and ecosystem dynamics. These organic compounds play significant roles in the game's environmental simulation and resource management.
 
----
+1. **Lignin**
+  - **Occurrence:** Found in wood.
+  - **Uses:**
+    - Provides rigidity and resistance to decay in plants.
+    - Can be processed into materials for crafting and construction.
+    - Influences the durability of wooden structures.
 
-**1. Lignin**
-   - **Occurrence:** Found in wood.
-   - **Uses:**
-     - Provides rigidity and resistance to decay in plants.
-     - Can be processed into materials for crafting and construction.
-     - Influences the durability of wooden structures.
+2. **Cellulose**
+  - **Occurrence:** Found in plant cell walls.
+  - **Uses:**
+    - Provides structural support to plants.
+    - Can be used to produce paper, textiles, and other materials.
+    - Involved in crafting items like ropes and fabrics.
 
----
-
-**2. Cellulose**
-   - **Occurrence:** Found in plant cell walls.
-   - **Uses:**
-     - Provides structural support to plants.
-     - Can be used to produce paper, textiles, and other materials.
-     - Involved in crafting items like ropes and fabrics.
-
----
-
-**3. Chlorophyll**
+3. **Chlorophyll**
    - **Occurrence:** Green pigment in plants.
    - **Uses:**
      - Essential for photosynthesis.
      - May be used in crafting dyes and pigments.
      - Could have alchemical properties in gameplay.
 
----
-
-**4. Resin**
+4. **Resin**
    - **Occurrence:** Produced by plants, especially conifers.
    - **Uses:**
      - Used in crafting adhesives, varnishes, and sealants.
      - Essential for creating torches and flammable materials.
      - Can be a component in medicinal or alchemical recipes.
 
----
-
-**5. Nectar**
+5. **Nectar**
    - **Occurrence:** Produced by flowers.
    - **Uses:**
      - Attracts pollinators, influencing plant reproduction.
      - Can be collected to produce sweeteners or fermented beverages.
      - May have applications in alchemy and potion-making.
 
----
-
-**6. Pollen**
+6. **Pollen**
    - **Occurrence:** Produced by plants for reproduction.
    - **Uses:**
      - Can affect allergies in characters, adding gameplay dynamics.
      - Used in crafting and alchemy, possibly as a reagent.
      - Influences plant breeding and agriculture mechanics.
 
----
-
-**7. Humus**
+7. **Humus**
    - **Occurrence:** Organic component of soil.
    - **Uses:**
      - Enhances soil fertility, crucial for agriculture.
      - Affects plant growth rates and crop yields.
      - Can be transported or cultivated by players for farming.
 
----
-
-**8. Wax**
+8. **Wax**
    - **Occurrence:** Produced by plants and insects (e.g., bees).
    - **Uses:**
      - Used in crafting candles, polishes, and waterproofing materials.
      - Essential for creating molds in metal casting.
      - Can be a component in healing salves or protective coatings.
 
----
-
-**9. Oils**
+9. **Oils**
    - **Occurrence:** Found in seeds and fruits.
    - **Uses:**
      - Used in cooking, crafting, and as fuel for lamps.
@@ -593,7 +512,7 @@ In addition to inorganic compounds, voxels can contain biological chemicals cruc
 
 ---
 
-### **Integration into Gameplay**
+#### **Integration into Gameplay**
 
 - **Expanded Crafting Options:**
   - Players can experiment with different alloys to create items with specific properties, such as increased durability, corrosion resistance, or aesthetic appeal.
@@ -606,43 +525,37 @@ In addition to inorganic compounds, voxels can contain biological chemicals cruc
 - **Quest and Story Integration:**
   - Rare alloys or items made from them can be tied to quests, legendary items, or faction-specific equipment.
 
-## Mineral Compounds
+---
+
+### Mineral Compounds
 
 For each mineral, we provide its composition, the element that can be extracted from it, and its uses in the game.
-
----
 
 1. **Halite (NaCl)**
 
 - **Composition:** Sodium Chloride (common salt).
-- **Extracted Element:** [**Sodium (Na)**](https://github.com/elide-us/ClayEngineOSS/wiki/II.-Simplified-Periodic-Table#group-1-alkali-metals-1-valence-electron)
+- **Extracted Element:** **Sodium (Na)**
 - **Uses:**
   - Used in food preservation, seasoning, and chemical processes.
   - Essential for crafting items like glass and for tanning hides.
   - Source of chlorine for crafting disinfectants and bleaching agents (though chlorine is not assigned a unique mineral here).
 
----
-
 2. **Sylvite (KCl)**
 
 - **Composition:** Potassium Chloride.
-- **Extracted Element:** [**Potassium (K)**](https://github.com/elide-us/ClayEngineOSS/wiki/II.-Simplified-Periodic-Table#group-1-alkali-metals-1-valence-electron)
+- **Extracted Element:** **Potassium (K)**
 - **Uses:**
   - Key ingredient in fertilizers to enhance plant growth.
   - Used in crafting certain chemical compounds and alchemical recipes.
 
----
-
 3. **Calcite (CaCO₃)**
 
 - **Composition:** Calcium Carbonate.
-- **Extracted Element:** [**Calcium (Ca)**](https://github.com/elide-us/ClayEngineOSS/wiki/II.-Simplified-Periodic-Table#group-2-alkaline-earth-metals-2-valence-electrons)
+- **Extracted Element:** **Calcium (Ca)**
 - **Uses:**
   - Primary material for construction (cement, mortar, concrete).
   - Used in agriculture to adjust soil pH and improve fertility.
   - Found in limestone and marble, useful for building and crafting.
-
----
 
 4. **Ilmenite (FeTiO₃)**
 
@@ -653,8 +566,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Important for creating high-strength alloys.
   - Used in specialized equipment and machinery.
 
----
-
 5. **Chromite (FeCr₂O₄)**
 
 - **Composition:** Iron Chromium Oxide.
@@ -663,8 +574,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Used in crafting stainless steel and corrosion-resistant materials.
   - Enhances durability of tools and weapons.
   - Important for metal plating and finishes.
-
----
 
 6. **Hematite (Fe₂O₃)**
 
@@ -675,8 +584,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Abundant and essential for early-game progression.
   - Used in creating steel when combined with carbon.
 
----
-
 7. **Linnaeite (Co₃S₄)**
 
 - **Composition:** Cobalt Sulfide.
@@ -685,8 +592,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Used in crafting magnets and advanced alloys.
   - Important for high-tech equipment and weaponry.
   - Adds strength and durability to metal products.
-
----
 
 8. **Millerite (NiS)**
 
@@ -697,8 +602,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Used in coinage and specialty alloys.
   - Enhances corrosion resistance in metal items.
 
----
-
 9. **Chalcopyrite (CuFeS₂)**
 
 - **Composition:** Copper Iron Sulfide.
@@ -707,8 +610,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Used in electrical components, tools, and construction.
   - Fundamental for creating bronze when alloyed with tin.
   - Important for wiring and conductive materials.
-
----
 
 10. **Sphalerite (ZnS)**
 
@@ -719,8 +620,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Essential for crafting brass when combined with copper.
   - Important in creating alloys and metal treatments.
 
----
-
 11. **Argentite (Ag₂S)**
 
 - **Composition:** Silver Sulfide.
@@ -729,8 +628,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Valuable for currency, jewelry, and high-end crafting.
   - Used in decorative items and ceremonial objects.
   - Essential for electrical components due to high conductivity.
-
----
 
 12. **Native Platinum (Pt)**
 
@@ -741,8 +638,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Extremely rare and valuable.
   - Integral in catalytic processes and specialized equipment.
 
----
-
 13. **Native Gold (Au)**
 
 - **Composition:** Pure Gold.
@@ -751,8 +646,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Used for currency, jewelry, and crafting prestigious items.
   - Sought after for trade and wealth accumulation.
   - Utilized in high-end electronic components.
-
----
 
 14. **Uraninite (UO₂)**
 
@@ -763,8 +656,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Could be part of high-level quests or powerful artifacts.
   - Potential for crafting unique items with special properties.
 
----
-
 15. **Bauxite (Al(OH)₃)**
 
 - **Composition:** Hydrated Aluminum Oxide.
@@ -773,8 +664,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Lightweight metal for crafting and construction.
   - Used in making utensils, building materials, and certain alloys.
   - Important for transportation devices and structures.
-
----
 
 16. **Coal (C)**
 
@@ -785,8 +674,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Can be processed into graphite for specialized crafting.
   - Essential in steel production when combined with iron.
 
----
-
 17. **Quartz (SiO₂)**
 
 - **Composition:** Silicon Dioxide.
@@ -795,8 +682,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Essential for crafting glass, ceramics, and silicon-based components.
   - Abundant in sand and rock formations.
   - Used in creating molds and high-temperature materials.
-
----
 
 18. **Cassiterite (SnO₂)**
 
@@ -807,8 +692,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Important for making pewter and soldering materials.
   - Utilized in coating and plating processes.
 
----
-
 19. **Galena (PbS)**
 
 - **Composition:** Lead Sulfide.
@@ -817,8 +700,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Used in crafting batteries, pipes, and radiation shielding.
   - Can be employed in creating weights and ammunition.
   - Important for protective equipment and infrastructure.
-
----
 
 20. **Saltpeter (KNO₃)**
 
@@ -829,8 +710,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Key ingredient in crafting gunpowder for explosives.
   - Used in food preservation techniques.
 
----
-
 21. **Apatite (Ca₅(PO₄)₃(F,Cl,OH))**
 
 - **Composition:** Calcium Phosphate.
@@ -839,8 +718,6 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Vital for crafting fertilizers to improve soil fertility.
   - Used in creating certain alloys and chemical compounds.
   - Important for agricultural development.
-
----
 
 22. **Native Sulfur (S₈)**
 
@@ -851,13 +728,9 @@ For each mineral, we provide its composition, the element that can be extracted 
   - Important for vulcanizing rubber and in alchemy.
   - Essential for various chemical processes.
 
----
-
-## Useful Compounds
+### Useful Compounds
 
 These minerals were widely known and utilized, serving as fundamental resources for various applications in crafting, building, and technology.
-
----
 
 1. **Flint (SiO₂)**
 
@@ -867,8 +740,6 @@ These minerals were widely known and utilized, serving as fundamental resources 
   - Essential for creating sparks in fire-starting kits.
   - Important for survival and hunting equipment.
 
----
-
 2. **Gypsum (CaSO₄·2H₂O)**
 
 - **Composition:** Calcium Sulfate Dihydrate.
@@ -876,8 +747,6 @@ These minerals were widely known and utilized, serving as fundamental resources 
   - Used in plaster for construction and artistic works.
   - Employed in soil conditioning for agriculture.
   - Utilized in crafting molds and casts.
-
----
 
 3. **Slate**
 
@@ -887,8 +756,6 @@ These minerals were widely known and utilized, serving as fundamental resources 
   - Employed in writing tablets and blackboards.
   - Important for construction and educational tools.
 
----
-
 4. **Limestone (CaCO₃)**
 
 - **Composition:** Calcium Carbonate.
@@ -896,8 +763,6 @@ These minerals were widely known and utilized, serving as fundamental resources 
   - Widely used in building construction and road-making.
   - Essential for producing lime for mortar and cement.
   - Utilized in sculpting and decorative architecture.
-
----
 
 5. **Sandstone**
 
@@ -907,8 +772,6 @@ These minerals were widely known and utilized, serving as fundamental resources 
   - Can be carved into statues and architectural details.
   - Important for structural and aesthetic purposes.
 
----
-
 6. **Obsidian**
 
 - **Composition:** Volcanic Glass rich in Silica.
@@ -916,8 +779,6 @@ These minerals were widely known and utilized, serving as fundamental resources 
   - Used to craft sharp blades and arrowheads.
   - Valued for its aesthetic appeal in decorative items.
   - Integral in crafting high-quality cutting tools.
-
----
 
 7. **Granite**
 
@@ -927,8 +788,6 @@ These minerals were widely known and utilized, serving as fundamental resources 
   - Known for its durability and strength.
   - Important for large-scale building projects.
 
----
-
 8. **Clay (Al₂Si₂O₅(OH)₄)**
 
 - **Composition:** Hydrated Aluminum Silicate.
@@ -936,8 +795,6 @@ These minerals were widely known and utilized, serving as fundamental resources 
   - Essential for pottery, bricks, and ceramics.
   - Used in crafting containers, tiles, and art pieces.
   - Fundamental for early settlement development.
-
----
 
 9. **Charcoal (C)**
 
@@ -947,8 +804,6 @@ These minerals were widely known and utilized, serving as fundamental resources 
   - Employed in blacksmithing and gunpowder production.
   - Important for metallurgical processes.
 
----
-
 10. **Saltpeter (KNO₃)**
 
 - **Composition:** Potassium Nitrate.
@@ -956,8 +811,6 @@ These minerals were widely known and utilized, serving as fundamental resources 
   - Used in gunpowder, fertilizers, and food preservation.
   - Essential for military applications and agriculture.
   - Integral in crafting explosives and enhancing crops.
-
----
 
 11. **Graphite (C)**
 
@@ -967,8 +820,6 @@ These minerals were widely known and utilized, serving as fundamental resources 
   - Essential for creating electrodes and battery components.
   - Can be processed into diamonds under high-pressure conditions.
 
----
-
 12. **Feldspar (KAlSi₃O₈, NaAlSi₃O₈)**
 
 - **Composition:** Potassium or sodium aluminum silicate.
@@ -977,11 +828,9 @@ These minerals were widely known and utilized, serving as fundamental resources 
   - Used in crafting glass, ceramics, and glazes.
   - Essential for making pottery and decorative items.
 
-## Gemstone Compounds
+### Gemstone Compounds
 
 Gemstones add value and variety to the game, providing opportunities for trade, crafting, and quests. Below are some common gemstones available within the Simplified Elemental System.
-
----
 
 1. **Diamond (C)**
 
@@ -991,8 +840,6 @@ Gemstones add value and variety to the game, providing opportunities for trade, 
   - Valued for jewelry and high-end trade items.
   - Rare and highly sought after, encouraging deep mining.
 
----
-
 2. **Emerald (Simplified as Green Beryl)**
 
 - **Composition:** For gameplay purposes, can be considered a variety of Quartz (SiO₂) colored by trace elements.
@@ -1000,8 +847,6 @@ Gemstones add value and variety to the game, providing opportunities for trade, 
   - Used in crafting jewelry and ornamental items.
   - Can be part of quests or magical artifacts.
   - Valued for its vibrant green color.
-
----
 
 3. **Ruby (Simplified as Red Corundum)**
 
@@ -1011,8 +856,6 @@ Gemstones add value and variety to the game, providing opportunities for trade, 
   - Used in crafting decorative items and ceremonial objects.
   - Could be associated with magical properties.
 
----
-
 4. **Sapphire (Al₂O₃)**
 
 - **Composition:** Aluminum Oxide.
@@ -1020,8 +863,6 @@ Gemstones add value and variety to the game, providing opportunities for trade, 
   - Used in jewelry and high-end crafting.
   - Available in various colors depending on impurities.
   - May be linked to quests or special abilities.
-
----
 
 5. **Amethyst (SiO₂)**
 
@@ -1031,8 +872,6 @@ Gemstones add value and variety to the game, providing opportunities for trade, 
   - Can be found in geodes or special rock formations.
   - Valued for its aesthetic appeal.
 
----
-
 6. **Topaz (Simplified as Colored Quartz)**
 
 - **Composition:** For gameplay, can be considered a colored form of Quartz.
@@ -1040,8 +879,6 @@ Gemstones add value and variety to the game, providing opportunities for trade, 
   - Used in crafting and as a trade commodity.
   - Valued for its range of colors and clarity.
   - Enhances the variety of gemstones available.
-
----
 
 7. **Opal (SiO₂·nH₂O)**
 
@@ -1051,8 +888,6 @@ Gemstones add value and variety to the game, providing opportunities for trade, 
   - Used in crafting unique jewelry pieces.
   - May be associated with luck or special in-game effects.
 
----
-
 8. **Garnet (Simplified as Silicate Mineral)**
 
 - **Composition:** Silicate Minerals with various elements.
@@ -1061,8 +896,6 @@ Gemstones add value and variety to the game, providing opportunities for trade, 
   - Valued for its deep red color in jewelry.
   - Adds diversity to gemstone options.
 
----
-
 9. **Pearl (CaCO₃)**
 
 - **Composition:** Calcium Carbonate layers produced by mollusks.
@@ -1070,8 +903,6 @@ Gemstones add value and variety to the game, providing opportunities for trade, 
   - Used in crafting jewelry and decorative items.
   - Can be harvested from oysters or found in treasure chests.
   - Symbolizes wealth and rarity.
-
----
 
 10. **Turquoise (Simplified as Copper Mineral)**
 
@@ -1083,7 +914,7 @@ Gemstones add value and variety to the game, providing opportunities for trade, 
 
 ---
 
-### Integration into Gameplay
+#### Integration into Gameplay
 
 - **Resource Exploration:** Players are encouraged to explore various biomes and geological formations to find these minerals and gemstones.
 - **Crafting and Trade:** Minerals and gemstones enhance crafting possibilities, allowing for the creation of unique items, weapons, and armor.
@@ -1091,12 +922,12 @@ Gemstones add value and variety to the game, providing opportunities for trade, 
 - **Environmental Interaction:** Minerals influence terrain features, such as mountain ranges rich in ores or deserts abundant in quartz sand.
 - **Educational Aspect:** Players learn about historical uses of minerals and gemstones, enriching their gaming experience.
 
-### Notes on Mineral Availability
+#### Notes on Mineral Availability
 
 - **Exotic Elements:** While some minerals in reality contain elements not present in the Simplified Elemental System, the selected minerals are derived using only the included elements.
 - **Substitutions and Simplifications:** For gameplay purposes, certain minerals may be simplified or adjusted to fit within the elemental constraints while maintaining their essential characteristics.
 
-# Overview
+## Materia Transformations and Interactions
 
 Material transformation and interactions are fundamental to creating a realistic and dynamic world. The combination of elements and compounds within voxels leads to the formation of specific materials, influenced by environmental factors such as pressure, temperature, and chemical reactions. This section explores how these transformations occur and how they integrate with gameplay mechanics, all within the context of the **Simplified Elemental System**.
 
