@@ -11,53 +11,53 @@
 The **Simplified Elemental System** serves as the foundational mechanism for simulating material properties, crafting resources, and driving environmental interactions within the voxel-based world of our MMORPG. This system is meticulously designed to enhance realism and player engagement by:
 
 1. **Providing a Foundation for Material Properties, Crafting, and Environmental Interactions:**
-  - Establishing a core framework that simulates the physical and chemical properties of materials.
-  - Enabling a diverse range of crafting possibilities and resource management strategies.
-  - Driving environmental interactions that affect gameplay and world dynamics.
+    - Establishing a core framework that simulates the physical and chemical properties of materials.
+    - Enabling a diverse range of crafting possibilities and resource management strategies.
+    - Driving environmental interactions that affect gameplay and world dynamics.
 
 2. **Facilitating Environmental Processes:**
-  - Simulating natural phenomena such as erosion, sedimentation, and material transformation.
-  - Shaping the landscape in a dynamic way, influencing resource distribution and availability.
-  - Allowing players to witness and interact with a living world that responds to both natural forces and player actions.
+    - Simulating natural phenomena such as erosion, sedimentation, and material transformation.
+    - Shaping the landscape in a dynamic way, influencing resource distribution and availability.
+    - Allowing players to witness and interact with a living world that responds to both natural forces and player actions.
 
 3. **Acting as Interactive Building Blocks for Gameplay Mechanics:**
-  - Treating each voxel as a dynamic container holding one or more elements.
-  - Allowing the contents of a voxel to be manipulated through mining, building, or environmental forces.
-  - Enabling voxels to respond to player actions and natural events, leading to extraction, concentration, compression, and erosion of elements within them.
+    - Treating each voxel as a dynamic container holding one or more elements.
+    - Allowing the contents of a voxel to be manipulated through mining, building, or environmental forces.
+    - Enabling voxels to respond to player actions and natural events, leading to extraction, concentration, compression, and erosion of elements within them.
 
 4. **Creating a Realistic and Engaging World Simulation:**
-  - Enhancing player immersion by simulating realistic environmental and geological processes.
-  - Encouraging exploration and strategic resource management.
-  - Providing a responsive environment where player decisions have tangible effects on the world.
+    - Enhancing player immersion by simulating realistic environmental and geological processes.
+    - Encouraging exploration and strategic resource management.
+    - Providing a responsive environment where player decisions have tangible effects on the world.
 
 5. **Streamlining Gameplay and Simulation:**
-  - Selecting key elements based on essential transformation pathways and biological processes.
-  - Focusing on elements that facilitate realistic simulations of erosion, sediment distribution, and plant growth.
-  - Simplifying the elemental system to balance complexity with accessibility for players.
+    - Selecting key elements based on essential transformation pathways and biological processes.
+    - Focusing on elements that facilitate realistic simulations of erosion, sediment distribution, and plant growth.
+    - Simplifying the elemental system to balance complexity with accessibility for players.
 
 ## Simplified Periodic Table
 
 ### **Group 1-2:**
 
 1. **Hydrogen (H)**
-  - **Atomic Number:** 1
-  - **Valence Electrons:** 1
-  - **Uses:** Fundamental for water formation and energy production.
+    - **Atomic Number:** 1
+    - **Valence Electrons:** 1
+    - **Uses:** Fundamental for water formation and energy production.
 
 2. **Sodium (Na)**
-  - **Atomic Number:** 11
-  - **Valence Electrons:** 1
-  - **Uses:** Crucial for salt production and glassmaking.
+    - **Atomic Number:** 11
+    - **Valence Electrons:** 1
+    - **Uses:** Crucial for salt production and glassmaking.
 
 3. **Potassium (K)**
-  - **Atomic Number:** 19
-  - **Valence Electrons:** 1
-  - **Uses:** Key component in fertilizers for plant growth.
+    - **Atomic Number:** 19
+    - **Valence Electrons:** 1
+    - **Uses:** Key component in fertilizers for plant growth.
 
 4. **Calcium (Ca)**
-  - **Atomic Number:** 20
-  - **Valence Electrons:** 2
-  - **Uses:** Essential for making limestone, cement, and mortar.
+    - **Atomic Number:** 20
+    - **Valence Electrons:** 2
+    - **Uses:** Essential for making limestone, cement, and mortar.
 
 ---
 
