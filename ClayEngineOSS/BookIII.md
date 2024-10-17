@@ -64,118 +64,118 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 ### **Group 3-12: Transition Metals**
 
 5. **Titanium (Ti)**
-  - **Atomic Number:** 22
-  - **Valence Electrons:** 4
-  - **Uses:** Ideal for advanced tools and armor due to its strength and light weight.
+    - **Atomic Number:** 22
+    - **Valence Electrons:** 4
+    - **Uses:** Ideal for advanced tools and armor due to its strength and light weight.
 
 6. **Chromium (Cr)**
-  - **Atomic Number:** 24
-  - **Valence Electrons:** 6
-  - **Uses:** Used in stainless steel and metal plating.
+    - **Atomic Number:** 24
+    - **Valence Electrons:** 6
+    - **Uses:** Used in stainless steel and metal plating.
 
 7. **Iron (Fe)**
-  - **Atomic Number:** 26
-  - **Valence Electrons:** 2
-  - **Uses:** Fundamental for tools, weapons, and construction materials.
+    - **Atomic Number:** 26
+    - **Valence Electrons:** 2
+    - **Uses:** Fundamental for tools, weapons, and construction materials.
 
 8. **Cobalt (Co)**
-  - **Atomic Number:** 27
-  - **Valence Electrons:** 2
-  - **Uses:** Essential for magnets and advanced alloys.
+    - **Atomic Number:** 27
+    - **Valence Electrons:** 2
+    - **Uses:** Essential for magnets and advanced alloys.
 
 9. **Nickel (Ni)**
-  - **Atomic Number:** 28
-  - **Valence Electrons:** 2
-  - **Uses:** Used in stainless steel and advanced crafting.
+    - **Atomic Number:** 28
+    - **Valence Electrons:** 2
+    - **Uses:** Used in stainless steel and advanced crafting.
 
 10. **Copper (Cu)**
-  - **Atomic Number:** 29
-  - **Valence Electrons:** 1
-  - **Uses:** Used in electrical components, tools, and construction.
+    - **Atomic Number:** 29
+    - **Valence Electrons:** 1
+    - **Uses:** Used in electrical components, tools, and construction.
 
 11. **Zinc (Zn)**
-  - **Atomic Number:** 30
-  - **Valence Electrons:** 2
-  - **Uses:** Important for galvanization and brass alloy crafting.
+    - **Atomic Number:** 30
+    - **Valence Electrons:** 2
+    - **Uses:** Important for galvanization and brass alloy crafting.
 
 12. **Silver (Ag)**
-  - **Atomic Number:** 47
-  - **Valence Electrons:** 1
-  - **Uses:** Valuable for currency, jewelry, and electronics.
+    - **Atomic Number:** 47
+    - **Valence Electrons:** 1
+    - **Uses:** Valuable for currency, jewelry, and electronics.
 
 13. **Platinum (Pt)**
-  - **Atomic Number:** 78
-  - **Valence Electrons:** 1
-  - **Uses:** Used in advanced technology and high-end crafting.
+    - **Atomic Number:** 78
+    - **Valence Electrons:** 1
+    - **Uses:** Used in advanced technology and high-end crafting.
 
 14. **Gold (Au)**
-  - **Atomic Number:** 79
-  - **Valence Electrons:** 1
-  - **Uses:** Rare metal for high-end crafting and electronics.
+    - **Atomic Number:** 79
+    - **Valence Electrons:** 1
+    - **Uses:** Rare metal for high-end crafting and electronics.
 
 15. **Uranium (U)**
-  - **Atomic Number:** 92
-  - **Valence Electrons:** 6
-  - **Uses:** Rare element used for advanced technology or as an energy source.
+    - **Atomic Number:** 92
+    - **Valence Electrons:** 6
+    - **Uses:** Rare element used for advanced technology or as an energy source.
 
 ---
 
 ### **Group 13-18:**
 
 16. **Aluminum (Al)**
-  - **Atomic Number:** 13
-  - **Valence Electrons:** 3
-  - **Uses:** Lightweight metal crucial for crafting and construction.
+    - **Atomic Number:** 13
+    - **Valence Electrons:** 3
+    - **Uses:** Lightweight metal crucial for crafting and construction.
 
 17. **Carbon (C)**
-  - **Atomic Number:** 6
-  - **Valence Electrons:** 4
-  - **Uses:** Foundation of organic materials, coal, and diamonds.
+    - **Atomic Number:** 6
+    - **Valence Electrons:** 4
+    - **Uses:** Foundation of organic materials, coal, and diamonds.
 
 18. **Silicon (Si)**
-  - **Atomic Number:** 14
-  - **Valence Electrons:** 4
-  - **Uses:** Central to rocks, sand, glass, and ceramics.
+    - **Atomic Number:** 14
+    - **Valence Electrons:** 4
+    - **Uses:** Central to rocks, sand, glass, and ceramics.
 
 19. **Tin (Sn)**
-  - **Atomic Number:** 50
-  - **Valence Electrons:** 4
-  - **Uses:** Used in bronze alloys and various crafting applications.
+    - **Atomic Number:** 50
+    - **Valence Electrons:** 4
+    - **Uses:** Used in bronze alloys and various crafting applications.
 
 20. **Lead (Pb)**
-  - **Atomic Number:** 82
-  - **Valence Electrons:** 4
-  - **Uses:** Heavy metal used for radiation shielding and batteries.
+    - **Atomic Number:** 82
+    - **Valence Electrons:** 4
+    - **Uses:** Heavy metal used for radiation shielding and batteries.
 
 21. **Nitrogen (N)**
-  - **Atomic Number:** 7
-  - **Valence Electrons:** 5
-  - **Uses:** Vital for fertilizers and plant growth.
+    - **Atomic Number:** 7
+    - **Valence Electrons:** 5
+    - **Uses:** Vital for fertilizers and plant growth.
 
 22.  **Phosphorus (P)**
-  - **Atomic Number:** 15
-  - **Valence Electrons:** 5
-  - **Uses:** Important for fertilizers and energy production.
+    - **Atomic Number:** 15
+    - **Valence Electrons:** 5
+    - **Uses:** Important for fertilizers and energy production.
 
 23. **Oxygen (O)**
-  - **Atomic Number:** 8
-  - **Valence Electrons:** 6
-  - **Uses:** Essential for combustion, oxidation, and water formation.
+    - **Atomic Number:** 8
+    - **Valence Electrons:** 6
+    - **Uses:** Essential for combustion, oxidation, and water formation.
 
 24. **Sulfur (S)**
-  - **Atomic Number:** 16
-  - **Valence Electrons:** 6
-  - **Uses:** Used in crafting and various chemical reactions.
+    - **Atomic Number:** 16
+    - **Valence Electrons:** 6
+    - **Uses:** Used in crafting and various chemical reactions.
 
 25. **Chlorine (Cl)**
-  - **Atomic Number:** 17
-  - **Valence Electrons:** 7
-  - **Uses:** Used in chemical synthesis and biological functions.
+    - **Atomic Number:** 17
+    - **Valence Electrons:** 7
+    - **Uses:** Used in chemical synthesis and biological functions.
 
 26. **Helium (He)**
-  - **Atomic Number:**
-  - **Valence Electrons:** 
-  - **Uses:** Used to make people laugh and make other stuff float.
+    - **Atomic Number:**
+    - **Valence Electrons:** 
+    - **Uses:** Used to make people laugh and make other stuff float.
   
   --- 
 
@@ -202,64 +202,64 @@ Elements combine within voxels to form compounds that represent different materi
 ### Common Compounds
 
 1. **Water (H₂O)**
-  - **Formation:** Composed of hydrogen and oxygen.
-  - **Uses:**
-    - Essential for plant growth and biological functions.
-    - Plays a critical role in erosion processes and sediment transport.
-    - Used in crafting recipes and alchemical processes.
+    - **Formation:** Composed of hydrogen and oxygen.
+    - **Uses:**
+      - Essential for plant growth and biological functions.
+      - Plays a critical role in erosion processes and sediment transport.
+      - Used in crafting recipes and alchemical processes.
 
 2. **Carbon Dioxide (CO₂)**
-  - **Formation:** Composed of carbon and oxygen.
-  - **Uses:**
-    - Vital for plant photosynthesis.
-    - Influences environmental processes and atmospheric dynamics.
-    - Can be involved in crafting and chemical reactions.
+    - **Formation:** Composed of carbon and oxygen.
+    - **Uses:**
+      - Vital for plant photosynthesis.
+      - Influences environmental processes and atmospheric dynamics.
+      - Can be involved in crafting and chemical reactions.
 
 3. **Silicon Dioxide (SiO₂)**
-  - **Occurrence:** Found in quartz, sand, and glass.
-  - **Uses:**
-    - Fundamental material for crafting glass and ceramics.
-    - Used in building structures and as a raw material for advanced items.
-    - Integral in creating molds and casting components.
+    - **Occurrence:** Found in quartz, sand, and glass.
+    - **Uses:**
+      - Fundamental material for crafting glass and ceramics.
+      - Used in building structures and as a raw material for advanced items.
+      - Integral in creating molds and casting components.
 
 4. **Calcium Carbonate (CaCO₃)**
-  - **Occurrence:** Found in limestone, marble, and chalk.
-  - **Uses:**
-    - Essential for construction materials like cement and mortar.
-    - Used in crafting decorative items and sculptures.
-    - Influences soil pH and can affect plant growth.
+    - **Occurrence:** Found in limestone, marble, and chalk.
+    - **Uses:**
+      - Essential for construction materials like cement and mortar.
+      - Used in crafting decorative items and sculptures.
+      - Influences soil pH and can affect plant growth.
 
 5. **Iron Oxide (Fe₂O₃)**
-  - **Occurrence:** Found in rust and iron ores.
-  - **Uses:**
-    - Used for coloring materials and crafting pigments.
-    - Important in crafting tools, weapons, and building materials.
-    - Can indicate the presence of iron deposits for mining.
+    - **Occurrence:** Found in rust and iron ores.
+    - **Uses:**
+      - Used for coloring materials and crafting pigments.
+      - Important in crafting tools, weapons, and building materials.
+      - Can indicate the presence of iron deposits for mining.
 
 6. **Sodium Chloride (NaCl)**
-  - **Common Name:** Salt.
-  - **Uses:**
-    - Used in food preservation and seasoning.
-    - Essential in various chemical processes and crafting recipes.
-    - Can be employed in curing hides and preserving materials.
+    - **Common Name:** Salt.
+    - **Uses:**
+      - Used in food preservation and seasoning.
+      - Essential in various chemical processes and crafting recipes.
+      - Can be employed in curing hides and preserving materials.
 
 7. **Potassium Nitrate (KNO₃)**
-  - **Uses:**
-    - Key ingredient in fertilizers to enhance plant growth.
-    - Used in crafting recipes like gunpowder for explosives.
-    - Can be involved in food preservation techniques.
+    - **Uses:**
+      - Key ingredient in fertilizers to enhance plant growth.
+      - Used in crafting recipes like gunpowder for explosives.
+      - Can be involved in food preservation techniques.
 
 8. **Copper Sulfate (CuSO₄)**
-  - **Uses:**
-    - Employed in crafting fungicides and pesticides.
-    - Used in chemical processes and as a mordant in dyeing.
-    - Can be part of advanced crafting and alchemy recipes.
+    - **Uses:**
+      - Employed in crafting fungicides and pesticides.
+      - Used in chemical processes and as a mordant in dyeing.
+      - Can be part of advanced crafting and alchemy recipes.
 
 9. **Phosphoric Acid (H₃PO₄)**
-  - **Uses:**
-    - Essential in producing fertilizers.
-    - Used in various industrial and crafting processes.
-    - Can be involved in rust removal and metal treatment.
+    - **Uses:**
+      - Essential in producing fertilizers.
+      - Used in various industrial and crafting processes.
+      - Can be involved in rust removal and metal treatment.
 
 ---
 
@@ -268,178 +268,164 @@ Elements combine within voxels to form compounds that represent different materi
 Alloys are combinations of metals that result in materials with enhanced properties, crucial for advanced crafting and construction.
 
 1. **Brass (CuZn)**
-
-- **Composition:** Alloy of copper (Cu) and zinc (Zn).
-- **Uses:**
-  - **Crafting musical instruments, decorative items, and fittings.**
-    - Brass is valued for its acoustic properties, making it ideal for trumpets, horns, and other instruments.
-    - Its gold-like appearance is popular for ornamental purposes, such as door handles, candlesticks, and jewelry.
-  - **Resistance to corrosion.**
-    - Brass is more resistant to tarnishing than pure copper, enhancing the durability of crafted items.
-  - **Machinability and workability.**
-    - Easy to cast and shape, allowing for intricate designs and detailed craftsmanship.
+  - **Composition:** Alloy of copper (Cu) and zinc (Zn).
+  - **Uses:**
+    - **Crafting musical instruments, decorative items, and fittings.**
+      - Brass is valued for its acoustic properties, making it ideal for trumpets, horns, and other instruments.
+      - Its gold-like appearance is popular for ornamental purposes, such as door handles, candlesticks, and jewelry.
+    - **Resistance to corrosion.**
+      - Brass is more resistant to tarnishing than pure copper, enhancing the durability of crafted items.
+    - **Machinability and workability.**
+      - Easy to cast and shape, allowing for intricate designs and detailed craftsmanship.
 
 2. **Pewter (SnPb)**
-
-- **Composition:** Alloy of tin (Sn) and lead (Pb).
-- **Uses:**
-  - **Crafting tableware, tankards, and decorative objects.**
-    - Historically significant for household items before the widespread use of porcelain and glass.
-  - **Malleability and low melting point.**
-    - Easy to cast into molds, making it suitable for intricate designs like figurines and ornaments.
-  - **Affordable alternative to silver.**
-    - Provides a lustrous appearance similar to silver at a lower cost.
+  - **Composition:** Alloy of tin (Sn) and lead (Pb).
+  - **Uses:**
+    - **Crafting tableware, tankards, and decorative objects.**
+      - Historically significant for household items before the widespread use of porcelain and glass.
+    - **Malleability and low melting point.**
+      - Easy to cast into molds, making it suitable for intricate designs like figurines and ornaments.
+    - **Affordable alternative to silver.**
+      - Provides a lustrous appearance similar to silver at a lower cost.
 
 3. **Cast Iron (FeC)**
-
-- **Composition:** Alloy of iron (Fe) with a higher carbon content (2-4%) than steel.
-- **Uses:**
-  - **Crafting cookware, pipes, and machinery parts.**
-    - Ideal for items requiring good heat retention, like skillets and stoves.
-  - **Construction of heavy-duty items and infrastructure components.**
-    - Used in building bridges, columns, and frameworks due to its compressive strength.
-  - **Resistance to deformation.**
-    - Provides durability for items subjected to heavy use.
+  - **Composition:** Alloy of iron (Fe) with a higher carbon content (2-4%) than steel.
+  - **Uses:**
+    - **Crafting cookware, pipes, and machinery parts.**
+      - Ideal for items requiring good heat retention, like skillets and stoves.
+    - **Construction of heavy-duty items and infrastructure components.**
+      - Used in building bridges, columns, and frameworks due to its compressive strength.
+    - **Resistance to deformation.**
+      - Provides durability for items subjected to heavy use.
 
 
 4. **Solder (SnPb)**
-
-- **Composition:** Alloy of tin (Sn) and lead (Pb) in varying proportions.
-- **Uses:**
-  - **Joining metal parts together, especially in tinwork and plumbing.**
-    - Essential for binding metals without damaging them due to its low melting point.
-  - **Crafting and repairing metal items.**
-    - Used in jewelry making and assembling intricate metal components.
-  - **Electrical applications.**
-    - Provides conductive joints in electrical components and circuitry.
+  - **Composition:** Alloy of tin (Sn) and lead (Pb) in varying proportions.
+  - **Uses:**
+    - **Joining metal parts together, especially in tinwork and plumbing.**
+      - Essential for binding metals without damaging them due to its low melting point.
+    - **Crafting and repairing metal items.**
+      - Used in jewelry making and assembling intricate metal components.
+    - **Electrical applications.**
+      - Provides conductive joints in electrical components and circuitry.
 
 5. **Sterling Silver (AgCu)**
-
-- **Composition:** Alloy of silver (Ag) (92.5%) and copper (Cu) (7.5%).
-- **Uses:**
-  - **Crafting high-quality jewelry, utensils, and decorative items.**
-    - Copper adds strength to silver, which is otherwise too soft for durable items.
-  - **Monetary uses and trade.**
-    - Often used in coinage and as a standard of wealth.
-  - **Antimicrobial properties.**
-    - Suitable for crafting medical instruments and containers for perishables.
+  - **Composition:** Alloy of silver (Ag) (92.5%) and copper (Cu) (7.5%).
+  - **Uses:**
+    - **Crafting high-quality jewelry, utensils, and decorative items.**
+      - Copper adds strength to silver, which is otherwise too soft for durable items.
+    - **Monetary uses and trade.**
+      - Often used in coinage and as a standard of wealth.
+    - **Antimicrobial properties.**
+      - Suitable for crafting medical instruments and containers for perishables.
 
 6. **Electrum (AuAg)**
-
-- **Composition:** Natural alloy of gold (Au) and silver (Ag).
-- **Uses:**
-  - **Historical coinage and jewelry.**
-    - Used by ancient civilizations for coins due to its durability and distinct color.
-  - **Decorative and ceremonial objects.**
-    - Valued for its pale yellow appearance and ease of workability.
-  - **Symbol of wealth and status.**
-    - Can be integrated into quests or as rewards for achievements.
+  - **Composition:** Natural alloy of gold (Au) and silver (Ag).
+  - **Uses:**
+    - **Historical coinage and jewelry.**
+      - Used by ancient civilizations for coins due to its durability and distinct color.
+    - **Decorative and ceremonial objects.**
+      - Valued for its pale yellow appearance and ease of workability.
+    - **Symbol of wealth and status.**
+      - Can be integrated into quests or as rewards for achievements.
 
 7. **Gunmetal (CuSnZn)**
-
-- **Composition:** Alloy of copper (Cu), tin (Sn), and zinc (Zn).
-- **Uses:**
-  - **Crafting cannons, guns, and machinery parts.**
-    - Offers strength and corrosion resistance vital for weaponry.
-  - **Marine applications.**
-    - Resistant to saltwater corrosion, suitable for ship fittings and propellers.
-  - **Decorative items.**
-    - Has a dark, lustrous appearance favored in statues and medals.
+  - **Composition:** Alloy of copper (Cu), tin (Sn), and zinc (Zn).
+  - **Uses:**
+    - **Crafting cannons, guns, and machinery parts.**
+      - Offers strength and corrosion resistance vital for weaponry.
+    - **Marine applications.**
+      - Resistant to saltwater corrosion, suitable for ship fittings and propellers.
+    - **Decorative items.**
+      - Has a dark, lustrous appearance favored in statues and medals.
 
 8. **Nickel Silver (CuNiZn)**
-
-- **Composition:** Alloy of copper (Cu), nickel (Ni), and zinc (Zn).
-- **Uses:**
-  - **Crafting cutlery, musical instruments, and decorative items.**
-    - Known for its silvery appearance despite containing no actual silver.
-  - **Durable and corrosion-resistant components.**
-    - Suitable for outdoor fixtures and everyday items.
-  - **Jewelry making.**
-    - Provides an affordable alternative to silver with similar aesthetics.
+  - **Composition:** Alloy of copper (Cu), nickel (Ni), and zinc (Zn).
+  - **Uses:**
+    - **Crafting cutlery, musical instruments, and decorative items.**
+      - Known for its silvery appearance despite containing no actual silver.
+    - **Durable and corrosion-resistant components.**
+      - Suitable for outdoor fixtures and everyday items.
+    - **Jewelry making.**
+      - Provides an affordable alternative to silver with similar aesthetics.
 
 9. **Wrought Iron (Fe with Slag Inclusions)**
-
-- **Composition:** Iron (Fe) with very low carbon content and fibrous slag inclusions.
-- **Uses:**
-  - **Crafting gates, railings, and decorative ironwork.**
-    - Offers ductility and toughness, allowing for intricate designs.
-  - **Historical construction material.**
-    - Used in building structures before the advent of steel.
-  - **Tools and hardware.**
-    - Suitable for making nails, hooks, and chains.
+  - **Composition:** Iron (Fe) with very low carbon content and fibrous slag inclusions.
+  - **Uses:**
+    - **Crafting gates, railings, and decorative ironwork.**
+      - Offers ductility and toughness, allowing for intricate designs.
+    - **Historical construction material.**
+      - Used in building structures before the advent of steel.
+    - **Tools and hardware.**
+      - Suitable for making nails, hooks, and chains.
 
 10. **White Gold (AuNi)**
-
-- **Composition:** Alloy of gold (Au) and nickel (Ni), sometimes with palladium.
-- **Uses:**
-  - **Crafting jewelry and ornamental pieces.**
-    - Nickel whitens the color of gold and adds hardness.
-  - **Alternative to traditional yellow gold.**
-    - Offers a different aesthetic, appealing to varied tastes.
-  - **Setting for gemstones.**
-    - Provides a neutral backdrop that enhances the appearance of diamonds and colored stones.
+  - **Composition:** Alloy of gold (Au) and nickel (Ni), sometimes with palladium.
+  - **Uses:**
+    - **Crafting jewelry and ornamental pieces.**
+      - Nickel whitens the color of gold and adds hardness.
+    - **Alternative to traditional yellow gold.**
+      - Offers a different aesthetic, appealing to varied tastes.
+    - **Setting for gemstones.**
+      - Provides a neutral backdrop that enhances the appearance of diamonds and colored stones.
 
 11. **Bronze Variations**
-
-- **Phosphor Bronze (CuSnP)**
-  - **Composition:** Copper (Cu), tin (Sn), and phosphorus (P).
-  - **Uses:**
-    - **Springs, bolts, and bearings.**
-      - Offers increased wear resistance and stiffness.
-    - **Musical instruments.**
-      - Used in guitar strings and cymbals for its acoustic properties.
-- **Aluminum Bronze (CuAl)**
-  - **Composition:** Copper (Cu) and aluminum (Al).
-  - **Uses:**
-    - **Marine hardware and pumps.**
-      - Excellent corrosion resistance in seawater.
-    - **Coins and medals.**
-      - Durable with a golden appearance.
+  - **Phosphor Bronze (CuSnP)**
+    - **Composition:** Copper (Cu), tin (Sn), and phosphorus (P).
+    - **Uses:**
+      - **Springs, bolts, and bearings.**
+        - Offers increased wear resistance and stiffness.
+      - **Musical instruments.**
+        - Used in guitar strings and cymbals for its acoustic properties.
+  - **Aluminum Bronze (CuAl)**
+    - **Composition:** Copper (Cu) and aluminum (Al).
+    - **Uses:**
+      - **Marine hardware and pumps.**
+        - Excellent corrosion resistance in seawater.
+      - **Coins and medals.**
+        - Durable with a golden appearance.
 
 12. **Steel Variations**
-
-- **Carbon Steel (FeC)**
-  - **Composition:** Iron (Fe) with varying carbon (C) content.
-  - **Uses:**
-    - **Construction materials and tools.**
-      - Higher carbon content increases hardness and strength.
-    - **Blades and cutting instruments.**
-      - Essential for crafting swords, knives, and axes.
-- **Stainless Steel (FeCrNi)**
-  - **Composition:** Iron (Fe), chromium (Cr), and nickel (Ni).
-  - **Uses:**
-    - **Corrosion-resistant tools and cookware.**
-      - Chromium provides a protective oxide layer.
-    - **Medical instruments and devices.**
-      - Hygienic and easy to sterilize.
+  - **Carbon Steel (FeC)**
+    - **Composition:** Iron (Fe) with varying carbon (C) content.
+    - **Uses:**
+      - **Construction materials and tools.**
+        - Higher carbon content increases hardness and strength.
+      - **Blades and cutting instruments.**
+        - Essential for crafting swords, knives, and axes.
+  - **Stainless Steel (FeCrNi)**
+    - **Composition:** Iron (Fe), chromium (Cr), and nickel (Ni).
+    - **Uses:**
+      - **Corrosion-resistant tools and cookware.**
+        - Chromium provides a protective oxide layer.
+      - **Medical instruments and devices.**
+        - Hygienic and easy to sterilize.
 
 13. **Bell Metal (CuSn)**
-
-- **Composition:** Alloy of copper (Cu) and tin (Sn) with a higher tin content than bronze.
-- **Uses:**
-  - **Casting bells and gongs.**
-    - Produces a resonant tone ideal for musical instruments.
-  - **Sculptures and art pieces.**
-    - Allows for detailed casting with a pleasant aesthetic.
-  - **Historical currency.**
-    - Occasionally used in coinage due to its distinctive sound.
+  - **Composition:** Alloy of copper (Cu) and tin (Sn) with a higher tin content than bronze.
+  - **Uses:**
+    - **Casting bells and gongs.**
+      - Produces a resonant tone ideal for musical instruments.
+    - **Sculptures and art pieces.**
+      - Allows for detailed casting with a pleasant aesthetic.
+    - **Historical currency.**
+      - Occasionally used in coinage due to its distinctive sound.
 
 14. **Coinage Alloys**
-
-- **Billon (AgCu)**
-  - **Composition:** Silver (Ag) and copper (Cu) with a higher proportion of copper.
-  - **Uses:**
-    - **Minting lower-value coins.**
-      - Economical use of precious metals.
-    - **Jewelry and decorative items.**
-      - Provides a balance between appearance and cost.
-- **Cupro-Nickel (CuNi)**
-  - **Composition:** Copper (Cu) and nickel (Ni).
-  - **Uses:**
-    - **Modern coinage and medals.**
-      - Resistant to wear and corrosion.
-    - **Marine engineering.**
-      - Suitable for applications exposed to seawater.
+  - **Billon (AgCu)**
+    - **Composition:** Silver (Ag) and copper (Cu) with a higher proportion of copper.
+    - **Uses:**
+      - **Minting lower-value coins.**
+        - Economical use of precious metals.
+      - **Jewelry and decorative items.**
+        - Provides a balance between appearance and cost.
+  - **Cupro-Nickel (CuNi)**
+    - **Composition:** Copper (Cu) and nickel (Ni).
+    - **Uses:**
+      - **Modern coinage and medals.**
+        - Resistant to wear and corrosion.
+      - **Marine engineering.**
+        - Suitable for applications exposed to seawater.
 
 ---
 
@@ -532,385 +518,341 @@ In addition to inorganic compounds, voxels can contain biological chemicals cruc
 For each mineral, we provide its composition, the element that can be extracted from it, and its uses in the game.
 
 1. **Halite (NaCl)**
-
-- **Composition:** Sodium Chloride (common salt).
-- **Extracted Element:** **Sodium (Na)**
-- **Uses:**
-  - Used in food preservation, seasoning, and chemical processes.
-  - Essential for crafting items like glass and for tanning hides.
-  - Source of chlorine for crafting disinfectants and bleaching agents (though chlorine is not assigned a unique mineral here).
+  - **Composition:** Sodium Chloride (common salt).
+  - **Extracted Element:** **Sodium (Na)**
+  - **Uses:**
+    - Used in food preservation, seasoning, and chemical processes.
+    - Essential for crafting items like glass and for tanning hides.
+    - Source of chlorine for crafting disinfectants and bleaching agents (though chlorine is not assigned a unique mineral here).
 
 2. **Sylvite (KCl)**
-
-- **Composition:** Potassium Chloride.
-- **Extracted Element:** **Potassium (K)**
-- **Uses:**
-  - Key ingredient in fertilizers to enhance plant growth.
-  - Used in crafting certain chemical compounds and alchemical recipes.
+  - **Composition:** Potassium Chloride.
+  - **Extracted Element:** **Potassium (K)**
+  - **Uses:**
+    - Key ingredient in fertilizers to enhance plant growth.
+    - Used in crafting certain chemical compounds and alchemical recipes.
 
 3. **Calcite (CaCO₃)**
-
-- **Composition:** Calcium Carbonate.
-- **Extracted Element:** **Calcium (Ca)**
-- **Uses:**
-  - Primary material for construction (cement, mortar, concrete).
-  - Used in agriculture to adjust soil pH and improve fertility.
-  - Found in limestone and marble, useful for building and crafting.
+  - **Composition:** Calcium Carbonate.
+  - **Extracted Element:** **Calcium (Ca)**
+  - **Uses:**
+    - Primary material for construction (cement, mortar, concrete).
+    - Used in agriculture to adjust soil pH and improve fertility.
+    - Found in limestone and marble, useful for building and crafting.
 
 4. **Ilmenite (FeTiO₃)**
-
-- **Composition:** Iron Titanium Oxide.
-- **Extracted Element:** **Titanium (Ti)**
-- **Uses:**
-  - Source of titanium for crafting advanced tools and armor.
-  - Important for creating high-strength alloys.
-  - Used in specialized equipment and machinery.
+  - **Composition:** Iron Titanium Oxide.
+  - **Extracted Element:** **Titanium (Ti)**
+  - **Uses:**
+    - Source of titanium for crafting advanced tools and armor.
+    - Important for creating high-strength alloys.
+    - Used in specialized equipment and machinery.
 
 5. **Chromite (FeCr₂O₄)**
-
-- **Composition:** Iron Chromium Oxide.
-- **Extracted Element:** **Chromium (Cr)**
-- **Uses:**
-  - Used in crafting stainless steel and corrosion-resistant materials.
-  - Enhances durability of tools and weapons.
-  - Important for metal plating and finishes.
+  - **Composition:** Iron Chromium Oxide.
+  - **Extracted Element:** **Chromium (Cr)**
+  - **Uses:**
+    - Used in crafting stainless steel and corrosion-resistant materials.
+    - Enhances durability of tools and weapons.
+    - Important for metal plating and finishes.
 
 6. **Hematite (Fe₂O₃)**
-
-- **Composition:** Iron(III) Oxide.
-- **Extracted Element:** **Iron (Fe)**
-- **Uses:**
-  - Fundamental for crafting tools, weapons, and building materials.
-  - Abundant and essential for early-game progression.
-  - Used in creating steel when combined with carbon.
+  - **Composition:** Iron(III) Oxide.
+  - **Extracted Element:** **Iron (Fe)**
+  - **Uses:**
+    - Fundamental for crafting tools, weapons, and building materials.
+    - Abundant and essential for early-game progression.
+    - Used in creating steel when combined with carbon.
 
 7. **Linnaeite (Co₃S₄)**
-
-- **Composition:** Cobalt Sulfide.
-- **Extracted Element:** **Cobalt (Co)**
-- **Uses:**
-  - Used in crafting magnets and advanced alloys.
-  - Important for high-tech equipment and weaponry.
-  - Adds strength and durability to metal products.
+  - **Composition:** Cobalt Sulfide.
+  - **Extracted Element:** **Cobalt (Co)**
+  - **Uses:**
+    - Used in crafting magnets and advanced alloys.
+    - Important for high-tech equipment and weaponry.
+    - Adds strength and durability to metal products.
 
 8. **Millerite (NiS)**
-
-- **Composition:** Nickel Sulfide.
-- **Extracted Element:** **Nickel (Ni)**
-- **Uses:**
-  - Essential for crafting stainless steel and advanced metal components.
-  - Used in coinage and specialty alloys.
-  - Enhances corrosion resistance in metal items.
+  - **Composition:** Nickel Sulfide.
+  - **Extracted Element:** **Nickel (Ni)**
+  - **Uses:**
+    - Essential for crafting stainless steel and advanced metal components.
+    - Used in coinage and specialty alloys.
+    - Enhances corrosion resistance in metal items.
 
 9. **Chalcopyrite (CuFeS₂)**
-
-- **Composition:** Copper Iron Sulfide.
-- **Extracted Element:** **Copper (Cu)**
-- **Uses:**
-  - Used in electrical components, tools, and construction.
-  - Fundamental for creating bronze when alloyed with tin.
-  - Important for wiring and conductive materials.
+  - **Composition:** Copper Iron Sulfide.
+  - **Extracted Element:** **Copper (Cu)**
+  - **Uses:**
+    - Used in electrical components, tools, and construction.
+    - Fundamental for creating bronze when alloyed with tin.
+    - Important for wiring and conductive materials.
 
 10. **Sphalerite (ZnS)**
-
-- **Composition:** Zinc Sulfide.
-- **Extracted Element:** **Zinc (Zn)**
-- **Uses:**
-  - Used in galvanization to prevent rusting of iron and steel.
-  - Essential for crafting brass when combined with copper.
-  - Important in creating alloys and metal treatments.
+  - **Composition:** Zinc Sulfide.
+  - **Extracted Element:** **Zinc (Zn)**
+  - **Uses:**
+    - Used in galvanization to prevent rusting of iron and steel.
+    - Essential for crafting brass when combined with copper.
+    - Important in creating alloys and metal treatments.
 
 11. **Argentite (Ag₂S)**
-
-- **Composition:** Silver Sulfide.
-- **Extracted Element:** **Silver (Ag)**
-- **Uses:**
-  - Valuable for currency, jewelry, and high-end crafting.
-  - Used in decorative items and ceremonial objects.
-  - Essential for electrical components due to high conductivity.
+  - **Composition:** Silver Sulfide.
+  - **Extracted Element:** **Silver (Ag)**
+  - **Uses:**
+    - Valuable for currency, jewelry, and high-end crafting.
+    - Used in decorative items and ceremonial objects.
+    - Essential for electrical components due to high conductivity.
 
 12. **Native Platinum (Pt)**
-
-- **Composition:** Pure Platinum.
-- **Extracted Element:** **Platinum (Pt)**
-- **Uses:**
-  - Used in advanced technology and high-end crafting.
-  - Extremely rare and valuable.
-  - Integral in catalytic processes and specialized equipment.
+  - **Composition:** Pure Platinum.
+  - **Extracted Element:** **Platinum (Pt)**
+  - **Uses:**
+    - Used in advanced technology and high-end crafting.
+    - Extremely rare and valuable.
+    - Integral in catalytic processes and specialized equipment.
 
 13. **Native Gold (Au)**
-
-- **Composition:** Pure Gold.
-- **Extracted Element:** **Gold (Au)**
-- **Uses:**
-  - Used for currency, jewelry, and crafting prestigious items.
-  - Sought after for trade and wealth accumulation.
-  - Utilized in high-end electronic components.
+  - **Composition:** Pure Gold.
+  - **Extracted Element:** **Gold (Au)**
+  - **Uses:**
+    - Used for currency, jewelry, and crafting prestigious items.
+    - Sought after for trade and wealth accumulation.
+    - Utilized in high-end electronic components.
 
 14. **Uraninite (UO₂)**
-
-- **Composition:** Uranium Dioxide.
-- **Extracted Element:** **Uranium (U)**
-- **Uses:**
-  - Rare element used for advanced technology or as an energy source.
-  - Could be part of high-level quests or powerful artifacts.
-  - Potential for crafting unique items with special properties.
+  - **Composition:** Uranium Dioxide.
+  - **Extracted Element:** **Uranium (U)**
+  - **Uses:**
+    - Rare element used for advanced technology or as an energy source.
+    - Could be part of high-level quests or powerful artifacts.
+    - Potential for crafting unique items with special properties.
 
 15. **Bauxite (Al(OH)₃)**
-
-- **Composition:** Hydrated Aluminum Oxide.
-- **Extracted Element:** **Aluminum (Al)**
-- **Uses:**
-  - Lightweight metal for crafting and construction.
-  - Used in making utensils, building materials, and certain alloys.
-  - Important for transportation devices and structures.
+  - **Composition:** Hydrated Aluminum Oxide.
+  - **Extracted Element:** **Aluminum (Al)**
+  - **Uses:**
+    - Lightweight metal for crafting and construction.
+    - Used in making utensils, building materials, and certain alloys.
+    - Important for transportation devices and structures.
 
 16. **Coal (C)**
-
-- **Composition:** Primarily Carbon.
-- **Extracted Element:** **Carbon (C)**
-- **Uses:**
-  - Used as a fuel source for smelting and heating.
-  - Can be processed into graphite for specialized crafting.
-  - Essential in steel production when combined with iron.
+  - **Composition:** Primarily Carbon.
+  - **Extracted Element:** **Carbon (C)**
+  - **Uses:**
+    - Used as a fuel source for smelting and heating.
+    - Can be processed into graphite for specialized crafting.
+    - Essential in steel production when combined with iron.
 
 17. **Quartz (SiO₂)**
-
-- **Composition:** Silicon Dioxide.
-- **Extracted Element:** **Silicon (Si)**
-- **Uses:**
-  - Essential for crafting glass, ceramics, and silicon-based components.
-  - Abundant in sand and rock formations.
-  - Used in creating molds and high-temperature materials.
+  - **Composition:** Silicon Dioxide.
+  - **Extracted Element:** **Silicon (Si)**
+  - **Uses:**
+    - Essential for crafting glass, ceramics, and silicon-based components.
+    - Abundant in sand and rock formations.
+    - Used in creating molds and high-temperature materials.
 
 18. **Cassiterite (SnO₂)**
-
-- **Composition:** Tin Dioxide.
-- **Extracted Element:** **Tin (Sn)**
-- **Uses:**
-  - Used in crafting bronze when alloyed with copper.
-  - Important for making pewter and soldering materials.
-  - Utilized in coating and plating processes.
+  - **Composition:** Tin Dioxide.
+  - **Extracted Element:** **Tin (Sn)**
+  - **Uses:**
+    - Used in crafting bronze when alloyed with copper.
+    - Important for making pewter and soldering materials.
+    - Utilized in coating and plating processes.
 
 19. **Galena (PbS)**
-
-- **Composition:** Lead Sulfide.
-- **Extracted Element:** **Lead (Pb)**
-- **Uses:**
-  - Used in crafting batteries, pipes, and radiation shielding.
-  - Can be employed in creating weights and ammunition.
-  - Important for protective equipment and infrastructure.
+  - **Composition:** Lead Sulfide.
+  - **Extracted Element:** **Lead (Pb)**
+  - **Uses:**
+    - Used in crafting batteries, pipes, and radiation shielding.
+    - Can be employed in creating weights and ammunition.
+    - Important for protective equipment and infrastructure.
 
 20. **Saltpeter (KNO₃)**
-
-- **Composition:** Potassium Nitrate.
-- **Extracted Element:** **Nitrogen (N)**
-- **Uses:**
-  - Essential for making fertilizers to enhance crop yields.
-  - Key ingredient in crafting gunpowder for explosives.
-  - Used in food preservation techniques.
+  - **Composition:** Potassium Nitrate.
+  - **Extracted Element:** **Nitrogen (N)**
+  - **Uses:**
+    - Essential for making fertilizers to enhance crop yields.
+    - Key ingredient in crafting gunpowder for explosives.
+    - Used in food preservation techniques.
 
 21. **Apatite (Ca₅(PO₄)₃(F,Cl,OH))**
-
-- **Composition:** Calcium Phosphate.
-- **Extracted Element:** **Phosphorus (P)**
-- **Uses:**
-  - Vital for crafting fertilizers to improve soil fertility.
-  - Used in creating certain alloys and chemical compounds.
-  - Important for agricultural development.
+  - **Composition:** Calcium Phosphate.
+  - **Extracted Element:** **Phosphorus (P)**
+  - **Uses:**
+    - Vital for crafting fertilizers to improve soil fertility.
+    - Used in creating certain alloys and chemical compounds.
+    - Important for agricultural development.
 
 22. **Native Sulfur (S₈)**
-
-- **Composition:** Elemental Sulfur.
-- **Extracted Element:** **Sulfur (S)**
-- **Uses:**
-  - Used in crafting gunpowder, matches, and insecticides.
-  - Important for vulcanizing rubber and in alchemy.
-  - Essential for various chemical processes.
+  - **Composition:** Elemental Sulfur.
+  - **Extracted Element:** **Sulfur (S)**
+  - **Uses:**
+    - Used in crafting gunpowder, matches, and insecticides.
+    - Important for vulcanizing rubber and in alchemy.
+    - Essential for various chemical processes.
 
 ### Useful Compounds
 
 These minerals were widely known and utilized, serving as fundamental resources for various applications in crafting, building, and technology.
 
 1. **Flint (SiO₂)**
-
-- **Composition:** Microcrystalline Quartz.
-- **Uses:**
-  - Used to make sharp tools and weapons.
-  - Essential for creating sparks in fire-starting kits.
-  - Important for survival and hunting equipment.
+  - **Composition:** Microcrystalline Quartz.
+  - **Uses:**
+    - Used to make sharp tools and weapons.
+    - Essential for creating sparks in fire-starting kits.
+    - Important for survival and hunting equipment.
 
 2. **Gypsum (CaSO₄·2H₂O)**
-
-- **Composition:** Calcium Sulfate Dihydrate.
-- **Uses:**
-  - Used in plaster for construction and artistic works.
-  - Employed in soil conditioning for agriculture.
-  - Utilized in crafting molds and casts.
+  - **Composition:** Calcium Sulfate Dihydrate.
+  - **Uses:**
+    - Used in plaster for construction and artistic works.
+    - Employed in soil conditioning for agriculture.
+    - Utilized in crafting molds and casts.
 
 3. **Slate**
-
-- **Composition:** Fine-grained Metamorphic Rock.
-- **Uses:**
-  - Used as a building material for roofing and flooring.
-  - Employed in writing tablets and blackboards.
-  - Important for construction and educational tools.
+  - **Composition:** Fine-grained Metamorphic Rock.
+  - **Uses:**
+    - Used as a building material for roofing and flooring.
+    - Employed in writing tablets and blackboards.
+    - Important for construction and educational tools.
 
 4. **Limestone (CaCO₃)**
-
-- **Composition:** Calcium Carbonate.
-- **Uses:**
-  - Widely used in building construction and road-making.
-  - Essential for producing lime for mortar and cement.
-  - Utilized in sculpting and decorative architecture.
+  - **Composition:** Calcium Carbonate.
+  - **Uses:**
+    - Widely used in building construction and road-making.
+    - Essential for producing lime for mortar and cement.
+    - Utilized in sculpting and decorative architecture.
 
 5. **Sandstone**
-
-- **Composition:** Composed mainly of Sand-sized Mineral Particles.
-- **Uses:**
-  - Used in construction for buildings and paving.
-  - Can be carved into statues and architectural details.
-  - Important for structural and aesthetic purposes.
+  - **Composition:** Composed mainly of Sand-sized Mineral Particles.
+  - **Uses:**
+    - Used in construction for buildings and paving.
+    - Can be carved into statues and architectural details.
+    - Important for structural and aesthetic purposes.
 
 6. **Obsidian**
-
-- **Composition:** Volcanic Glass rich in Silica.
-- **Uses:**
-  - Used to craft sharp blades and arrowheads.
-  - Valued for its aesthetic appeal in decorative items.
-  - Integral in crafting high-quality cutting tools.
+  - **Composition:** Volcanic Glass rich in Silica.
+  - **Uses:**
+    - Used to craft sharp blades and arrowheads.
+    - Valued for its aesthetic appeal in decorative items.
+    - Integral in crafting high-quality cutting tools.
 
 7. **Granite**
-
-- **Composition:** Coarse-grained Igneous Rock.
-- **Uses:**
-  - Used extensively in construction, monuments, and sculptures.
-  - Known for its durability and strength.
-  - Important for large-scale building projects.
+  - **Composition:** Coarse-grained Igneous Rock.
+  - **Uses:**
+    - Used extensively in construction, monuments, and sculptures.
+    - Known for its durability and strength.
+    - Important for large-scale building projects.
 
 8. **Clay (Al₂Si₂O₅(OH)₄)**
-
-- **Composition:** Hydrated Aluminum Silicate.
-- **Uses:**
-  - Essential for pottery, bricks, and ceramics.
-  - Used in crafting containers, tiles, and art pieces.
-  - Fundamental for early settlement development.
+  - **Composition:** Hydrated Aluminum Silicate.
+  - **Uses:**
+    - Essential for pottery, bricks, and ceramics.
+    - Used in crafting containers, tiles, and art pieces.
+    - Fundamental for early settlement development.
 
 9. **Charcoal (C)**
-
-- **Composition:** Carbon-rich Material.
-- **Uses:**
-  - Used as a fuel and in smelting metals.
-  - Employed in blacksmithing and gunpowder production.
-  - Important for metallurgical processes.
+  - **Composition:** Carbon-rich Material.
+  - **Uses:**
+    - Used as a fuel and in smelting metals.
+    - Employed in blacksmithing and gunpowder production.
+    - Important for metallurgical processes.
 
 10. **Saltpeter (KNO₃)**
-
-- **Composition:** Potassium Nitrate.
-- **Uses:**
-  - Used in gunpowder, fertilizers, and food preservation.
-  - Essential for military applications and agriculture.
-  - Integral in crafting explosives and enhancing crops.
+  - **Composition:** Potassium Nitrate.
+  - **Uses:**
+    - Used in gunpowder, fertilizers, and food preservation.
+    - Essential for military applications and agriculture.
+    - Integral in crafting explosives and enhancing crops.
 
 11. **Graphite (C)**
-
-- **Composition:** Pure carbon.
-- **Uses:**
-  - Used in crafting pencils, lubricants, and as a refractory material.
-  - Essential for creating electrodes and battery components.
-  - Can be processed into diamonds under high-pressure conditions.
+  - **Composition:** Pure carbon.
+  - **Uses:**
+    - Used in crafting pencils, lubricants, and as a refractory material.
+    - Essential for creating electrodes and battery components.
+    - Can be processed into diamonds under high-pressure conditions.
 
 12. **Feldspar (KAlSi₃O₈, NaAlSi₃O₈)**
-
-- **Composition:** Potassium or sodium aluminum silicate.
-- **Uses:**
-  - Common rock-forming mineral.
-  - Used in crafting glass, ceramics, and glazes.
-  - Essential for making pottery and decorative items.
+  - **Composition:** Potassium or sodium aluminum silicate.
+  - **Uses:**
+    - Common rock-forming mineral.
+    - Used in crafting glass, ceramics, and glazes.
+    - Essential for making pottery and decorative items.
 
 ### Gemstone Compounds
 
 Gemstones add value and variety to the game, providing opportunities for trade, crafting, and quests. Below are some common gemstones available within the Simplified Elemental System.
 
 1. **Diamond (C)**
-
-- **Composition:** Crystalline form of Carbon.
-- **Uses:**
-  - Used in crafting high-durability tools and weapons.
-  - Valued for jewelry and high-end trade items.
-  - Rare and highly sought after, encouraging deep mining.
+  - **Composition:** Crystalline form of Carbon.
+  - **Uses:**
+    - Used in crafting high-durability tools and weapons.
+    - Valued for jewelry and high-end trade items.
+    - Rare and highly sought after, encouraging deep mining.
 
 2. **Emerald (Simplified as Green Beryl)**
-
-- **Composition:** For gameplay purposes, can be considered a variety of Quartz (SiO₂) colored by trace elements.
-- **Uses:**
-  - Used in crafting jewelry and ornamental items.
-  - Can be part of quests or magical artifacts.
-  - Valued for its vibrant green color.
+  - **Composition:** For gameplay purposes, can be considered a variety of Quartz (SiO₂) colored by trace elements.
+  - **Uses:**
+    - Used in crafting jewelry and ornamental items.
+    - Can be part of quests or magical artifacts.
+    - Valued for its vibrant green color.
 
 3. **Ruby (Simplified as Red Corundum)**
-
-- **Composition:** Aluminum Oxide (Al₂O₃) colored by impurities.
-- **Uses:**
-  - Valued for its deep red color in jewelry.
-  - Used in crafting decorative items and ceremonial objects.
-  - Could be associated with magical properties.
+  - **Composition:** Aluminum Oxide (Al₂O₃) colored by impurities.
+  - **Uses:**
+    - Valued for its deep red color in jewelry.
+    - Used in crafting decorative items and ceremonial objects.
+    - Could be associated with magical properties.
 
 4. **Sapphire (Al₂O₃)**
-
-- **Composition:** Aluminum Oxide.
-- **Uses:**
-  - Used in jewelry and high-end crafting.
-  - Available in various colors depending on impurities.
-  - May be linked to quests or special abilities.
+  - **Composition:** Aluminum Oxide.
+  - **Uses:**
+    - Used in jewelry and high-end crafting.
+    - Available in various colors depending on impurities.
+    - May be linked to quests or special abilities.
 
 5. **Amethyst (SiO₂)**
-
-- **Composition:** Purple Variety of Quartz.
-- **Uses:**
-  - Used in crafting decorative items and jewelry.
-  - Can be found in geodes or special rock formations.
-  - Valued for its aesthetic appeal.
+  - **Composition:** Purple Variety of Quartz.
+  - **Uses:**
+    - Used in crafting decorative items and jewelry.
+    - Can be found in geodes or special rock formations.
+    - Valued for its aesthetic appeal.
 
 6. **Topaz (Simplified as Colored Quartz)**
-
-- **Composition:** For gameplay, can be considered a colored form of Quartz.
-- **Uses:**
-  - Used in crafting and as a trade commodity.
-  - Valued for its range of colors and clarity.
-  - Enhances the variety of gemstones available.
+  - **Composition:** For gameplay, can be considered a colored form of Quartz.
+  - **Uses:**
+    - Used in crafting and as a trade commodity.
+    - Valued for its range of colors and clarity.
+    - Enhances the variety of gemstones available.
 
 7. **Opal (SiO₂·nH₂O)**
-
-- **Composition:** Hydrated Silicon Dioxide.
-- **Uses:**
-  - Known for its iridescent play-of-color.
-  - Used in crafting unique jewelry pieces.
-  - May be associated with luck or special in-game effects.
+  - **Composition:** Hydrated Silicon Dioxide.
+  - **Uses:**
+    - Known for its iridescent play-of-color.
+    - Used in crafting unique jewelry pieces.
+    - May be associated with luck or special in-game effects.
 
 8. **Garnet (Simplified as Silicate Mineral)**
-
-- **Composition:** Silicate Minerals with various elements.
-- **Uses:**
-  - Used in crafting and as an abrasive material.
-  - Valued for its deep red color in jewelry.
-  - Adds diversity to gemstone options.
+  - **Composition:** Silicate Minerals with various elements.
+  - **Uses:**
+    - Used in crafting and as an abrasive material.
+    - Valued for its deep red color in jewelry.
+    - Adds diversity to gemstone options.
 
 9. **Pearl (CaCO₃)**
-
-- **Composition:** Calcium Carbonate layers produced by mollusks.
-- **Uses:**
-  - Used in crafting jewelry and decorative items.
-  - Can be harvested from oysters or found in treasure chests.
-  - Symbolizes wealth and rarity.
+  - **Composition:** Calcium Carbonate layers produced by mollusks.
+  - **Uses:**
+    - Used in crafting jewelry and decorative items.
+    - Can be harvested from oysters or found in treasure chests.
+    - Symbolizes wealth and rarity.
 
 10. **Turquoise (Simplified as Copper Mineral)**
-
-- **Composition:** For gameplay, can be considered a copper-based mineral.
-- **Uses:**
-  - Valued for its blue-green color in jewelry.
-  - May be used in crafting talismans or amulets.
-  - Associated with protection and healing properties.
+  - **Composition:** For gameplay, can be considered a copper-based mineral.
+  - **Uses:**
+    - Valued for its blue-green color in jewelry.
+    - May be used in crafting talismans or amulets.
+    - Associated with protection and healing properties.
 
 ---
 
