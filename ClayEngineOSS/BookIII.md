@@ -50,29 +50,11 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 | Chromium | 24 | ( Cr) | 6 | Stainless steel, alloys, plating |
 | Iron | 26 | (Fe) | 2 | Fundamental component for tools and alloys |
 | Cobalt | 27 | (Co) | 2 | Magnets, alloys |
-
+| Nickle | 28 | (Ni) | 2 | Stainless steel, alloys, coinage, bells |
+| Copper | 29 | (Cu) | 1 | Conductor, alloys |
+| Zinc | 30 | (Zn) | 2 | Galvanization, alloys |
 
 ---
-
-8. **Cobalt (Co)**
-    - **Atomic Number:** 27
-    - **Valence Electrons:** 2
-    - **Uses:** Essential for magnets and advanced alloys.
-
-9. **Nickel (Ni)**
-    - **Atomic Number:** 28
-    - **Valence Electrons:** 2
-    - **Uses:** Used in stainless steel and advanced crafting.
-
-10. **Copper (Cu)**
-    - **Atomic Number:** 29
-    - **Valence Electrons:** 1
-    - **Uses:** Used in electrical components, tools, and construction.
-
-11. **Zinc (Zn)**
-    - **Atomic Number:** 30
-    - **Valence Electrons:** 2
-    - **Uses:** Important for galvanization and brass alloy crafting.
 
 12. **Silver (Ag)**
     - **Atomic Number:** 47
