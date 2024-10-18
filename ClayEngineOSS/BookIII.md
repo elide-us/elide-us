@@ -42,14 +42,14 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 | Hydrogen | 1 | (H) | 1 | Water |
 | Sodium | 11 | (Na) | 1 | Salt and Glass |
 | Potassium | 19 | (K) | 1 | Fertalizer and plant growth |
-| Calcium | 20 | (Ca) | 2 | | Limestone, cement, mortar |
+| Calcium | 20 | (Ca) | 2 | Limestone, cement, mortar |
 
 | Element | # | Sym | VEs | Uses |
 |---------|---|-----|-----|------|
 | Titanium | 22 | (Ti) | 4 | Alloys |
 | Chromium | 24 | ( Cr) | 6 | Stainless steel, alloys, plating |
 | Iron | 26 | (Fe) | 2 | Fundamental component for tools and alloys |
-| Cobalt | 27 | (Co) | Magnets, alloys |
+| Cobalt | 27 | (Co) | 2 | Magnets, alloys |
 
 
 ---
