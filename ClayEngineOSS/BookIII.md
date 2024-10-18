@@ -37,6 +37,12 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 
 ## Simplified Periodic Table
 
+| Element | Sym | VEs | Uses |
+|---------|-----|-----|------|
+| Hydrogen | (1-H) | 1 | Water |
+
+---
+
 ### **Group 1-2:**
 
 1. **Hydrogen (H)**
