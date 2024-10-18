@@ -66,6 +66,23 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 
 ---
 
+### Group 13-18: Nonmetals and Metalloids
+
+| Element     | #  | Sym | VEs | Uses                                                     |
+|-------------|----|-----|-----|-----------------------------------------------------------|
+| Aluminum    | 13 | Al  | 3   | Lightweight metal crucial for crafting and construction    |
+| Carbon      | 6  | C   | 4   | Foundation of organic materials, coal, and diamonds       |
+| Silicon     | 14 | Si  | 4   | Central to rocks, sand, glass, and ceramics               |
+| Tin         | 50 | Sn  | 4   | Used in bronze alloys and various crafting applications   |
+| Lead        | 82 | Pb  | 4   | Heavy metal used for radiation shielding and batteries    |
+| Nitrogen    | 7  | N   | 5   | Vital for fertilizers and plant growth                   |
+| Phosphorus  | 15 | P   | 5   | Important for fertilizers and energy production           |
+| Oxygen      | 8  | O   | 6   | Essential for combustion, oxidation, and water formation  |
+| Sulfur      | 16 | S   | 6   | Used in crafting and various chemical reactions           |
+| Chlorine    | 17 | Cl  | 7   | Used in chemical synthesis and biological functions       |
+| Helium      | 2  | He  | 2   | Used to make people laugh and for buoyancy in balloons    |
+
+
 ### **Group 13-18:**
 
 16. **Aluminum (Al)**
