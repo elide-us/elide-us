@@ -44,6 +44,8 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 | Potassium | 19 | (K) | 1 | Fertalizer and plant growth |
 | Calcium | 20 | (Ca) | 2 | Limestone, cement, mortar |
 
+---
+
 | Element | # | Sym | VEs | Uses |
 |---------|---|-----|-----|------|
 | Titanium | 22 | (Ti) | 4 | Alloys |
@@ -56,14 +58,7 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 | Silver | 47 | (Ag) | 1 | Currency, jewelry, conductor, plating |
 | Platinum | 78 | (Pt) | 1 | Currency, jewelry, conductor, plating |
 | Gold | 79 | (Au) | 1 | Currency, jewelry, conductor, plating |
-
-
----
-
-15. **Uranium (U)**
-    - **Atomic Number:** 92
-    - **Valence Electrons:** 6
-    - **Uses:** Rare element used for advanced technology or as an energy source.
+| Uranium | 92 | (U) | 6| Unknown |
 
 ---
 
