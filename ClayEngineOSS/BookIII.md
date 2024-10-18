@@ -40,6 +40,7 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 | Element | # | Sym | VEs | Uses |
 |---------|---|-----|-----|------|
 | Hydrogen | 1 | (H) | 1 | Water |
+| Sodium | 11 | (Na) | 1 | Salt and Glass |
 
 ---
 
