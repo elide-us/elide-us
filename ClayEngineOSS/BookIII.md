@@ -37,6 +37,8 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 
 ## Simplified Periodic Table
 
+### Group 1-2: Alkali Metals
+
 | Element | # | Sym | VEs | Uses |
 |---------|---|-----|-----|------|
 | Hydrogen | 1 | (H) | 1 | Water |
@@ -45,6 +47,8 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 | Calcium | 20 | (Ca) | 2 | Limestone, cement, mortar |
 
 ---
+
+### Group 3-12: Transitonal Metals
 
 | Element | # | Sym | VEs | Uses |
 |---------|---|-----|-----|------|
