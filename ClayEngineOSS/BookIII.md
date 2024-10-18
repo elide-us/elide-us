@@ -41,49 +41,18 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 |---------|---|-----|-----|------|
 | Hydrogen | 1 | (H) | 1 | Water |
 | Sodium | 11 | (Na) | 1 | Salt and Glass |
+| Potassium | 19 | (K) | 1 | Fertalizer and plant growth |
+| Calcium | 20 | (Ca) | 2 | | Limestone, cement, mortar |
+
+| Element | # | Sym | VEs | Uses |
+|---------|---|-----|-----|------|
+| Titanium | 22 | (Ti) | 4 | Alloys |
+| Chromium | 24 | ( Cr) | 6 | Stainless steel, alloys, plating |
+| Iron | 26 | (Fe) | 2 | Fundamental component for tools and alloys |
+| Cobalt | 27 | (Co) | Magnets, alloys |
+
 
 ---
-
-### **Group 1-2:**
-
-1. **Hydrogen (H)**
-    - **Atomic Number:** 1
-    - **Valence Electrons:** 1
-    - **Uses:** Fundamental for water formation and energy production.
-
-2. **Sodium (Na)**
-    - **Atomic Number:** 11
-    - **Valence Electrons:** 1
-    - **Uses:** Crucial for salt production and glassmaking.
-
-3. **Potassium (K)**
-    - **Atomic Number:** 19
-    - **Valence Electrons:** 1
-    - **Uses:** Key component in fertilizers for plant growth.
-
-4. **Calcium (Ca)**
-    - **Atomic Number:** 20
-    - **Valence Electrons:** 2
-    - **Uses:** Essential for making limestone, cement, and mortar.
-
----
-
-### **Group 3-12: Transition Metals**
-
-5. **Titanium (Ti)**
-    - **Atomic Number:** 22
-    - **Valence Electrons:** 4
-    - **Uses:** Ideal for advanced tools and armor due to its strength and light weight.
-
-6. **Chromium (Cr)**
-    - **Atomic Number:** 24
-    - **Valence Electrons:** 6
-    - **Uses:** Used in stainless steel and metal plating.
-
-7. **Iron (Fe)**
-    - **Atomic Number:** 26
-    - **Valence Electrons:** 2
-    - **Uses:** Fundamental for tools, weapons, and construction materials.
 
 8. **Cobalt (Co)**
     - **Atomic Number:** 27
