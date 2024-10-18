@@ -50,26 +50,15 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 | Chromium | 24 | ( Cr) | 6 | Stainless steel, alloys, plating |
 | Iron | 26 | (Fe) | 2 | Fundamental component for tools and alloys |
 | Cobalt | 27 | (Co) | 2 | Magnets, alloys |
-| Nickle | 28 | (Ni) | 2 | Stainless steel, alloys, coinage, bells |
+| Nickle | 28 | (Ni) | 2 | Stainless steel, alloys, currency, bells |
 | Copper | 29 | (Cu) | 1 | Conductor, alloys |
 | Zinc | 30 | (Zn) | 2 | Galvanization, alloys |
+| Silver | 47 | (Ag) | 1 | Currency, jewelry, conductor, plating |
+| Platinum | 78 | (Pt) | 1 | Currency, jewelry, conductor, plating |
+| Gold | 79 | (Au) | 1 | Currency, jewelry, conductor, plating |
+
 
 ---
-
-12. **Silver (Ag)**
-    - **Atomic Number:** 47
-    - **Valence Electrons:** 1
-    - **Uses:** Valuable for currency, jewelry, and electronics.
-
-13. **Platinum (Pt)**
-    - **Atomic Number:** 78
-    - **Valence Electrons:** 1
-    - **Uses:** Used in advanced technology and high-end crafting.
-
-14. **Gold (Au)**
-    - **Atomic Number:** 79
-    - **Valence Electrons:** 1
-    - **Uses:** Rare metal for high-end crafting and electronics.
 
 15. **Uranium (U)**
     - **Atomic Number:** 92
