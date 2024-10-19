@@ -70,7 +70,7 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 
 | Element     | #  | Sym | VEs | Uses                                                     |
 |-------------|----|-----|-----|-----------------------------------------------------------|
-| Aluminum    | 13 | Al  | 3   | Lightweight metal crucial for crafting and construction    |
+| Aluminum | 13 | (Al)  | 3 | Soft metal, alloys, plating, tooks|
 | Carbon      | 6  | C   | 4   | Foundation of organic materials, coal, and diamonds       |
 | Silicon     | 14 | Si  | 4   | Central to rocks, sand, glass, and ceramics               |
 | Tin         | 50 | Sn  | 4   | Used in bronze alloys and various crafting applications   |
