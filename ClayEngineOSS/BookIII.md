@@ -70,76 +70,18 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 
 | Element | # | Sym | VEs | Uses |
 |---------|---|-----|-----|------|
-| Aluminum | 13 | (Al) | 3 | Insulation, alloys, plating, tools| |
+| Helium | 2 | (He) | 2 | Unknown |
 | Carbon | 6 | (C) | 4 | Fundamental component of organics, coal, and diamonds |
-| Silicon     | 14 | Si  | 4   | Central to rocks, sand, glass, and ceramics               |
-| Tin         | 50 | Sn  | 4   | Used in bronze alloys and various crafting applications   |
-| Lead        | 82 | Pb  | 4   | Heavy metal used for radiation shielding and batteries    |
-| Nitrogen    | 7  | N   | 5   | Vital for fertilizers and plant growth                   |
-| Phosphorus  | 15 | P   | 5   | Important for fertilizers and energy production           |
-| Oxygen      | 8  | O   | 6   | Essential for combustion, oxidation, and water formation  |
-| Sulfur      | 16 | S   | 6   | Used in crafting and various chemical reactions           |
-| Chlorine    | 17 | Cl  | 7   | Used in chemical synthesis and biological functions       |
-| Helium      | 2  | He  | 2   | Used to make people laugh and for buoyancy in balloons    |
+| Nitrogen | 7 | (N) | 5 | Fertilizers |
+| Oxygen | 8 | (O) | 6 | Combustion, oxidation, and water formation  |
+| Aluminum | 13 | (Al) | 3 | Insulation, alloys, plating, tools| |
+| Silicon | 14 | (Si) | 4 | Rocks, sand, glass, and ceramics |
+| Phosphorus | 15 | (P) | 5 | Fertilizers |
+| Sulfur | 16 | (S) | 6 | Crafting |
+| Chlorine | 17 | (Cl) | 7 | Crafting |
+| Tin | 50 | (Sn) | 4 | Alloys |
+| Lead | 82 | (Pb) | 4 | Shielding and batteries |
 
-
-### **Group 13-18:**
-
-16. **Aluminum (Al)**
-    - **Atomic Number:** 13
-    - **Valence Electrons:** 3
-    - **Uses:** Lightweight metal crucial for crafting and construction.
-
-17. **Carbon (C)**
-    - **Atomic Number:** 6
-    - **Valence Electrons:** 4
-    - **Uses:** Foundation of organic materials, coal, and diamonds.
-
-18. **Silicon (Si)**
-    - **Atomic Number:** 14
-    - **Valence Electrons:** 4
-    - **Uses:** Central to rocks, sand, glass, and ceramics.
-
-19. **Tin (Sn)**
-    - **Atomic Number:** 50
-    - **Valence Electrons:** 4
-    - **Uses:** Used in bronze alloys and various crafting applications.
-
-20. **Lead (Pb)**
-    - **Atomic Number:** 82
-    - **Valence Electrons:** 4
-    - **Uses:** Heavy metal used for radiation shielding and batteries.
-
-21. **Nitrogen (N)**
-    - **Atomic Number:** 7
-    - **Valence Electrons:** 5
-    - **Uses:** Vital for fertilizers and plant growth.
-
-22.  **Phosphorus (P)**
-    - **Atomic Number:** 15
-    - **Valence Electrons:** 5
-    - **Uses:** Important for fertilizers and energy production.
-
-23. **Oxygen (O)**
-    - **Atomic Number:** 8
-    - **Valence Electrons:** 6
-    - **Uses:** Essential for combustion, oxidation, and water formation.
-
-24. **Sulfur (S)**
-    - **Atomic Number:** 16
-    - **Valence Electrons:** 6
-    - **Uses:** Used in crafting and various chemical reactions.
-
-25. **Chlorine (Cl)**
-    - **Atomic Number:** 17
-    - **Valence Electrons:** 7
-    - **Uses:** Used in chemical synthesis and biological functions.
-
-26. **Helium (He)**
-    - **Atomic Number:**
-    - **Valence Electrons:** 
-    - **Uses:** Used to make people laugh and make other stuff float.
-  
   --- 
 
 #### **Notes on Valence Electrons and Gameplay Mechanics**
