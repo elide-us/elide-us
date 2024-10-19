@@ -68,10 +68,10 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 
 ### Group 13-18: Nonmetals and Metalloids
 
-| Element     | #  | Sym | VEs | Uses                                                     |
-|-------------|----|-----|-----|-----------------------------------------------------------|
-| Aluminum | 13 | (Al)  | 3 |  Insulation, alloys, plating, tools| |
-| Carbon      | 6  | C   | 4   | Foundation of organic materials, coal, and diamonds       |
+| Element | # | Sym | VEs | Uses |
+|---------|---|-----|-----|------|
+| Aluminum | 13 | (Al) | 3 | Insulation, alloys, plating, tools| |
+| Carbon | 6 | (C) | 4 | Fundamental component of organics, coal, and diamonds |
 | Silicon     | 14 | Si  | 4   | Central to rocks, sand, glass, and ceramics               |
 | Tin         | 50 | Sn  | 4   | Used in bronze alloys and various crafting applications   |
 | Lead        | 82 | Pb  | 4   | Heavy metal used for radiation shielding and batteries    |
