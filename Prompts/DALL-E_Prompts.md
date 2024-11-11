@@ -24,3 +24,20 @@ The character is dressed in a skin-tight, intricately detailed outfit featuring 
 
 Lighting - 
 The scene is brightly lit, as if illuminated by soft morning sunlight streaming through stained-glass windows. The light casts a soft glow on the character’s face and clothing, highlighting the textures and contours of the outfit and adding a slight sheen to the colored accents. Ensure that the lighting emphasizes fine details naturally, avoiding any harsh shadows.
+
+----
+
+Storyboard Keyframe Generation Primpt:
+Generate a single storyboard that will be used as a keyframe for animation.
+
+**Style**
+Gothic horror, ink and chalk, faded and tarnished colors
+
+**Scene**
+Set upon a battlefield in front of a towering, ominous and forboding black keep strewn with corpses of the fallen.
+
+**Focus**
+Two combatants, on the left a heavy knight with a massive greatsword and on the right a pirate swashbuckler weilding a rapier and main gauche.
+
+**Action***
+In this frame the combatants are drawing their weapons back to prepare to strike.
