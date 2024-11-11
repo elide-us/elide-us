@@ -31,7 +31,7 @@ Storyboard Keyframe Generation Primpt:
 Generate a single storyboard that will be used as a keyframe for animation.
 
 **Style**
-Gothic horror, ink and chalk, faded and tarnished colors
+Gothic horror, ink and colored chalk, faded and tarnished colors
 
 **Scene**
 Set upon a battlefield in front of a towering, ominous and forboding black keep strewn with corpses of the fallen.
@@ -41,3 +41,8 @@ Two combatants, on the left a heavy knight with a massive greatsword and on the 
 
 **Action***
 In this frame the combatants are drawing their weapons back to prepare to strike.
+
+**Animation Guidance**
+Background elements shpuld fade between frames, two main combatants should move and morph towards each other, anime style.
+
+----
