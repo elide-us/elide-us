@@ -1,5 +1,5 @@
 Image Type - 
-Generate a photorealistic, close-up, professional portrait image of a female, elfin character, framed as a bust (shoulders and head only) with the character looking directly at the camera. This should resemble a high-quality professional photograph with sharp details.
+Generate a photorealistic, close-up, professional portrait image of a female, elven character, framed as a bust (shoulders and head only) with the character looking directly at the camera. This should resemble a high-quality professional photograph with sharp details.
 
 Scene Description - 
 The scene is set within an elegant, bright, gothic-style church space that is blurred in the background to keep the character in sharp focus. Morning sunlight fills the area, casting a soft and radiant glow around the subject.
@@ -8,13 +8,13 @@ Background -
 The background should be entirely blurred, bright, and softly illuminated by natural light from unseen windows. This provides a clean, unobtrusive backdrop that accentuates the character without any distracting elements. Subtle hints of gothic architectural elements are faintly visible through the blur.
 
 Character Appearance - 
-The character is a female with angular, refined, and mystical elfin features, exuding elegance. She has a fair complexion, and her expression is calm, with a direct, engaging gaze toward the viewer. Her hair is styled to be full and flowing around her shoulders, adding volume and framing her face softly.
+The character is a female with angular, refined, and mystical elven features, exuding elegance. She has a fair complexion, and her expression is calm, with a direct, engaging gaze toward the viewer. Her hair is styled to be full and flowing around her shoulders, adding volume and framing her face softly.
 
 Primary Color - 
-  Blue
+  Gold
 
 Secondary Color - 
-  Aquamarine
+  White
 
 Color Palette - 
 The primary color with secondary color accents should create a bold, dynamic, and ethereal aesthetic. The primary color dominant color for the outfit, while secondary highlights add contrast and energy to the look. No other colors should be prominent to maintain cohesion in the vibrant palette.
