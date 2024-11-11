@@ -31,7 +31,7 @@ The scene is brightly lit, as if illuminated by soft morning sunlight streaming 
 Gothic horror ala Berserk, but ink and colored chalk, diminished color palette
 
 **Scene**
-Set upon a battlefield in front of a towering, ominous and forboding black keep strewn with corpses of the fallen.
+Set upon a battlefield strewn with corpses in front of a towering, ominous and forboding black keep.
 
 **Focus**
 Two combatants, on the left a heavy knight with a massive greatsword and on the right a pirate swashbuckler weilding a rapier and main gauche.
@@ -40,6 +40,5 @@ Two combatants, on the left a heavy knight with a massive greatsword and on the 
 In this frame the combatants are drawing their weapons back to prepare to strike.
 
 **Animation Guidance**
-Background elements shpuld fade between frames, two main combatants should move and morph towards each other, anime style.
-
+Background elements should fade as the combatants come together ina mighty clash, anime style.
 ----
