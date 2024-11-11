@@ -27,11 +27,8 @@ The scene is brightly lit, as if illuminated by soft morning sunlight streaming 
 
 ----
 
-Storyboard Keyframe Generation Primpt:
-Generate a single storyboard that will be used as a keyframe for animation.
-
 **Style**
-Gothic horror, ink and colored chalk, faded and tarnished colors
+Gothic horror ala Berserk, but ink and colored chalk, diminished color palette
 
 **Scene**
 Set upon a battlefield in front of a towering, ominous and forboding black keep strewn with corpses of the fallen.
