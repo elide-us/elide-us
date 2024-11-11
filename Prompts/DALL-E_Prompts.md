@@ -27,18 +27,10 @@ The scene is brightly lit, as if illuminated by soft morning sunlight streaming 
 
 ----
 
-**Style**
-Gothic horror ala Berserk, but ink and colored chalk, diminished color palette
+Style: Gothic horror ala Berserk, but ink and colored chalk, diminished color palette
+Scene: Set upon a battlefield strewn with corpses in front of a towering, ominous and forboding black keep.
+Focus: Two combatants, on the left a heavy knight with a massive greatsword and on the right a pirate swashbuckler weilding a rapier and main gauche.
+Action: The combatants are drawing their weapons back to prepare to strike.
+Animation Guidance: Background elements should fade as the combatants come together ina mighty clash, anime style.
 
-**Scene**
-Set upon a battlefield strewn with corpses in front of a towering, ominous and forboding black keep.
-
-**Focus**
-Two combatants, on the left a heavy knight with a massive greatsword and on the right a pirate swashbuckler weilding a rapier and main gauche.
-
-**Action***
-In this frame the combatants are drawing their weapons back to prepare to strike.
-
-**Animation Guidance**
-Background elements should fade as the combatants come together ina mighty clash, anime style.
 ----
