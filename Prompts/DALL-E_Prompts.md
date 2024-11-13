@@ -53,8 +53,10 @@ Interpretation:
 Each scene should depict the one primary theme, idea, or concept in each narrative.
 
 Narrative Section (generate the image from the following):
-In this world, long ago, I was told a story—a tale of old, passed down from one generation to the next, simple yet dark in its lesson. It’s a tale from a place that feels nearly forgotten, told perhaps by a fireside in the dim glow of candlelight.
+It’s a story that, in time, I came to see as a parable of our world, here in the realms of Prism. They called it The Tale of the Grey Dove.
 
-Subject Focus: Fireside, Shadows, Smoke
+Subject Focus:
+Fireside, Dove, Smoke
+
 ----
 
