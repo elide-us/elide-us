@@ -53,10 +53,10 @@ Interpretation:
 Each scene should depict the one primary theme, idea, or concept in each narrative.
 
 Narrative Section (generate the image from the following):
-So, step by step, she begins. First, she goes to the meadow and clears the ground, then she plants the seeds and tends to them with her own weary wings.
+Each time she asks the other creatures for help—the fox, the raven, the badger—and each time they refuse. “No, I am too busy,” they say, or “That is not my burden.”
 
 Subject Focus:
-Dove, Plow, Seedlings
+Dove, Malcontents, Harvest
 
 ----
 
