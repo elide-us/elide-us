@@ -53,10 +53,10 @@ Interpretation:
 Each scene should depict the one primary theme, idea, or concept in each narrative.
 
 Narrative Section (generate the image from the following):
-It’s a story that, in time, I came to see as a parable of our world, here in the realms of Prism. They called it The Tale of the Grey Dove.
+In this tale, the Grey Dove longs to bake a loaf of bread. She has nothing but land and seed. The fields are wild and unforgiving, but she is determined.
 
 Subject Focus:
-Fireside, Dove, Smoke
+Dove, Seed, Field
 
 ----
 
