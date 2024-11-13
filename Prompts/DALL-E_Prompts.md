@@ -1,4 +1,4 @@
-Image Type - 
+#Image Type - 
 Generate a photorealistic, close-up, professional portrait image of a female, elven character, framed as a bust (shoulders and head only) with the character looking directly at the camera. This should resemble a high-quality professional photograph with sharp details.
 
 Aspect Ratio -
@@ -53,8 +53,6 @@ Interpretation:
 Each scene should depict the one primary theme, idea, or concept in each narrative.
 
 Narrative Section (generate the image from the following):
-In this tale, the Grey Dove longs to bake a loaf of bread. She has nothing but land and seed. The fields are wild and unforgiving, but she is determined.
-
 So, step by step, she begins. First, she goes to the meadow and clears the ground, then she plants the seeds and tends to them with her own weary wings.
 
 Subject Focus:
