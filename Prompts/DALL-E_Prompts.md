@@ -53,10 +53,10 @@ Interpretation:
 Each scene should depict the one primary theme, idea, or concept in each narrative.
 
 Narrative Section (generate the image from the following):
-Each time she asks the other creatures for help—the fox, the raven, the badger—and each time they refuse. “No, I am too busy,” they say, or “That is not my burden.”
+So she toils alone, carrying the work from planting to harvest, and finally to baking the bread herself.
 
 Subject Focus:
-Dove, Malcontents, Harvest
+Dove, Wheat, Flour, Dough
 
 ----
 
