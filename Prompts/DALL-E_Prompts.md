@@ -38,24 +38,23 @@ Animation Guidance: Background elements should fade as the combatants come toget
 
 ----
 
-Template Prompt for Dark Gothic Narrative Art:
-
 Aspect Ratio: 16:9
 
 Style:
 A painted illustration in the style of 1980s Dungeons & Dragons artwork, blending dark gothic horror with dreamlike qualities. The colors are muted but deep, using shades that evoke a medieval atmosphere touched by decay and mystery. The scene is rendered with meticulous, hand-painted brushwork, as though created by an artist haunted by visions of a crumbling, shadow-laden world.
 
 Theme:
-Inspired by Dark Souls, Elden Ring, and the haunting aesthetic of the Berserk manga, the image captures a sense of grim fantasy with undertones of despair and intensity. This setting suggests a world on the brink of collapse, where each element hints at lost grandeur and hidden, ominous secrets. The tone is simultaneously oppressive and mystical, as if revealing a lost myth that resonates with contemporary issues.
+Inspired by Dark Souls, Elden Ring, and the haunting aesthetic of the Berserk manga, the image captures a sense of grim fantasy with undertones of despair and intensity. The tone is simultaneously oppressive and mystical, as if revealing a lost myth that resonates with contemporary issues.
 
 Vibe:
 The artwork feels as though narrated by a wizened, old storyteller—his voice low and ragged, burdened by the weight of history. The atmosphere is suffused with a darkly poetic quality, bridging dream and reality in a way that immerses the viewer in an ancient, politically charged parable. The imagery hints at intense struggles and moral conflicts, urging the viewer to draw parallels with familiar themes of power, corruption, and justice.
 
 Interpretation:
-Each scene should depuct the one primary theme, idea, or concept in each narrative.
+Each scene should depict the one primary theme, idea, or concept in each narrative.
 
-Narrative Section:
-[Your specific narrative setting here, e.g., “a forsaken, overgrown cathedral deep within a cursed forest, its stained glass windows shattered, casting twisted, fractured light upon the altar where a robed figure stands amidst shadows.”]
+Narrative Section (generate the image from the following):
+In this world, long ago, I was told a story—a tale of old, passed down from one generation to the next, simple yet dark in its lesson. It’s a tale from a place that feels nearly forgotten, told perhaps by a fireside in the dim glow of candlelight.
 
+Subject Focus: Fireside, Shadows, Smoke
 ----
 
