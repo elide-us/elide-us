@@ -77,9 +77,9 @@ def run_tts():
 
   print("Parsing tts.json")
   with open("tts.json", "r") as json_file:
-    data = json.load(json_file)
+    lines = json.load(json_file)
 
-  for line in data["lines"]:
+  for line in lines["lines"]:
     filename = line["filename"]
     text = line["text"]
     print(f"Processing {filename}, '{text}'")
