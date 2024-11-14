@@ -16,7 +16,7 @@ def run_luma():
   config = load_config()
 
   print("Initializing LumaAI")
-  luma = LumaAI(auth_token=config["lumaai_key"])
+  client = LumaAI(auth_token=config["lumaai_key"])
 
 # generation = luma.generation.create(
 #   prompt="Sweep left, fade to black"
@@ -34,7 +34,7 @@ def run_luma():
 #   }
 # )
 
-  generation = luma.generations.create(
+  generation = client.generations.create(
     aspect_ratio="16:9",
     loop="false",
     prompt="Blur and fade out",
@@ -52,7 +52,7 @@ def run_luma():
 
   completed = False
   while not completed:
-    generation = luma.generations.get(id=generation.id)
+    generation = client.generations.get(id=generation.id)
     if generation.state == "completed":
       completed = True
     elif generation.state == "failed":
