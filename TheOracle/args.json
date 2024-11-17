@@ -56,5 +56,35 @@
             "litep":"Perseverance",
             "darkp":"Relentlessness"
         }
+    ],
+    "sevenschools":[
+        {
+            "arg0": "White",
+            "arg1": "Gold"
+        },
+        {
+            "arg0": "Yellow",
+            "arg1": "White"
+        },
+        {
+            "arg0": "Blood Red",
+            "arg1": "Flame Red"
+        },
+        {
+            "arg0": "Orange",
+            "arg1": "Yellow, Black, Red"
+        },
+        {
+            "arg0": "Black",
+            "arg1": "Purple"
+        },
+        {
+            "arg0": "Blue",
+            "arg1": "Aqua"
+        },
+        {
+            "arg0": "Green",
+            "arg1": "Brown"
+        }
     ]
 }
