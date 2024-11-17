@@ -1,5 +1,6 @@
 import json
 import requests
+import asyncio
 import aiofiles
 import aiohttp
 from datetime import time, datetime, timezone
@@ -98,6 +99,7 @@ def s_load_json(file_path):
   return data
 
 def s_get_template(key):
+  print("Getting prompt template")
   template_data = s_load_json("prompts.json")
   if key not in template_data:
     raise ValueError(f"Key '{key}' not found in JSON file.")
@@ -105,16 +107,17 @@ def s_get_template(key):
   return template
 
 def s_get_arguments_list(key):
+  print("Getting template key map")
   argument_data = s_load_json("args.json")
   if key not in argument_data:
     raise ValueError(f"Key '{key}' not found in JSON file.")
   arguments = argument_data[key]
   return arguments
 
-def s_get_filename(arguments):
+def s_generate_filename(arguments):
   timestamp = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
   filename = f"{timestamp}_{arguments['arg0']}_{arguments['arg1']}"
-  print(f"Generated image filename: {filename}")
+  print(f"Generated filename: {filename}.png")
   return filename
 
 def s_merge_prompt(template, arg_set):
@@ -127,6 +130,7 @@ def s_init_openai():
   return OpenAI(api_key=config["openai_key"])
 
 def s_generate_image(client, prompt):
+  print("Sending prompt to DALL-E-3")
   response = client.images.generate(
     model="dall-e-3",
     prompt=prompt,
@@ -138,25 +142,43 @@ def s_generate_image(client, prompt):
   return image_url
 
 def s_download_image(image_url, filename):
+  print(f"Downloading {filename}.png")
   response = requests.get(image_url, stream=True)
   with open(f"{filename}.png", "wb") as file:
     file.write(response.content)
-  print(f"Output: {filename}.png")
 
-def run_image(key):
-  client = s_init_openai()
-  template = s_get_template(key)
-
-  arguments = s_get_arguments_list(key)
-  for arg_set in arguments:
+async def co_produce_prompts(template_key, arguments_key):
+  template = s_get_template(template_key)
+  arguments_list = s_get_arguments_list(arguments_key)
+  for arg_set in arguments_list:
     prompt = s_merge_prompt(template, arg_set)
-    filename = s_get_filename(arg_set)
+    filename = s_generate_filename(arg_set)
+    yield prompt, filename
+
+async def co_consume_prompts(producer_coroutine):
+  client = s_init_openai()
+  async for prompt, filename in producer_coroutine:
+    s_download_image(s_generate_image(client, prompt), filename)
+
+async def co_run_images(template_key, arguments_key):
+  producer_coroutine = co_produce_prompts(template_key, arguments_key)
+  await co_consume_prompts(producer_coroutine)
+
+def run_image(template_key, arguments_key):
+  client = s_init_openai()
+  template = s_get_template(template_key)
+
+  arguments = s_get_arguments_list(arguments_key)
+  for arg_set in arguments: # from a logic standpoint, this is the producer, or emitter of events
+    prompt = s_merge_prompt(template, arg_set) # and these functions are the consumer
+    filename = s_generate_filename(arg_set)
     s_download_image(s_generate_image(client, prompt), filename)
 
 ################################################################################
 
-run_image("gothfembust")
-
+#run_image("gothfembust")
+#run_image("dreamfembust", "sevenschools")
+asyncio.run(co_run_images("dreamfembust", "sevenschools"))
 #run_tts()
 
 #run_luma()
@@ -252,7 +274,7 @@ async def co_consume_prompt(producer_coroutine, process_prompt, openai_aclient):
     await save_image(image_url, filename)
 
 # Coordination function for image producer
-async def run_images():
+async def DEL_run_images():
   prompts_file = "prompts.json"
   arguments_file = "args.json"
   config_file = "config.json"
@@ -267,4 +289,4 @@ async def run_images():
 
 ################################################################################
 
-#asyncio.run(run_images())
+#asyncio.run(DEL_run_images())
