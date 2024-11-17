@@ -100,7 +100,7 @@ def s_load_json(file_path):
 
 def s_get_template(key):
   print("Getting prompt template")
-  template_data = s_load_json("prompts.json")
+  template_data = s_load_json("templates.json")
   if key not in template_data:
     raise ValueError(f"Key '{key}' not found in JSON file.")
   template = template_data[key]
@@ -108,7 +108,7 @@ def s_get_template(key):
 
 def s_get_arguments_list(key):
   print("Getting template key map")
-  argument_data = s_load_json("args.json")
+  argument_data = s_load_json("arguments.json")
   if key not in argument_data:
     raise ValueError(f"Key '{key}' not found in JSON file.")
   arguments = argument_data[key]
@@ -176,117 +176,11 @@ def run_image(template_key, arguments_key):
 
 ################################################################################
 
-#run_image("gothfembust")
-#run_image("dreamfembust", "sevenschools")
-asyncio.run(co_run_images("dreamfembust", "sevenschools"))
+asyncio.run(co_run_images("gothfembust", "sevenschools"))
+#asyncio.run(co_run_images("dreamfembust", "sevenschools"))
+
 #run_tts()
 
 #run_luma()
 
 ################################################################################
-
-# Async version below is WIP
-
-# Returns a JSON once loaded
-async def load_json(file_path):
-  print(f"Loading JSON from: {file_path}")
-  async with aiofiles.open(file_path, "r") as file:
-    content = await file.read()
-    print(f"Loaded content from {file_path}: {content[:100]}...")  # Print first 100 chars for sanity check
-    return json.loads(content)
-
-# Yields a merged prompt from a template prompt and replacement tokens
-async def merge_prompts(prompts, arguments):
-  for arg_set in arguments:
-    print(f"Merging prompt with arguments: {arg_set}")
-    merged_prompt = prompts.format(**arg_set)
-    print(f"Merged prompt: {merged_prompt[:100]}...")  # Print first 100 chars for sanity check
-    yield merged_prompt
-
-# Sends a prompt to OpenAI to generate an image
-async def process_prompt(prompt, openai_aclient):
-  # Call to OpenAI here
-  try:
-    print("Sending prompt to OpenAI...")
-    response = await openai_aclient.images.generate(
-      model="dall-e-3",
-      prompt=prompt,
-      size="1792x1024",
-      quality="standard",
-      n=1
-    )
-    image_url = response.json()["data"][0]["url"]
-    print(f"Received image URL: {image_url}")
-    return image_url
-  except Exception as e:
-    print(f"Failed to generate image. Error: {str(e)}")
-    return None 
-
-# Function to save image
-async def save_image(image_url, filename):
-  print(f"Saving image from URL: {image_url} to filename: {filename}")
-  async with aiohttp.ClientSession() as session:
-    async with session.get(image_url) as response:
-      if response.status == 200:
-        async with aiofiles.open(filename, 'wb') as file:
-          await file.write(await response.read())
-        print(f"Saved image as {filename}")
-      else:
-        print(f"Failed to download image from {image_url}. HTTP Status Code: {response.status}")
-
-# Loads the template and tokens and produces an array of prompts
-async def co_produce_prompt(prompt_key, prompts_file, arguments_file):
-  print(f"Producing prompt with key: {prompt_key}")
-  prompts_data = await load_json(prompts_file)
-  arguments_data = await load_json(arguments_file)
-
-  # Check the provided prompt key is valid
-  if prompt_key not in prompts_data or prompt_key not in arguments_data:
-    print(f"Error: Key '{prompt_key}' not found in JSON file.")
-    raise ValueError(f"Key '{prompt_key}' not found in JSON file.")
-  
-  # A template string from the provided prompt key (eg: "gothfembust")
-  prompt = prompts_data[prompt_key]["prompt"]
-  print(f"Loaded prompt template: {prompt[:100]}...")  # Print first 100 chars for sanity check
-  # An array of template replacement tokens
-  arguments = arguments_data[prompt_key]
-  print(f"Loaded arguments: {arguments}")
-
-  # Yield a merged prompt to the consumer (co-routine)
-  async for prompt in merge_prompts(prompt, arguments):
-    yield prompt, arguments
-
-# Obtains an image URL and produces a filename for saving an image
-async def co_consume_prompt(producer_coroutine, process_prompt, openai_aclient):
-  async for prompt, arguments in producer_coroutine:
-    print(f"Processing prompt...")
-    image_url = await process_prompt(prompt, openai_aclient)
-    if not image_url:
-      print(f"Skipping prompt due to failed image generation.")
-      continue
-    print(f"Image generated: {image_url}")
-
-    timestamp = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
-    filename = f"{timestamp}_{arguments.get('arg0')}_{arguments.get('arg1')}.png"
-    print(f"Generated filename: {filename}")
-
-    # save_image(image_url, filename) # Synchronous version
-    await save_image(image_url, filename)
-
-# Coordination function for image producer
-async def DEL_run_images():
-  prompts_file = "prompts.json"
-  arguments_file = "args.json"
-  config_file = "config.json"
-
-  print("Initializing OpenAI")
-  config_data = await load_json(config_file)
-  openai_key = config_data["openai_key"]
-  openai_aclient = AsyncOpenAI(api_key=openai_key)
-
-  producer_coroutine = co_produce_prompt("gothfembust", prompts_file, arguments_file)
-  await co_consume_prompt(producer_coroutine, process_prompt, openai_aclient)
-
-################################################################################
-
-#asyncio.run(DEL_run_images())
