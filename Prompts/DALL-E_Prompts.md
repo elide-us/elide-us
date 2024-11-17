@@ -19,7 +19,11 @@ The scene is brightly lit, as if illuminated by soft morning sunlight streaming 
 
 ----
 
+Scene:
+A softly illuminated, amorphous humanoid figure stands in the foreground in a portrait-style perspective, subtly blending with an ethereal background. The figure is undefined, acting as a placeholder for a future character subject.
 
+Backdrop:
+A Gothic cathedral floating in an ethereal, moonlit plane, its stone pillars and spires shrouded in silvery mist. Soft moonlight streams through towering, abstract stained-glass windows, casting shifting, arcane symbols across the floors. The cathedral floor is polished to a mirror-like finish, reflecting the soft glow and creating an illusion of endless depth beneath the subject’s feet. The architecture dissolves at the edges, as if part of a dream, blending seamlessly with the swirling mist. Shadows and highlights dance in an unreal glow, creating a timeless, enchanted sanctuary that feels suspended between worlds. This backdrop is blurred, adding a glowing, dreamlike quality to enhance the surreal effect behind the subject.
 
 ----
 
