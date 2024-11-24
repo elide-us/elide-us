@@ -43,8 +43,8 @@ async def a_load_json(file_path: str) -> dict:
   return json.loads(data)
 
 CONFIG = AsyncSingleton(lambda: a_load_json("config.json"))
-TTSLINES = AsyncSingleton(lambda: a_load_json("text.json"))
 TEMPLATES = AsyncSingleton(lambda: a_load_json("templates.json"))
+TTSLINES = AsyncSingleton(lambda: a_load_json("text.json"))
 LUMACUTS = AsyncSingleton(lambda: a_load_json("lumacuts.json"))
 
 ################################################################################
@@ -60,7 +60,7 @@ async def a_get_openai_token() -> str:
   else:
     config = await CONFIG.get()
     return config["tokens"]["openai"]
-  
+
 async def a_init_openai():
   """
   Creates and initializes the OpenAI client.
@@ -147,7 +147,7 @@ async def a_format_template(template: str, arguments: dict) -> str:
   return template.format(**arguments)
 
 async def a_generate_filename(identifier: str) -> str:
-  timestamp = datetime.now(timezone.utc).strftime("%Y%M%D%H%M%S")
+  timestamp = datetime.now(timezone.utc).strftime("%Y%M%d%H%M%S")
   filename = f"{timestamp}_{identifier}"
   print(f"Generated filename: {filename}.")
   return filename
@@ -202,24 +202,31 @@ async def a_download_image(image_url, filename, channel):
       else:
         print(f"Failed to download image. Status code: {response.status}")
 
-async def co_produce_image(template_key, arguments, channel):
+async def co_produce_prompt(template_key, arguments, channel):
   print("Producing prompt.")
   template = await a_get_template(template_key)
   prompt = await a_format_template(template, arguments)
-  print("Creating identifier.")
-  identifier = f"{arguments['primary_color']}_{arguments['secondary_color']}"
+  print("Arguments received:", arguments)
+  print("Type of arguments:", type(arguments))
+  if not isinstance(arguments, dict):
+    raise ValueError("Arguments must be a dictionary for creating identifier.")
+  # Fixing identifier creation
+  if len(arguments) < 2:
+    raise ValueError("Insufficient arguments to create identifier.")
+  identifier = f"{list(arguments.values())[0]}_{list(arguments.values())[1]}"
+  print(f"Generated identifier: {identifier}")
   filename = await a_generate_filename(identifier)
   yield prompt, filename, channel
 
-async def co_consume_image(producer_coroutine):
+async def co_consume_prompt(producer_coroutine):
   print("Consuming prompt.")
   async for prompt, filename, channel in producer_coroutine:
     image_url = await a_generate_image(prompt)
     await a_download_image(image_url, filename, channel)
 
 async def co_run_images(template_key, arguments, channel):
-  producer_coroutine = co_produce_image(template_key, arguments, channel)
-  await co_consume_image(producer_coroutine)
+  producer_coroutine = co_produce_prompt(template_key, arguments, channel)
+  await co_consume_prompt(producer_coroutine)
 
 async def a_generate_audio(session, voice, text, channel):
   client = await OPENAI.get()
@@ -249,10 +256,9 @@ async def generate_video(start_asset, end_asset):
 ################################################################################
 
 async def a_handle_audio_generate(args: str, channel: str):
-  if len(args) < 2:
+  if len(args) < 3:
     raise ValueError("Audio generate requires at least 3 arguments.")
-  session = args[0]
-  voice = args[1]
+  session, voice = args[0], args[1]
   text = " ".join(args[2:])
   print(f"Starting TTS generation for text: {text}")
   return await a_generate_audio(session, voice, text, channel)
@@ -264,16 +270,27 @@ async def a_handle_text_generate(args: str, channel: str):
   print(f"Starting text generation for prompt: {prompt}")
   return await a_generate_text(prompt)
 
+def simple_parser(input_string):
+  key_value_pairs = input_string.split(", ")
+  result = {}
+  for pair in key_value_pairs:
+    key, value = map(str.strip, pair.split(":", 1))
+    result[key] = value
+  return result
+
+# !imagen image generate benoit description: A broken down scavenger outpost, scene_type: Rocky outlands, depth_effect: Tilt shot, framing: Wide angle, narrative: Mystery, color_variant: Lunar blue, light_source: Moonlight
+# {description} {scene_type} {depth_effect} {framing} {narrative} {color_variant} {light_source}
+
 async def a_handle_image_generate(args: str, channel: str):
-  if len(args) != 3:
-    raise ValueError("Image generate requires 3 arguments.")
-  template, primary, secondary = args
-  arguments = {
-    "primary_color": primary,
-    "secondary_color": secondary
-  }
-  print(f"Starting image generation for template '{template}' with colors {primary} and {secondary}.")
-  await co_run_images(template, arguments, channel)
+  if len(args) < 2:
+    raise ValueError("Image generate requires at least 1 arguments.")
+  
+  template = args[0]
+  arguments_str = " ".join(args[1:])
+
+  print(f"Starting image generation for args: {arguments_str}")
+  arguments = simple_parser(arguments_str)
+  return await co_run_images(template, arguments, channel)
 
 async def handle_video_generate(args):
   if len(args) < 1:
