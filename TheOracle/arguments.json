@@ -1,12 +1,12 @@
 {
     "gothfembust":[
         {
-            "arg0": "White",
-            "arg1": "Gold",
+            "primary_color": "White",
+            "secondary_color": "Gold",
             "title": "School of White Magic",
             "domain": "Light and Prophecy",
-            "litep":"Enlightenment",
-            "darkp":"Mendacity"
+            "light_philosopy":"Enlightenment",
+            "dark_philosopy":"Mendacity"
         },
         {
             "arg0": "Yellow",
