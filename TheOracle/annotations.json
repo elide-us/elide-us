@@ -1,0 +1,60 @@
+{
+    "annotations":[
+        {
+            "primary_color": "White",
+            "secondary_color": "Gold",
+            "title": "School of White Magic",
+            "domain": "Light and Prophecy",
+            "light_philosophy":"Enlightenment",
+            "dark_philosophy":"Mendacity"
+        },
+        {
+            "primary_color": "Yellow",
+            "secondary_color": "White",
+            "title": "School of Yellow Magic",
+            "domain": "Air and Lightning",
+            "light_philosophy":"Courage",
+            "dark_philosophy":"Audacity"
+        },
+        {
+            "primary_color": "Blood Red",
+            "secondary_color": "Flame Red",
+            "title": "School of Red Magic",
+            "domain": "Fire and Blood",
+            "light_philosophy":"Valor",
+            "dark_philosophy":"Wrath"
+        },
+        {
+            "primary_color": "Orange",
+            "secondary_color": "Yellow, Black, Red",
+            "title": "School of Orange Magic",
+            "domain": "Chaos and Transformation",
+            "light_philosophy":"Diligence",
+            "dark_philosophy":"Anarchy"
+        },
+        {
+            "primary_color": "Black",
+            "secondary_color": "Purple",
+            "title": "School of Black Magic",
+            "domain": "Death and Void",
+            "light_philosophy":"Transcendence",
+            "dark_philosophy":"Ambition"
+        },
+        {
+            "primary_color": "Blue",
+            "secondary_color": "Aquamarine",
+            "title": "School of Blue Magic",
+            "domain": "Water and Illusion",
+            "light_philosophy":"Knowledge",
+            "dark_philosophy":"Truth"
+        },
+        {
+            "primary_color": "Green",
+            "secondary_color": "Brown",
+            "title": "School of Magic",
+            "domain": "Life and Earth",
+            "light_philosophy":"Perseverance",
+            "dark_philosophy":"Relentlessness"
+        }
+    ]
+}
