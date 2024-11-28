@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Elideus (əˈlīˈdēˈəs) @elide-us
 - 👀 I’m interested in life, the universe, and everything
-- 🌱 I’m currently learning CUDA and DirectX 12
-- 💞️ I’m looking to collaborate on C++ projects
+- 🌱 I’m currently building AI tools integrated with Discord
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: @elideus on Discord
 - ⚡ Fun fact: I worked on the original Half-Life
 - 💎 GenX gamer: Apple ][, IBM PC, NES
