@@ -1,5 +1,5 @@
 import asyncio, aiohttp, aiofiles
-from module_clients import LUMAAI, LUMACUTS
+from module_clients import LUMAAI, LUMAFADES
 
 async def a_download_generation(video_url, filename):
   async with aiohttp.ClientSession() as session:
@@ -18,7 +18,7 @@ async def a_get_lumacuts(key: str) -> list:
   """
   Loads a particular set of cut templates from lumacuts.json.
   """
-  cuts_data = await LUMACUTS.get()
+  cuts_data = await LUMAFADES.get()
   if key not in cuts_data:
     raise ValueError(f"Key '{key}' not found in JSON file.")
   cuts = cuts_data[key]
@@ -39,11 +39,15 @@ async def a_get_keyframes(start_asset, end_asset):
       "url":"https://theoraclesa.blob.core.windows.net/lumaai/key_black.jpg"
     }
   }
-  return keyframes
 
-async def a_generate_video(start_asset):
-  client = LUMAAI.get()
-  return
+  if end_asset is None:
+    # get JSON block
+    return keyframes
+
+  if start_asset is None:
+    return keyframes  
+
+  return keyframes
 
 async def a_generate_video(start_asset, end_asset):
   client = LUMAAI.get()

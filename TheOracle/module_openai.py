@@ -3,8 +3,6 @@ import discord
 from datetime import datetime, timezone
 from module_clients import OPENAI, TEMPLATES
 
-################################################################################
-
 async def a_generate_text(prompt: str) -> str:
   """
   Generates text using OpenAI ChatGPT.
@@ -36,7 +34,7 @@ async def a_generate_audio(session, voice, text, channel):
     print(f"Output: {file_path}")
   await channel.send(file=discord.File(file_path))
 
-# Keys: gothfembust
+# Keys: gothfembust, benoit
 async def a_get_template(key: str) -> str:
   """
   Loads a particular image template from template.json.
@@ -128,5 +126,3 @@ def simple_parser(input_string):
     key, value = map(str.strip, pair.split(":", 1))
     result[key] = value
   return result
-
-################################################################################

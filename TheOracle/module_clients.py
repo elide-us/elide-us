@@ -5,13 +5,29 @@ from openai import AsyncOpenAI
 from lumaai import LumaAI
 from AsyncSingleton import AsyncSingleton, a_load_json
 
+# General config.json dictionary with various values for local run
 CONFIG = AsyncSingleton(lambda: a_load_json("config.json"))
-
 TEMPLATES = AsyncSingleton(lambda: a_load_json("templates.json"))
+DATA = AsyncSingleton(lambda: a_load_json("data.json"))
 
-ANNOTATIONS = AsyncSingleton(lambda: a_load_json("annocations.json"))
-TTSLINES = AsyncSingleton(lambda: a_load_json("text.json"))
-LUMACUTS = AsyncSingleton(lambda: a_load_json("lumacuts.json"))
+async def a_load_lumafades() -> list:
+  data = DATA.get()
+  lumafades = data["lumafades"]
+  return lumafades
+
+async def a_load_annotations() -> list:
+  data = DATA.get()
+  annotations = data["annotations"]
+  return annotations
+
+async def a_load_ttslines() -> list:
+  data = DATA.get()
+  ttslines = data["ttslines"]
+  return ttslines
+
+LUMAFADES = AsyncSingleton(lambda: a_load_lumafades())
+ANNOTATIONS = AsyncSingleton(lambda: a_load_annotations())
+TTSLINES = AsyncSingleton(lambda: a_load_ttslines())
 
 async def a_get_openai_token() -> str:
   """
@@ -32,6 +48,8 @@ async def a_init_openai():
   token = await a_get_openai_token()
   return AsyncOpenAI(api_key=token)
 
+OPENAI = AsyncSingleton(a_init_openai)
+
 async def a_get_lumaai_token() -> str:
   """
   Gets the LumaAI API bearer token from the environment or config.json.
@@ -50,6 +68,19 @@ async def a_init_lumaai():
   print("Initializing LumaAI client.")
   token = await a_get_lumaai_token()
   return LumaAI(auth_token=token)
+
+LUMAAI = AsyncSingleton(a_init_lumaai)
+
+async def a_init_discord():
+  """
+  Creates and initializes the Discord bot.
+  """
+  print("Initializing Discord bot.")
+  intents = discord.Intents.default()
+  intents.messages = True
+  intents.message_content = True
+  bot = commands.Bot(command_prefix='!', intents=intents)
+  return bot
 
 async def a_get_discord_token() -> str:
   """
@@ -70,19 +101,6 @@ async def a_get_discord_channel() -> int:
     config = await CONFIG.get()
     return config["apps"]["imagen"]
 
-async def a_init_discord():
-  """
-  Creates and initializes the Discord bot.
-  """
-  print("Initializing Discord bot.")
-  intents = discord.Intents.default()
-  intents.messages = True
-  intents.message_content = True
-  bot = commands.Bot(command_prefix='!', intents=intents)
-  token = a_get_discord_token
-  channel = a_get_discord_channel
-  return bot, token, channel
-
-LUMAAI = AsyncSingleton(a_init_lumaai)
 DISCORD = AsyncSingleton(a_init_discord)
-OPENAI = AsyncSingleton(a_init_openai)
+DISCORD_TOKEN = AsyncSingleton(a_get_discord_token)
+DISCORD_CHANNEL = AsyncSingleton(a_get_discord_channel)

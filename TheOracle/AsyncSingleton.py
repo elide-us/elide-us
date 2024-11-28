@@ -28,6 +28,5 @@ class AsyncSingleton:
     if self._value is None:
       async with self._lock:  # Ensure only one coroutine initializes the value
         if self._value is None:  # Double-checked locking
-          print(f"Calling on-demand loader: {self._loader_func.__name__}")
           self._value = await self._loader_func()
     return self._value

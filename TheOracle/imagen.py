@@ -1,5 +1,5 @@
 import asyncio
-from module_clients import DISCORD
+from module_clients import DISCORD, DISCORD_TOKEN, DISCORD_CHANNEL
 from module_openai import a_generate_audio, a_generate_text, co_run_images, simple_parser
 from module_lumaai import a_generate_video
 
@@ -90,7 +90,9 @@ async def a_parse_and_dispatch(command: str, channel: str):
 
 async def main():
   print("Starting imagen")
-  bot, bot_token, bot_channel = await DISCORD.get()
+  bot = await DISCORD.get()
+  bot_token = await DISCORD_TOKEN.get()
+  bot_channel = await DISCORD_CHANNEL.get()
 
   @bot.event
   async def on_ready():
