@@ -1,0 +1,90 @@
+{
+    "gothfembust":[
+        {
+            "primary_color": "White",
+            "secondary_color": "Gold",
+            "title": "School of White Magic",
+            "domain": "Light and Prophecy",
+            "light_philosopy":"Enlightenment",
+            "dark_philosopy":"Mendacity"
+        },
+        {
+            "arg0": "Yellow",
+            "arg1": "White",
+            "title": "School of Yellow Magic",
+            "domain": "Air and Lightning",
+            "litep":"Courage",
+            "darkp":"Audacity"
+        },
+        {
+            "arg0": "Blood Red",
+            "arg1": "Flame Red",
+            "title": "School of Red Magic",
+            "domain": "Fire and Blood",
+            "litep":"Valor",
+            "darkp":"Wrath"
+        },
+        {
+            "arg0": "Orange",
+            "arg1": "Yellow, Black, Red",
+            "title": "School of Orange Magic",
+            "domain": "Chaos and Transformation",
+            "litep":"Diligence",
+            "darkp":"Anarchy"
+        },
+        {
+            "arg0": "Black",
+            "arg1": "Purple",
+            "title": "School of Black Magic",
+            "domain": "Death and Void",
+            "litep":"Transcendence",
+            "darkp":"Ambition"
+        },
+        {
+            "arg0": "Blue",
+            "arg1": "Aquamarine",
+            "title": "School of Blue Magic",
+            "domain": "Water and Illusion",
+            "litep":"Knowledge",
+            "darkp":"Truth"
+        },
+        {
+            "arg0": "Green",
+            "arg1": "Brown",
+            "title": "School of Magic",
+            "domain": "Life and Earth",
+            "litep":"Perseverance",
+            "darkp":"Relentlessness"
+        }
+    ],
+    "sevenschools":[
+        {
+            "arg0": "White",
+            "arg1": "Gold"
+        },
+        {
+            "arg0": "Yellow",
+            "arg1": "White"
+        },
+        {
+            "arg0": "Blood Red",
+            "arg1": "Flame Red"
+        },
+        {
+            "arg0": "Orange",
+            "arg1": "Yellow, Black, Red"
+        },
+        {
+            "arg0": "Black",
+            "arg1": "Purple"
+        },
+        {
+            "arg0": "Blue",
+            "arg1": "Aqua"
+        },
+        {
+            "arg0": "Green",
+            "arg1": "Brown"
+        }
+    ]
+}
