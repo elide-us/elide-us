@@ -80,57 +80,6 @@
             "dark_philosophy":"Relentlessness"
         }
     ],
-    "compositions1":{
-        "rule-of-thirds":"Divide the frame into a 3x3 grid and place key elements along the lines or intersections.",
-        "central-framing":"Place the subject in the center of the frame for symmetry or to create a sense of power, isolation, or intensity.",
-        "phi-grid":"Use proportions derived from the Fibonacci sequemce to create a harmonious composition (1:1.618)",
-        "leading-lines":"Use natural or artificial lines (roads, rivers, architecture) to guide the viewer`s eye towards the subject or through the scene.",
-        "diagonal-composition":"Arrange elements along diagonal lines to create dynamism, tension, or motion.",
-        "triangular-composition":"Group subjects or elements to form an implied triangle, often used to convey stability, hierarchy, or narrative.",
-        "frame-within-frame":"Use elements like windows, doors, or arches to create a `frame` around the subject.",
-        "negative-space":"Emphaize the subject by surrounding it with empty or neutral space for minimalism or to convey loneliness or focus.",
-        "asymmetry":"Create visual interest by deliverately breaking symmetry while maintaining balance in the composition."
-    },
-    "compositions2":{
-        "chiaroscuro":"Strong contrast between light and dark areas, often to highlight drama or mystery.",
-        "silhouette":"Use backlighting to outline a subject in shadow against a bright background.",
-        "high-key":"Bright, even lighting with minimal shadows for an airy, optimistic tone.",
-        "low-key":"Predominantly dark tones with small highlights to emphasize mood, tension, or intimacy.",
-        "rembrandt":"A triangle of light under the subject`s eye on the shadowed side of their face.",
-        "split-lighting":"Half the subject`s face is illuminated, the other half in shadow, for dramatic tensions."
-    },
-    "compositions3":{
-        "one-point":"All lines converge toward a single vanishing point, often used for symmetry or depth.",
-        "two-point":"Two vanishing points create a sense of width and depth, commly used in architectural shots.",
-        "over-shoulder":"Frame the scene from behind a character`s shoulder to create intimacy or context.",
-        "birds-eye-view":"Shoot from high above to create a sense of detachment or to highlight spatial relationships.",
-        "worms-eye-view":"Shoot from below to emphasize scale, power, or vulnerability.",
-        "dutch-angle":"Tilt the camera to create unease, tension, or disorientation.",
-        "tilt-shift":"Use selective focus and blurred edges to create the illusion of miniaturization, mimicking the shallow depth of field seen in macro photography."
-    },
-    "compositions4":{
-        "radial-composition":"Arrange elements to radiate from or converge toward a central point.",
-        "repetition-pattern":"Use recurring shapes, lines, or textures to create a rythm, with or without a break for emphasis.",
-        "layering":"Use foreground, middle ground, and background elements to add depth and context.",
-        "depth-cues":"Use atmospheric effects like haze or soft focus to imply distance and depth.",
-        "reflections":"Incorporate mirrors, water, or reflective surfaces for symmetry or duality.",
-        "dynamic-tension":"Place visual elements in opposing directions to create energy or conflict.",
-        "foreground-obstruction":"Use out-of-focus objects in the foreground to create a sense of depth or voyeurism.",
-        "s-curve":"Lead the viewer`s sys with a winding path or shape, often assiciated with elegance or flow.",
-        "golden-triangle":"Divide the frame into triangles using diagonal lines and arrange subjects along these lines."
-    },
-    "compositions5":{
-        "eye-level-composition":"Frame the subject at eye level for neutrality and connection with the viewer.",
-        "close-up":"Focus tightly on a subject`s face or detail to emphasize emotion or texture.",
-        "extreme-close-up":"Magnify a small detail for symbolic or narrative significance.",
-        "wide-angle":"Show the environment to establish context or scale.",
-        "overlapping-elements":"Arrange subjects to partially obscure one another, rempasizing depth or relationships.",
-        "silhouetted-figures":"Use darkened foreground figures against a lit background to hightlight scale and drama.",
-        "off-balance":"Place the subject off-center with extra weight on one side for tension or unease.",
-        "foreground-context":"Include foreground objects in focus to frame and contextualize the subject in its environment.",
-        "implied-motion":"Use motion blur, leading elements, or framing to suggest actions.",
-        "subdivided-composition":"Break the frame into smaller sections (e.g., split screen or layered narrative)."        
-    },
     "lumafades":[
         {
             "name":"toBlack",
