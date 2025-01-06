@@ -13,13 +13,6 @@ async def load_json(file_path: str):
 CONFIG = AsyncSingleton(lambda: a_load_json("config.json"))
 DATA = AsyncSingleton(lambda: a_load_json("data.json"))
 
-async def a_load_lumafades() -> list:
-  data = DATA.get()
-  lumafades = data["lumafades"]
-  return lumafades
-
-LUMAFADES = AsyncSingleton(lambda: a_load_lumafades())
-
 async def a_get_lumaai_token() -> str:
   secret = os.getenv('LUMAAI_SECRET')
   if secret:
@@ -51,19 +44,6 @@ async def a_download_generation1(video_url, filename):
       else:
         print(f"Failed to download {file_path}. Status: {response.status}")
 
-# Keys: fades (This is not implemented, just an idea for templating the prompts for Luma)
-async def a_get_lumacuts1(key: str) -> list:
-  """
-  Loads a particular set of cut templates from lumacuts.json.
-  """
-  cuts_data = await LUMAFADES.get()
-  if key not in cuts_data:
-    raise ValueError(f"Key '{key}' not found in JSON file.")
-  cuts = cuts_data[key]
-  for cut in cuts:
-    print(f"{cut["name"]}")
-  return cuts
-
 async def a_get_keyframes1(start_asset, end_asset):
   # if _asset is a URL (starts with https:), create type:image
   # else create type:generation (validate the GUID)
@@ -90,7 +70,7 @@ async def a_get_keyframes1(start_asset, end_asset):
 async def a_generate_video1(start_asset, end_asset):
   client = LUMAAI.get()
 
-  keyframes = a_get_keyframes(start_asset=start_asset, end_asset=end_asset)
+  keyframes = a_get_keyframes1(start_asset=start_asset, end_asset=end_asset)
 
   generation = client.generations.create(
     aspect_ratio="16:9",
@@ -111,7 +91,7 @@ async def a_generate_video1(start_asset, end_asset):
   video_url = generation.assets.video
   filename = generation.id
 
-  await a_download_generation(video_url, filename)
+  await a_download_generation1(video_url, filename)
 
 ################################################################################
 ## LumaLabs API v2
@@ -129,22 +109,8 @@ async def a_download_generation2(video_url, filename):
       else:
         print(f"Failed to download {file_path}. Status: {response.status}")
 
-# Keys: fades (This is not implemented, just an idea for templating the prompts for Luma)
-async def a_get_lumacuts2(key: str) -> list:
-  """
-  Loads a particular set of cut templates from lumacuts.json.
-  """
-  cuts_data = await LUMAFADES.get()
-  if key not in cuts_data:
-    raise ValueError(f"Key '{key}' not found in JSON file.")
-  cuts = cuts_data[key]
-  for cut in cuts:
-    print(f"{cut["name"]}")
-  return cuts
-
 def is_url(asset):
   return isinstance(asset, str) and asset.startswith("https:")
-
 def is_valid_guid(guid):
   guid_regex = re.compile(
     r'^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$'
@@ -188,7 +154,7 @@ async def a_get_keyframes2(start_asset, end_asset):
 # prompt="Pull out",
 async def a_generate_video2(prompt, start_asset, end_asset, channel):
   client = await LUMAAI.get()
-  keyframes = await a_get_keyframes(start_asset, end_asset)
+  keyframes = await a_get_keyframes2(start_asset, end_asset)
 
   generation = client.generations.create(
     aspect_ratio="16:9",
@@ -209,45 +175,47 @@ async def a_generate_video2(prompt, start_asset, end_asset, channel):
 
   if channel:
     await channel.send(f"Generation URL: {video_url}, Generation ID: {filename}")
-  await a_download_generation(video_url, filename)
+  await a_download_generation2(video_url, filename)
 
 ################################################################################
+##
 ################################################################################
-
-# Hardcoded connection string for testing purposes
-CONNECTION_STRING = "postgresql://your_user:your_password@your_host:5432/your_database"
 
 # Function to execute a query from a JSON file
 async def run_query():
-    try:
-        # Connect to the PostgreSQL database
-        conn = await asyncpg.connect(CONNECTION_STRING)
+  try:
+    print("Connect to db")
+    conn = await asyncpg.connect(
+      user="theoracleadmin",
+      password="",
+      host="theoraclepg.postgres.database.azure.com",
+      port=5432,
+      database="postgres"
+    )
 
-        # Read the query from the JSON file
-        with open('query.json', 'r') as file:
-            data = json.load(file)
-            query = data.get('query', '')
+    print("Load JSON")
+    json = await load_json("query.json")
+    query = json.get('query' , '')
 
-        if not query:
-            print("No query found in query.json")
-            return
+    if not query:
+      print("No query found in query.json")
+      return
 
-        # Execute the query and fetch results
-        result = await conn.fetch(query)
+    print("Execute query")
+    result = await conn.fetch(query)
 
-        # Print the result
-        if result:
-            print("Query result:")
-            for row in result:
-                print(dict(row))
-        else:
-            print("Query executed successfully with no results.")
+    if result:
+      print("Query result:")
+      for row in result:
+        print(dict(row))
+    else:
+      print("Query executed successfully with no results.")
 
-        # Close the connection
-        await conn.close()
+    print("close connection")
+    await conn.close()
 
-    except Exception as e:
-        print(f"An error occurred: {e}")
+  except Exception as e:
+    print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
   asyncio.run(run_query())
