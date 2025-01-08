@@ -1,0 +1,414 @@
+{
+  "Storyboard Templates": [
+    {
+      "title": "Outdoors Urban",
+      "description": "Bustling cityscapes, streets, parks, alleyways, rooftops.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20250102225528_Outdoors Urban.png",
+      "layer1": "Tone: {tone} Mood: {mood}",
+      "layer2": "Framing: {comp-framing} Presentation: {comp-presentation} Lines: {comp-lines} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Light Effect: {lighting-effect} Details: {details}",
+      "layer4": "Background: {background}",
+      "input": "Provide a building, vehicle, monument, or other outdoor city scene."
+    },
+    {
+      "title": "Outdoors Countryside",
+      "description": "Rolling hills, farms, meadows, distant villages.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Presentation: {comp-presentation} Lines: {comp-lines} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Light Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Provide farmland, barns, meadows, or other serene countryside elements."
+    },
+    {
+      "title": "Outdoors Wilderness",
+      "description": "Dense forests, desert dunes, frozen tundras.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Presentation: {comp-presentation} Lines: {comp-lines} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Light Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Provide a remote wilderness scene: forest, desert, mountains, or similar."
+    },
+    {
+      "title": "Indoors Intimate",
+      "description": "Cozy living spaces, libraries, candlelit rooms.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Presentation: {comp-presentation} Lines: {comp-lines} Depth Effect: {depth}",
+      "layer3": "Palette (Indoors): {palette-indoor} Light Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Provide a small, cozy interior setting, such as a warm study or reading nook."
+    },
+    {
+      "title": "Indoors Casual",
+      "description": "Cafés, lounges, common areas, offices.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Presentation: {comp-presentation} Lines: {comp-lines} Depth Effect: {depth}",
+      "layer3": "Palette (Indoors): {palette-indoor} Light Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Provide an everyday indoor scene, such as a café, office, or lounge."
+    },
+    {
+      "title": "Indoors Grand",
+      "description": "Cathedrals, mansions, ballrooms, conference halls.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Presentation: {comp-presentation} Lines: {comp-lines} Depth Effect: {depth}",
+      "layer3": "Palette (Indoors): {palette-indoor} Light Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Provide a large and impressive interior space, such as a grand hall."
+    }
+  ],
+  "Portrait Focus": [
+    {
+      "title":"Magic Elf Portrait",
+      "description":"Generates a glam-shot style portrait of a female elf in a specific color outfit.",
+      "imageUrl":"https://theoraclesa.blob.core.windows.net/theoraclegpt/20250103025339_Magic%20Elf%20Bust.png",
+      "layer1":"Style: {style} Tone: {tone} Medium: {medium}",
+      "layer2":"Framing: {comp-framing} Presentation: {comp-presentation} Depth Effect: {depth}",
+      "layer3":"Palette: {palette-gfb} Shape: {shape-gfb} Details: {details} Lighting Type: {lighting-type} Lighting Source: {lighting-source}",
+      "layer4":"Subject: {subject} Outfit: {outfit} Background: {background}",
+      "input":"Only minor variations on elves can be provided here."
+    },
+    {
+      "title": "Professional Portraits",
+      "description": "Studio-lit, formal attire, neutral backdrops.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Presentation: {comp-presentation}",
+      "layer3": "Lighting Source: {lighting-source} Lighting Effect: {lighting-effect} Details: {details}",
+      "layer4": "Subject: {subject}",
+      "input": "Provide a formal portrait setup with neutral or corporate vibes."
+    },
+    {
+      "title": "Casual Portraits",
+      "description": "Natural lighting, candid poses, soft environments.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Presentation: {comp-presentation}",
+      "layer3": "Lighting Source: {lighting-source} Lighting Effect: {lighting-effect} Details: {details}",
+      "layer4": "Subject: {subject}",
+      "input": "Provide a relaxed portrait setup, possibly outdoors or in a comfortable indoor environment."
+    },
+    {
+      "title": "Character Concept Portraits",
+      "description": "Fantasy/gothic-inspired designs with specific traits.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Presentation: {comp-presentation}",
+      "layer3": "Palette (Special): {palette-special} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Outfit: {outfit}",
+      "input": "Provide a fantasy or gothic character portrait with distinctive thematic attire."
+    },
+    {
+      "title": "Group Portraits",
+      "description": "Small groups interacting, posed or candid.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Presentation: {comp-presentation}",
+      "layer3": "Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: group-of-characters",
+      "input": "Provide a scene featuring multiple people interacting or posing together."
+    }
+  ],
+  "Panoramic & Landscape Focus": [
+    {
+      "title": "Natural Features",
+      "description": "Mountains, cliffs, waterfalls, lakes.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Lines: {comp-lines} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Lighting Source: {lighting-source}",
+      "layer4": "Background: {background}",
+      "input": "Provide a panoramic scene featuring a prominent natural landmark (mountain, cliff, waterfall, etc.)."
+    },
+    {
+      "title": "Iconic Landmarks",
+      "description": "Eiffel Tower, Statue of Liberty, Mount Fuji.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Depth Effect: {depth}",
+      "layer3": "Lighting Source: {lighting-source} Lighting Effect: {lighting-effect} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Depict a famous landmark in a wide or panoramic setting."
+    },
+    {
+      "title": "Dramatic Horizons",
+      "description": "Sunsets, storms, starry skies.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Presentation: {comp-presentation} Lines: {comp-lines}",
+      "layer3": "Palette (Special): {palette-special} Lighting Effect: {lighting-effect}",
+      "layer4": "Background: {background}",
+      "input": "Show an expansive horizon scene with intense weather or sky conditions."
+    },
+    {
+      "title": "Environmental Extremes",
+      "description": "Volcanic eruptions, hurricanes, glaciers.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Background: {background}",
+      "input": "Depict a dramatic natural phenomenon or extreme environmental scenario."
+    }
+  ],
+  "Object Focus": [
+    {
+      "title": "Iconic Objects",
+      "description": "Historical artifacts, monuments, significant statues.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Presentation: {comp-presentation} Lines: {comp-lines}",
+      "layer3": "Details: {details} Lighting Source: {lighting-source}",
+      "layer4": "Subject: {subject}",
+      "input": "Showcase a significant historical or cultural object in focus."
+    },
+    {
+      "title": "Still Life",
+      "description": "Everyday objects in moody lighting.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Depth Effect: {depth}",
+      "layer3": "Palette (Indoors): {palette-indoor} Lighting Effect: {lighting-effect}",
+      "layer4": "Subject: {subject}",
+      "input": "Arrange a still-life composition with a few everyday objects and interesting lighting."
+    },
+    {
+      "title": "Technology",
+      "description": "Modern gadgets, industrial tools, vehicles.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Presentation: {comp-presentation} Lines: {comp-lines}",
+      "layer3": "Palette (Special): {palette-special} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject}",
+      "input": "Feature a modern or futuristic technological object (vehicle, gadget, machine)."
+    }
+  ],
+  "Architectural Styles": [
+    {
+      "title": "Military/Industrial",
+      "description": "Bunkers, hangars, factories.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Lines: {comp-lines} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Lighting Source: {lighting-source}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Depict a military or industrial building/structure, focusing on large-scale architecture."
+    },
+    {
+      "title": "Historical Buildings",
+      "description": "Castles, temples, ancient ruins.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Lighting Source: {lighting-source}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Provide an ancient or historical architectural scene (castle, temple, or ruin)."
+    },
+    {
+      "title": "Urban Modern",
+      "description": "Skyscrapers, cityscapes, public plazas.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Presentation: {comp-presentation} Lines: {comp-lines} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Depict a contemporary, modern cityscape with skyscrapers or a bustling plaza."
+    },
+    {
+      "title": "Gothic & Fantasy",
+      "description": "Spires, bridges, labyrinths.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Lines: {comp-lines}",
+      "layer3": "Palette (Special): {palette-special} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Show a fantastical or gothic-inspired architectural structure (spires, bridges, etc.)."
+    }
+  ],
+  "Outdoor Focus": [
+    {
+      "title": "Rural Scenes",
+      "description": "Barns, windmills, open fields.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Lighting Source: {lighting-source}",
+      "layer4": "Background: {background}",
+      "input": "Depict a calm rural landscape, possibly featuring barns, farmhouses, or windmills."
+    },
+    {
+      "title": "Urban Decay",
+      "description": "Abandoned factories, graffiti-covered walls.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Lines: {comp-lines} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Provide a gritty outdoor scene of urban decline or abandoned buildings."
+    },
+    {
+      "title": "Military Zones",
+      "description": "Trenches, barricades, supply depots.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Depict a military outdoor area with fortifications, trenches, or supply depots."
+    },
+    {
+      "title": "Seasons",
+      "description": "Snow-covered forests, autumn foliage, spring blossoms.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Presentation: {comp-presentation} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Lighting Effect: {lighting-effect} Details: {details}",
+      "layer4": "Background: {background}",
+      "input": "Render an outdoor scene emphasizing seasonal changes (winter, spring, summer, or autumn)."
+    }
+  ],
+  "Indoor Focus": [
+    {
+      "title": "Workspaces",
+      "description": "Offices, studios, workshops.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Lines: {comp-lines}",
+      "layer3": "Palette (Indoors): {palette-indoor} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Background: {background}",
+      "input": "Depict an indoor workspace—office, art studio, or workshop."
+    },
+    {
+      "title": "Intimate Corners",
+      "description": "Fireplaces, reading nooks, garden rooms.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Depth Effect: {depth}",
+      "layer3": "Palette (Indoors): {palette-indoor} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Background: {background}",
+      "input": "Show a cozy indoor corner or nook, possibly featuring a fireplace or comfy seating."
+    },
+    {
+      "title": "Functional Spaces",
+      "description": "Kitchens, laboratories, libraries.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Presentation: {comp-presentation} Lines: {comp-lines}",
+      "layer3": "Palette (Indoors): {palette-indoor} Lighting Effect: {lighting-effect} Details: {details}",
+      "layer4": "Background: {background}",
+      "input": "Depict a functional indoor space such as a kitchen, lab, or library with appropriate details."
+    }
+  ],
+  "Action-Oriented Scenes": [
+    {
+      "title": "Battlefields",
+      "description": "Epic conflicts, skirmishes, post-battle silence.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Provide a scene of conflict or aftermath, showing a battlefield or skirmish site."
+    },
+    {
+      "title": "Adventurer`s Camps",
+      "description": "Campsites with gear and firelight.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Depth Effect: {depth}",
+      "layer3": "Lighting Source: {lighting-source} Lighting Effect: {lighting-effect} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Depict an adventurer's camp, with tents, gear, and possibly a glowing campfire."
+    },
+    {
+      "title": "Exploration",
+      "description": "Dungeons, caves, shipwrecks.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Presentation: {comp-presentation} Lines: {comp-lines}",
+      "layer3": "Palette (Special): {palette-special} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Provide a setting for exploration—dark dungeon, mysterious cave, or underwater shipwreck."
+    }
+  ],
+  "Specialized Scenes": [
+    {
+      "title": "Iconic Settings",
+      "description": "Famous battlefields, mythic locations.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Depict a legendary or mythic location known for its historical or cultural significance."
+    },
+    {
+      "title": "Climatic Events",
+      "description": "Solar eclipses, auroras, meteor storms.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Presentation: {comp-presentation} Lines: {comp-lines}",
+      "layer3": "Palette (Special): {palette-special} Lighting Effect: {lighting-effect}",
+      "layer4": "Background: {background}",
+      "input": "Showcase a grand celestial or atmospheric event, such as an eclipse or aurora."
+    },
+    {
+      "title": "Monumental Views",
+      "description": "Vast canyons, cityscapes from above, unbroken horizons.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Depth Effect: {depth}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Background: {background}",
+      "input": "Depict a massive, sweeping vista or skyline from a high vantage point."
+    }
+  ],
+  "Miscellaneous & Abstract": [
+    {
+      "title": "Dreamlike",
+      "description": "Surreal lighting, floating objects, impossible structures.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Presentation: {comp-presentation} Lines: {comp-lines}",
+      "layer3": "Palette (Special): {palette-special} Lighting Effect: {lighting-effect} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Produce a surreal or dreamlike scene with gravity-defying elements or mind-bending structures."
+    },
+    {
+      "title": "Symbolic",
+      "description": "Single powerful element, e.g., a sword in stone.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Depth Effect: {depth}",
+      "layer3": "Lighting Source: {lighting-source} Lighting Effect: {lighting-effect}",
+      "layer4": "Subject: {subject}",
+      "input": "Showcase one iconic or symbolic object, heavily emphasizing its importance."
+    },
+    {
+      "title": "Hobo Style",
+      "description": "Military outdoor themes, rugged, survivalist.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Presentation: {comp-presentation} Lines: {comp-lines}",
+      "layer3": "Palette (Outdoors): {palette-outdoor} Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Depict a rough, survivalist outdoor setting with hints of military or scavenger themes."
+    },
+    {
+      "title": "Isolated Subjects",
+      "description": "Focus on a single character or object in a vast space.",
+      "imageUrl": "https://theoraclesa.blob.core.windows.net/theoraclegpt/20245528215515_hobotech_apocalyptic-dust.png",
+      "layer1": "Style: {style} Tone: {tone} Mood: {mood} Medium: {medium}",
+      "layer2": "Framing: {comp-framing} Negative Space Emphasis: yes",
+      "layer3": "Lighting Source: {lighting-source} Details: {details}",
+      "layer4": "Subject: {subject} Background: {background}",
+      "input": "Highlight a solitary figure or object in an otherwise expansive, empty environment."
+    }
+  ]
+}
+
+
