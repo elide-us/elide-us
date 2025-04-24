@@ -7,9 +7,9 @@ Location: The Great Lakes Civic Forum, a circular, open-air parliament hall buil
 
 ### CAPTION (NARRATOR):
 
-| In every age, we believed we were the last to inherit the mess.
+|| In every age, we believed we were the last to inherit the mess.
 
 ### CAPTION:
 
-| But this time…
-| We might actually clean it up.
+|| But this time...
+|| We might actually clean it up.
