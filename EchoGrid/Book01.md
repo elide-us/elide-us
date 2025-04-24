@@ -13,3 +13,19 @@ In every age, we believed we were the last to inherit the mess.
 
 But this time...
 We might actually clean it up.
+
+### PAGE 2
+(Two narrow panels, side-by-side. First: a close-up of the AI—smooth, semi-organic, light patterns flowing through it like breath. Second: the teen, Kirin, eyes downcast, hand hovering over a neural tablet.)
+
+### ECHO (AI):
+
+The Council’s aligned. The amendment passes on signature.
+
+### KIRIN:
+
+And then?
+
+### ECHO:
+
+Then… we remember how it broke.
+And why we needed to fix it.
