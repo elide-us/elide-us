@@ -33,7 +33,7 @@ And why we needed to fix it.
 ### PAGE 3
 (A full-page, grayscale panel transition. A zoomed-in still of Kirin’s eyes, overlayed with fragmented data, faces, protest footage, node failures. The image of Clara appears, embedded in a projected “Archive of Civic Builders.”)
 
-### CAPTION (ECHO):
+#### CAPTION (ECHO):
 
 Before MeshID.
 Before the Consensus Chain.
@@ -44,7 +44,7 @@ And the first lie too dangerous to ignore.
 ### PAGE 4
 (We land in 1970s Rust River. Industrial dusk. Wires crisscrossed over sunlit rails. The air hums with static and machine heat. Clara, younger, leans over a terminal in a trailer lined with server racks and shelves of code manuals.)
 
-### CAPTION:
+#### CAPTION:
 
 1974. The beginning of the Civic Grid.
 The day Clara Two-Feathers pressed Enter.
@@ -52,7 +52,7 @@ The day Clara Two-Feathers pressed Enter.
 FSNA Constitutional Convention Address, 2040s
 Delivered before passage of the Civic Information Integrity Amendment.
 
-### SPEAKER: MIREYA QUINN
+#### SPEAKER: MIREYA QUINN
 Archivist-General of the FSNA Council of Memory.
 
 “Let it be recorded.”
@@ -99,7 +99,7 @@ To show their receipts."
 
 (Final panel: Kirin closes their eyes. Echo hovers behind. A bright, digital glyph—part truth signature, part tribal symbol—burns into a marble tablet beside the others.)
 
-ECHO:
+#### ECHO:
 
 Signature confirmed.
 The Civic Weave is whole.
