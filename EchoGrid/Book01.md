@@ -46,7 +46,7 @@ And the first lie too dangerous to ignore.
 
 #### CAPTION:
 
-1974. The beginning of the Civic Grid. The day Clara Two-Feathers pressed Enter.
+Year: 1974. The beginning of the Civic Grid. The day Clara Two-Feathers pressed Enter.
 
 FSNA Constitutional Convention Address, 2040s
 Delivered before passage of the Civic Information Integrity Amendment.
