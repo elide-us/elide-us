@@ -101,7 +101,7 @@ And so, the **Titans**, having learned from the folly of their first discovery, 
 
 ---
 
-As the Titans’ curiosity deepened, they realized that the universe was still unbalanced. Though they had uncovered the powers of life, earth, air, and lightning, there were two more colors waiting within the spectrumb—**sympathetic colors**, just outside the edges of what they had already discovered.
+As the Titans’ curiosity deepened, they realized that the universe was still unbalanced. Though they had uncovered the powers of life, earth, air, and lightning, there were two more colors waiting within the spectrum - **sympathetic colors**, just outside the edges of what they had already discovered.
 
 First, seeking balance to Green, they found on the edge of Yellow a terrible glow: Red. It was the flame, the pulse, the beating heart of life. In so many ways, it stood in opposition to life, but the Titans saw its necessity. The **soil**, rich and fertile, needed the **blood** of life to sustain itself. And while **life** grew from the earth, **fire** brought both destruction and rebirth. **Red** balanced the equation, for the **blood** of life flowed from the earth, and fire gave warmth and strength to all things. Thus, from the depths of **Green**, cousin to **Yellow**, the Titans found **Red**, the magic of Fire and Blood.
 
