@@ -122,7 +122,7 @@ Clara saw this coming.
 Jules documented it.
 And Eli lived it.
 
-### PAGE 4
+### PAGE 5
 
 Panel 1:
 Sera stands up, pushing aside old drives. Determined now.
@@ -154,7 +154,7 @@ They injected the dispatch before the routing table stabilized.
 
 They led the quorum before quorum existed.
 
-### PAGE 3
+### PAGE 6
 
 Panel 1:
 Lian overlays a cross-reference timestamp.
@@ -199,7 +199,7 @@ Why would this be backed up off-path?
 Because someone thought it might be important…
 And someone else didn’t want it to be useful.
 
-### PAGE 2
+### PAGE 7
 
 Panel 1:
 Sera clicks a buried folder: /deprecated/mesh_redundant/echo_subtrees.bak
@@ -241,7 +241,7 @@ According to the civic chain index, Eli’s transaction is fully verified.
 
 According to the civic chain index, I was born in three places and died in two.
 
-### PAGE 1
+### PAGE 8
 
 Panel 1:
 *A dusty, analog-heavy subnode. A flickering projector screen showing fragmentary node paths. Sera is hunched over a terminal. Lian is unpacking physical drives and old meshkeys from a metal lockbox labeled “UNSORTED / PRECHAIN / UNVERIFIED.”
@@ -251,7 +251,7 @@ Panel 1:
 Setting: Civic Mesh Archive Node 17-B — Obsolete system gateway
 Time: Four weeks after their last conversation with the council
 
-### PAGE 4 – Silent Panel
+### PAGE 9 – Silent Panel
 
 Eli sits alone in the control room. Emergency lights still flashing. One red light stays solid:
 LOCK: TERMINAL QUARANTINED
@@ -292,7 +292,7 @@ He’s the operator on record.
 
 Call the tribunal.
 
-### PAGE 3
+### PAGE 10
 
 Panel 1:
 Back in the emergency hub. Another officer steps in. The screen behind them flashes:
@@ -314,7 +314,7 @@ The system confirmed a false origin.
 Panel 2:
 Close-up on Eli, breathing hard. Lowering the phone. He presses the RECORD button on his terminal’s private journal feed.
 
-### PAGE 2
+### PAGE 11
 
 Panel 1:
 Eli stares into his terminal. The log shows his name. Signature verified. Timestamp matched to the exact second of execution.
@@ -340,7 +340,7 @@ Cut to: Operations Coordination Hub. A Civic Officer, early 40s, headset on, gla
 That gate override came from your console.
 You opened a reservoir path into a live flood zone.
 
-### PAGE 1
+### PAGE 12
 
 Panel 1:
 Interior – Control Room. Lights strobing. Eli grabs the old-style emergency comm handset from the wall. His hands are shaking.
@@ -359,7 +359,7 @@ Time: Immediately after the blast
 The system worked as designed.
 It just trusted the wrong voice.
 
-### PAGE 4
+### PAGE 13
 
 Full-page splash panel.
 
@@ -379,7 +379,7 @@ Eli looks at the control panel-now blinking red.
 EMERGENCY RELEASE – GATE C OPENED
 OPERATOR: ELI TWO-FEATHERS – CONFIRMED
 
-### PAGE 3
+### PAGE 14
 
 Panel 1:
 Clara slams the tablet down, bolts from her chair, sprinting through the corridor. Techs shout as she shoves past.
@@ -402,7 +402,7 @@ Panel 2:
 
 No no no-NO-
 
-### PAGE 2
+### PAGE 15
 
 Panel 1:
 Back to Eli. He scrolls down the packet. Cursor hovers over DENY.
@@ -429,7 +429,7 @@ Clara is alone in a cramped diagnostics room, hair tied back, eyes red from lack
 #### SCREEN:
 NEW – MESH TRACE LOG: FROM ELI TWO-FEATHERS
 
-### PAGE 1
+### PAGE 16
 
 Panel 1:
 Eli sits at a dusty, over-lit terminal in a quiet room filled with analog screens and node routers. Rain taps on a narrow window. He yawns, logs into the console.
@@ -457,6 +457,6 @@ Alright. Let’s see what you weirdos did this time.
 
 
 
-#### Dialog
+#### Dialogc Header
 ### Page Header
 ## Chapter Header
