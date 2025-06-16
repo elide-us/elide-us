@@ -380,7 +380,3 @@ Her body arcs through the air, silhouetted against a wall of heat and sound.
 > Alright. Let’s see what you weirdos did this time.
 
 ---
-
-#### Dialogc Header
-### Page Header
-## Chapter Header
