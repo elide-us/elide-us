@@ -100,148 +100,130 @@
 > Signature confirmed.
 > The Civic Weave is whole.
 
-## ECHO GRID - CHAPTER 1
+---
 
-Panel 3:
-Wide shot—Lian still in the archive, looking at the fractured trust map like a battlefield. One blinking node—Eli-TF.07—still pulses faintly.
+## ECHO GRID – CHAPTER 1: The Ledger Never Forgets
 
-#### LIAN (to self):
-
-The ledger never forgets.
-But memory... needs maintenance.
-
-Panel 2:
-Sera walks toward the exit, pausing.
-
-#### SERA:
-
-Clara saw this coming.
-Jules documented it.
-And Eli lived it.
+**Setting:** Civic Mesh Archive, inner node core
+**Characters:** Lian, Sera
+**Time:** Shortly after the Council session
 
 ### PAGE 5
 
-Panel 1:
-Sera stands up, pushing aside old drives. Determined now.
+**Panel 1 – Wide Shot**: Lian stands in the archive, staring at a fractured trust map spread across a large projection table. Data lines pulse and blink; one node, labeled **Eli-TF.07**, flickers faintly.
 
-#### SERA:
+> **LIAN (to self):**
+> The ledger never forgets.
+> But memory... needs maintenance.
 
-We find him.
-We tell him.
+**Panel 2**: Sera walks toward the exit, hesitating.
 
-#### LIAN:
+> **SERA:**
+> Clara saw this coming.
+> Jules documented it.
+> And Eli lived it.
 
-If he’s even still alive.
+**Panel 3**: Sera stands up, pushing aside old drives. Determined now.
 
-Panel 3:
-They sit in silence. A blinking cursor on a forgotten screen stares back.
+> **SERA:**
+> We find him.
+> We tell him.
 
-#### SERA (quiet):
+> **LIAN:**
+> If he's even still alive.
 
-He never had a chance.
+**Panel 4**: They sit in silence. A blinking cursor on a forgotten screen stares back.
 
-Panel 2:
-Lian blinks. This is the moment the system breaks in front of them.
-
-#### LIAN:
-
-They injected the dispatch before the routing table stabilized.
-
-#### SERA:
-
-They led the quorum before quorum existed.
+> **SERA (quiet):**
+> He never had a chance.
 
 ### PAGE 6
 
-Panel 1:
-Lian overlays a cross-reference timestamp.
+**Panel 1**: Lian blinks. Realization dawns.
 
-#### LIAN:
+> **LIAN:**
+> They injected the dispatch before the routing table stabilized.
 
-But this node wasn’t even online two minutes earlier.
+> **SERA:**
+> They led the quorum before quorum existed.
 
-#### SERA:
+**Panel 2**: Lian overlays a cross-reference timestamp.
 
-And that signature? It precedes the route activation.
+> **LIAN:**
+> But this node wasn't even online two minutes earlier.
 
-Panel 3:
-Sera highlights a string:
+> **SERA:**
+> And that signature? It precedes the route activation.
+
+**Panel 3**: Sera highlights a string:
+
+```
 OPERATOR: ELI-TF.07
 COMMAND: EXECUTE GATE C
 ORIGIN: RS-M5 > NY-C3 > RR-12
 SIGNATURE: STAMPED
+```
 
-#### SERA:
-
-This is the record they used to convict him.
-
-Panel 2:
-A screen loads. A half-broken node graph appears—data sharded across multiple nodes, incomplete quorum records, outdated keys.
-
-#### LIAN:
-
-These aren’t hash-linked. This is pre-consensus.
-
-#### SERA:
-
-That means it’s mutable.
-But it also means we can read the raw messages.
-
-#### SERA:
-
-Why would this be backed up off-path?
-
-#### LIAN:
-
-Because someone thought it might be important…
-And someone else didn’t want it to be useful.
+> **SERA:**
+> This is the record they used to convict him.
 
 ### PAGE 7
 
-Panel 1:
-Sera clicks a buried folder: /deprecated/mesh_redundant/echo_subtrees.bak
+**Panel 1**: A screen loads. A fragmented node graph appears—data sharded, quorum records incomplete, keys outdated.
 
-#### SCREEN:
+> **LIAN:**
+> These aren't hash-linked. This is pre-consensus.
 
-WARNING: UNVERIFIED CHAIN ACCESS
-Continue? [Y/N]
+> **SERA:**
+> That means it's mutable.
+> But it also means we can read the raw messages.
 
-Panel 3:
-Close-up of an old node route map—a branching tree of trust flows. One branch labeled RS-M5 is marked red, but the log is incomplete.
+> **SERA:**
+> Why would this be backed up off-path?
 
-#### SERA:
+> **LIAN:**
+> Because someone thought it might be important...
+> And someone else didn't want it to be useful.
 
-Look. RS-M5 isn’t listed as a lead node in the public chain.
-But it was for fifteen minutes.
+**Panel 2**: Sera clicks a buried folder:
 
-#### LIAN:
+`/deprecated/mesh_redundant/echo_subtrees.bak`
 
-Long enough to sign a false dispatch.
+**SCREEN:**
+`WARNING: UNVERIFIED CHAIN ACCESS – Continue? [Y/N]`
 
-Panel 2:
-Sera scrolls through an outdated GUI with missing fonts. Files are misnamed, partially rendered, and full of protocol tags from deprecated node software.
+**Panel 3**: Close-up of an old node route map—a branching trust tree. One route, **RS-M5**, marked red, but the log is incomplete.
 
-#### SERA:
+> **SERA:**
+> Look. RS-M5 isn't listed as a lead node in the public chain.
+> But it was—for fifteen minutes.
 
-How did anyone use this?
+> **LIAN:**
+> Long enough to sign a false dispatch.
 
-#### LIAN:
+**Panel 4**: Sera scrolls through a corrupted GUI—missing fonts, misnamed files, deprecated tags.
 
-Poorly.
-Which is why it worked.
+> **SERA:**
+> How did anyone use this?
 
-#### SERA:
+> **LIAN:**
+> Poorly.
+> Which is why it worked.
 
-According to the civic chain index, Eli’s transaction is fully verified.
+> **SERA:**
+> According to the civic chain index, Eli’s transaction is fully verified.
 
-#### LIAN (dry):
-
-According to the civic chain index, I was born in three places and died in two.
+> **LIAN (dry):**
+> According to the civic chain index, I was born in three places and died in two.
 
 ### PAGE 8
 
-Panel 1:
-*A dusty, analog-heavy subnode. A flickering projector screen showing fragmentary node paths. Sera is hunched over a terminal. Lian is unpacking physical drives and old meshkeys from a metal lockbox labeled “UNSORTED / PRECHAIN / UNVERIFIED.”
+**Panel 1**: A dusty, analog-heavy subnode. Flickering projector screen shows fragmentary paths.
+Sera is hunched over a terminal. Lian unpacks physical drives and meshkeys from a metal lockbox labeled:
+
+> `UNSORTED / PRECHAIN / UNVERIFIED`
+
+---
 
 ## ECHO GRID – Thread B, Chapter 2: "Subpaths"
 
