@@ -227,214 +227,159 @@ Sera is hunched over a terminal. Lian unpacks physical drives and meshkeys from 
 
 ## ECHO GRID – Thread B, Chapter 2: "Subpaths"
 
-Setting: Civic Mesh Archive Node 17-B — Obsolete system gateway
-Time: Four weeks after their last conversation with the council
+**Setting:** Civic Mesh Archive Node 17-B — Obsolete system gateway
+**Time:** Four weeks after their last conversation with the council
 
 ### PAGE 9 – Silent Panel
 
-Eli sits alone in the control room. Emergency lights still flashing. One red light stays solid:
-LOCK: TERMINAL QUARANTINED
+**Panel 1**: Eli sits alone in the control room. Emergency lights still flashing. One red light stays solid:
+**LOCK: TERMINAL QUARANTINED**
 
-#### CAPTION:
+> **CAPTION:**
+> The logs were clean.
+> The process was followed.
+> The system spoke.
 
-The logs were clean.
-The process was followed.
-The system spoke.
+> **CAPTION 2:**
+> And no one heard him.
 
-#### CAPTION 2:
+**Panel 2**: Clara, unconscious on the floor. Rubble around her. Light flickers.
 
-And no one heard him.
+> **NEW OFFICER:**
+> Eli Two-Feathers is locked to the action. No override trail.
+> He’s the operator on record.
 
-Panel 4:
-Clara’s eyes blink open. Blurred vision. A coworker crouches over her, blood on their temple.
+> **DISPATCHER (cold):**
+> Call the tribunal.
 
-#### CLARA (weakly):
+**Panel 3**: A faint voice.
 
-What... happened?
+> **OFF-PANEL:**
+> Clara? Clara, can you hear me?
 
-Panel 3:
-A faint voice.
+**Panel 4**: Clara’s eyes blink open. Blurred vision. A coworker crouches over her, blood on their temple.
 
-#### OFF-PANEL:
-
-Clara? Clara, can you hear me?
-
-Panel 2:
-Clara, unconscious on the floor. Rubble around her. Light flickers.
-
-#### NEW OFFICER:
-
-Eli Two-Feathers is locked to the action. No override trail.
-He’s the operator on record.
-
-#### DISPATCHER (cold):
-
-Call the tribunal.
+> **CLARA (weakly):**
+> What... happened?
 
 ### PAGE 10
 
-Panel 1:
-Back in the emergency hub. Another officer steps in. The screen behind them flashes:
-“CASCADE EVENT – INJURIES REPORTED – INFRASTRUCTURE LOSS: SEVERE”
+**Panel 1**: Back in the emergency hub. Another officer steps in. The screen behind them flashes:
+**“CASCADE EVENT – INJURIES REPORTED – INFRASTRUCTURE LOSS: SEVERE”**
 
-Panel 3:
-A blinking indicator reads:
-RECORDING – Local node buffer
-ARCHIVE: TEMPORARY – Non-primary quorum
+**Panel 2**: Close-up on Eli, breathing hard. Lowering the phone. He presses the RECORD button on his terminal’s private journal feed.
 
-#### ELI (into recorder):
+**Panel 3**: A blinking indicator reads:
+**RECORDING – Local node buffer**
+**ARCHIVE: TEMPORARY – Non-primary quorum**
 
-Timestamp 20:48.
-This is Eli Two-Feathers.
-Request ID 44-ARC-992 was not initiated by me.
-I was logged in, but did not authorize -
-The system confirmed a false origin.
-
-Panel 2:
-Close-up on Eli, breathing hard. Lowering the phone. He presses the RECORD button on his terminal’s private journal feed.
+> **ELI (into recorder):**
+> Timestamp 20:48.
+> This is Eli Two-Feathers.
+> Request ID 44-ARC-992 was not initiated by me.
+> I was logged in, but did not authorize -
+> The system confirmed a false origin.
 
 ### PAGE 11
 
-Panel 1:
-Eli stares into his terminal. The log shows his name. Signature verified. Timestamp matched to the exact second of execution.
+**Panel 1**: Eli stares into his terminal. The log shows his name. Signature verified. Timestamp matched to the exact second of execution.
 
-#### SCREEN:
-EXECUTED BY: ELI-TF.07
-CHAIN ORIGIN: RS-M5 > NY-C3 > RR-12
-STATUS: CONTEXT VERIFIED
+> **SCREEN:**
+> EXECUTED BY: ELI-TF.07
+> CHAIN ORIGIN: RS-M5 > NY-C3 > RR-12
+> STATUS: CONTEXT VERIFIED
 
-Panel 3:
-Eli flinches like he’s been slapped. But he’s already scrolling through logs on his terminal—trying to find the breach.
+**Panel 2**: Cut to: Operations Coordination Hub. A Civic Officer, early 40s, headset on, glaring at their monitor.
 
-#### ELI:
+> **OFFICER (shouting):**
+> That gate override came from your console.
+> You opened a reservoir path into a live flood zone.
 
-I never hit Execute. I was reviewing the request—then it triggered.
-I was hovering over DENY when it—disappeared.
+**Panel 3**: Eli flinches like he’s been slapped. But he’s already scrolling through logs on his terminal—trying to find the breach.
 
-Panel 2:
-Cut to: Operations Coordination Hub. A Civic Officer, early 40s, headset on, glaring at their monitor.
-
-#### OFFICER (shouting):
-
-That gate override came from your console.
-You opened a reservoir path into a live flood zone.
+> **ELI:**
+> I never hit Execute. I was reviewing the request—then it triggered.
+> I was hovering over DENY when it—disappeared.
 
 ### PAGE 12
 
-Panel 1:
-Interior – Control Room. Lights strobing. Eli grabs the old-style emergency comm handset from the wall. His hands are shaking.
+**Panel 1**: Interior – Control Room. Lights strobing. Eli grabs the old-style emergency comm handset from the wall. His hands are shaking.
 
-#### ELI:
+> **ELI:**
+> Emergency dispatch, this is Eli Two-Feathers. Operator ID 07. We've got a cascade—unauthorized gate release on Grid C.
 
-Emergency dispatch, this is Eli Two-Feathers. Operator ID 07. We've got a cascade—unauthorized gate release on Grid C.
+---
 
 ## ECHO GRID – Thread A, Chapter 3: "False Origin"
 
-Setting: Rust River Civic Water Control Facility — Emergency Coordination Office
-Time: Immediately after the blast
-
-#### CAPTION (next page):
-
-The system worked as designed.
-It just trusted the wrong voice.
+**Setting:** Rust River Civic Water Control Facility — Emergency Coordination Office
+**Time:** Immediately after the blast
 
 ### PAGE 13
 
-Full-page splash panel.
-
-Clara rounds the corner to the substation corridor. A pressure blast rips from the pipework in the ceiling-a shockwave slams into her mid-run. The tablet flies from her hand. Lights burst.
+**Full-page splash panel**: Clara rounds the corner to the substation corridor. A pressure blast rips from the pipework in the ceiling — a shockwave slams into her mid-run. The tablet flies from her hand. Lights burst.
 Her body arcs through the air, silhouetted against a wall of heat and sound.
 
-Panel 4:
-*Eli stands now, backlit by warning strobes. A low, growing rumble starts beneath the floor. He looks up—fear dawning.
+**Panel 2**: Eli looks at the control panel—now blinking red.
 
-Panel 3:
-Clara hits the stairwell hard, descending two floors at full speed.
+> **ALERT:**
+> EMERGENCY RELEASE – GATE C OPENED
+> OPERATOR: ELI TWO-FEATHERS – CONFIRMED
 
-Panel 2:
-Eli looks at the control panel-now blinking red.
+**Panel 3**: Clara hits the stairwell hard, descending two floors at full speed.
 
-#### ALERT:
-EMERGENCY RELEASE – GATE C OPENED
-OPERATOR: ELI TWO-FEATHERS – CONFIRMED
+**Panel 4**: Eli stands now, backlit by warning strobes. A low, growing rumble starts beneath the floor. He looks up—fear dawning.
 
 ### PAGE 14
 
-Panel 1:
-Clara slams the tablet down, bolts from her chair, sprinting through the corridor. Techs shout as she shoves past.
+**Panel 1**: Clara slams the tablet down, bolts from her chair, sprinting through the corridor. Techs shout as she shoves past.
 
-Panel 3:
-*Eli’s screen flickers-the transaction disappears.
+**Panel 2**: Clara's hand clutches her mouth. Her eyes bulge. She stares at the trust path—the entire quorum chain is valid.
 
-#### SCREEN:
-STATUS: EXECUTED – NODE RESPONSE ACKNOWLEDGED
+> **CLARA:**
+> No no no—NO—
 
-#### ELI:
+**Panel 3**: Eli’s screen flickers—the transaction disappears.
 
-What?! I didn't-
-I didn't click-
+> **SCREEN:**
+> STATUS: EXECUTED – NODE RESPONSE ACKNOWLEDGED
 
-Panel 2:
-*Clara's hand clutches her mouth. Her eyes bulge. She stares at the trust path—the entire quorum chain is valid.
-
-#### CLARA:
-
-No no no-NO-
+> **ELI:**
+> What?! I didn't—
+> I didn't click—
 
 ### PAGE 15
 
-Panel 1:
-Back to Eli. He scrolls down the packet. Cursor hovers over DENY.
+**Panel 1**: Back to Eli. He scrolls down the packet. Cursor hovers over DENY.
 
-#### ELI (aloud):
+> **ELI (aloud):**
+> I didn't send this.
 
-I didn't send this.
+**Panel 2**: Clara is alone in a cramped diagnostics room, hair tied back, eyes red from lack of sleep. She opens her inbox.
 
-Panel 4:
-Clara clicks the file open. Her face slackens as she reads the origin header:
-VERIFIED NODE: NY-C3 / LEAD: RS-M5 / SOURCE ID: ELI-TF.07
+> **SCREEN:**
+> NEW – MESH TRACE LOG: FROM ELI TWO-FEATHERS
 
-Panel 3:
-Eli reads the incoming request log.
+**Panel 3**: Eli reads the incoming request log.
 
-#### ELI (thinking):
+> **ELI (thinking):**
+> “Reservoir gate adjustment – upstream flow override…”
+> Wait. This isn’t a test packet.
 
-“Reservoir gate adjustment – upstream flow override…”
-Wait. This isn’t a test packet.
+**Panel 4**: Clara clicks the file open. Her face slackens as she reads the origin header:
 
-Panel 2:
-Clara is alone in a cramped diagnostics room, hair tied back, eyes red from lack of sleep. She opens her inbox.
-
-#### SCREEN:
-NEW – MESH TRACE LOG: FROM ELI TWO-FEATHERS
+> **VERIFIED NODE:** NY-C3
+> **LEAD:** RS-M5
+> **SOURCE ID:** ELI-TF.07
 
 ### PAGE 16
 
-Panel 1:
-Eli sits at a dusty, over-lit terminal in a quiet room filled with analog screens and node routers. Rain taps on a narrow window. He yawns, logs into the console.
+**Panel 1**: Eli sits at a dusty, over-lit terminal in a quiet room filled with analog screens and node routers. Rain taps on a narrow window. He yawns, logs into the console.
 
-#### ELI (muttering):
+> **ELI (muttering):**
+> Alright. Let’s see what you weirdos did this time.
 
-Alright. Let’s see what you weirdos did this time.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 #### Dialogc Header
 ### Page Header
