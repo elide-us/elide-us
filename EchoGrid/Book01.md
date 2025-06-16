@@ -246,7 +246,7 @@ According to the civic chain index, I was born in three places and died in two.
 Panel 1:
 *A dusty, analog-heavy subnode. A flickering projector screen showing fragmentary node paths. Sera is hunched over a terminal. Lian is unpacking physical drives and old meshkeys from a metal lockbox labeled “UNSORTED / PRECHAIN / UNVERIFIED.”
 
-## ECHO GRID – Thread B, Chapter 4: "Subpaths"
+## ECHO GRID – Thread B, Chapter 2: "Subpaths"
 
 Setting: Civic Mesh Archive Node 17-B — Obsolete system gateway
 Time: Four weeks after their last conversation with the council
@@ -349,7 +349,7 @@ Interior – Control Room. Lights strobing. Eli grabs the old-style emergency co
 
 Emergency dispatch, this is Eli Two-Feathers. Operator ID 07. We've got a cascade—unauthorized gate release on Grid C.
 
-## ECHO GRID – Thread A, Chapter 8: "False Origin"
+## ECHO GRID – Thread A, Chapter 3: "False Origin"
 
 Setting: Rust River Civic Water Control Facility — Emergency Coordination Office
 Time: Immediately after the blast
