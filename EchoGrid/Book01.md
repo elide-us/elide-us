@@ -1,3 +1,61 @@
+USE THE FOLLOWING FORMATTING STANDARDS:
+
+Document-Level Headings
+Level 2 headings (##) are used for major sections:
+
+## ECHO GRID – Thread A, Chapter 1: "Chapter Title"
+
+Subsection-Level Headings
+Level 3 headings (###) identify specific sections within the major sections, usually by page numbers:
+
+### PAGE 1
+
+Scene and Context Descriptions
+Bold is used to emphasize key contextual elements like Setting, Location, Characters, and Time:
+
+**Setting:** 2040s. The Constitutional Convention of the Harmony Age.
+
+Panel Descriptions
+Panels are described clearly, with the panel number bolded and formatted consistently:
+
+**Panel 1**: Description of the scene.
+
+Wide and narrow panels have clear labels:
+
+**(Wide panel)**: Description.
+**(Two narrow panels, side-by-side)**
+
+Dialog Formatting
+Dialogue attributed to characters uses a Markdown blockquote (>) with character names bolded in uppercase:
+
+> **CHARACTER:**
+> Dialogue line.
+
+Narrative captions or unattributed text use blockquotes with labels indicating narration clearly, often with (CAPTION) or (NARRATOR):
+
+> **CAPTION (NARRATOR):**
+> Narrative text here.
+
+Code or System Messages
+Inline system outputs or code-like messages use single- or triple-backtick code blocks:
+
+`user@syslog$ >`
+
+or
+
+```
+COMMAND: EXECUTE
+STATUS: ACTIVE
+```
+
+Final Panel and Closing Sections
+Visual transitions or significant concluding visuals are clearly described without panel numbering when summarizing sections.
+
+FORMAT AND OUTPUT TO CANVAS THE FOLLOWING:
+
+
+
+
 ## ECHO GRID – PROLOGUE
 
 **Setting:** 2040s. The Constitutional Convention of the Harmony Age.
@@ -221,7 +279,7 @@ SIGNATURE: STAMPED
 **Panel 1**: A dusty, analog-heavy subnode. Flickering projector screen shows fragmentary paths.
 Sera is hunched over a terminal. Lian unpacks physical drives and meshkeys from a metal lockbox labeled:
 
-> `UNSORTED / PRECHAIN / UNVERIFIED`
+`UNSORTED / PRECHAIN / UNVERIFIED`
 
 ---
 
@@ -230,7 +288,119 @@ Sera is hunched over a terminal. Lian unpacks physical drives and meshkeys from 
 **Setting:** Civic Mesh Archive Node 17-B — Obsolete system gateway
 **Time:** Four weeks after their last conversation with the council
 
-### PAGE 9 – Silent Panel
+### PAGE 9
+
+**Panel 1**: Eli sits at a dusty, over-lit terminal in a quiet room filled with analog screens and node routers. Rain taps on a narrow window. He yawns, logs into the console.
+
+> **ELI (muttering):**
+> Alright. Let’s see what you weirdos did this time.
+
+**Panel 2**: Clara is alone in a cramped diagnostics room, hair tied back, eyes red from lack of sleep. She opens her inbox.
+
+**SCREEN:**
+`NEW – MESH TRACE LOG: FROM ELI TWO-FEATHERS`
+
+**Panel 3**: Eli reads the incoming request log.
+
+> **ELI (thinking):**
+> “Reservoir gate adjustment – upstream flow override…”
+> Wait. This isn’t a test packet.
+
+**Panel 4**: Clara clicks the file open. Her face slackens as she reads the origin header:
+
+```
+VERIFIED NODE: NY-C3
+LEAD: RS-M5
+SOURCE ID: ELI-TF.07
+```
+
+### PAGE 10
+
+**Panel 1**: Back to Eli. He scrolls down the packet. Cursor hovers over DENY.
+
+> **ELI (aloud):**
+> I didn't send this.
+
+**Panel 2**: Clara's hand clutches her mouth. Her eyes bulge. She stares at the trust path—the entire quorum chain is valid.
+
+> **CLARA:**
+> No no no—NO—
+
+**Panel 3**: Eli’s screen flickers—the transaction disappears.
+
+**SCREEN:**
+`STATUS: EXECUTED – NODE RESPONSE ACKNOWLEDGED`
+
+> **ELI:**
+> What?! I didn't—
+> I didn't click—
+
+**Panel 4**: Clara slams the tablet down, bolts from her chair, sprinting through the corridor. Techs shout as she shoves past.
+
+### PAGE 11
+
+**Full-page splash panel**: Clara rounds the corner to the substation corridor. A pressure blast rips from the pipework in the ceiling — a shockwave slams into her mid-run. The tablet flies from her hand. Lights burst.
+Her body arcs through the air, silhouetted against a wall of heat and sound.
+
+**Panel 2**: Eli looks at the control panel—now blinking red.
+
+```
+ALERT:
+EMERGENCY RELEASE – GATE C OPENED
+OPERATOR: ELI TWO-FEATHERS – CONFIRMED
+```
+
+**Panel 3**: Clara hits the stairwell hard, descending two floors at full speed.
+
+**Panel 4**: Eli stands now, backlit by warning strobes. A low, growing rumble starts beneath the floor. He looks up—fear dawning.
+
+### PAGE 12
+
+**Panel 1**: Interior – Control Room. Lights strobing. Eli grabs the old-style emergency comm handset from the wall. His hands are shaking.
+
+> **ELI:**
+> Emergency dispatch, this is Eli Two-Feathers. Operator ID 07. We've got a cascade—unauthorized gate release on Grid C.
+
+**Panel 2**: Eli flinches like he’s been slapped. But he’s already scrolling through logs on his terminal—trying to find the breach.
+
+> **ELI:**
+> I never hit Execute. I was reviewing the request—then it triggered.
+> I was hovering over DENY when it—disappeared.
+
+**Panel 3**: Cut to: Operations Coordination Hub. A Civic Officer, early 40s, headset on, glaring at their monitor.
+
+> **OFFICER (shouting):**
+> That gate override came from your console.
+> You opened a reservoir path into a live flood zone.
+
+**Panel 4**: Eli stares into his terminal. The log shows his name. Signature verified. Timestamp matched to the exact second of execution.
+
+**SCREEN:**
+```
+EXECUTED BY: ELI-TF.07
+CHAIN ORIGIN: RS-M5 > NY-C3 > RR-12
+STATUS: CONTEXT VERIFIED
+```
+
+### PAGE 13
+
+**Panel 1**: Back in the emergency hub. Another officer steps in. The screen behind them flashes:
+**“CASCADE EVENT – INJURIES REPORTED – INFRASTRUCTURE LOSS: SEVERE”**
+
+**Panel 2**: Close-up on Eli, breathing hard. Lowering the phone. He presses the RECORD button on his terminal’s private journal feed.
+
+**Panel 3**: A blinking indicator reads:
+**RECORDING – Local node buffer**
+**ARCHIVE: TEMPORARY – Non-primary quorum**
+
+> **ELI (into recorder):**
+> Timestamp 20:48.
+> This is Eli Two-Feathers.
+> Request ID 44-ARC-992 was not initiated by me.
+> I was logged in, but did not authorize –
+> The system confirmed a false origin.
+
+### PAGE 14 – Silent Panel
 
 **Panel 1**: Eli sits alone in the control room. Emergency lights still flashing. One red light stays solid:
 **LOCK: TERMINAL QUARANTINED**
@@ -262,121 +432,328 @@ Sera is hunched over a terminal. Lian unpacks physical drives and meshkeys from 
 > **CLARA (weakly):**
 > What... happened?
 
-### PAGE 10
-
-**Panel 1**: Back in the emergency hub. Another officer steps in. The screen behind them flashes:
-**“CASCADE EVENT – INJURIES REPORTED – INFRASTRUCTURE LOSS: SEVERE”**
-
-**Panel 2**: Close-up on Eli, breathing hard. Lowering the phone. He presses the RECORD button on his terminal’s private journal feed.
-
-**Panel 3**: A blinking indicator reads:
-**RECORDING – Local node buffer**
-**ARCHIVE: TEMPORARY – Non-primary quorum**
-
-> **ELI (into recorder):**
-> Timestamp 20:48.
-> This is Eli Two-Feathers.
-> Request ID 44-ARC-992 was not initiated by me.
-> I was logged in, but did not authorize -
-> The system confirmed a false origin.
-
-### PAGE 11
-
-**Panel 1**: Eli stares into his terminal. The log shows his name. Signature verified. Timestamp matched to the exact second of execution.
-
-> **SCREEN:**
-> EXECUTED BY: ELI-TF.07
-> CHAIN ORIGIN: RS-M5 > NY-C3 > RR-12
-> STATUS: CONTEXT VERIFIED
-
-**Panel 2**: Cut to: Operations Coordination Hub. A Civic Officer, early 40s, headset on, glaring at their monitor.
-
-> **OFFICER (shouting):**
-> That gate override came from your console.
-> You opened a reservoir path into a live flood zone.
-
-**Panel 3**: Eli flinches like he’s been slapped. But he’s already scrolling through logs on his terminal—trying to find the breach.
-
-> **ELI:**
-> I never hit Execute. I was reviewing the request—then it triggered.
-> I was hovering over DENY when it—disappeared.
-
-### PAGE 12
-
-**Panel 1**: Interior – Control Room. Lights strobing. Eli grabs the old-style emergency comm handset from the wall. His hands are shaking.
-
-> **ELI:**
-> Emergency dispatch, this is Eli Two-Feathers. Operator ID 07. We've got a cascade—unauthorized gate release on Grid C.
-
 ---
 
-## ECHO GRID – Thread A, Chapter 3: "False Origin"
+## ECHO GRID – Thread A, Chapter 3: “Proof of Trust”
 
-**Setting:** Rust River Civic Water Control Facility — Emergency Coordination Office
-**Time:** Immediately after the blast
+**Setting:** Civic Guild Rooftop – Rust River, 1974
 
-### PAGE 13
+Dusk over a semi-urban stretch of track and transformer stations. Rooftop access door open behind them. Clara and Eli sit on a rusted access platform above a meshnet antenna array. A thermos between them. The glow of CRTs from the Civic Hall spills across the sky.
 
-**Full-page splash panel**: Clara rounds the corner to the substation corridor. A pressure blast rips from the pipework in the ceiling — a shockwave slams into her mid-run. The tablet flies from her hand. Lights burst.
-Her body arcs through the air, silhouetted against a wall of heat and sound.
+### PAGE 17
 
-**Panel 2**: Eli looks at the control panel—now blinking red.
+**Panel 1**: (Wide panel) Two silhouettes seated on a rooftop rail, surrounded by cooling metal, cables, wind. The meshnode tower behind them pulses with soft blue light. Rust River breathes below.
 
-> **ALERT:**
-> EMERGENCY RELEASE – GATE C OPENED
-> OPERATOR: ELI TWO-FEATHERS – CONFIRMED
+> **CAPTION:**
+> The day the Civic Trust Hash went live.
 
-**Panel 3**: Clara hits the stairwell hard, descending two floors at full speed.
+**Panel 2**: Clara leans back on her palms, boots untied. Tired, wired, glowing. Eli hands her a tin cup from the thermos.
 
-**Panel 4**: Eli stands now, backlit by warning strobes. A low, growing rumble starts beneath the floor. He looks up—fear dawning.
-
-### PAGE 14
-
-**Panel 1**: Clara slams the tablet down, bolts from her chair, sprinting through the corridor. Techs shout as she shoves past.
-
-**Panel 2**: Clara's hand clutches her mouth. Her eyes bulge. She stares at the trust path—the entire quorum chain is valid.
+> **ELI:**
+> You didn’t even blink when the last test cleared.
 
 > **CLARA:**
-> No no no—NO—
+> I’ve run it so many times in my head I thought I’d see it before it happened.
 
-**Panel 3**: Eli’s screen flickers—the transaction disappears.
-
-> **SCREEN:**
-> STATUS: EXECUTED – NODE RESPONSE ACKNOWLEDGED
+**Panel 3**: Eli takes a sip. Stares at the antenna tower. Quiet pride in his face.
 
 > **ELI:**
-> What?! I didn't—
-> I didn't click—
+> You just made it illegal to lie in the Republic.
 
-### PAGE 15
+### PAGE 18
 
-**Panel 1**: Back to Eli. He scrolls down the packet. Cursor hovers over DENY.
+**Panel 1**: Clara rolls her eyes, smiling.
 
-> **ELI (aloud):**
-> I didn't send this.
+> **CLARA:**
+> Illegal to lie in public. The private stuff still lives in alleyways and bedrooms.
 
-**Panel 2**: Clara is alone in a cramped diagnostics room, hair tied back, eyes red from lack of sleep. She opens her inbox.
+**Panel 2**: He chuckles. They sit in silence for a panel.
 
-> **SCREEN:**
-> NEW – MESH TRACE LOG: FROM ELI TWO-FEATHERS
+**Panel 3**: Eli finally speaks again, gentler.
 
-**Panel 3**: Eli reads the incoming request log.
+> **ELI:**
+> You know what I remember most about the old audit sheets?
 
-> **ELI (thinking):**
-> “Reservoir gate adjustment – upstream flow override…”
-> Wait. This isn’t a test packet.
+> **CLARA:**
+> What?
 
-**Panel 4**: Clara clicks the file open. Her face slackens as she reads the origin header:
+> **ELI:**
+> The ones that were true... felt just like the ones that weren’t. Same paper. Same ink.
+> The lie never felt like a lie until it was too late.
 
-> **VERIFIED NODE:** NY-C3
-> **LEAD:** RS-M5
-> **SOURCE ID:** ELI-TF.07
+**Panel 4**: Clara looks down. Not sad—focused. Like the thought is being carved into her.
 
-### PAGE 16
+> **CLARA:**
+> That’s why the Hash matters.
+> It doesn’t care how it feels.
+> It proves.
 
-**Panel 1**: Eli sits at a dusty, over-lit terminal in a quiet room filled with analog screens and node routers. Rain taps on a narrow window. He yawns, logs into the console.
+### PAGE 19
 
-> **ELI (muttering):**
-> Alright. Let’s see what you weirdos did this time.
+**Panel 1**: Eli leans over, bumping her shoulder with his.
+
+> **ELI**:
+> I’m proud of you. Even if it does make you unbearable to debate with now.
+
+> **CLARA**:
+> You never won those debates. I was just being nice.
+
+**Panel 2**: They both laugh. The light from the tower pulses brighter—mesh activation flare. In the distance, a chorus of city nodes quietly hums into sync.
+
+**Panel 3**: (Wide panel) Silent. Clara and Eli, framed against a city flickering into a new kind of order.
 
 ---
+
+## ECHO GRID – Thread A, Chapter 4: "Live Traffic"
+
+### PAGE 20
+
+**Setting:** Rust River Civic Operations Center — 3rd floor mesh monitoring suite
+**Time:** Two weeks after Civic Trust Hash deployment
+
+**Panel 1**:
+**(Wide shot)**: Clara leans over a glowing terminal, stacks of printouts beside her. Her partner Jules is at the far desk, sipping cold coffee, half-asleep.
+
+> **CLARA:**
+> Node 88 just lit up. Colorado River CivicBoard handshake—context attached.
+
+> **JULES (groaning):**
+> That’s the sixth today. They’re loving it out there.
+
+**Panel 2**:
+**(Close-up)** of the screen:
+`VALID CONTEXT: FLOOD RESPONSE DISPATCH CONFIRMED`
+Below it: timestamp, hash signature, origin path.
+
+> **CLARA (off-panel):**
+> No forged timestamps. No route interference.
+> Just… working.
+
+**Panel 3**:
+Jules stands up, stretches, walking over with a grin.
+
+> **JULES:**
+> You know what I overheard in the dispatch hall?
+
+> **CLARA:**
+> Don’t tell me.
+
+> **JULES:**
+> “If it ain’t hashed, it didn’t happen.”
+
+### PAGE 21
+
+**Panel 1**:
+They both laugh. It’s real. The system has a saying now. That’s culture adoption.
+
+> **CLARA:**
+> Gross.
+> And kind of amazing.
+
+**Panel 2**:
+Jules leans over her shoulder, squinting at a rolling data window.
+
+> **JULES:**
+> You see the medical cert pipeline this morning?
+> Patient trust forms are tagging origin clinics.
+> That’s huge.
+> We just killed anonymous malpractice.
+
+**Panel 3**:
+**(Cutaway panel – mini-montage)**: A civic dispute tribunal room. Two people arguing over land rights. A magistrate holds up a tablet showing the hash origin of a signed message. The argument ends. One nods, the other sighs.
+
+> **CAPTION:**
+> “This proves I was told the truth.”
+
+### PAGE 23
+
+**Panel 1**:
+Back to Clara. She's now sitting cross-legged on her chair, hands still hovering over keys, eyes bright but tired.
+
+> **CLARA:**
+> When we started… I thought just building it would be enough.
+
+**Panel 2**:
+Jules sits across from her now, perched backwards on the chair, arms folded across the top.
+
+> **JULES:**
+> You’re not done building it.
+
+> **CLARA (smirking):**
+> That’s what worries me.
+
+**Panel 3**:
+Terminal chimes again. A log blinks red for a moment:
+
+```
+SIGNATURE COLLISION DETECTED - RETRANSMIT PENDING
+```
+
+*But the alert clears. Nobody notices.*
+
+> **CAPTION:**
+> …But the weave has already begun to fray.
+
+---
+
+## ECHO GRID - Thread A, Chapter 5: "Trust in Transit"
+**Scene:** After work walk
+**Setting:** Dusk. The streets of Rust River, glowing with sodium lights. Rail cars groaning in the distance. Clara and Jules walk side by side, backpacks slung, takeaway bowls half-eaten.
+
+### PAGE 24
+
+**Panel 1**:
+They walk along a cracked sidewalk beside a slow-moving freight track. Rails shimmer. Quiet city hum.
+
+> **JULES:**
+> You gonna keep reading node logs all night or actually get some rest?
+
+> **CLARA:**
+> Depends. Are you planning to breathe too loud in your sleep again?
+
+**Panel 2**:
+Jules makes a face like mock betrayal.
+
+> **JULES:**
+> I have dignified nocturnal allergies.
+
+> **CLARA:**
+> You sound like a sick elk dying under a blanket.
+
+**Panel 3**:
+**(Beat panel)**: They walk in silence. A passing civic drone flutters overhead, scanning sidewalk mesh tags.
+
+### PAGE 25
+
+**Panel 1**:
+Jules sips from a metal canteen. Glances at Clara sideways.
+
+> **JULES:**
+> For what it’s worth… that thing you built?
+
+> **CLARA:**
+> The Hash?
+
+> **JULES:**
+> It’s working. You can feel it.
+> People talk different now. Like... they know they’ll be remembered.
+
+**Panel 2**:
+Clara walks slower. Looks up at the streetlamp ahead, slightly softened by fog.
+
+> **CLARA:**
+> I just keep waiting for the other shoe to drop.
+
+**Panel 3**:
+Jules tosses a fry into their mouth.
+
+> **JULES:**
+> Maybe it already did.
+> Maybe that’s why we built the floor so it wouldn’t matter.
+
+**Panel 4**:
+They pass under the light. Silhouettes again. Behind them, someone is spray-painting a message onto a civic post in stenciled letters:
+**“HASH MEANS TRUTH”**
+
+---
+
+## ECHO GRID – Thread A, Chapter 6: "Federation"
+
+### PAGE 26
+
+**Setting:** Clara & Jules’ Apartment, shared third-floor walkup above a mechanic’s shop.
+**Time:** Night—hours after the mesh handshake that integrated the New York civic zone.
+
+**Vibe:** Late-night energy, papers everywhere, takeout boxes open. Eli’s just arrived, setting down his jacket and a copy of a civic node digest.
+
+**Panel 1**: Jules is sprawled upside down on the couch with a tablet on their chest. Clara’s at the table, legs up, typing. Door creaks open—Eli walks in holding a greasy paper bag.
+
+> **ELI:**
+> You two degenerates eat yet?
+
+> **JULES (muffled):**
+> We’re thriving on jalapeño popcorn and cold code commits.
+
+> **CLARA (grinning):**
+> They mean yes.
+
+**Panel 2**: Eli drops into the third chair, opens the bag—more flatbread, stuffed with lentils and some regional green chile. Steam rises.
+
+> **ELI:**
+> Pueblo-NY handshake finalized. I saw it on the dispatch board.
+
+> **CLARA:**
+> Yeah, node-to-node handshake passed with full context integrity.
+
+> **JULES (sitting up):**
+> We’re intercontinental, baby!
+
+### PAGE 27
+
+**Panel 1**: Clara pushes aside some printouts, revealing a hand-drawn network diagram on kraft paper: circles and lines labeled with node IDs and federation bridges.
+
+> **CLARA:**
+> The wild part is, the trust hash held up without manual verification.
+
+> **ELI:**
+> So anyone in Manhattan can now trace civic proofs back to a farm station in Chaco Canyon?
+
+**Panel 2**: Jules gestures, chewing.
+
+> **JULES:**
+> Not directly. They trace the proof that the proof was verified by someone we already trust.
+
+> **CLARA:**
+> That’s the mesh federation part. Everyone links to a signer upstream.
+
+**Panel 3**: Eli raises an eyebrow, skeptical.
+
+> **ELI:**
+> And how far out can that chain go before we don’t know who’s validating what?
+
+**Panel 4**: Beat panel. Clara stares at her cup of tea. Jules scratches their head.
+
+> **CLARA (softly):**
+> Three degrees, maybe four. After that, it gets... fuzzy.
+
+### PAGE 28
+
+**Panel 1**: Eli leans forward, elbows on the table, serious now.
+
+> **ELI:**
+> So someone federates with us... then federates with someone else...
+> And suddenly we’re trusting strangers we’ve never even logged against.
+
+**Panel 2**: Clara nods, slow.
+
+> **CLARA:**
+> That’s why the hash expires.
+> After 72 hours it requires a fresh validation stamp from a primary node.
+
+**Panel 3**: Jules, playful but pointed.
+
+> **JULES:**
+> Unless some slick bastard figures out how to fake a primary signature and nest it three hops deep.
+
+> **CLARA:**
+> They’d need root-level access on a core node.
+
+> **ELI:**
+> Or just enough time and trust to forge their way up.
+
+### PAGE 29
+
+**Panel 1**: Quiet panel—Eli leans back, looking toward the window. The hum of trains filters in.
+
+> **ELI:**
+> You ever worry that trust isn’t scalable?
+
+**Panel 2**: Clara responds, almost a whisper.
+
+> **CLARA:**
+> Only every time someone says they believe in what we built.
+
+**Panel 3**: The three of them sit in the quiet. The diagram on the table glows in lamplight. Outside, another civic drone flickers past the skyline.
+
+---
+
