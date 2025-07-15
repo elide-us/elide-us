@@ -1,4 +1,4 @@
-# V. Setting and Anthopy
+# V. Setting and Anthropy
 
 The Realms of Prism today are seven. But it was not always so.
 
@@ -135,7 +135,7 @@ All that remained were the forces the Titans had unleashed: **magic** and **mort
 
 Thus, the **First Age of the Immortals** came to an end. The Titans and their children faded into legend, leaving behind only the echoes of their creations and the powerful magic that flowed through the world. But even in this age of mortality, the world waited. The Light had more yet to reveal, and though the Titans slept, the forces of the universe would stir once more, in time.
 
-----
+---
 
 ### The First Age of the Mortals
 
