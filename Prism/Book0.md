@@ -8,13 +8,13 @@
 
 ## II. Dungeon Maker's Design
 
-  This book concerns the modular template buildimg system, modular boss builder, and item creation systems.
+  This book concerns the modular template building system, modular boss builder, and item creation systems.
 
 ---
 
 ## III. World System Design
 
-  This book concerns how the world is defined and evolved through erosion and resource generation procudures.
+  This book concerns how the world is defined and evolved through erosion and resource generation procedures.
 
 ---
 

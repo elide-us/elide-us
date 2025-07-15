@@ -43,12 +43,12 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 |---------|---|-----|-----|------|
 | Hydrogen | 1 | (H) | 1 | Water |
 | Sodium | 11 | (Na) | 1 | Salt and Glass |
-| Potassium | 19 | (K) | 1 | Fertalizer and plant growth |
+| Potassium | 19 | (K) | 1 | Fertilizer and plant growth |
 | Calcium | 20 | (Ca) | 2 | Limestone, cement, mortar |
 
 ---
 
-### Group 3-12: Transitonal Metals
+### Group 3-12: Transitional Metals
 
 | Element | # | Sym | VEs | Uses |
 |---------|---|-----|-----|------|
@@ -56,13 +56,13 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 | Chromium | 24 | ( Cr) | 6 | Stainless steel, alloys, plating |
 | Iron | 26 | (Fe) | 2 | Fundamental component for tools and alloys |
 | Cobalt | 27 | (Co) | 2 | Magnets, alloys |
-| Nickle | 28 | (Ni) | 2 | Stainless steel, alloys, currency, bells |
+| Nickel | 28 | (Ni) | 2 | Stainless steel, alloys, currency, bells |
 | Copper | 29 | (Cu) | 1 | Conductor, alloys |
 | Zinc | 30 | (Zn) | 2 | Galvanization, alloys |
 | Silver | 47 | (Ag) | 1 | Currency, jewelry, conductor, plating |
 | Platinum | 78 | (Pt) | 1 | Currency, jewelry, conductor, plating |
 | Gold | 79 | (Au) | 1 | Currency, jewelry, conductor, plating |
-| Uranium | 92 | (U) | 6| Unknown |
+| Uranium | 92 | (U) | 6 | Unknown |
 
 ---
 
@@ -848,7 +848,7 @@ Material transformation and interactions are fundamental to creating a realistic
 
 ## D. Procedural Plant System
 
-# Overview
+### Overview
 
 The procedural plant system simulates realistic plant growth, reproduction, and evolution within the game world. It leverages the **Simplified Elemental System** to manage resources and interactions with the environment, creating an immersive and dynamic ecosystem.
 
