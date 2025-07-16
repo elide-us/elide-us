@@ -1,64 +1,3 @@
-USE THE FOLLOWING FORMATTING STANDARDS:
-
-Document-Level Headings
-Level 2 headings (##) are used for major sections:
-
-## ECHO GRID – Thread A, Chapter 1: "Chapter Title"
-
-Subsection-Level Headings
-Level 3 headings (###) identify specific sections within the major sections, usually by page numbers:
-
-### PAGE 1
-
-Scene and Context Descriptions
-Bold is used to emphasize key contextual elements like Setting, Location, Characters, and Time:
-
-**Setting:** 2080s. The Constitutional Convention of the Harmony Age.
-
-Panel Descriptions
-Panels are described clearly, with the panel number bolded and formatted consistently:
-
-**Panel 1**: Description of the scene.
-
-Wide and narrow panels have clear labels:
-
-**(Wide panel)**: Description.
-**(Two narrow panels, side-by-side)**
-
-Dialog Formatting
-Dialogue attributed to characters uses a Markdown blockquote (>) with character names bolded in uppercase:
-
-> **CHARACTER:**
-> Dialogue line.
-
-Narrative captions or unattributed text use blockquotes with labels indicating narration clearly, often with (CAPTION) or (NARRATOR):
-
-> **CAPTION (NARRATOR):**
-> Narrative text here.
-
-Code or System Messages
-Inline system outputs or code-like messages use single- or triple-backtick code blocks:
-
-`user@syslog$ >`
-
-or
-
-```
-COMMAND: EXECUTE
-STATUS: ACTIVE
-```
-
-Final Panel and Closing Sections
-Visual transitions or significant concluding visuals are clearly described without panel numbering when summarizing sections.
-
-FORMAT AND OUTPUT TO CANVAS THE FOLLOWING:
-
-
-
-
-
-
-
 ## ECHO GRID – PROLOGUE
 
 **Setting:** 2040s. The Constitutional Convention of the Harmony Age.
@@ -993,6 +932,70 @@ STATUS: CONTEXT VERIFIED
 > Clara? Clara, can you hear me?
 
 **Panel 4**: Clara’s eyes blink open. Blurred vision. A coworker crouches over her, blood on their temple.
+
+
+
+
+
+
+
+
+
+
+USE THE FOLLOWING FORMATTING STANDARDS:
+
+Document-Level Headings
+Level 2 headings (##) are used for major sections:
+
+## ECHO GRID – Thread A, Chapter 1: "Chapter Title"
+
+Subsection-Level Headings
+Level 3 headings (###) identify specific sections within the major sections, usually by page numbers:
+
+### PAGE 1
+
+Scene and Context Descriptions
+Bold is used to emphasize key contextual elements like Setting, Location, Characters, and Time:
+
+**Setting:** 2080s. The Constitutional Convention of the Harmony Age.
+
+Panel Descriptions
+Panels are described clearly, with the panel number bolded and formatted consistently:
+
+**Panel 1**: Description of the scene.
+
+Wide and narrow panels have clear labels:
+
+**(Wide panel)**: Description.
+**(Two narrow panels, side-by-side)**
+
+Dialog Formatting
+Dialogue attributed to characters uses a Markdown blockquote (>) with character names bolded in uppercase:
+
+> **CHARACTER:**
+> Dialogue line.
+
+Narrative captions or unattributed text use blockquotes with labels indicating narration clearly, often with (CAPTION) or (NARRATOR):
+
+> **CAPTION (NARRATOR):**
+> Narrative text here.
+
+Code or System Messages
+Inline system outputs or code-like messages use single- or triple-backtick code blocks:
+
+`user@syslog$ >`
+
+or
+
+```
+COMMAND: EXECUTE
+STATUS: ACTIVE
+```
+
+Final Panel and Closing Sections
+Visual transitions or significant concluding visuals are clearly described without panel numbering when summarizing sections.
+
+FORMAT AND OUTPUT TO CANVAS THE FOLLOWING:
 
 > **CLARA (weakly):**
 > What... happened?
