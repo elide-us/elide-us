@@ -27,9 +27,22 @@ From Green and Yellow came Red and Blue
   - Sanguia (Fire and Blood)
   - Aquia (Water and Illusion)
 
-**Cosmology ruling (2026-07-02, ledger 05840ADF).** The realms are distilled into the celestial system: there are **seven instances of the world, each a different body, all sharing the same universe and the same celestial simulation**. The hex planets' pentagon zones are **gateways into the other realms**. A definite **body order** of the simulation exists and is a strong decision — its values are not yet recorded and must come from Elideus.
+**Cosmology ruling (2026-07-02, ledgers 05840ADF, 8543A752).** The realms are distilled into the celestial system: there are **seven instances of the world, each a different body, all sharing the same universe and the same celestial simulation**. The hex planets' pentagon zones are **gateways into the other realms**. The seven sky-planets are refractions of the one home reality (source: the 2026-07-01 celestial session, archived at `sources/celestial-cosmology-session-2026-07-01.md`).
 
-*[EDITORIAL — [PROPOSED], unratified: the seven realms named above are the seven bodies — one realm-instance per school-colored body. The remainder of fork 973162E7 stays open for the body order values and ratification of that mapping. Also open: pentagon zones were previously glossed "beyond player reach"; as gateways they are presumably reachable under some condition (ledger 05840ADF poses the question).]*
+**The body order** (ruled; inner → outer):
+
+1. **Chaos** — innermost; red, orange, and black
+2. **Fire** — red
+3. **Home** — the habitable band; carries the moon
+4. **Earth** — brown and green
+5. **Life/Light** — the white gas giant *(naming under the Life-is-Green ruling is an open fork — ledger 7BC8E9B6)*
+6. **Air** — the ringed planet; white and pale blue
+7. **Water** — Neptune blue
+8. **Death** — outermost; black, occulted behind the star, seen only as a shadow transiting the galactic cloud
+
+The sun anchors the system and the moon rides with Home — both outside the seven. All seven planets share one apparent size, about a quarter of the sun/moon disc. **The moon is not a simulated body**: it tracks the real-world Moon one-to-one — true synodic cycle, phase and position from real ephemeris (ledger D2AAFEEC). Time runs at one in-game minute per five real seconds — a two-hour in-game day.
+
+*[EDITORIAL — still open: (a) whether the seven realm names above are the names of the seven bodies (realm↔body mapping, [PROPOSED] only — ledger 7BC8E9B6); (b) the slot-5 name — "Life/Light" predates the Life-is-Green ruling; (c) pentagon gateways were previously glossed "beyond player reach" — what condition opens them (ledger 05840ADF); (d) the in-game↔real latitude mapping and reference longitude for the moon ephemeris (ledger D2AAFEEC).]*
 
 ---
 
