@@ -52,7 +52,7 @@ The seven sky-planets map one per school (ledger D30A32BF): Chaos → Orange, Fi
 
 ---
 
-Each color has two aspects, and **each aspect is a school** — two schools per color, **fourteen schools among the seven shard worlds**, each color's pair housed on its associated world (realignment ruling 2026-07-02, ledger FF1F7955). Within each school lie **further disciplines** — room for divergence and unity (ledger A8FF6AB0). Each realm is associated with a specific statistic and a philosophy pair. The philosophies belong to the **color**, not to either school: the pair is two contrasting approaches to the color's virtue — deliberately unlabeled — and followers of both philosophies are found at both of the color's schools.
+Each color has two aspects, and **each aspect is a school** — two schools per color, **fourteen schools among the seven shard worlds**, each color's pair housed on its associated world (realignment ruling 2026-07-02, ledger FF1F7955). Within each school lie **further disciplines** — the categories of magic already documented as Book IV's domains (Abjuration, Divination, Pyromancy, Thaumaturgy, and kin); every spell belongs to a discipline. Room for divergence and unity (ledgers A8FF6AB0, DCB350D4). Each realm is associated with a specific statistic and a philosophy pair. The philosophies belong to the **color**, not to either school: the pair is two contrasting approaches to the color's virtue — deliberately unlabeled — and followers of both philosophies are found at both of the color's schools.
 
 | Stat | Color | Schools | Philosophy |
 |---|---|---|---|

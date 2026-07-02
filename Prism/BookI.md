@@ -6,7 +6,7 @@ This book defines the adventurer's side of Prism: the character — their stats,
 
 ## The Seven Stats
 
-The seven stats are canonical, one per color of magic (Book V, Canon Rulings 2026-07-02; ledger 2ABDD515, realigned by FF1F7955). Each stat is the capacity that its color's realm studies and reinforces, paired with that color's philosophy pair (Book V). Each color fields **two schools** — one per aspect, fourteen among the seven shard worlds, with further disciplines inside each school (ledgers FF1F7955, A8FF6AB0) — and the philosophy belongs to the color: followers of both poles study at both of its schools. The two poles are deliberately unlabeled and unjudged — which is right is the player's own conclusion (ledger E4F46BA5).
+The seven stats are canonical, one per color of magic (Book V, Canon Rulings 2026-07-02; ledger 2ABDD515, realigned by FF1F7955). Each stat is the capacity that its color's realm studies and reinforces, paired with that color's philosophy pair (Book V). Each color fields **two schools** — one per aspect, fourteen among the seven shard worlds, with further disciplines inside each school: the categories of magic documented in Book IV (ledgers FF1F7955, A8FF6AB0, DCB350D4) — and the philosophy belongs to the color: followers of both poles study at both of its schools. The two poles are deliberately unlabeled and unjudged — which is right is the player's own conclusion (ledger E4F46BA5).
 
 | Stat | Color | Schools | Philosophy |
 |---|---|---|---|
