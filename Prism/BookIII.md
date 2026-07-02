@@ -2,9 +2,45 @@
 
   This book is meant to describe the systems that drive the procedural world generation. We start from a simplified elemental system and build into various compounds that are used in gameplay.
 
+## World-System Frame
+
+  **[PROPOSED]** — Alignment preamble added in the 2026-07-02 recompile. Basis: ledger decision F156C63C (Seed canon 11, world-system engine canon) and the flicker engine documents cited inline. It connects this book's original vocabulary to current world-system canon; the source tables in the rest of this book are preserved as written.
+
+  This book states design truth for the world's materials and processes. Code and geometry are render targets (Seed canon 1): where this book and an engine document differ on implementation detail, the book describes what the world is, the engine documents describe how it is currently computed.
+
+### The Material Ledger
+
+The world's stored truth is a **material ledger**. Each heightmap pixel carries a **composition vector** — absolute amounts per element — plus trait fields (hardness, brittleness, water capacity, viscosity); each cluster carries a **layered stack of materials** (strata: soil over stone over deeper rock — digging passes down through the layers). Shape — terrain height and voxel geometry — is derived from the ledger at bake time and is never stored as truth. Mass per material is conserved: a player digging a column and a river eroding it are the same kind of transaction against the ledger. (Canon: F156C63C; flicker docs/flicker-world-system-spec.md §4.)
+
+  **[OPEN QUESTION]** The sections below describe voxels as containers of elements whose contents are the truth. Whether that is the same model at two resolutions (voxels as the ledger's materialization/render layer) or a genuine conflict is an open fork — ledger entry 9C677816. The voxel-container text is retained unmodified pending that ruling.
+
+### Elements, Compounds, and Classified Materials
+
+The engine consumes this book directly: the Simplified Periodic Table below is the canonical element vocabulary (flicker docs/material-model-handoff.md — 26 elements carried verbatim; the valence-electron counts are this book's gameplay values by design, not IUPAC values). Above the elements, the engine classifies an aggregate composition to one of 256 named materials (granite, sandstone, limestone, dirt, ores, water, ice, lava, and so on).
+
+  **[PROPOSED]** This book's compound, mineral, and gemstone tables are the chemistry-facing source-work behind that classification and behind the crafting/extraction layer; the exact mapping from these tables to classified materials is unassigned — the engine's compound catalog is deferred, and its world simulation works element→material directly. (Basis: material-model-handoff.md §2; ledger note 3C72165B.)
+
+### The Nine-Epoch Bake
+
+The planet is generated offline in nine epochs, three groups of three. **Epochs 1–3 (molten):** matter distribution, filtering and sorting, heat distribution, compound formation — these are replaced by the solar-system simulation, so the planet's starting composition is the exact accounting of the matter the world accreted. **Epochs 4–6 (geological):** cooling crust, plate tectonics, continent compression and mountain building, dozens of major erosive cycles, layered strata. **Epochs 7–9 (persistent simulation):** the retained real-world state — the only data the server keeps; epochs 1–6 are discardable scaffolding once it exists. (Canon: F156C63C; flicker-world-system-spec.md §3.)
+
+### Hex-Sphere Topology
+
+The world map is an icosahedral Goldberg hex-sphere: hexagonal cells with exactly twelve pentagonal defects at the icosahedron vertices. The flat neighbor graph is the data; the sphere is a derived, read-only view of it. The twelve pentagons are intentional content placed beyond ordinary player reach (unsurvivable peaks, ocean troughs, anomaly zones). (Canon: F156C63C; flicker docs/hex-sphere-handoff.md.)
+
+### Rivulets
+
+Water, lava, and ice transport runs on **Rivulets**: a directed acyclic graph of flow segments with confluences, deltas, and termini (outflows to the ocean, or sinks — lakes and basins that hold volume). Its primary purpose is to move sediment: erode at the source, transport in one operation, deposit at the terminus. The water a player sees is a rendered read of this state, not a live fluid simulation. The erosion processes this book describes — sediment distribution, river formation, material sorting — run on this structure. (Canon: F156C63C; flicker-world-system-spec.md §6.)
+
+### The Crust Clock
+
+The primary world clock is **500-million-year crust recycling**: crust actively subducts, moves, and regenerates, and the simulation passes that evolve the ledger run on a geological cadence, never in the frame loop. Stated durations here and in the engine documents are working design values; a period discrepancy against an engine roadmap document is logged as ledger contradiction 53092068, not resolved here. (Canon: F156C63C.)
+
 ## Simplified Elemental System
 
   The game world is composed of voxels, but unlike traditional cubes that represent just one material, our voxels can both change shape, and are but containers for elements. The contents of any given voxel determines the material. While common interactions with voxels can interact at the level of a voxel material, the simulation undergirding the generation of the world is driven by real-world chemistry and real-world environmental processes. Diamonds aren't produced at random, they're the result of a lot of carbon and temperature and pressure, and this is how we generate them here, too.
+
+  **[OPEN QUESTION]** The voxel-container framing above predates the engine's material-ledger canon (composition vectors per heightmap pixel; voxels as a derived materialization layer). Whether these are one model at two resolutions or a genuine conflict is unresolved — ledger entry 9C677816; see the World-System Frame preamble. The text is retained as written.
 
 ### Purpose and Design
 
@@ -53,7 +89,7 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 | Element | # | Sym | VEs | Uses |
 |---------|---|-----|-----|------|
 | Titanium | 22 | (Ti) | 4 | Alloys |
-| Chromium | 24 | ( Cr) | 6 | Stainless steel, alloys, plating |
+| Chromium | 24 | (Cr) | 6 | Stainless steel, alloys, plating |
 | Iron | 26 | (Fe) | 2 | Fundamental component for tools and alloys |
 | Cobalt | 27 | (Co) | 2 | Magnets, alloys |
 | Nickel | 28 | (Ni) | 2 | Stainless steel, alloys, currency, bells |
@@ -73,8 +109,8 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 | Helium | 2 | (He) | 2 | Unknown |
 | Carbon | 6 | (C) | 4 | Fundamental component of organics, coal, and diamonds |
 | Nitrogen | 7 | (N) | 5 | Fertilizers |
-| Oxygen | 8 | (O) | 6 | Combustion, oxidation, and water formation  |
-| Aluminum | 13 | (Al) | 3 | Insulation, alloys, plating, tools| |
+| Oxygen | 8 | (O) | 6 | Combustion, oxidation, and water formation |
+| Aluminum | 13 | (Al) | 3 | Insulation, alloys, plating, tools |
 | Silicon | 14 | (Si) | 4 | Rocks, sand, glass, and ceramics |
 | Phosphorus | 15 | (P) | 5 | Fertilizers |
 | Sulfur | 16 | (S) | 6 | Crafting |
@@ -82,7 +118,7 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 | Tin | 50 | (Sn) | 4 | Alloys |
 | Lead | 82 | (Pb) | 4 | Shielding and batteries |
 
-  --- 
+---
 
 #### **Notes on Valence Electrons and Gameplay Mechanics**
 
@@ -765,7 +801,7 @@ Gemstones add value and variety to the game, providing opportunities for trade, 
 
 - **Resource Exploration:** Players are encouraged to explore various biomes and geological formations to find these minerals and gemstones.
 - **Crafting and Trade:** Minerals and gemstones enhance crafting possibilities, allowing for the creation of unique items, weapons, and armor.
-- **Economy Development:** Rare minerals and gemstones can become valuable commodities, promoting trade and economic growth within the game
+- **Economy Development:** Rare minerals and gemstones can become valuable commodities, promoting trade and economic growth within the game.
 - **Environmental Interaction:** Minerals influence terrain features, such as mountain ranges rich in ores or deserts abundant in quartz sand.
 - **Educational Aspect:** Players learn about historical uses of minerals and gemstones, enriching their gaming experience.
 
@@ -774,7 +810,7 @@ Gemstones add value and variety to the game, providing opportunities for trade, 
 - **Exotic Elements:** While some minerals in reality contain elements not present in the Simplified Elemental System, the selected minerals are derived using only the included elements.
 - **Substitutions and Simplifications:** For gameplay purposes, certain minerals may be simplified or adjusted to fit within the elemental constraints while maintaining their essential characteristics.
 
-## Materia Transformations and Interactions
+## Material Transformations and Interactions
 
 Material transformation and interactions are fundamental to creating a realistic and dynamic world. The combination of elements and compounds within voxels leads to the formation of specific materials, influenced by environmental factors such as pressure, temperature, and chemical reactions. This section explores how these transformations occur and how they integrate with gameplay mechanics, all within the context of the **Simplified Elemental System**.
 
@@ -784,9 +820,11 @@ Material transformation and interactions are fundamental to creating a realistic
 
 1. Formation of Specific Materials
 
-- **Element and Compound Combinations**: Elements within a voxel can combine to form compounds, which represent different materials with unique properties and uses. For example, iron (Fe) and sulfur (S) can combine to form iron sulfide (FeS), a mineral known as pyrite.
+- **Element and Compound Combinations**: Elements within a voxel can combine to form compounds, which represent different materials with unique properties and uses. For example, iron (Fe) and sulfur (S) can combine to form iron sulfide (FeS₂), a mineral known as pyrite.
   
 - **Voxel Dynamics**: Voxels act as dynamic containers that hold one or more elements or compounds. The contents of a voxel can change through player actions or environmental processes, leading to material transformations like melting, solidification, or chemical reactions.
+
+  **[OPEN QUESTION]** "Voxels act as dynamic containers" is voxel-container framing — see ledger entry 9C677816 (voxel-container vs material-ledger fork). Under the ledger model, both player actions and environmental processes are transactions against the cluster's composition vector; the transformations described here are unaffected either way.
 
 2. Environmental Influences
 
@@ -882,6 +920,8 @@ The procedural plant system simulates realistic plant growth, reproduction, and 
 
   - **Voxel Composition**: Plants extract nutrients and water from surrounding voxels, affecting and being affected by the local environment.
   - **Adaptation**: Plants may alter their growth patterns in response to obstacles or changes in their surroundings.
+
+  **[OPEN QUESTION]** The plant system's soil/nutrient interface is written against the voxel grid; under the material-ledger model it would read against cluster composition and effect state instead. This is a named downstream of fork 9C677816 — not resolved here.
 
 2. Environmental Resource Management
 
