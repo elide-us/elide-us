@@ -29,6 +29,8 @@ From Green and Yellow came Red and Blue
 
 **Cosmology ruling (2026-07-02, ledgers 05840ADF, 8543A752).** The realms are distilled into the celestial system: there are **seven instances of the world, each a different body, all sharing the same universe and the same celestial simulation**. The hex planets' pentagon zones are **gateways into the other realms**. The seven sky-planets are refractions of the one home reality (source: the 2026-07-01 celestial session, archived at `sources/celestial-cosmology-session-2026-07-01.md`).
 
+Each world has twelve pentagon points (hex-sphere topology, Book III). The working idea — idea-grade, not locked (ledger 73EA6D39): **six rise above the survivable line (mountains) and six plunge below it (deep ocean)**. The zones around them are anomalous by design — "weird," in the register of the Bermuda Triangle mythos — and the realm portals **surround these points**, giving them their reason to exist. The specific transit mechanics are undecided.
+
 **The body order** (ruled; inner → outer):
 
 1. **Chaos** — innermost; red, orange, and black
@@ -44,7 +46,7 @@ The sun anchors the system and the moon rides with Home — both outside the sev
 
 The seven sky-planets map one per school (ledger D30A32BF): Chaos → Orange, Fire → Red, Earth → Green (Earth *and* Life), Light → White, Air → Yellow, Water → Blue, Death → Black.
 
-*[EDITORIAL — still open: (a) whether the seven realm names above are the names of the seven bodies (realm↔body mapping, [PROPOSED] only — ledger 7BC8E9B6); (b) pentagon gateways were previously glossed "beyond player reach" — what condition opens them (ledger 05840ADF); (c) the in-game↔real latitude mapping and reference longitude for the moon ephemeris (ledger D2AAFEEC).]*
+*[EDITORIAL — still open: (a) whether the seven realm names above are the names of the seven bodies (realm↔body mapping, [PROPOSED] only — ledger 7BC8E9B6); (b) pentagon transit mechanics — undecided, including how twelve points serve six destination realms (ledger 73EA6D39); (c) the in-game↔real latitude mapping and reference longitude for the moon ephemeris (ledger D2AAFEEC).]*
 
 ---
 

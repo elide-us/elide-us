@@ -26,7 +26,7 @@ The planet is generated offline in nine epochs, three groups of three. **Epochs 
 
 ### Hex-Sphere Topology
 
-The world map is an icosahedral Goldberg hex-sphere: hexagonal cells with exactly twelve pentagonal defects at the icosahedron vertices. The flat neighbor graph is the data; the sphere is a derived, read-only view of it. The twelve pentagons are intentional content placed beyond ordinary player reach (unsurvivable peaks, ocean troughs, anomaly zones). (Canon: F156C63C; flicker docs/hex-sphere-handoff.md.)
+The world map is an icosahedral Goldberg hex-sphere: hexagonal cells with exactly twelve pentagonal defects at the icosahedron vertices. The flat neighbor graph is the data; the sphere is a derived, read-only view of it. The twelve pentagons are intentional content: the working idea (idea-grade — ledger 73EA6D39) places six above the survivable line as mountains and six below it as deep ocean, each an anomalous zone in the Bermuda-Triangle register, and the realm portals surround these points (Book V, cosmology ruling). Transit mechanics are undecided. (Canon: F156C63C, 73EA6D39; flicker docs/hex-sphere-handoff.md.)
 
 ### Rivulets
 

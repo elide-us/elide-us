@@ -172,6 +172,8 @@ Elideus surfaced the 2026-07-01 claude.ai session ("Celestial system with elemen
 
 **Round 3 (2026-07-02, same day):** slot-5 naming RESOLVED (`D30A32BF`) — the planet is **Light**; "Life/Light" was Elideus's misremembering, the color/philosophy canon stands. The seven sky-planets now map one per school (Chaos→Orange, Fire→Red, Earth→Green, Light→White, Air→Yellow, Water→Blue, Death→Black). Books V and VI corrected. Fork `7BC8E9B6` narrows to its part (b): whether Book V's seven realm names name the seven bodies.
 
+Also round 3: **pentagon gateways refined** (`73EA6D39`) — twelve points per world; idea-grade split of six above the survivable line (mountains) and six below (deep ocean); zones "weird" in the Bermuda-Triangle register; portals surround the points. Supersedes the archived session's 7-gates/5-reserved proposal. Still open: transit mechanics, and how twelve points serve six destination realms.
+
 ---
 
 *Ledger conventions, all entry GUIDs, and full finding bodies live in the Oracle thread `prism-bible-recompile`. Books remain internally honest: every unsourced claim is marked, every fork is cited, nothing was invented.*
