@@ -146,4 +146,14 @@ The Lonely Muse founding myth (exists nowhere; Book VI stub is ready to receive 
 
 ---
 
+## Addendum — adjudication round 1 (2026-07-02, post-report)
+
+Elideus reviewed the report and ruled on the first batch. Recorded in the ledger and applied:
+
+- **Item 1, Cosmology — structurally RULED** (`05840ADF`). The realms are distilled into the celestial system: seven instances of the world, each a different body, one shared universe and celestial simulation; hex-planet pentagon zones are gateways into the other realms. Book V's editorial updated. **Still pending:** the body order values (a strong decision, recorded nowhere — needs Elideus), ratification of the realm↔body mapping ([PROPOSED]: Book V's seven realm names are the seven bodies), and a new question — pentagon zones were previously "beyond player reach"; as gateways, what condition opens them?
+- **Item 2, Rings — under review** (`2A2A5A97`). Elideus leans magic-system origin; fuzzy old idea, needs further review. Archaeology flagged for that review: the 2014 notes' "three ranked spheres of power in each school" is a plausible ancestor.
+- **Items 3/5, Death rules and dynasty — confirmed authoring work** (`07B563B1`). Real mechanics to be written down; forks stay open until that session.
+- **Item 4, Stats/combat — stats LOCKED; coupling is design-and-build work** (`78C70439`). 2014-06-27 design notes archived at `sources/combat-systems-ideation-2014.md` as **IDEATION ONLY**; the durable payload is the status-effect taxonomy (stun, snare, slow, root, poison, confound, aphasia, fear, confuse, silence, expose, tashina, mesmerize) as direct game mechanics plus time/distance/movement constraints. Book I's combat section now points at it.
+- **Memory policy** (`3107D080`, project `general`): durable memory lives in the Oracle MCP; local MEMORY.md/CLAUDE.md files are pointers only. Repo CLAUDE.md created accordingly.
+
 *Ledger conventions, all entry GUIDs, and full finding bodies live in the Oracle thread `prism-bible-recompile`. Books remain internally honest: every unsourced claim is marked, every fork is cited, nothing was invented.*
