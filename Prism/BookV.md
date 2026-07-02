@@ -52,9 +52,9 @@ The seven sky-planets map one per school (ledger D30A32BF): Chaos → Orange, Fi
 
 ---
 
-Each color has two aspects, and **each aspect is a school** — two schools per color, **fourteen schools among the seven shard worlds**, each color's pair housed on its associated world (realignment ruling 2026-07-02, ledger FF1F7955). Each realm is associated with a specific statistic and a philosophy pair. The philosophies belong to the **color**, not to either school: the pair contrasts an **honorable** and a **dishonorable** approach to the color's virtue, and followers of both philosophies are found at both of the color's schools.
+Each color has two aspects, and **each aspect is a school** — two schools per color, **fourteen schools among the seven shard worlds**, each color's pair housed on its associated world (realignment ruling 2026-07-02, ledger FF1F7955). Within each school lie **further disciplines** — room for divergence and unity (ledger A8FF6AB0). Each realm is associated with a specific statistic and a philosophy pair. The philosophies belong to the **color**, not to either school: the pair is two contrasting approaches to the color's virtue — deliberately unlabeled — and followers of both philosophies are found at both of the color's schools.
 
-| Stat | Color | Schools | Philosophy (honorable vs dishonorable) |
+| Stat | Color | Schools | Philosophy |
 |---|---|---|---|
 | Wisdom | White | Light and Prophecy | Enlightenment vs Revelation |
 | Dexterity | Yellow | Air and Lightning | Courage vs Audacity |
@@ -64,7 +64,7 @@ Each color has two aspects, and **each aspect is a school** — two schools per 
 | Endurance | Green | Earth and Life | Perseverance vs Hunger |
 | Constitution | Black | Death and Void | Transcendence vs Ambition |
 
-Every pair runs off one axiom: the honorable pole approaches the color's virtue collectively and impersonally; the dishonorable pole approaches it through the self — inherited, claimed. *[OPEN QUESTION — does the axiom itself carry a player-facing name, the way Jedi/Sith names a whole split? Ledger 0E5DA637.]*
+Every pair runs off one axiom: one pole approaches the color's virtue collectively and impersonally; the other through the self — inherited, claimed. By ruling (ledger E4F46BA5) the split carries **no name and no judgment**: "we do not preach, we reveal" — which pole is right is the player's own conclusion, never the design's. Both poles have strengths and weaknesses, and the pole a player's choices align to expresses in their NPC settlements. (An earlier "honorable vs dishonorable" framing was a misspeak, struck 2026-07-02.)
 
 The philosophical traits that drive the moral realms are Valor, Courage, Knowledge and Perseverance. *[EDITORIAL — "moral realms" may be a typo for "mortal realms" (the four traits are exactly the four mortal schools' virtues) or deliberate wordplay (they are the moral virtues of the mortal realms). Meaning-level; do not normalize without a ruling from Elideus. Ledger 89D9BC90.]*
 
@@ -82,7 +82,9 @@ A running ledger of rulings that resolve ambiguities between source documents. E
 
 - **2026-07-02 — Celestial events are global.** Celestial configurations (eclipses, alignments) modify the whole world at once, across all dungeon tiers and regions — not endgame-only bonuses. Scarcity and abundance are deterministic and foretold in the sky.
 
-- **2026-07-02 — Colors, schools, and philosophies realigned.** Schools are not schools of colors. Each color has two aspects, and each aspect is a school — two schools per color, each pair on its color's shard world; fourteen schools among the seven worlds. Philosophies belong to the color, not the schools: each pair contrasts an honorable and a dishonorable approach to the color's virtue, and both of a color's schools contain followers of both. Revised pairs: Enlightenment vs Revelation (White), Valor vs Conquest (Red), Diligence vs Cunning (Orange), Perseverance vs Hunger (Green); Courage vs Audacity (Yellow), Knowledge vs Truth (Blue), and Transcendence vs Ambition (Black) unchanged. What "the seven schools" means in older phrasing (the Muse's arc, the endgame gate) is an open re-reading — ledger FCB93BC0.
+- **2026-07-02 — Colors, schools, and philosophies realigned.** Schools are not schools of colors. Each color has two aspects, and each aspect is a school — two schools per color, each pair on its color's shard world; fourteen schools among the seven worlds. Philosophies belong to the color, not the schools: each pair contrasts two approaches to the color's virtue — deliberately unlabeled and unjudged (an earlier "honorable vs dishonorable" framing was struck as a misspeak) — and both of a color's schools contain followers of both. Revised pairs: Enlightenment vs Revelation (White), Valor vs Conquest (Red), Diligence vs Cunning (Orange), Perseverance vs Hunger (Green); Courage vs Audacity (Yellow), Knowledge vs Truth (Blue), and Transcendence vs Ambition (Black) unchanged.
+
+- **2026-07-02 — Mastery spans colors; the split is unnamed.** "All seven schools" in mastery phrasing means **at least one school from each color** — fourteen is excessive by ruling; within each school lie further disciplines. The philosophy split carries no design-side name and no judgment — the design reveals, never preaches. Players choose, and the chosen pole expresses in their NPC settlements: selfish traits breed hostility toward outsiders, communal traits confer different benefits — strengths and weaknesses both ways. (Ledgers A8FF6AB0, E4F46BA5.)
 
 ---
 

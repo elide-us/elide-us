@@ -6,9 +6,9 @@ This book defines the adventurer's side of Prism: the character — their stats,
 
 ## The Seven Stats
 
-The seven stats are canonical, one per color of magic (Book V, Canon Rulings 2026-07-02; ledger 2ABDD515, realigned by FF1F7955). Each stat is the capacity that its color's realm studies and reinforces, paired with that color's philosophy pair (Book V). Each color fields **two schools** — one per aspect, fourteen among the seven shard worlds — and the philosophy belongs to the color: followers of both poles study at both of its schools (ledger FF1F7955).
+The seven stats are canonical, one per color of magic (Book V, Canon Rulings 2026-07-02; ledger 2ABDD515, realigned by FF1F7955). Each stat is the capacity that its color's realm studies and reinforces, paired with that color's philosophy pair (Book V). Each color fields **two schools** — one per aspect, fourteen among the seven shard worlds, with further disciplines inside each school (ledgers FF1F7955, A8FF6AB0) — and the philosophy belongs to the color: followers of both poles study at both of its schools. The two poles are deliberately unlabeled and unjudged — which is right is the player's own conclusion (ledger E4F46BA5).
 
-| Stat | Color | Schools | Philosophy (honorable vs dishonorable) |
+| Stat | Color | Schools | Philosophy |
 |---|---|---|---|
 | Wisdom | White | Light and Prophecy | Enlightenment vs Revelation |
 | Dexterity | Yellow | Air and Lightning | Courage vs Audacity |
@@ -69,6 +69,7 @@ The lifecycle's economics are ruled (Elideus, 2026-07-02; ledger 91F84075):
 - **The child.** An offspring is an investment requiring maintenance: ongoing payment of in-game currency builds the child to adventurer's age, and a raised child is what a new character is eventually rolled from. The investment need not begin the moment they come of age — but it cannot be skipped and cannot be bought around: **nothing is pay-to-play, ever.** "Old school RPG for life."
 - **The adventurer.** The character you play — **no take backsies**. Skill them up, live, explore, learn, acquire; at **level 10** comes a yearning to retire: you recognize your strengths and choose your benefits for the family, as permanent effects. Other endings feed the same system — a heroic sacrifice in an epic battle can become a permanent badge of glory for the account; any number of effects can be built off this system.
 - **Enchanted items obey the same law.** Long-term enchantments require regular mana investment at the enchanting table. You can't fake anything — the same rule as the child, the claim, and the dungeon: nothing persists that no one maintains.
+- **Philosophy expresses in the settlement** (ledger E4F46BA5, stated as likely-intent). The pole a player's line follows shapes their NPCs — choose selfish traits and your settlement grows more hostile to outsiders; communal traits confer different benefits. Strengths and weaknesses both ways, and the design passes no judgment: which path is right is the player's own conclusion.
 
 > **[PROPOSED]** A wider thread-state sketch exists from the same session — Living → Retired (role computed from the life actually lived) → Dead (tombstone) → Ghost (earned re-activation) → Burned (spent forever for a lasting effect); race as a tempo dial, lifespan trading against offspring slots; multi-generation dynasty tracks unlocking bloodline entitlements. Elideus's verdict was "not quite what I had in mind, but pretty close" — unratified. (Ledger A8FEC45C.)
 
@@ -98,20 +99,20 @@ Three further facts are canon (ledger 91F84075): **levels exist, and level 10 is
 
 ## The Endgame Arc
 
-The endgame of the adventurer's game spans character lifetimes: **master all seven schools across the generations of a family line, and, during a celestial alignment, reunite or re-shatter the Prism.** (Ledger 10A6150F, Seed canon 12.)
+The endgame of the adventurer's game spans character lifetimes: **master a school of every color across the generations of a family line, and, during a celestial alignment, reunite or re-shatter the Prism.** (Ledger 10A6150F, Seed canon 12; "all seven schools" ruled to mean at least one school from each color — ledger A8FF6AB0.)
 
 Celestial events are global modifiers, deterministic and foretold: an alignment is never scripted or random — it emerges from real orbits, and those who learn the heavens can predict it (ledger 8FB95281, Seed canon 6). The endgame's moment is therefore something the whole world can see coming — and since the moon runs on real wall-clock ephemeris (Book V; ledger D2AAFEEC), the appointment is computable from the actual sky.
 
-**The arc is the Muse's path** (ruled 2026-07-01/02; ledgers BDB707A5, EC054473). The player walks the road the Lonely Muse walked — apprentice at all seven schools in one lifetime, master them all, and stand at the summit she was denied (Book VI). Completing it is a **terminal epic quest**: the choice between reuniting and re-shattering is offered, made personally, and **retires the character**. The shared world persists — permanent world-scale change is not simulated; "that's where a character would retire." Nobody does this by accident, or on their first character, or their tenth.
+**The arc is the Muse's path** (ruled 2026-07-01/02; ledgers BDB707A5, EC054473). The player walks the road the Lonely Muse walked — apprentice across all seven colors in one lifetime, mastering at least one school of each (ledger A8FF6AB0), and stand at the summit she was denied (Book VI). Completing it is a **terminal epic quest**: the choice between reuniting and re-shattering is offered, made personally, and **retires the character**. The shared world persists — permanent world-scale change is not simulated; "that's where a character would retire." Nobody does this by accident, or on their first character, or their tenth.
 
 The gate stack is canon (ledger EC054473):
 
-1. The account's tapestry must already record a **leveled and retired character in each of the seven schools** — seven completed lifetimes as the price of eligibility.
+1. The account's tapestry must already record a **leveled and retired character in each of the seven colors** — at least one school per color, seven completed lifetimes as the price of eligibility (ledger A8FF6AB0).
 2. The vessel must be a **near-immortal race** (an elf-type with five human lifetimes of learning done by age one hundred) — or a character of another race prepared through an adoption setup and massive tutoring investment.
 3. The quest must be completed **during a celestial eclipse of the Chalice** — the moon–Death alignment that reveals the Muse's hidden constellation (Book VI; ledger AF819A62).
 4. The reward is a **permanent account marker on the tapestry** — a major permanent account-wide bonus ("a permanent patron of all magic, something along those lines").
 
-*[OPEN QUESTION — the arc and the gate say "seven schools", phrasing recorded before the 2026-07-02 realignment (two schools per color, fourteen among the seven worlds — ledger FF1F7955). Whether eligibility means one school per color, all fourteen, or seven-for-the-gate and fourteen-for-the-vessel is an open re-reading — ledger FCB93BC0. Do not resolve here.]*
+*[Resolved 2026-07-02: "seven schools" means at least one school from each color — fourteen is excessive by ruling. Ledger A8FF6AB0, closing FCB93BC0.]*
 
 > **[OPEN QUESTION]** **Reunite vs re-shatter — the meaning.** The mechanical scale is ruled (personal, terminal); what each choice *means* — mythologically, and in whatever the retiring character leaves behind — is unrecorded. The mythic frame gives stakes without specifics: reunification reads as restoring the unity the Titans broke; re-shattering as renewing the containment for another age. What the choice options actually are, and whether factions align to them (Book VI, Those Who Remember the Muse), remains open.
 >
