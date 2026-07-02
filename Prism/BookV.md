@@ -27,6 +27,8 @@ From Green and Yellow came Red and Blue
   - Sanguia (Fire and Blood)
   - Aquia (Water and Illusion)
 
+*[EDITORIAL — the realm roster above sits under the top-priority open cosmology fork: this structure (four Mortal Realms plus the Realm of Light and two Ethereal Realms) vs the seven elemental planets of the celestial canon (Book VI). Do not "correct" the roster in either direction without a ruling. Ledger 973162E7.]*
+
 ---
 
 Each realm is associated with a specific statistic and associated philosophies which are studied and reinforced in each school.
@@ -51,7 +53,7 @@ Each realm is associated with a specific statistic and associated philosophies w
   - Knowledge vs Truth
   - Aspects of Intelligence
 
-**Green - Life and Earth**
+**Green - Earth and Life**
   - Perseverance vs Relentlessness
   - Aspects of Endurance
 
@@ -59,7 +61,7 @@ Each realm is associated with a specific statistic and associated philosophies w
   - Transcendence vs Ambition
   - Aspects of Constitution
 
-The philosophical traits that drive the moral realms are Valor, Courage, Knowledge and Perseverance.
+The philosophical traits that drive the moral realms are Valor, Courage, Knowledge and Perseverance. *[EDITORIAL — "moral realms" may be a typo for "mortal realms" (the four traits are exactly the four mortal schools' virtues) or deliberate wordplay (they are the moral virtues of the mortal realms). Meaning-level; do not normalize without a ruling from Elideus. Ledger 89D9BC90.]*
 
 ---
 
@@ -71,7 +73,7 @@ A running ledger of rulings that resolve ambiguities between source documents. E
 
 - **2026-07-02 — Schools are two-domain.** Every school spans two domains (Red is Fire *and* Blood; Green is Earth *and* Life). Single-element school names are shorthand only. The "four elements" accessible to mortals refer to the four Mortal Realm schools: Green (Earth/Life), Yellow (Air/Lightning), Red (Fire/Blood), Blue (Water/Illusion). The three Ethereal/Light schools — White, Orange, Black — are the superhuman tier.
 
-- **2026-07-02 — The seven stats are canonical.** One stat per school, as tabled above: Strength (Red), Dexterity (Yellow), Constitution (Black), Intelligence (Blue), Wisdom (White), Endurance (Green), Luck (Orange). Stats measure *capacities*, not actions — Charisma is excluded because it is an action, not a stat. Constitution and Endurance do not collapse: Constitution (Black) is the capacity to be hit; Endurance (Green) is the capacity for sustained effort. Combat is Dark Souls–style action combat, and every stat must cash out in combat-relevant terms. Charism checks, if required, would use Luck instead.
+- **2026-07-02 — The seven stats are canonical.** One stat per school, as tabled above: Strength (Red), Dexterity (Yellow), Constitution (Black), Intelligence (Blue), Wisdom (White), Endurance (Green), Luck (Orange). Stats measure *capacities*, not actions — Charisma is excluded because it is an action, not a stat. Constitution and Endurance do not collapse: Constitution (Black) is the capacity to be hit; Endurance (Green) is the capacity for sustained effort. Combat is Dark Souls–style action combat, and every stat must cash out in combat-relevant terms. Charisma checks, if required, would use Luck instead.
 
 - **2026-07-02 — Celestial events are global.** Celestial configurations (eclipses, alignments) modify the whole world at once, across all dungeon tiers and regions — not endgame-only bonuses. Scarcity and abundance are deterministic and foretold in the sky.
 
@@ -85,6 +87,16 @@ The narrative telling of the ages — the First Titan's delving, the refraction 
 
 ## Peoples of Prism
 
-*(Stub — content forthcoming.)*
+**[STUB]** — The races of Prism, their lifespans, and their social systems.
 
-The races of Prism, their lifespans, and their social systems. Race–lifespan tradeoffs couple directly to the generational character and dynasty systems (Book I): longer-lived races trade generational turnover for continuity, shorter-lived races cycle through the family tapestry faster.
+Canon (Seed canon 12, ledger 10A6150F): race–lifespan tradeoffs couple directly to the generational character and dynasty systems (Book I) — longer-lived races trade generational turnover for continuity, shorter-lived races cycle through the family tapestry faster.
+
+No source names a playable race, a lifespan value, or a social system, and Oracle memory holds no race, lifespan, or dynasty specifics (memory audit, ledger 7802053D). The roster must come from Elideus; named race lists are not to be written here without one.
+
+[OPEN QUESTION]s:
+
+- The only race-like names in any source are creature-targeting vocabulary: Book IV's **Terradun** ("Underground and Earth Dwellers" — dwarves, kobolds, gnomes). Whether a dictionary word constitutes canon that these exist as peoples, or only that the magic grammar can target such creatures, is an open fork. (Ledger EBA28F43; interface first noted in 8E29A0D3.)
+- Which races exist, their lifespans, and whether all are playable: unrecorded.
+- What a lifespan is worth turns on unresolved dynasty forks: what ends an active life — retirement only, or combat death too (ledger D25A57E1) — and what transfers across generations, including stat predispositions by race or bloodline (ledger D2C52C88).
+- Where the peoples live: the realm/planet roster is the open cosmology fork (ledger 973162E7), and which peoples inhabit which Mortal Realm — Terria, Aerolon, Sanguia, Aquia — is unrecorded even under the current structure.
+- Social systems — houses, guilds, nations, how a family tapestry sits inside a society — are unrecorded beyond the dynasty canon above.
