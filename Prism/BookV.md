@@ -52,35 +52,19 @@ The seven sky-planets map one per school (ledger D30A32BF): Chaos → Orange, Fi
 
 ---
 
-Each realm is associated with a specific statistic and associated philosophies which are studied and reinforced in each school.
+Each color has two aspects, and **each aspect is a school** — two schools per color, **fourteen schools among the seven shard worlds**, each color's pair housed on its associated world (realignment ruling 2026-07-02, ledger FF1F7955). Each realm is associated with a specific statistic and a philosophy pair. The philosophies belong to the **color**, not to either school: the pair contrasts an **honorable** and a **dishonorable** approach to the color's virtue, and followers of both philosophies are found at both of the color's schools.
 
-**White - Light and Prophecy**
-  - Enlightenment vs Mendacity
-  - Aspects of Wisdom
+| Stat | Color | Schools | Philosophy (honorable vs dishonorable) |
+|---|---|---|---|
+| Wisdom | White | Light and Prophecy | Enlightenment vs Revelation |
+| Dexterity | Yellow | Air and Lightning | Courage vs Audacity |
+| Strength | Red | Fire and Blood | Valor vs Conquest |
+| Luck | Orange | Chaos and Transformation | Diligence vs Cunning |
+| Intelligence | Blue | Water and Illusion | Knowledge vs Truth |
+| Endurance | Green | Earth and Life | Perseverance vs Hunger |
+| Constitution | Black | Death and Void | Transcendence vs Ambition |
 
-**Yellow - Air and Lightning**
-  - Courage vs Audacity
-  - Aspects of Dexterity
-
-**Red - Fire and Blood**
-  - Valor vs Wrath
-  - Aspects of Strength
-
-**Orange - Chaos and Transformation**
-  - Diligence vs Anarchy
-  - Aspects of Luck
-
-**Blue - Water and Illusion**
-  - Knowledge vs Truth
-  - Aspects of Intelligence
-
-**Green - Earth and Life**
-  - Perseverance vs Relentlessness
-  - Aspects of Endurance
-
-**Black - Death and Void**
-  - Transcendence vs Ambition
-  - Aspects of Constitution
+Every pair runs off one axiom: the honorable pole approaches the color's virtue collectively and impersonally; the dishonorable pole approaches it through the self — inherited, claimed. *[OPEN QUESTION — does the axiom itself carry a player-facing name, the way Jedi/Sith names a whole split? Ledger 0E5DA637.]*
 
 The philosophical traits that drive the moral realms are Valor, Courage, Knowledge and Perseverance. *[EDITORIAL — "moral realms" may be a typo for "mortal realms" (the four traits are exactly the four mortal schools' virtues) or deliberate wordplay (they are the moral virtues of the mortal realms). Meaning-level; do not normalize without a ruling from Elideus. Ledger 89D9BC90.]*
 
@@ -92,11 +76,13 @@ A running ledger of rulings that resolve ambiguities between source documents. E
 
 - **2026-07-02 — Life is Green.** Life magic belongs to the Green school (Earth and Life): the domain of the god of the vine, magic for green and growing things. White is Light and Prophecy only. Healing therefore splits across the White/Green seam — White protects and wards (Thaumaturgy), Green grows and mends (Biomancy). Any earlier reference to a superhuman "Life/Light" school is deprecated; Life is mortal magic.
 
-- **2026-07-02 — Schools are two-domain.** Every school spans two domains (Red is Fire *and* Blood; Green is Earth *and* Life). Single-element school names are shorthand only. The "four elements" accessible to mortals refer to the four Mortal Realm schools: Green (Earth/Life), Yellow (Air/Lightning), Red (Fire/Blood), Blue (Water/Illusion). The three Ethereal/Light schools — White, Orange, Black — are the superhuman tier.
+- **2026-07-02 — Schools are two-domain.** Every school spans two domains (Red is Fire *and* Blood; Green is Earth *and* Life). Single-element school names are shorthand only. The "four elements" accessible to mortals refer to the four Mortal Realm schools: Green (Earth/Life), Yellow (Air/Lightning), Red (Fire/Blood), Blue (Water/Illusion). The three Ethereal/Light schools — White, Orange, Black — are the superhuman tier. *(Superseded in part by the realignment ruling below: the two domains are themselves two schools, and "school" no longer names the color. The color-level facts — tiers, shorthand — stand.)*
 
 - **2026-07-02 — The seven stats are canonical.** One stat per school, as tabled above: Strength (Red), Dexterity (Yellow), Constitution (Black), Intelligence (Blue), Wisdom (White), Endurance (Green), Luck (Orange). Stats measure *capacities*, not actions — Charisma is excluded because it is an action, not a stat. Constitution and Endurance do not collapse: Constitution (Black) is the capacity to be hit; Endurance (Green) is the capacity for sustained effort. Combat is Dark Souls–style action combat, and every stat must cash out in combat-relevant terms. Charisma checks, if required, would use Luck instead.
 
 - **2026-07-02 — Celestial events are global.** Celestial configurations (eclipses, alignments) modify the whole world at once, across all dungeon tiers and regions — not endgame-only bonuses. Scarcity and abundance are deterministic and foretold in the sky.
+
+- **2026-07-02 — Colors, schools, and philosophies realigned.** Schools are not schools of colors. Each color has two aspects, and each aspect is a school — two schools per color, each pair on its color's shard world; fourteen schools among the seven worlds. Philosophies belong to the color, not the schools: each pair contrasts an honorable and a dishonorable approach to the color's virtue, and both of a color's schools contain followers of both. Revised pairs: Enlightenment vs Revelation (White), Valor vs Conquest (Red), Diligence vs Cunning (Orange), Perseverance vs Hunger (Green); Courage vs Audacity (Yellow), Knowledge vs Truth (Blue), and Transcendence vs Ambition (Black) unchanged. What "the seven schools" means in older phrasing (the Muse's arc, the endgame gate) is an open re-reading — ledger FCB93BC0.
 
 ---
 

@@ -6,16 +6,16 @@ This book defines the adventurer's side of Prism: the character — their stats,
 
 ## The Seven Stats
 
-The seven stats are canonical, one per school of magic (Book V, Canon Rulings 2026-07-02; ledger 2ABDD515). Each stat is the capacity that its school's realm studies and reinforces, paired with that school's philosophy (Book V).
+The seven stats are canonical, one per color of magic (Book V, Canon Rulings 2026-07-02; ledger 2ABDD515, realigned by FF1F7955). Each stat is the capacity that its color's realm studies and reinforces, paired with that color's philosophy pair (Book V). Each color fields **two schools** — one per aspect, fourteen among the seven shard worlds — and the philosophy belongs to the color: followers of both poles study at both of its schools (ledger FF1F7955).
 
-| Stat | School | Domains | Philosophy |
+| Stat | Color | Schools | Philosophy (honorable vs dishonorable) |
 |---|---|---|---|
-| Wisdom | White | Light and Prophecy | Enlightenment vs Mendacity |
+| Wisdom | White | Light and Prophecy | Enlightenment vs Revelation |
 | Dexterity | Yellow | Air and Lightning | Courage vs Audacity |
-| Strength | Red | Fire and Blood | Valor vs Wrath |
-| Luck | Orange | Chaos and Transformation | Diligence vs Anarchy |
+| Strength | Red | Fire and Blood | Valor vs Conquest |
+| Luck | Orange | Chaos and Transformation | Diligence vs Cunning |
 | Intelligence | Blue | Water and Illusion | Knowledge vs Truth |
-| Endurance | Green | Earth and Life | Perseverance vs Relentlessness |
+| Endurance | Green | Earth and Life | Perseverance vs Hunger |
 | Constitution | Black | Death and Void | Transcendence vs Ambition |
 
 Stats measure **capacities, not actions**. Charisma is excluded on exactly this rule: charm is something a character *does*, not something a character *has* — and where a charisma-like check is required, it uses **Luck**. (Ledger 2ABDD515.)
@@ -100,6 +100,8 @@ The gate stack is canon (ledger EC054473):
 2. The vessel must be a **near-immortal race** (an elf-type with five human lifetimes of learning done by age one hundred) — or a character of another race prepared through an adoption setup and massive tutoring investment.
 3. The quest must be completed **during a celestial eclipse of the Chalice** — the moon–Death alignment that reveals the Muse's hidden constellation (Book VI; ledger AF819A62).
 4. The reward is a **permanent account marker on the tapestry** — a major permanent account-wide bonus ("a permanent patron of all magic, something along those lines").
+
+*[OPEN QUESTION — the arc and the gate say "seven schools", phrasing recorded before the 2026-07-02 realignment (two schools per color, fourteen among the seven worlds — ledger FF1F7955). Whether eligibility means one school per color, all fourteen, or seven-for-the-gate and fourteen-for-the-vessel is an open re-reading — ledger FCB93BC0. Do not resolve here.]*
 
 > **[OPEN QUESTION]** **Reunite vs re-shatter — the meaning.** The mechanical scale is ruled (personal, terminal); what each choice *means* — mythologically, and in whatever the retiring character leaves behind — is unrecorded. The mythic frame gives stakes without specifics: reunification reads as restoring the unity the Titans broke; re-shattering as renewing the containment for another age. What the choice options actually are, and whether factions align to them (Book VI, Those Who Remember the Muse), remains open.
 >

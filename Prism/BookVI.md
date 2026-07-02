@@ -106,7 +106,7 @@ Canon this saga must honor:
 
 Canon this saga must honor:
 
-- Each school carries a philosophy pair studied and reinforced in that school: Enlightenment/Mendacity (White), Courage/Audacity (Yellow), Valor/Wrath (Red), Diligence/Anarchy (Orange), Knowledge/Truth (Blue), Perseverance/Relentlessness (Green), Transcendence/Ambition (Black) (Book V).
+- Each color carries a philosophy pair — an honorable and a dishonorable approach to the color's virtue, belonging to the color rather than to either of its two schools, with followers of both poles at both schools: Enlightenment/Revelation (White), Courage/Audacity (Yellow), Valor/Conquest (Red), Diligence/Cunning (Orange), Knowledge/Truth (Blue), Perseverance/Hunger (Green), Transcendence/Ambition (Black) (Book V, realignment ruling 2026-07-02, ledger FF1F7955).
 - The governing principle of the philosophies is **perspective matters**: the schools' philosophies are different, equally valid ways of looking at the same truths — similar but opposite "in not necessarily negative ways" (Elideus; design lineage: Ultima VI's human and gargoyle virtues; ledger 66541B83).
 - The original world was **seven kingdoms**, each a school of magic and a branch of wisdom and philosophy (ledger BDB707A5) — the philosophies predate the Shattering.
 - The era preceding the Muse was unified: "all realms were unified, existing together in harmony. Magic flowed freely" (Book V).
@@ -127,7 +127,7 @@ Canon this saga must honor (ledger BDB707A5; Book V):
 
 - The setting: the early days after the Titans shattered Light, formed the **Titan Council**, and the elemental magics were discovered. The world's people are the earliest mortals — long-lived immortals, elf-like or angel-like, deliberately ambiguous in form ("we're not calling them elves"). This is before humans.
 - The original world is **seven kingdoms**, each a school of magic and a branch of wisdom and philosophy, peopled by descendants of the angels and the immortals.
-- The **Lonely Muse is the greatest among them**: talented at a young age, she masters all aspects of magic, school after school — the final of the seven being **Light**.
+- The **Lonely Muse is the greatest among them**: talented at a young age, she masters all aspects of magic, school after school — the final of the seven being **Light**. *[The "seven kingdoms, each a school" and "seven Schools of magic" phrasing was recorded before the 2026-07-02 realignment (two schools per color, fourteen among the seven worlds — ledger FF1F7955); how her arc and the kingdoms read under fourteen schools is an open re-reading — ledger FCB93BC0.]*
 - She attempts to do good and is spurned: cast out from the kingdoms and schools where she travels to learn, one after another, even as she surpasses them.
 - Mastery of all seven gives her godlike power — the power of the Titans themselves. To keep her from becoming a god, and to stop her final seizure of power, the Titans **sunder the world** (see The Shattering, below).
 - Book V's account stands: "her relentless pursuit of power and truth threatened to unravel the very fabric of the universe." The Muse is "her."
@@ -234,11 +234,11 @@ The political movements, religious orders, and factions of the present age. This
 
 ### The Schools as Institutions
 
-**[STUB]** — The seven schools as organized bodies of the present age: how each teaches, governs, and gatekeeps its color. Open: are they academies, churches, guilds, or all three; and how the three superhuman schools — White, Orange, Black (Seed canon 3) — operate among mortals at all.
+**[STUB]** — The fourteen schools as organized bodies of the present age — two per color, each pair housed on its color's shard world (ledger FF1F7955): how each teaches, governs, and gatekeeps its aspect. Open: are they academies, churches, guilds, or all three; how a color's two schools relate — siblings, rivals, complements; and how the three superhuman colors' schools — White, Orange, Black (Seed canon 3) — operate among mortals at all.
 
 ### Virtue and Vice Sects
 
-**[STUB]** — Sects within each color aligned to one pole of its philosophy pair (Book V: Enlightenment/Mendacity, Courage/Audacity, Valor/Wrath, Diligence/Anarchy, Knowledge/Truth, Perseverance/Relentlessness, Transcendence/Ambition). Open: whether second-pole sects are heresies within a school or rival institutions; and how the pairs are preached.
+**[STUB]** — Sects within each color aligned to one pole of its philosophy pair (Book V, realigned 2026-07-02: Enlightenment/Revelation, Courage/Audacity, Valor/Conquest, Diligence/Cunning, Knowledge/Truth, Perseverance/Hunger, Transcendence/Ambition). Canon: the philosophies belong to the color, and followers of both poles are found at both of the color's schools (ledger FF1F7955) — the sects cut across schools rather than mapping onto them. Open: whether dishonorable-pole sects are heresies within the schools or rival institutions; how the pairs are preached; and whether the honorable/dishonorable axiom itself has a name mortals use (ledger 0E5DA637).
 
 ### Keepers of the Old Domains
 

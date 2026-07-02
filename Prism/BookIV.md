@@ -2,6 +2,8 @@
 
 Our game's magic system offers a dynamic, flexible spellcasting experience built on a procedural framework without static spells. Players input magical words—**nouns**, **verbs**, **adjectives**, **adverbs**, and **shapes**—to express their intent, which the server interprets to generate real-time interactions.
 
+*[EDITORIAL — 2026-07-02 realignment, ledger FF1F7955: this book's "school" language predates the ruling that each color fields two schools (one per aspect — fourteen schools among the seven worlds) and that philosophies belong to colors, not schools. Its color-as-school phrasing is retained pending the deferred engine-side reconciliation (ledger 33173716); read "school" below as "color" unless an aspect is named.]*
+
 ### **Core Mechanics**
 
 Every interactive object in the game world is assigned a magical name (**noun**) that defines its nature and how it can be manipulated. For example, a fire elemental responds to **"Flam"** (Fire), while a stone wall reacts to **"Terra"** (Earth).
