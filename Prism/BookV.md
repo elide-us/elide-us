@@ -27,7 +27,9 @@ From Green and Yellow came Red and Blue
   - Sanguia (Fire and Blood)
   - Aquia (Water and Illusion)
 
-*[EDITORIAL — the realm roster above sits under the top-priority open cosmology fork: this structure (four Mortal Realms plus the Realm of Light and two Ethereal Realms) vs the seven elemental planets of the celestial canon (Book VI). Do not "correct" the roster in either direction without a ruling. Ledger 973162E7.]*
+**Cosmology ruling (2026-07-02, ledger 05840ADF).** The realms are distilled into the celestial system: there are **seven instances of the world, each a different body, all sharing the same universe and the same celestial simulation**. The hex planets' pentagon zones are **gateways into the other realms**. A definite **body order** of the simulation exists and is a strong decision — its values are not yet recorded and must come from Elideus.
+
+*[EDITORIAL — [PROPOSED], unratified: the seven realms named above are the seven bodies — one realm-instance per school-colored body. The remainder of fork 973162E7 stays open for the body order values and ratification of that mapping. Also open: pentagon zones were previously glossed "beyond player reach"; as gateways they are presumably reachable under some condition (ledger 05840ADF poses the question).]*
 
 ---
 
