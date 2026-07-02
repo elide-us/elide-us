@@ -34,7 +34,7 @@ This system ensures consistent processing and limitless possibilities, while req
 
 ### **The Constructor Kit Philosophy**
 
-Embracing a **constructor kit** approach, we empower players and Dungeon Masters to shape almost every aspect of the game world:
+Embracing a **constructor kit** approach, we empower players and Dungeon Masters *[term under review — "Dungeon Maker" vs "Dungeon Master" is an open glossary fork; other books use "Dungeon Maker" (ledger 500F8438)]* to shape almost every aspect of the game world:
 
 - **Crafting:** Players use procedural tools to create unique weapons and armor.
 - **NPC Behavior:** Customizable modules and animations allow NPCs to interact in unique ways.
@@ -75,13 +75,13 @@ Nouns define the objects, elements, and forces that the magic system can interac
   A general term for energy or physical force. Vis can be used to describe the application of power in various contexts.
 
 - **Grav** – Energy  
-  Specifically refers to energy, particularly gravitational or kinetic energy. Grav can be invoked for spells manipulating momentum or attraction.
+  Specifically refers to energy, particularly gravitational or kinetic energy. Grav can be invoked for spells manipulating momentum or attraction. *[CONTRADICTION — glossed "Energy" but described as gravitational/kinetic, and overlaps Vis ("Force," itself described as a general term for energy or physical force). Ledger 94774F28, 44F17D1E.]*
 
 - **Ignis** – Heat  
   The essence of warmth and heat, distinct from flame. Ignis is used to raise temperatures or imbue warmth without combustion.
 
 - **Umbra** – Shadow  
-  Represents darkness and shadow, including the absence of light or the concealment of forms. Umbra can be invoked in stealth or shadow-related spells.
+  Represents darkness and shadow, including the absence of light or the concealment of forms. Umbra can be invoked in stealth or shadow-related spells. *[CONTRADICTION — Umbra also appears in the adjectives list as "Dark": one word in two grammar slots. Ledger 94774F28.]*
 
 - **Glacies** – Cold  
   Refers to freezing temperatures, frost, or ice. Glacies is essential for spells that slow, freeze, or lower temperatures.
@@ -118,10 +118,10 @@ Nouns define the objects, elements, and forces that the magic system can interac
   Represents protection and defense. Invoked in spells related to guarding, blocking, or absorbing damage.
 
 - **Ferrum** – Iron  
-  A term for metals, particularly iron. Ferrum is used in spells related to strength, resilience, and crafting.
+  A term for metals, particularly iron. Ferrum is used in spells related to strength, resilience, and crafting. *[Gloss "Iron" is narrower than the description ("metals"). Ledger 44F17D1E.]*
 
 - **Saxum** – Stone  
-  Represents stone or rock, often invoked for solid, immovable objects or defenses.
+  Represents stone or rock, often invoked for solid, immovable objects or defenses. *[CONTRADICTION — Terra's description also covers stone ("solid ground, soil, and stone"); duplicate coverage in the noun slot. Ledger 44F17D1E.]*
 
 - **Lignum** – Wood  
   Represents organic, woody material. Used in spells for nature, construction, or growth.
@@ -187,7 +187,7 @@ Adjectives modify the noun or spell, adding descriptive elements like size, inte
   Refers to something with high luminosity or brightness.
 
 - **Umbra** – Dark  
-  Describes something with low light or shadow.
+  Describes something with low light or shadow. *[CONTRADICTION — Umbra also appears in the nouns list as "Shadow": one word in two grammar slots. Ledger 94774F28.]*
 
 - **Fortis** – Strong  
   Describes great physical or magical strength.
@@ -202,10 +202,10 @@ Adjectives modify the noun or spell, adding descriptive elements like size, inte
   Refers to something of small size or lesser extent.
 
 - **Altior** – Higher  
-  Refers to a higher elevation or status.
+  Refers to a higher elevation or status. *[CONTRADICTION — near-duplicate of Altus ("Upper") in the adjective slot. Ledger 44F17D1E.]*
 
 - **Humilis** – Lower  
-  Refers to a lower elevation or status.
+  Refers to a lower elevation or status. *[CONTRADICTION — duplicate gloss with Infimus (both "Lower") in the adjective slot. Ledger 44F17D1E.]*
 
 - **Glacialis** – Cold  
   Describes freezing or cold temperatures.
@@ -252,11 +252,11 @@ Adverbs modify verbs, adding details about how actions are performed.
 - **Inferior** – Below  
   Describes something happening below or lower down.
 
-- **Longe** – Long-lasting
-  Describes something long in duration.
+- **Longe** – Long-lasting  
+  Describes something long in duration. *[CONTRADICTION — same stem as Longius ("Distant") in the same adverb slot, and duplicates Durare ("Lasting") in the duration slot. Ledger 94774F28, 44F17D1E.]*
 
 - **Brevis** – Short  
-  Describes something short in duration.
+  Describes something short in duration. *[CONTRADICTION — duplicates Breve ("Briefly") in the adverb slot. Ledger 94774F28.]*
 
 - **Iterum** – Repeatedly  
   Describes an action done multiple times.
@@ -268,13 +268,17 @@ Adverbs modify verbs, adding details about how actions are performed.
 
 Shapes are an integral part of spellcasting, defining how the magic interacts with space and direction. As mages advance in their mastery of the magical schools, they gain access to additional shapes through the synergy system, unlocking more complex and powerful spellcasting potential.
 
-- **At the 4th ring**, a mage gains access to the two shapes from their synergy schools. These are the schools adjacent to their primary school in the synergy cycle. For example, a mage specializing in **White (Life Magic)** would gain access to the shapes of **Yellow (Lightning Magic)** and **Green (Nature Magic)** at the 4th ring.
+> **[OPEN QUESTION]** The "ring" progression referenced below (4th ring, 7th ring) is defined in no book — it may be a character-progression tier (Book I) or a magic-mastery structure internal to this book. Ring numbers here are not ratified. (Ledger 63B28A6B.)
 
-- **At the 7th ring**, mages unlock access to the shapes from the synergy schools of their secondary schools. Continuing the **White (Life Magic)** example, at the 7th ring, the mage would gain access to the shapes of **Red (Fire Magic)** and **Blue (Water Magic)**.
+- **At the 4th ring**, a mage gains access to the two shapes from their synergy schools. These are the schools adjacent to their primary school in the synergy cycle. For example, a mage specializing in **White (Life Magic)** would gain access to the shapes of **Yellow (Lightning Magic)** and **Green (Nature Magic)** at the 4th ring. *[Deprecated label: per the 2026-07-02 "Life is Green" ruling (Book V, Canon Rulings), White is Light and Prophecy only — "White (Life Magic)" is a Life/Light conflation retained pending revision. Ledger 62E81F6F.]*
+
+- **At the 7th ring**, mages unlock access to the shapes from the synergy schools of their secondary schools. Continuing the **White (Life Magic)** example, at the 7th ring, the mage would gain access to the shapes of **Red (Fire Magic)** and **Blue (Water Magic)**. *[Same deprecated "White (Life Magic)" label — see the note on the 4th-ring entry above.]*
 
 - **Black (Death Magic)** is unique in that it does not participate in this synergy system. Instead, Black mages have special gameplay mechanics that allow them to unlock shapes through other means, maintaining their distinct approach to magic.
 
 In the full synergy cycle—**White -> Yellow -> Red -> Orange -> Black -> Blue -> Green**—Black is excluded from the ring-based synergy progression. For example, an **Orange (Chaos Magic)** mage would gain access to the shapes of **Red (Fire Magic)** and **Blue (Water Magic)** at the 4th ring, bypassing Black entirely.
+
+> **[OPEN QUESTION]** Two orderings coexist and are not reconciled: this synergy cycle (White → Yellow → Red → Orange → Black → Blue → Green) and Book V's school genealogy (White → Black/Orange → Green/Yellow → Red/Blue). Canon further rules that Black combines with nothing (Book V, Canon Rulings; the reasons live in Book VI) — consistent with this section's own bypass rule and with the Specialty Domain pairings below, which trace a six-school loop (White–Yellow–Red–Orange–Blue–Green) with Black apart, but in tension with a stated cycle that seats Black between Orange and Blue. Unresolved. (Ledger 244A27FF.)
 
 ---
 
@@ -294,7 +298,7 @@ In the full synergy cycle—**White -> Yellow -> Red -> Orange -> Black -> Blue 
   A curved, crescent-like shape, often associated with shields and shadows.
 
 - **Undula** – Sine Wave - The Shape of Blue  
-  A flowing, wave-like shape..
+  A flowing, wave-like shape.
 
 - **Spiralis** – Spiral - The Shape of Green  
   A continuous, coiling shape.
@@ -356,7 +360,7 @@ In the full synergy cycle—**White -> Yellow -> Red -> Orange -> Black -> Blue 
     Refers to creatures like dwarves, kobolds, and gnomes.
 
 19. **Cursed and Enchanted Beings** – *Maleforix*  
-    Represents cursed creatures like liches, witches, and enchanted knights.
+    Represents cursed creatures like liches, witches, and enchanted knights. *[CONTRADICTION — liches are also listed under Mortivus (Undead Beings): one creature answering two category nouns. Ledger 8E29A0D3.]*
 
 20. **Desert and Middle-Eastern Creatures** – *Aridusol*  
     Covers desert-dwelling creatures like sphinxes, lamassu, and rocs.
@@ -368,10 +372,10 @@ In the full synergy cycle—**White -> Yellow -> Red -> Orange -> Black -> Blue 
     Represents creatures associated with time and fate, like the Moirai and Norns.
 
 23. **Heavenly and Infernal Hierarchies** – *Aetheron*  
-    Refers to seraphim, cherubim, and other celestial beings in heavenly hierarchies.
+    Refers to seraphim, cherubim, and other celestial beings in heavenly hierarchies. *[CONTRADICTION — the gloss says "Heavenly and Infernal Hierarchies" but the description is heavenly only; infernal beings live under Inferaxis. Ledger 8E29A0D3.]*
 
-- **Pyrravus** - Mythological Birds 
-    Represents creatures like phoenixes, thunderbirds, and other mythological avian creatures.
+- **Pyrravus** – Mythological Birds  
+    Represents creatures like phoenixes, thunderbirds, and other mythological avian creatures. *[CONTRADICTION — phoenixes are also listed under Mystivora (Magical Animals and Beasts): one creature answering two category nouns. Ledger 8E29A0D3.]*
 
 - **Insectilis** - Insectoid and Arachnid Creatures  
   Refers to giant spiders, scarab beetles, and other insect-like entities.
@@ -385,7 +389,7 @@ In the full synergy cycle—**White -> Yellow -> Red -> Orange -> Black -> Blue 
 - **Magus** - Magic User
   Represents a magic-user.
 
-**Note:** Undead dragons (**Dracolich**) and undead magic users (**Lich**) are formed by combining **Vas** (Greater) with the appropriate noun (e.g., **Draco** for dragon or **Magus** for magic user) and **Mortuus** (Undead), possibly influenced by the spell's location.
+**Note:** Undead dragons (**Dracolich**) and undead magic users (**Lich**) are formed by combining **Vas** (Greater) with the appropriate noun (e.g., **Draco** for dragon or **Magus** for magic user) and **Mortuus** (Undead), possibly influenced by the spell's location. *[OPEN QUESTION — Draco and Mortuus are defined in no dictionary (the undead category noun is Mortivus), and their grammar slots are unassigned; no words added this pass. Ledger 67DB3F76.]*
 
 ## Combat Mechanics
 
@@ -451,7 +455,7 @@ Some spells will have one or more of the following effects. These are the primar
 
 ## Magical Domains
 
-In addition to spells being arranged by school and ring, each spell falls within one or more domains. Trainers for each domain can be found in most schools, though some are less common than others.
+In addition to spells being arranged by school and ring, each spell falls within one or more domains. Trainers for each domain can be found in most schools, though some are less common than others. *[The "ring" structure referenced here is defined in no book — see the open question in the Shapes section (ledger 63B28A6B).]*
 
 ### Magical Domains
 
@@ -481,7 +485,7 @@ Additionally, spells may be listed as one of these specializations, and each spe
 - **Chronomancy** – Manipulation of time and temporal energies (Orange/Blue).
 - **Mentalism** – Illusion and mental manipulation (Blue/Orange).
 - **Hydromancy** – Control over water and liquid elements (Blue/Green).
-- **Necromancy** – Magic involving death and the undead (Black).
+- **Necromancy** – Magic involving death and the undead (Black). *[Black stands alone by canon — Black combines with nothing (Book V, Canon Rulings) — so the "at least two schools" rule above does not extend to Black.]*
 - **Geomancy** – Earth magic focusing on soil and minerals (Green/Blue).
 - **Biomancy** – Life magic related to growth and healing (Green/White).
 
@@ -528,6 +532,8 @@ Magic can be performed using various methods, each requiring different skills an
 ### Overview
 
 Psionics is a distinct form of magic that relies on innate mental abilities rather than external components, incantations, or traditional magical energies. Practitioners of psionics, known as psions, harness the power of their minds to influence the physical world, manipulate elements, and interact with other minds. Psionics is considered a separate discipline from traditional magic and requires specialized training and mental discipline.
+
+> **[OPEN QUESTION]** How psionics relates to the seven-school system is an open fork — outside the Prism by design, a casting style mapped to an existing school/stat pair, or unresolved legacy content pending redesign. The content in this section is retained as-is pending that ruling. (Ledger 7609E7E9.)
 
 ### Abilities
 
