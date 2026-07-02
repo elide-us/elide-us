@@ -35,14 +35,16 @@ From Green and Yellow came Red and Blue
 2. **Fire** — red
 3. **Home** — the habitable band; carries the moon
 4. **Earth** — brown and green
-5. **Life/Light** — the white gas giant *(naming under the Life-is-Green ruling is an open fork — ledger 7BC8E9B6)*
+5. **Light** — the white gas giant *(ruled 2026-07-02: the source session's "Life/Light" was human error; White is Light and Prophecy — ledger D30A32BF)*
 6. **Air** — the ringed planet; white and pale blue
 7. **Water** — Neptune blue
 8. **Death** — outermost; black, occulted behind the star, seen only as a shadow transiting the galactic cloud
 
 The sun anchors the system and the moon rides with Home — both outside the seven. All seven planets share one apparent size, about a quarter of the sun/moon disc. **The moon is not a simulated body**: it tracks the real-world Moon one-to-one — true synodic cycle, phase and position from real ephemeris (ledger D2AAFEEC). Time runs at one in-game minute per five real seconds — a two-hour in-game day.
 
-*[EDITORIAL — still open: (a) whether the seven realm names above are the names of the seven bodies (realm↔body mapping, [PROPOSED] only — ledger 7BC8E9B6); (b) the slot-5 name — "Life/Light" predates the Life-is-Green ruling; (c) pentagon gateways were previously glossed "beyond player reach" — what condition opens them (ledger 05840ADF); (d) the in-game↔real latitude mapping and reference longitude for the moon ephemeris (ledger D2AAFEEC).]*
+The seven sky-planets map one per school (ledger D30A32BF): Chaos → Orange, Fire → Red, Earth → Green (Earth *and* Life), Light → White, Air → Yellow, Water → Blue, Death → Black.
+
+*[EDITORIAL — still open: (a) whether the seven realm names above are the names of the seven bodies (realm↔body mapping, [PROPOSED] only — ledger 7BC8E9B6); (b) pentagon gateways were previously glossed "beyond player reach" — what condition opens them (ledger 05840ADF); (c) the in-game↔real latitude mapping and reference longitude for the moon ephemeris (ledger D2AAFEEC).]*
 
 ---
 

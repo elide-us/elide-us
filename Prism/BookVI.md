@@ -157,7 +157,6 @@ Canon this saga must honor:
 
 - What did the Shattering cost the Titans, and where are they now?
 - Did the First Titan lead the Shattering as it led the council of the First Age — and under which pronouns? (Ledger 5E9DB061.)
-- The slot-5 planet's name ("Life/Light, the white one") predates the Life-is-Green ruling — the naming fork (ledger 7BC8E9B6) touches how this myth phrases the seventh school.
 
 ### The Second Age of the Immortals
 
@@ -209,7 +208,7 @@ The mythic telling of the heavens. The celestial simulation is the mechanical tr
 
 Canon (Book V's ruled celestial order, ledgers 8543A752, D2AAFEEC; constellations ruling AF819A62):
 
-- The **seven elemental planets** hang in every sky, in the ruled body order (Book V): Chaos, Fire, Home, Earth, Life/Light, Air, Water, Death. Chaos and Fire transit the sun; Air carries the sky's one ring system; Death hides behind the star and is known mostly by its shadow crossing the galactic cloud.
+- The **seven elemental planets** hang in every sky, in the ruled body order (Book V): Chaos, Fire, Home, Earth, Light, Air, Water, Death — one planet per school (ledger D30A32BF). Chaos and Fire transit the sun; Air carries the sky's one ring system; Death hides behind the star and is known mostly by its shadow crossing the galactic cloud.
 - **The moon is the one real thing in a sky of reflections**: it tracks the real-world Moon one-to-one, phase and place, a window through the dream rather than a body in it (ledger D2AAFEEC). The sun anchors; the moon rides with Home.
 - There are **thirteen constellations**: twelve known, ringing the galactic cloud, and a hidden thirteenth at the **galactic heart**.
 - **The Chalice** is the thirteenth — the Lonely Muse's constellation. "It always has been. It always will be." It is revealed only when **the moon and the Death planet align**, and while it shows, magic runs stronger — the Chalice eclipse is the endgame's appointed hour (Book I; ledger EC054473).
