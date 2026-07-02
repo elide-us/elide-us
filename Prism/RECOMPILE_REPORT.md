@@ -174,6 +174,8 @@ Elideus surfaced the 2026-07-01 claude.ai session ("Celestial system with elemen
 
 Also round 3: **pentagon gateways refined** (`73EA6D39`) — twelve points per world; idea-grade split of six above the survivable line (mountains) and six below (deep ocean); zones "weird" in the Bermuda-Triangle register; portals surround the points. Supersedes the archived session's 7-gates/5-reserved proposal. Still open: transit mechanics, and how twelve points serve six destination realms.
 
+And: **Advent locations ruled** (`35A9CEAE`) — the pentagons are unreachable BY DESIGN: the player-centered hex-cluster renderer breaks on pentagons, so pentagon spaces sit outside the standard world and entering one removes you from it; world-gen enforces the unreachability. The elsewhere is hand-crafted, rule-shifting content ("a void where you can swim in all directions, distant glows of massive titans faces"); fog-wall teleport is idea-grade. Named **Advent locations** with the full Berserk meaning. New question: are the Advent eclipse (event) and Advent locations (places) mechanically coupled?
+
 ---
 
 *Ledger conventions, all entry GUIDs, and full finding bodies live in the Oracle thread `prism-bible-recompile`. Books remain internally honest: every unsourced claim is marked, every fork is cited, nothing was invented.*
