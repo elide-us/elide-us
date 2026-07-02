@@ -459,7 +459,7 @@ Some spells will have one or more of the following effects. These are the primar
 
 In addition to spells being arranged by school and ring, each spell falls within one or more domains. Trainers for each domain can be found in most schools, though some are less common than others. *[The "ring" structure referenced here is defined in no book — see the open question in the Shapes section (ledger 63B28A6B).]*
 
-*[EDITORIAL — 2026-07-02: these "domains" are the **disciplines** — the spell-category layer of the ruled structure color → school → discipline → spell (ledger DCB350D4). Each spell belongs to a discipline (Elideus's phrasing is singular; this intro's "one or more" is an open wobble — ledger 9D85D076). The headings below keep their legacy "Domain" labels pending the deferred engine-side reconciliation (ledger 33173716).]*
+*[EDITORIAL — 2026-07-02: the categories below are the **disciplines** — the types of spells in the ruled structure color → Domain (aspect) → aligned school → discipline → spell, and each discipline is a skill in the skill system (ledgers DCB350D4, 232B6EEE; the skill design itself is a major open issue, F618F695). The word **Domain** properly names the fourteen school-aspects (Book V); the headings below keep their legacy "Domain" labels pending the deferred engine-side reconciliation (ledger 33173716). Each spell belongs to a discipline (Elideus's phrasing is singular; this intro's "one or more" is an open wobble — ledger 9D85D076).]*
 
 ### Magical Domains
 

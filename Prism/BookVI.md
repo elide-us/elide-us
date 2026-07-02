@@ -189,9 +189,10 @@ Canon:
 
 - The **god of the vine** — deity of the Green school (Earth and Life), of growth and green things; Life magic is his domain (Seed canon 2, ledger 4C62E790; Book V Canon Ruling 2026-07-02, "Life is Green"). No other deity is named in any source; none may be added without Elideus.
 - **The Titans are not humanoid** (ledger 66541B83). They are cosmic forms: one of the original Titans is **the Great Vine — the Divine Vine** — "just a planet sized vine growing in a valley… the galaxy sized vine." Early-creation stories of the Titans' materialization exist in an old document, referenced but not yet recovered (ledger 66541B83 flags its retrieval).
-- **The Two-Faced God** — the Titan of Death and Chaos, one god with two faces — is canon by the constellations ruling (AF819A62) and belongs to this pantheon's roster wherever it lands.
+- **The Two-Faced God is the First Titan** (ruled 2026-07-02, ledger 232B6EEE) — the Titan of Death and Chaos, one god with two faces, whose shattering in the First Age myth birthed Orange and Black. The four schools of those two colors belong to it as their **Principality**.
+- **The Principalities** (ledger 232B6EEE): magic belongs to the Principalities of the Titans and the ancient immortals — ownership, not permission; the "superhuman" tier is whose magic it is, not who may touch it. The **Principality of White** — "the source, the one, the pure, the origin of eternity" — holds Light and Prophecy. The First Titan holds the four schools of Black and Orange. The principalities of the four mortal colors are unrecorded.
 
-**[OPEN QUESTION]** Is the Divine Vine the same figure as the god of the vine — a Titan whom Green's mortals worship as their deity — or two beings? The names rhyme too well to ignore and no source connects them; do not resolve without Elideus. Likewise whether the Two-Faced God is the First Titan (ledger AF819A62).
+**[OPEN QUESTION]** Is the Divine Vine the same figure as the god of the vine — a Titan whom Green's mortals worship as their deity, and perhaps Green's Principality? The names rhyme too well to ignore and no source connects them; the Principalities ruling makes the question sharper, not settled. Do not resolve without Elideus. Likewise which beings hold Yellow, Red, and Blue.
 
 **[OPEN QUESTION] — pantheon structure (ledger 69E6E8E7):** the prior stub presumed "each school presumably carries divine figures." That is presumption, not canon. Three readings, none chosen:
 
@@ -214,7 +215,7 @@ Canon (Book V's ruled celestial order, ledgers 8543A752, D2AAFEEC; constellation
 - There are **thirteen constellations**: twelve known, ringing the galactic cloud, and a hidden thirteenth at the **galactic heart**.
 - **The Chalice** is the thirteenth — the Lonely Muse's constellation. "It always has been. It always will be." It is revealed only when **the moon and the Death planet align**, and while it shows, magic runs stronger — the Chalice eclipse is the endgame's appointed hour (Book I; ledger EC054473).
 - **Beltan the Bear** — the one constellation every culture in every shard knows. An early mortal of immense size and strength who spent it protecting the weak; he defeated Dragan, chieftain of the Bloodfangs, and wandered on, declining every honor. He is near-immortal and walked into the modern age (ledgers AF819A62, 66541B83).
-- **The Two-Faced God** — the Titan of Death and Chaos, one god with two faces. Its two domains are the system's two orbital extremes: Chaos innermost, Death outermost.
+- **The Two-Faced God** — the Titan of Death and Chaos, one god with two faces — **is the First Titan** (ruled 2026-07-02, ledger 232B6EEE): the four schools of Black and Orange belong to it as their Principality. Its two colors are the system's orbital extremes: Chaos innermost, Death outermost.
 - **The Touching of God** — an event in the stars: the first mortal to touch Light — the leader of the School of Light achieving light magic. How it is drawn is unrecorded.
 - **The Night of the Daggers** — an event in the stars: a night of betrayal and murder. Distinct from the Chalice and from the reception murder the Muse was blamed for, which is its own candidate constellation.
 - The register is **mixed by ruling**: figures, gods, and events coexist in the twelve, "a couple from here, a couple from there" — not a single schema. **Eight slots are open**, to be filled from the Titans, the school founders, the demigods, and the great events; not to be invented without Elideus.
@@ -223,7 +224,6 @@ Canon (Book V's ruled celestial order, ledgers 8543A752, D2AAFEEC; constellation
 
 [OPEN QUESTION]s:
 
-- Is the Two-Faced God the **First Titan** — whose shattering birthed Orange (Chaos and Transformation) and Black (Death and Void) in the First Age myth above? The resonance is strong and unconfirmed (ledger AF819A62).
 - Why thirteen — and does the count structure a calendar? A thirteen-period civil calendar aligned to the group financial system was floated and left open (ledger D2AAFEEC).
 - The eight unnamed constellations; the Chalice's own story; how the Touching of God is drawn.
 

@@ -6,7 +6,7 @@ This book defines the adventurer's side of Prism: the character — their stats,
 
 ## The Seven Stats
 
-The seven stats are canonical, one per color of magic (Book V, Canon Rulings 2026-07-02; ledger 2ABDD515, realigned by FF1F7955). Each stat is the capacity that its color's realm studies and reinforces, paired with that color's philosophy pair (Book V). Each color fields **two schools** — one per aspect, fourteen among the seven shard worlds, with further disciplines inside each school: the categories of magic documented in Book IV (ledgers FF1F7955, A8FF6AB0, DCB350D4) — and the philosophy belongs to the color: followers of both poles study at both of its schools. The two poles are deliberately unlabeled and unjudged — which is right is the player's own conclusion (ledger E4F46BA5).
+The seven stats are canonical, one per color of magic (Book V, Canon Rulings 2026-07-02; ledger 2ABDD515, realigned by FF1F7955). Each stat is the capacity that its color's realm studies and reinforces, paired with that color's philosophy pair (Book V). Each color fields **two schools** — one per Domain (aspect), fourteen among the seven shard worlds, with disciplines inside each school: the types of spells documented in Book IV, each discipline a skill in the skill system (ledgers FF1F7955, A8FF6AB0, DCB350D4, 232B6EEE) — and the philosophy belongs to the color: followers of both poles study at both of its schools. The two poles are deliberately unlabeled and unjudged — which is right is the player's own conclusion (ledger E4F46BA5).
 
 | Stat | Color | Schools | Philosophy |
 |---|---|---|---|
@@ -87,6 +87,8 @@ The lifecycle's economics are ruled (Elideus, 2026-07-02; ledger 91F84075):
 The only progression fact currently ratified is economic: an uncompletable dungeon yields no XP and no traffic (ledger 49A3A9D6, Seed canon 8). Experience exists, and completing dungeons is at least one source of it; fairness is enforced by that incentive structure, not by moderation.
 
 Three further facts are canon (ledger 91F84075): **levels exist, and level 10 is the retirement threshold** — the point at which the yearning to retire arrives; the **skill system is deep, complex, and completely opaque to the player**, learnable only through brutal trial and error, while remaining honest — deterministic, predictable, and fair (the fairness law, applied to progression); and **the rules never bend** — costs are paid in full over real time, with no accommodation for schedules and nothing pay-to-play, ever.
+
+The skill system's shape is sketched but undesigned (ledger F618F695): **each discipline is a skill**, and skills are **layered** — "learning about axes teaches about wood and farming and gardening and combat" — with "probably three or four layers of skill scopes." Flagged by Elideus as a **major open issue for Sonnet collaboration**; nothing here may be elaborated until that session.
 
 > **[STUB]** The ring progression. Book IV references a ring progression — mages gain their synergy schools' shapes at the **4th ring** and their secondary synergy shapes at the **7th ring**, and spells are "arranged by school and ring" — but no book defines what rings are. Ownership of the definition is an open fork (ledger 63B28A6B): **Option A**, rings are a character-progression tier system and belong here in Book I; **Option B**, rings are a magic-mastery structure internal to Book IV. This section anchors the Book I side of that fork without defining rings.
 > - **[OPEN QUESTION]** Who owns rings — the fork itself (ledger 63B28A6B). Not resolved here.
