@@ -73,6 +73,14 @@ The gathering process is not hidden from the world: observant adventurers may di
 
 ---
 
+## Placement and Monster Recruitment
+
+Canon (Elideus, 2026-07-02; ledger B4F9A3AC): specific biome types are **seeded with specific kinds of creatures**, and on the DM-vs-adventurer scale **certain monsters can only be recruited in certain areas**. **Picking where to place your dungeon matters** — siting is a strategic decision, because the biome decides the recruitable bench.
+
+**[STUB]** The bestiary. Which creatures seed which biomes is a named buildout need ("there is a need to build out a bestiary"). Open: the biome→creature table itself; whether recruitment gating is exclusive or graded; how placement interacts with discovery, imp logistics, and tier progression; and where the bestiary lives as a document — this book, Book V's creatures scope, or its own supplement (cross-reference Book IV's creature-noun dictionary and the Terradun peoples-vs-vocabulary fork, ledger EBA28F43).
+
+---
+
 ## Discovery, Advertising, and Reputation
 
 New dungeons begin hidden from the wider player population. As adventurers discover, explore, and report on dungeon locations, information spreads: locations become known destinations and may appear on regional information boards, guild records, and maps. Dungeon Makers advertise their creations on in-game boards and compete for attention — a poorly designed dungeon is ignored; a well-designed dungeon becomes a destination with a steady stream of visitors. Reputation is a resource. *(Source, consistent with the incentive canon above.)*

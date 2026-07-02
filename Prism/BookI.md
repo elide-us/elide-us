@@ -64,11 +64,19 @@ Two further facts are canon (ledger EC054473):
 
 The tapestry is also the game's real achievement system: prestige lives in-world as permanent account markers, not in platform popups (ledger EC054473).
 
+The lifecycle's economics are ruled (Elideus, 2026-07-02; ledger 91F84075):
+
+- **The child.** An offspring is an investment requiring maintenance: ongoing payment of in-game currency builds the child to adventurer's age, and a raised child is what a new character is eventually rolled from. The investment need not begin the moment they come of age — but it cannot be skipped and cannot be bought around: **nothing is pay-to-play, ever.** "Old school RPG for life."
+- **The adventurer.** The character you play — **no take backsies**. Skill them up, live, explore, learn, acquire; at **level 10** comes a yearning to retire: you recognize your strengths and choose your benefits for the family, as permanent effects. Other endings feed the same system — a heroic sacrifice in an epic battle can become a permanent badge of glory for the account; any number of effects can be built off this system.
+- **Enchanted items obey the same law.** Long-term enchantments require regular mana investment at the enchanting table. You can't fake anything — the same rule as the child, the claim, and the dungeon: nothing persists that no one maintains.
+
+> **[PROPOSED]** A wider thread-state sketch exists from the same session — Living → Retired (role computed from the life actually lived) → Dead (tombstone) → Ghost (earned re-activation) → Burned (spent forever for a lasting effect); race as a tempo dial, lifespan trading against offspring slots; multi-generation dynasty tracks unlocking bloodline entitlements. Elideus's verdict was "not quite what I had in mind, but pretty close" — unratified. (Ledger A8FEC45C.)
+
 > **[STUB]** The mechanics of the lifecycle and dynasty system are unrecorded beyond the facts above.
 > - **[OPEN QUESTION]** What transfers across generations — items? school mastery? reputation? ring progress? (Ledger D2C52C88.)
-> - **[OPEN QUESTION]** What ends an active life: retirement only, or combat death too? (Ledger D25A57E1.)
+> - **[OPEN QUESTION]** What ends an active life beyond the ruled endings — retirement at level 10 (chosen, "a yearning") and heroic-sacrifice deaths that become account badges (ledger 91F84075)? Whether ordinary combat death ends a life is still open. (Ledger D25A57E1.)
 > - **[OPEN QUESTION]** Is the family tapestry a literal in-game artifact and interface, or a structural name for the family tree? Unrecorded.
-> - **[OPEN QUESTION]** How new members join the tapestry — birth, marriage, adoption, recruitment — is unrecorded.
+> - **[OPEN QUESTION]** How members join beyond the ruled paths — invested children (ledger 91F84075) and adoption (the Muse-vessel gate, EC054473). Marriage and recruitment are unrecorded, as is the unit of inheritance (one-parent, whole-tapestry, or chosen-mentor — posed unanswered, ledger A8FEC45C).
 > - **[OPEN QUESTION]** Does one player steward one line, or several? Unrecorded.
 
 ---
@@ -76,6 +84,8 @@ The tapestry is also the game's real achievement system: prestige lives in-world
 ## Progression
 
 The only progression fact currently ratified is economic: an uncompletable dungeon yields no XP and no traffic (ledger 49A3A9D6, Seed canon 8). Experience exists, and completing dungeons is at least one source of it; fairness is enforced by that incentive structure, not by moderation.
+
+Three further facts are canon (ledger 91F84075): **levels exist, and level 10 is the retirement threshold** — the point at which the yearning to retire arrives; the **skill system is deep, complex, and completely opaque to the player**, learnable only through brutal trial and error, while remaining honest — deterministic, predictable, and fair (the fairness law, applied to progression); and **the rules never bend** — costs are paid in full over real time, with no accommodation for schedules and nothing pay-to-play, ever.
 
 > **[STUB]** The ring progression. Book IV references a ring progression — mages gain their synergy schools' shapes at the **4th ring** and their secondary synergy shapes at the **7th ring**, and spells are "arranged by school and ring" — but no book defines what rings are. Ownership of the definition is an open fork (ledger 63B28A6B): **Option A**, rings are a character-progression tier system and belong here in Book I; **Option B**, rings are a magic-mastery structure internal to Book IV. This section anchors the Book I side of that fork without defining rings.
 > - **[OPEN QUESTION]** Who owns rings — the fork itself (ledger 63B28A6B). Not resolved here.
