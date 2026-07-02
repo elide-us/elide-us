@@ -85,6 +85,21 @@ The world is designed around continual change: resources shift, materials become
 
 Dungeons function as living systems rather than static structures: monsters occupy habitats, resources are consumed and replenished, bosses require support structures, and expansion creates new maintenance requirements. Over time a dungeon develops an identity from its creator's choices — a militarized fortress, a site of magical experimentation, a specialist in rare crafting materials or legendary equipment production. *(Source.)*
 
+The same law governs the adventurer side: claims and settlements require ongoing upkeep even while actively played — maintenance costs, settlement NPCs doing repair work — and abandoned structures decay back into the world through the erosion system. Nothing persists that no one maintains. (Ruled; ledger 95EAF28D.)
+
+---
+
+## Story Content Packs
+
+Canon (ruled 2026-07-01/02; ledger 95EAF28D; source archived at `sources/celestial-cosmology-session-2026-07-01.md`):
+
+- Builders can unlock **specialized content trees** by invested points — explicitly **not by purchase** — granting curated sets of story content to deploy: webs of NPCs, quest parts, and items authored from the mythology (the scale of a self-contained storyline cluster with recurring NPCs across missions).
+- Deployment is governed by **validation-as-authorship**: the content pack carries grammar constraints the builder must satisfy — in Elideus's words, rules like "if you [take] this particular content pack, you are not allowed to finish the ninth tier of a dungeon without having this kind of a room deployed that has this NPC sitting in it." The build validates only when the required interaction set is complete. This extends the fairness principle of Seed canon 8 — enforcement at the construction grammar — from spatial fairness to narrative completeness.
+- The primitive set is **event-oriented discovery content, not fetch quests** ("I don't want to give people the ability to say, go collect ten seashells"): builders deploy opportunities players stumble upon, in the discovery-and-exploration register.
+- Builders do not need to understand the story they deploy: they select storylines and enhancements that fit their theme, and **the lore rides the items and NPCs** — canonical mythology propagates through player-built dungeons by construction.
+
+**[STUB]** The concrete toolkit — the quest-part building blocks, the constraint vocabulary, which storylines become packs — is undesigned. Open: how content-tree investment prices an authoring license; how packs interact with tiers (the tier-nine example implies gating); and where pack validation runs relative to the template grammar's socket validation.
+
 ---
 
 ## The Boss Builder
