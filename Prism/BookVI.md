@@ -92,6 +92,7 @@ Canon this saga must honor:
 - The Eternal Ones withdrew into obscurity; the Titans and their children faded into legend; mortals forgot them, keeping only magic and mortality (First Age myth, closing passages).
 - Valor, Knowledge, Courage, and Perseverance emerged in mortals in their earliest generations (First Age myth; Book V names these four as the philosophical traits that drive the moral realms).
 - Even at the height of their achievements, mortals sensed something vital missing from their existence (First Age myth).
+- **Beltan the Bear** walked this age: one of the early mortals, a massive man — eight feet tall, a guardian and protector of the weak, a promoter of law and order — who defeated Dragan, chieftain of the raiding Bloodfangs, and declined every reward. He is **near-immortal** and lived long into the modern era, "like a wizard in Lord of the Rings terms"; the legend's "disappeared into the mists of time" is the folk telling, not a death. Every culture in the Prism knows him; his constellation hangs in every sky. (Ledgers 66541B83, AF819A62; legend text in the old ChatGPT log, beats archived in `sources/celestial-cosmology-session-2026-07-01.md`.)
 
 [OPEN QUESTION]s:
 
@@ -106,6 +107,8 @@ Canon this saga must honor:
 Canon this saga must honor:
 
 - Each school carries a philosophy pair studied and reinforced in that school: Enlightenment/Mendacity (White), Courage/Audacity (Yellow), Valor/Wrath (Red), Diligence/Anarchy (Orange), Knowledge/Truth (Blue), Perseverance/Relentlessness (Green), Transcendence/Ambition (Black) (Book V).
+- The governing principle of the philosophies is **perspective matters**: the schools' philosophies are different, equally valid ways of looking at the same truths — similar but opposite "in not necessarily negative ways" (Elideus; design lineage: Ultima VI's human and gargoyle virtues; ledger 66541B83).
+- The original world was **seven kingdoms**, each a school of magic and a branch of wisdom and philosophy (ledger BDB707A5) — the philosophies predate the Shattering.
 - The era preceding the Muse was unified: "all realms were unified, existing together in harmony. Magic flowed freely" (Book V).
 
 [OPEN QUESTION]s:
@@ -116,20 +119,25 @@ Canon this saga must honor:
 
 #### The Rise of the Lonely Muse
 
-**[STUB — priority narrative expansion; the text must come from Elideus]** — The story of the Lonely Muse, whose pursuit of power and truth ended the era of unity.
+**[STUB — the beats are canon; the prose must come from Elideus]** — The story of the Lonely Muse, whose mastery of all seven schools ended the era of unity.
 
-> **[EDITORIAL — missing source; ledger 7802053D]** The prior stub note here claimed the Lonely Muse founding myth "exists in prior design sessions and memory." The recompile memory audit (ledger entry 7802053D, re-verified by Agent F with direct probes on 2026-07-02) found no Prism lore in Oracle memory: the founding myth text is NOT retrievable. Nothing in this section may be reconstructed by inference; the narrative must come from Elideus.
+> **[EDITORIAL — source recovered; ledgers BDB707A5, 7802053D]** The founding myth was not in Oracle memory (memory audit 7802053D), but it was recovered on 2026-07-02 from Elideus's own telling in the 2026-07-01 celestial session — archived verbatim at `sources/celestial-cosmology-session-2026-07-01.md`, beats ruled in ledger BDB707A5. The canonical beats below are firm; the full "very long in-depth story" ("your typical soap opera: good intentions, betrayal, failed campaigns, missed opportunities") remains untold and must come from Elideus.
 
-Canon this saga must honor:
+Canon this saga must honor (ledger BDB707A5; Book V):
 
-- "This era of oneness came to a violent end with the rise of the Lonely Muse, whose relentless pursuit of power and truth threatened to unravel the very fabric of the universe" (Book V). Book V refers to the Muse as "her."
-- The Shattering was the response: the Titans chose to divide the world "to stop her and to preserve reality itself" (Book V).
+- The setting: the early days after the Titans shattered Light, formed the **Titan Council**, and the elemental magics were discovered. The world's people are the earliest mortals — long-lived immortals, elf-like or angel-like, deliberately ambiguous in form ("we're not calling them elves"). This is before humans.
+- The original world is **seven kingdoms**, each a school of magic and a branch of wisdom and philosophy, peopled by descendants of the angels and the immortals.
+- The **Lonely Muse is the greatest among them**: talented at a young age, she masters all aspects of magic, school after school — the final of the seven being **Light**.
+- She attempts to do good and is spurned: cast out from the kingdoms and schools where she travels to learn, one after another, even as she surpasses them.
+- Mastery of all seven gives her godlike power — the power of the Titans themselves. To keep her from becoming a god, and to stop her final seizure of power, the Titans **sunder the world** (see The Shattering, below).
+- Book V's account stands: "her relentless pursuit of power and truth threatened to unravel the very fabric of the universe." The Muse is "her."
+- Out-of-world provenance, recorded so it is never mythologized by accident: the Muse was inspired by a Halsey song, and has no connection to Misery (ledger BDB707A5).
 
 [OPEN QUESTION]s:
 
-- Who or what is the Muse — a mortal, a child of the Titans, an Eternal One, or something else entirely?
-- Why "Lonely"? The First Age myth describes the landscapes of the Eternal Ones' world as "lonely, but they did not long for more" — an echo, or unrelated? (Textual observation only; no source connects the two.)
-- What became of her — contained, destroyed, sleeping, worshipped? (The Factions section's "those who remember the Muse" hook implies a remnant.)
+- **What became of her** — destroyed, sealed or sleeping within the Prism, or still present and acting across the realms? Asked directly of Elideus in the source session and left unanswered; this single fact decides whether the myth is finished cosmology or ongoing plot. (The Factions hook "those who remember the Muse," and the endgame's Chalice gate, imply she is at least not forgotten.)
+- Why "Lonely"? The First Age myth describes the Eternal Ones' landscapes as "lonely, but they did not long for more" — an echo, or unrelated? (Textual observation only.)
+- The twelve constellations hold at least two beats of her story — the Night of the Daggers, and the reception murder she was blamed for (ledger AF819A62) — but which of her story's turns are memorialized in the sky is unwritten.
 
 #### The Shattering of the Prism
 
@@ -138,15 +146,18 @@ Canon this saga must honor:
 Canon this saga must honor:
 
 - "To stop her and to preserve reality itself, the Prism was shattered. The **Titans**, led by the wisdom of the **First Titan**, made the choice to divide the world, creating a new order to contain the Muse's power. Each realm was given its place in this new, fragmented reality, organized according to the very design of magic itself" (Book V).
-- The resulting order: the Realm of Light (White); the Ethereal Realms — the First Titan's Study (Black) and the First Titan's Laboratory (Orange); the Mortal Realms — Terria, Aerolon, Sanguia, Aquia (Book V).
+- The Titans' motive is now ruled (ledger BDB707A5): her mastery of all seven schools gave her godlike power, and the sundering was **their solution to keep her from becoming a god** — they did not kill her; they divided the world.
+- **PRISM is the crystal** (ledger BDB707A5). The sundered world is a crystal that refracts the one light into seven colors; the prison/prism pun surfaced in the source session and Elideus's correction stands: "It's not prison. It's prism like a crystal."
+- The realm division and the celestial order are one structure (Book V, cosmology ruling 05840ADF/8543A752): the realms are distilled into the celestial system — seven world-instances on seven bodies in one simulated universe, the pentagon zones their gateways, the ruled body order in Book V. The seven sky-planets are refractions of the one home reality.
+- The resulting order: the Realm of Light (White); the Ethereal Realms — the First Titan's Study (Black) and the First Titan's Laboratory (Orange); the Mortal Realms — Terria, Aerolon, Sanguia, Aquia (Book V). *(Whether these seven realm names name the seven bodies is the open mapping fork — ledger 7BC8E9B6.)*
 - Black combines with nothing, for mythological reasons — reasons this book must eventually state (Seed canon 3, ledger 442D03E8). Whether that isolation is a consequence of the Shattering or older is unrecorded; it is not to be invented here. (See also ledger 244A27FF on Black's seat in Book IV's synergy cycle.)
-- The myth must leave the wound open: the endgame arc ends in a choice to reunite or re-shatter the Prism during a celestial alignment (Seed canon 12, ledger 10A6150F).
+- The myth must leave the wound open: the endgame arc is the Muse's path — walk her road, master the seven, and at the summit make the choice she was denied, reuniting or re-shattering the Prism during a celestial eclipse of the Chalice; the choice is personal and terminal, and the world persists (Seed canon 12, ledger 10A6150F; endgame ruling EC054473).
 
 [OPEN QUESTION]s:
 
-- How does the realm division relate to the seven elemental planets of the celestial order? This is the top-priority cosmology fork (ledger 973162E7); the Shattering narrative cannot be finalized until it resolves.
 - What did the Shattering cost the Titans, and where are they now?
 - Did the First Titan lead the Shattering as it led the council of the First Age — and under which pronouns? (Ledger 5E9DB061.)
+- The slot-5 planet's name ("Life/Light, the white one") predates the Life-is-Green ruling — the naming fork (ledger 7BC8E9B6) touches how this myth phrases the seventh school.
 
 ### The Second Age of the Immortals
 
@@ -177,6 +188,10 @@ The gods of Prism and their domains.
 Canon:
 
 - The **god of the vine** — deity of the Green school (Earth and Life), of growth and green things; Life magic is his domain (Seed canon 2, ledger 4C62E790; Book V Canon Ruling 2026-07-02, "Life is Green"). No other deity is named in any source; none may be added without Elideus.
+- **The Titans are not humanoid** (ledger 66541B83). They are cosmic forms: one of the original Titans is **the Great Vine — the Divine Vine** — "just a planet sized vine growing in a valley… the galaxy sized vine." Early-creation stories of the Titans' materialization exist in an old document, referenced but not yet recovered (ledger 66541B83 flags its retrieval).
+- **The Two-Faced God** — the Titan of Death and Chaos, one god with two faces — is canon by the constellations ruling (AF819A62) and belongs to this pantheon's roster wherever it lands.
+
+**[OPEN QUESTION]** Is the Divine Vine the same figure as the god of the vine — a Titan whom Green's mortals worship as their deity — or two beings? The names rhyme too well to ignore and no source connects them; do not resolve without Elideus. Likewise whether the Two-Faced God is the First Titan (ledger AF819A62).
 
 **[OPEN QUESTION] — pantheon structure (ledger 69E6E8E7):** the prior stub presumed "each school presumably carries divine figures." That is presumption, not canon. Three readings, none chosen:
 
@@ -188,21 +203,28 @@ Further open: where the First Titan stands relative to any pantheon (pronoun for
 
 ## Constellations and the Celestial Order
 
-*(Scaffold — the sky's structure is canon; its names and stories are unwritten.)*
+*(Scaffold — the sky's structure and five constellations are canon; the rest is unwritten.)*
 
-The mythic telling of the heavens. The celestial simulation is the mechanical truth — real deterministic orbits from which eclipses, alignments, and transits emerge — and this section is that truth as mortals tell it.
+The mythic telling of the heavens. The celestial simulation is the mechanical truth — real deterministic orbits from which eclipses, alignments, and transits emerge — and this section is that truth as mortals tell it. The sky has two layers that drift against one another: the **seven wandering planets** (the divine, systemic order — the septisigil made visible) moving through a fixed field of **thirteen constellations** (the folk order, what people invented looking up).
 
-Canon (this book's own stub text, confirmed as the sole source by the memory audit):
+Canon (Book V's ruled celestial order, ledgers 8543A752, D2AAFEEC; constellations ruling AF819A62):
 
-- There are **thirteen constellations**, among them the hidden **Chalice**.
-- There are **seven elemental planets** with defined orbits.
+- The **seven elemental planets** hang in every sky, in the ruled body order (Book V): Chaos, Fire, Home, Earth, Life/Light, Air, Water, Death. Chaos and Fire transit the sun; Air carries the sky's one ring system; Death hides behind the star and is known mostly by its shadow crossing the galactic cloud.
+- **The moon is the one real thing in a sky of reflections**: it tracks the real-world Moon one-to-one, phase and place, a window through the dream rather than a body in it (ledger D2AAFEEC). The sun anchors; the moon rides with Home.
+- There are **thirteen constellations**: twelve known, ringing the galactic cloud, and a hidden thirteenth at the **galactic heart**.
+- **The Chalice** is the thirteenth — the Lonely Muse's constellation. "It always has been. It always will be." It is revealed only when **the moon and the Death planet align**, and while it shows, magic runs stronger — the Chalice eclipse is the endgame's appointed hour (Book I; ledger EC054473).
+- **Beltan the Bear** — the one constellation every culture in every shard knows. An early mortal of immense size and strength who spent it protecting the weak; he defeated Dragan, chieftain of the Bloodfangs, and wandered on, declining every honor. He is near-immortal and walked into the modern age (ledgers AF819A62, 66541B83).
+- **The Two-Faced God** — the Titan of Death and Chaos, one god with two faces. Its two domains are the system's two orbital extremes: Chaos innermost, Death outermost.
+- **The Touching of God** — an event in the stars: the first mortal to touch Light — the leader of the School of Light achieving light magic. How it is drawn is unrecorded.
+- **The Night of the Daggers** — an event in the stars: a night of betrayal and murder. Distinct from the Chalice and from the reception murder the Muse was blamed for, which is its own candidate constellation.
+- The register is **mixed by ruling**: figures, gods, and events coexist in the twelve, "a couple from here, a couple from there" — not a single schema. **Eight slots are open**, to be filled from the Titans, the school founders, the demigods, and the great events; not to be invented without Elideus.
 - Alignments, eclipses, and scarcity are foretold: celestial events are global modifiers across all tiers and regions, and those who learn the heavens can predict abundance and famine (Seed canon 6, ledger 8FB95281).
 
-> **[EDITORIAL — missing source; ledger 7802053D]** Constellation names and celestial specifics beyond the counts above were expected from prior-session memory and are NOT retrievable (memory audit, re-verified by Agent F 2026-07-02). The twelve constellations besides the Chalice are unnamed; the Chalice's story is unwritten. This section stays [STUB] until Elideus supplies them.
+[OPEN QUESTION]s:
 
-**[OPEN QUESTION] — cosmology fork (ledger 973162E7, TOP PRIORITY):** how do the seven elemental planets relate to Book V's realm structure — four Mortal Realm planets (Terria, Aerolon, Sanguia, Aquia) plus three realms not described as planets (the Realm of Light, the First Titan's Study, the First Titan's Laboratory)? Either the same objects at two altitudes (all seven realms appear as planets in the sky), or a genuine conflict requiring revision. This section's planet roster cannot be written until the fork resolves.
-
-Further open: what "hidden" means for the Chalice — mythically concealed, or astronomically visible only in certain configurations; why thirteen, and what the count structures (a calendar, the schools, something else — unrecorded); whether the constellations carry the Pantheon's figures or predate them.
+- Is the Two-Faced God the **First Titan** — whose shattering birthed Orange (Chaos and Transformation) and Black (Death and Void) in the First Age myth above? The resonance is strong and unconfirmed (ledger AF819A62).
+- Why thirteen — and does the count structure a calendar? A thirteen-period civil calendar aligned to the group financial system was floated and left open (ledger D2AAFEEC).
+- The eight unnamed constellations; the Chalice's own story; how the Touching of God is drawn.
 
 ## Factions, Movements, and Religions
 
@@ -225,3 +247,15 @@ The political movements, religious orders, and factions of the present age. This
 ### Those Who Remember the Muse
 
 **[STUB]** — Whatever remains of those who remember the Lonely Muse. Open: whether memory of her is worship, warning, or ambition; whether any faction seeks to reunite or re-shatter the Prism (the endgame's choice — Seed canon 12, ledger 10A6150F); and whether remembering the Muse is the same as seeking her.
+
+### The Human-Era Stratum **[recovered, awaiting refit]**
+
+Early story development recovered on 2026-07-02 from old ChatGPT logs (ledger 66541B83; beats in `sources/celestial-cosmology-session-2026-07-01.md`; full texts in the original logs). Status per Elideus: **canon in need of refit** — "definitely superseded by newer ideas and needs to be refit back into alignment… not too far off base, just different material." Its register is the modern, human era — "Lord of the Rings rather than Silmarillion" — and its themes (fascist cultures, societal civic duty) are deliberate. Nothing below may be elaborated until the refit; it is inventory, not finished canon:
+
+- **The Veiled Veil** — a forest region and people: resisters of imperial expansion, ancestral-pagan, mask traditions.
+- **The Veiled Shadows** — a female assassin order out of the Veiled Veil: founded by Elder Ailith, spiritually modeled on the legendary hunter Strea Hawkeye; grotesque ancestral masks, poison, stealth; later absorbed as the Empire's covert-ops division.
+- **The Empire of the Steel Crown** — the industrializing imperial power; its calendar dates from the rise of the first emperor; arc from conqueror to federative state. General Vargos, an Imperial commander, was assassinated by the Shadows.
+- **The Ember Forged** — the Empire's religion: fire, purification, resilience; the generational-sacrifice ritual of the Seventh Generational Uncle and its communal fire effigy. **The Whispered Cult** — its introspective foil, with a rival reading of the Seventh Uncle myth.
+- Also named: the **Luminal Seekers** (desert astronomers), the **Order of the Sacred Stone** (earth and stone, fortress-builders), the **Harmonious Circle** (nature/balance warriors), a mountain **Hidden Realm**; and the **Log of the Nameless General** — fifteen found fragments of an industrial-era war, a proud commander's arc into despair (the lore-through-items exemplar).
+
+[OPEN QUESTION]s: **Dragan and the Bloodfangs appear both here (imperial era) and in Beltan's prehistoric legend** — same figures across eras, reused names, or a conflict the refit must resolve (ledger 66541B83). Where this stratum sits relative to the Shattered Peace, and which of its institutions survive into the present age, is unrecorded.
