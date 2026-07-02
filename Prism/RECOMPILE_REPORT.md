@@ -1,0 +1,149 @@
+# Prism Bible Recompile — Run Report
+
+**Date:** 2026-07-02 · **Branch:** `bible-recompile` · **Oracle thread:** `prism-bible-recompile` (`CFD10EEB-682D-425B-995B-FF95FCED8B98`)
+
+Six agents ran against a shared Oracle memory ledger under the four-class discipline (Canon / [PROPOSED] / [OPEN QUESTION] / [STUB]). Every change is a per-book commit reviewable as a diff:
+
+| Commit | Book | Agent |
+|---|---|---|
+| `add63a4` | Baseline snapshot (all files, pre-recompile) | orchestrator |
+| `bc820b5` | Book III — world-system alignment | C |
+| `1e45401` | Book IV — canon audit | D |
+| `d6e5057` | Book I — draft from seed canon | A |
+| `f48abff` | Book II — draft from source notes | B |
+| `b39c91a` | Book VI — mythology scaffold | F |
+| `99f17d6` | Book V — guard pass | E |
+| `57f89a2` | Book III — Elideus's mid-run rulings applied | orchestrator |
+
+**Ledger state:** 12 seed-canon decisions, 4 mid-run rulings from Elideus, ~30 contradiction/question/glossary/note entries. All 38 ledger GUIDs cited inside the books were verified to exist in the thread.
+
+---
+
+## Findings that shaped the run
+
+1. **Oracle memory contains no Prism lore.** Probed exhaustively (Muse, constellations, combat, dungeons, planets, races — ledger `7802053D`). The store holds engine canon (`flicker`) and backend canon only. Everything the briefs assumed was "retrievable from memory" — the Lonely Muse founding myth, constellation specifics, the seven-planet orbital order, race/lifespan data — **does not exist in memory and must come from Elideus.** Nothing was reconstructed; the absences are recorded in the books as [STUB]s with citations.
+2. **The combat-clock design has no engine document.** Seed canon 5 (Souls-style, frame-accurate combat tick, TAE-style timelines) is canon by your statement alone; ledger `9D249EE4` is the citable source. Worth writing up as a flicker doc eventually.
+3. **Agent E's pass ended early** (session limit) after completing its Book V edits and posting its four findings; its per-book verification of Books II/VI citations was finished by the orchestrator (GUID cross-check above).
+
+## Mid-run rulings from Elideus (recorded and applied)
+
+| Ruling | Ledger | Applied |
+|---|---|---|
+| Magnesium #12 is canon; table is 27 elements | `84E68FF7` | Mg row added to Book III's periodic table, mirrored verbatim from `periodic_table.json` |
+| Epoch/crust-cycle timing unconfirmed; POCs non-canon | `65AE9274` | Book III Crust Clock reworded: concept canon, all durations working values (closes contradiction `53092068`) |
+| Valence removal "probably fine" (hedged) | `217A3A9B` | Book III valence notes deprecation-flagged; column retained pending confirmation (item 10 below) |
+| Book IV syllabus alignment deferred to engine effect-building | `33173716` | Agent D's audit flags stand as the engine-side worklist; no bulk book rewrite |
+
+---
+
+## Per-book summary
+
+**Book I — Adventurer's Design** (3 lines → full classified draft). Canon: seven-stat table mirroring Book V; Charisma exclusion and Con/End non-collapse rationale; Souls-style combat framework; dynasty and endgame arc one-liners. [PROPOSED]: Con/End combat readings. [STUB] with sharp questions: the other five stats' combat readings, combat vitals, death rules, dynasty mechanics, ring progression, endgame resolution.
+
+**Book II — Dungeon Maker's Design** (3 lines → full draft, 11 sections). Canon: two non-interacting populations, async coupling, template grammar fairness, economic starvation of trolling. Source-attributed: tiers, tech trees, imps, discovery/reputation, decay. [PROPOSED]: the loot stack (material → noun-residency → artificing → adjective-quality → shape-proc) with a per-rung basis map (`C1AF172E`) and deterministic legendary naming per the UUID5 principle. Uses "Dungeon Maker" throughout, fork flagged once.
+
+**Book III — World System Design** (aligned, then rulings applied). New [PROPOSED] World-System Frame preamble (material ledger, nine-epoch bake, hex-sphere, Rivulets, crust clock); voxel-container passages flagged against fork `9C677816`, never rewritten; all source tables preserved; Mg added; timing softened; valence deprecation-flagged.
+
+**Book IV — Magic System Design** (audited, not rewritten). Inline flags: dictionary slot collisions, creature-category collisions, Life/Light conflation in the White ring examples, synergy-vs-genealogy [OPEN QUESTION], rings and psionics tied to their forks, Necromancy annotated as the Black single-school exception. No words added or removed. Per ruling `33173716` these flags are now the engine effect-building worklist.
+
+**Book V — Setting and Anthropy** (guarded). Two mechanical fixes ("Life and Earth" → "Earth and Life"; "Charism" → "Charisma"); editorial pointers at the cosmology fork and the moral/mortal wordplay; Peoples of Prism structured as a real [STUB] with five open questions. Canon Rulings ledger untouched — no ruling added without you.
+
+**Book VI — Mythology** (scaffolded). Myth prose byte-identical (sha256-verified). Five saga stubs built only from Books V/VI's own text; Pantheon (god of the vine sole deity, structure posed as question); Constellations (canon counts only); Factions (four pure stubs from existing hooks); one editorial annotation for the pronoun fork.
+
+---
+
+## Contradiction ledger
+
+**Resolved by ruling this run:**
+- Crust-recycle period 500 My vs ~1.5 BY/6 recycles (`53092068`) → both are non-canon working values (`65AE9274`).
+- Book III 26 vs engine 27 elements → Mg added (`84E68FF7`).
+
+**Open contradictions (cited, not resolved):**
+- `78524243` — Book III water-as-voxel-compound vs engine "water/ice/lava are effects, not layers".
+- `44F17D1E` / `94774F28` — dictionary slot collisions (Umbra, Grav/Vis, Saxum/Terra, Altus/Altior, Infimus/Humilis, Durare/Longe/Longius, Breve/Brevis). *Deferred to engine effect-building per `33173716`.*
+- `8E29A0D3` — creature-category collisions (liches ×2, phoenixes ×2, Aetheron gloss). *Same deferral.*
+- `62E81F6F` — "White (Life Magic)" ring examples conflate Life/Light (deprecated per Life-is-Green; flagged in place).
+- `313123F1` — Book IV cites "Black combines with nothing" to Book V's rulings ledger, but the clause lives only in thread decision `442D03E8` (see item 11).
+- `363D1BBA` — brief-vs-thread GUID transposition (bookkeeping; recorded, no action needed).
+
+**Open questions:** all 20+ [QUESTION] entries feed the queue below.
+
+---
+
+## Adjudication queue
+
+Numbered decisions for Elideus, ordered by how much content each ruling unblocks. *(cheap)* = a one-line ruling suffices.
+
+**1. Cosmology — four Mortal Realm planets vs seven elemental planets** (`973162E7`, top priority)
+Options: (a) same objects at different altitudes — the mythic/structural view (4 mortal planets + Realm of Light + 2 ethereal realms) and the astronomical view (7 planets, one per school) coexist; (b) genuine conflict — Book V's roster predates the celestial model and gets revised. Also needed regardless: **the seven-planet orbital order recorded somewhere durable** — it exists only in your head; no book or memory holds it.
+Unblocks: Book V realm roster, Book VI Constellations and celestial mythology, which peoples live where, the celestial sim's body roster and alignment patterns.
+
+**2. Rings — who owns the progression** (`63B28A6B`)
+Options: (a) Book I character progression that Book IV references; (b) Book IV magic-mastery structure. Then: how many rings, what advancing costs, per-school vs whole-character.
+Unblocks: Book I's entire Progression section, Book IV's shape-assignment mechanics.
+
+**3. Death rules — what ends an active life** (`D25A57E1`)
+Options: (a) retirement only, combat death is a setback; (b) combat death can end a life (permadeath tier); (c) something between (age + circumstance). Agent A called this the single highest-leverage unknown: it decides whether the dynasty system is load-bearing or flavor.
+Unblocks: Book I lifecycle, dynasty stakes, and most of the combat stub's tone.
+
+**4. Combat vitals and the five unruled stats**
+Canon defines Con (capacity to be hit) and End (capacity for sustained effort). Whether those are literally HP and stamina, and what Str/Dex/Int/Wis/Luck do in combat terms, has no source.
+Unblocks: the entire Book I combat framework beyond the clock; stat-to-gameplay coupling everywhere.
+
+**5. Dynasty inheritance — what transfers across generations** (`D2C52C88`, with `432AAB1F`)
+Options per fork: items / school mastery / reputation / ring progress / stat predispositions by bloodline — any subset. Plus the endgame corollary: how "master all seven schools across lifetimes" accumulates, and whether reunite-vs-re-shatter resolves world-globally, per-dynasty, or cyclically.
+Unblocks: Book I dynasty mechanics and the endgame arc.
+
+**6. "Dungeon Maker" vs "Dungeon Master"** (`500F8438`) *(cheap)*
+One word wins platform-wide. Books currently use Maker, source notes use Master.
+Unblocks: Book II terminology finalization, the "DM" gloss, UI copy.
+
+**7. The DM–adventurer interaction boundary** (`A2596715`)
+The source says loops are "deeply interconnected" and adventurers can track imp routes; seed canon says populations never directly interact. What happens live: can adventurers fight imps in the world? Can a Maker watch a run in progress? What does the tower-defense actually defend against?
+Unblocks: Book II's imps/logistics and discovery sections at mechanical depth.
+
+**8. Boss builder mechanism** (`EBF514AA`)
+Options: word-grammar composition (like spells), socketed templates (like rooms), or both.
+Unblocks: Book II's boss builder section (currently four source lines + stub).
+
+**9. Loot stack ratification** (`C1AF172E`, dependency `67DB3F76`)
+The material → noun-residency → artificing → adjective-quality → shape-proc stack is [PROPOSED]; rungs 4–5 (adjectives as quality grades, shapes as procs) rest on your brief alone. Legendary naming additionally needs Draco/Mortuus to exist in the dictionaries (engine-side per `33173716`).
+Unblocks: Book II loot creation as canon; the item-creation design doc the source session already identified as next.
+
+**10. Valence removal — final confirmation** (`217A3A9B`) *(cheap, near-ratified)*
+You said "probably fine". On confirmation: strip the VEs column from Book III and `periodic_table.json` in one pass, delete the valence notes.
+
+**11. The Black clause's citation home** (`313123F1`) *(cheap)*
+Options: (a) fix Book IV's two citations to point at thread decision `442D03E8`; (b) ratify "Black combines with nothing" into Book V's Canon Rulings ledger, which makes Book IV's citation valid. (b) also settles where future books point.
+
+**12. "Moral realms" vs "mortal realms"** (`89D9BC90`) *(cheap)*
+Typo or deliberate wordplay. Book VI already quotes the phrasing; both books follow the ruling.
+
+**13. Pantheon structure** (`69E6E8E7`)
+One god per school / multiple per virtue-vice pair / no gods, only remembered Titans. Unblocks Book VI Pantheon and Factions (religious orders).
+
+**14. Who are the Second Age immortals?** (`BB152B09`)
+The heading "The Second Age of the Immortals" frames the present, mortal game age. Unblocks the Shattered Peace saga framing.
+
+**15. Peoples roster** (`EBA28F43`)
+Which races exist, lifespans, playability — plus the interface question: does Book IV's Terradun entry (dwarves, kobolds, gnomes) attest peoples or only targeting vocabulary? This is an authoring session more than a ruling.
+Unblocks: Book V Peoples of Prism, Book I race–lifespan values.
+
+**16. Psionics' seat** (`7609E7E9`)
+Outside the Prism by design / a casting style of an existing school / legacy pending redesign. Unblocks Book IV psionics framing and whether "master all seven schools" has an eighth asterisk.
+
+**17. Synergy cycle vs school genealogy** (`244A27FF`)
+Book IV's cycle (White→Yellow→Red→Orange→Black→Blue→Green) vs Book V's genealogy (White → Black/Orange → Green/Yellow → Red/Blue), and Black's seat in a loop when Black combines with nothing. Vocabulary side is deferred to engine work; the *ordering* question is book-side.
+
+**18. First Titan pronouns** (`5E9DB061`) *(cheap)*
+Intentional shattered-being pronoun mixing, or drift. Book VI annotates but does not touch the text.
+
+**19. Voxel model fork** (`9C677816`, with `78524243`)
+Same model at two resolutions, or Book III revision. Low urgency — Book III is fully flagged and readable either way.
+
+**20. Authoring sessions wanted** (not rulings)
+The Lonely Muse founding myth (exists nowhere; Book VI stub is ready to receive it) · constellation names and stories (thirteen + hidden Chalice) · Book II per-tier unlock table · the flicker combat-clock engine doc.
+
+---
+
+*Ledger conventions, all entry GUIDs, and full finding bodies live in the Oracle thread `prism-bible-recompile`. Books remain internally honest: every unsourced claim is marked, every fork is cited, nothing was invented.*
