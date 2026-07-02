@@ -43,6 +43,8 @@ Per "data is truth; code and geometry are render targets" (ledger 65C82EE0), tic
 
 **Source material.** Ideation-only design notes from 2014 are archived at `sources/combat-systems-ideation-2014.md` (intake ruling: ledger 78C70439). They are twelve-year-old ideation, not canon, but carry the payload Elideus marked durable: a status-effect taxonomy treated as **direct game mechanics** — stun, snare, slow, root, poison, confound/distract, aphasia, fear, confuse, silence, expose, tashina, mesmerize — plus time/distance/movement constraints: attack property flags (physical/magic × melee/ranged/point-blank AE/targeted AE/cone/line), projectile travel, channeling as a self-root with tick-applied effects, displacement as velocity-on-hit, and cooldown discipline. The stat-to-mechanics coupling is design-and-build work still ahead (ledger 78C70439); the notes inform the [STUB] below without resolving it.
 
+**The fairness law.** Canon, in Elideus's words (Half-Life 1998 design lineage; ledger 95EAF28D): *"If the player dies, they can only die because they missed something… The player cannot blame the designer for failure."* Combat is telegraph-and-dodge. Every threat carries two readable layers: a **spatial tell** — danger is a legible place, entered by choice — and a **temporal tell** — the attack telegraphs before it lands, and the counter-window keys to the tell. Lethality may be extreme (one-shot kills are permitted); legibility is non-negotiable. The canonical exemplar: shadow wisps that decapitate in one hit live only in mud, and the mud bubbles before they strike — avoid the mud and you are categorically safe; enter it, and the bubbles are the contract.
+
 > **[STUB]** Everything beyond the facts above is undesigned or unrecorded: resource systems (stamina or its equivalent), poise and stagger, lock-on and targeting, block/parry/dodge specifics, damage typing, ranged and magical delivery, timing values, and how the seven stats parameterize the simulation.
 > - **[OPEN QUESTION]** Is there an Endurance-governed action resource gating attacks and dodges, per the [PROPOSED] stat reading above?
 > - **[OPEN QUESTION]** Spells are researched and memorized before casting (Book IV). Do spell casts occupy TAE-style combat timelines the same way weapon attacks do?
@@ -54,6 +56,13 @@ Per "data is truth; code and geometry are render targets" (ledger 65C82EE0), tic
 ## Character Lifecycle and the Generational Dynasty System
 
 An adventurer is one life in a family line. The character system is **generational**: a **family tapestry** records the line; characters leave active play through defined **retirement flows**; and the peoples of Prism trade lifespan against generational turnover — longer-lived races trade turnover for continuity, shorter-lived races cycle through the family tapestry faster. (Ledger 10A6150F, Seed canon 12; corroborated by Book V, Peoples of Prism.) The races themselves are Book V material and are currently a stub there.
+
+Two further facts are canon (ledger EC054473):
+
+- **Every new game begins with three helper NPCs** besides the adventurer — the character's parents and a benefactor relative (a sibling, uncle, aunt, or grandparent) — for example, one who makes food, one who makes and mends clothing, and a specialist who teaches. The opening is survival-hard: a hostile world, scarce resources, a weak character, and nothing in hand but the people standing with you.
+- **Retirement is a category, not one ending.** Many terminal quest lines end a character — evolving them into certain kinds of powered creatures or enabling permanent effects — and each retirement deposits a permanent marker on the account's tapestry. The Muse's path (see The Endgame Arc) is the apex member of the category.
+
+The tapestry is also the game's real achievement system: prestige lives in-world as permanent account markers, not in platform popups (ledger EC054473).
 
 > **[STUB]** The mechanics of the lifecycle and dynasty system are unrecorded beyond the facts above.
 > - **[OPEN QUESTION]** What transfers across generations — items? school mastery? reputation? ring progress? (Ledger D2C52C88.)
@@ -81,16 +90,22 @@ The only progression fact currently ratified is economic: an uncompletable dunge
 
 The endgame of the adventurer's game spans character lifetimes: **master all seven schools across the generations of a family line, and, during a celestial alignment, reunite or re-shatter the Prism.** (Ledger 10A6150F, Seed canon 12.)
 
-Celestial events are global modifiers, deterministic and foretold: an alignment is never scripted or random — it emerges from real orbits, and those who learn the heavens can predict it (ledger 8FB95281, Seed canon 6). The endgame's moment is therefore something the whole world can see coming.
+Celestial events are global modifiers, deterministic and foretold: an alignment is never scripted or random — it emerges from real orbits, and those who learn the heavens can predict it (ledger 8FB95281, Seed canon 6). The endgame's moment is therefore something the whole world can see coming — and since the moon runs on real wall-clock ephemeris (Book V; ledger D2AAFEEC), the appointment is computable from the actual sky.
 
-> **[OPEN QUESTION]** **Reunite vs re-shatter.** What each choice means — mechanically for the world, mythologically for the story — is unrecorded. The mythic frame (Book V, Book VI) gives the stakes without the mechanics: the Prism was shattered to contain the Lonely Muse, so *reunification* reads as restoring the original unity and reopening whatever the Shattering closed, while *re-shattering* reads as renewing the containment for another age. Whether those readings hold, whether the choices oppose factions, and what either does to a live world: unresolved. (Ledger 10A6150F names the fork; do not resolve here.)
+**The arc is the Muse's path** (ruled 2026-07-01/02; ledgers BDB707A5, EC054473). The player walks the road the Lonely Muse walked — apprentice at all seven schools in one lifetime, master them all, and stand at the summit she was denied (Book VI). Completing it is a **terminal epic quest**: the choice between reuniting and re-shattering is offered, made personally, and **retires the character**. The shared world persists — permanent world-scale change is not simulated; "that's where a character would retire." Nobody does this by accident, or on their first character, or their tenth.
+
+The gate stack is canon (ledger EC054473):
+
+1. The account's tapestry must already record a **leveled and retired character in each of the seven schools** — seven completed lifetimes as the price of eligibility.
+2. The vessel must be a **near-immortal race** (an elf-type with five human lifetimes of learning done by age one hundred) — or a character of another race prepared through an adoption setup and massive tutoring investment.
+3. The quest must be completed **during a celestial eclipse of the Chalice** — the moon–Death alignment that reveals the Muse's hidden constellation (Book VI; ledger AF819A62).
+4. The reward is a **permanent account marker on the tapestry** — a major permanent account-wide bonus ("a permanent patron of all magic, something along those lines").
+
+> **[OPEN QUESTION]** **Reunite vs re-shatter — the meaning.** The mechanical scale is ruled (personal, terminal); what each choice *means* — mythologically, and in whatever the retiring character leaves behind — is unrecorded. The mythic frame gives stakes without specifics: reunification reads as restoring the unity the Titans broke; re-shattering as renewing the containment for another age. What the choice options actually are, and whether factions align to them (Book VI, Those Who Remember the Muse), remains open.
 >
-> **[OPEN QUESTION]** **How mastery accumulates across a dynasty.** Per-character mastery aggregated at the family level? A family ledger of schools mastered? Must a single line master all seven, one life per school, or may lives overlap? This is governed by the inheritance question (ledger D2C52C88).
->
-> **[OPEN QUESTION]** **Scale of resolution.** Adventurer gameplay is a shared-world MMO (ledger C91261FB). Does one dynasty completing the arc change the world for everyone, resolve in an instanced or mythic frame, or recur cyclically with the celestial clock? (Ledger 432AAB1F.)
+> **[OPEN QUESTION]** **Inheritance beyond mastery.** School mastery accrues at the account level — one retired character per school (ruled above). What else transfers across generations — items, reputation, ring progress — is still the open inheritance fork (ledger D2C52C88), as is what combat death costs the line (ledger D25A57E1).
 
 Related forks held elsewhere:
 
 - Whether "all seven schools" includes psionics — a discipline outside the seven schools — is unresolved (ledger 7609E7E9).
-- Which celestial bodies participate in the alignment turns on the cosmology fork: four Mortal Realm planets plus ethereal realms (Book V) vs seven elemental planets in orbital order (ledger 973162E7).
 - Black combines with nothing (ledger 442D03E8) and is excluded from ring-based shape synergy (Book IV). Whether the path to Black mastery differs structurally from the other six schools is unrecorded.
