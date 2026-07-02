@@ -44,6 +44,8 @@ Each world has twelve pentagon points (hex-sphere topology, Book III). These are
 
 The sun anchors the system and the moon rides with Home — both outside the seven. All seven planets share one apparent size, about a quarter of the sun/moon disc. **The moon is not a simulated body**: it tracks the real-world Moon one-to-one — true synodic cycle, phase and position from real ephemeris (ledger D2AAFEEC). Time runs at one in-game minute per five real seconds — a two-hour in-game day.
 
+**Celestial primacy (ledger 3312B2AB).** Celestial events drive all possibilities in the game — core design. Design-side, every event is conceived only as the sky's schedule: configurations of the planets, the moon, and the stars. Players who learn the stars and their patterns can see when things will happen, and will resolve the sky to dates and times — but the design never runs the other way. It is all one structure: colors, stats, events, people, bodies, magic, titans — *"all reflections of the same Prism."*
+
 The seven sky-planets map one per school (ledger D30A32BF): Chaos → Orange, Fire → Red, Earth → Green (Earth *and* Life), Light → White, Air → Yellow, Water → Blue, Death → Black.
 
 *[EDITORIAL — still open: (a) whether the seven realm names above are the names of the seven bodies (realm↔body mapping, [PROPOSED] only — ledger 7BC8E9B6); (b) pentagon transit mechanics — undecided, including how twelve points serve six destination realms (ledger 73EA6D39); (c) the in-game↔real latitude mapping and reference longitude for the moon ephemeris (ledger D2AAFEEC).]*

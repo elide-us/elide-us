@@ -176,6 +176,8 @@ Also round 3: **pentagon gateways refined** (`73EA6D39`) — twelve points per w
 
 And: **Advent locations ruled** (`35A9CEAE`) — the pentagons are unreachable BY DESIGN: the player-centered hex-cluster renderer breaks on pentagons, so pentagon spaces sit outside the standard world and entering one removes you from it; world-gen enforces the unreachability. The elsewhere is hand-crafted, rule-shifting content ("a void where you can swim in all directions, distant glows of massive titans faces"); fog-wall teleport is idea-grade. Named **Advent locations** with the full Berserk meaning. New question: are the Advent eclipse (event) and Advent locations (places) mechanically coupled?
 
+And: **celestial primacy ruled** (`3312B2AB`) — celestial events drive ALL possibilities; design-side, events are conceived only as the sky's schedule, never as dates (players resolve the sky to calendars, the design never runs the other way). Answers the Advent coupling question at the principle level: the doors answer to the sky; mechanics still open. The unification principle recorded verbatim: "colors, stats, events, people, bodies, magic, titans, all reflections of the same Prism."
+
 ---
 
 *Ledger conventions, all entry GUIDs, and full finding bodies live in the Oracle thread `prism-bible-recompile`. Books remain internally honest: every unsourced claim is marked, every fork is cited, nothing was invented.*
