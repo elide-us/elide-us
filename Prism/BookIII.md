@@ -16,7 +16,7 @@ The world's stored truth is a **material ledger**. Each heightmap pixel carries 
 
 ### Elements, Compounds, and Classified Materials
 
-The engine consumes this book directly: the Simplified Periodic Table below is the canonical element vocabulary (flicker docs/material-model-handoff.md — 26 elements carried verbatim; the valence-electron counts are this book's gameplay values by design, not IUPAC values). Above the elements, the engine classifies an aggregate composition to one of 256 named materials (granite, sandstone, limestone, dirt, ores, water, ice, lava, and so on).
+The engine consumes this book directly: the Simplified Periodic Table below is the canonical element vocabulary (flicker docs/material-model-handoff.md — 27 elements: 26 carried verbatim plus Magnesium #12 by ruling, ledger 84E68FF7; the valence-electron counts are this book's gameplay values by design, not IUPAC values). Above the elements, the engine classifies an aggregate composition to one of 256 named materials (granite, sandstone, limestone, dirt, ores, water, ice, lava, and so on).
 
   **[PROPOSED]** This book's compound, mineral, and gemstone tables are the chemistry-facing source-work behind that classification and behind the crafting/extraction layer; the exact mapping from these tables to classified materials is unassigned — the engine's compound catalog is deferred, and its world simulation works element→material directly. (Basis: material-model-handoff.md §2; ledger note 3C72165B.)
 
@@ -34,7 +34,7 @@ Water, lava, and ice transport runs on **Rivulets**: a directed acyclic graph of
 
 ### The Crust Clock
 
-The primary world clock is **500-million-year crust recycling**: crust actively subducts, moves, and regenerates, and the simulation passes that evolve the ledger run on a geological cadence, never in the frame loop. Stated durations here and in the engine documents are working design values; a period discrepancy against an engine roadmap document is logged as ledger contradiction 53092068, not resolved here. (Canon: F156C63C.)
+The primary world clock is **crust recycling**, with 500 million years as the working cycle length: crust actively subducts, moves, and regenerates, and the simulation passes that evolve the ledger run on a geological cadence, never in the frame loop. The recycling *concept* is canon; the duration is not — by ruling (Elideus, 2026-07-02; ledger 65AE9274), all epoch and crust-cycle timings are unconfirmed working values from ongoing experimentation, and the exploratory POCs built around them are non-canon. The 500 My figure and the engine roadmap's ~1.5 BY / ≥6-recycle figures (formerly contradiction 53092068) are both such working values; no permanent decision exists. (Canon concept: F156C63C; timing ruling: 65AE9274.)
 
 ## Simplified Elemental System
 
@@ -79,8 +79,11 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 |---------|---|-----|-----|------|
 | Hydrogen | 1 | (H) | 1 | Water |
 | Sodium | 11 | (Na) | 1 | Salt and Glass |
+| Magnesium | 12 | (Mg) | 2 | Explosives, flares, lightweight alloys, and energy catalysis |
 | Potassium | 19 | (K) | 1 | Fertilizer and plant growth |
 | Calcium | 20 | (Ca) | 2 | Limestone, cement, mortar |
+
+*Magnesium added 2026-07-02 by ruling (ledger 84E68FF7): the engine's canonical table gained Mg #12 as a major silicate component (flicker data/materials/periodic_table.json); this book is corrected to match. The Prism table is now 27 elements; the design ceiling is 30.*
 
 ---
 
@@ -121,6 +124,8 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 ---
 
 #### **Notes on Valence Electrons and Gameplay Mechanics**
+
+  **[DEPRECATION — leaning removal]** By ruling (Elideus, 2026-07-02; ledger 217A3A9B), the composed-element chemistry system this valence model was meant to support is judged too much detail and computation to be worthwhile — removal is "probably fine", a strong leaning pending final confirmation. The VEs column and the notes below are retained until then; the engine's periodic_table.json carries the same book-transcribed values and would be stripped in the same pass.
 
 - **Transition Metals:** Transition metals have variable valence electrons due to their d-orbitals. For gameplay purposes, assigning them common valence counts aids in crafting recipes and understanding elemental interactions.
 
