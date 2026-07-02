@@ -26,4 +26,10 @@
 
 ## V. Setting and Anthropy Design
 
-  This book describes the setting of the World of Prism and the various creatures and social systems that define the universe.
+  This book describes the setting of the World of Prism and the various creatures and social systems that define the universe. It holds structural canon only: realms, schools, philosophies, stats, peoples, and the Canon Rulings ledger.
+
+---
+
+## VI. Mythology
+
+  This book contains the mythic history of Prism: the ages of the world, the pantheon, the constellations, and the sagas. It is the in-world telling of the canon defined in Books IV and V, and the home of factions, religions, and political movements.
