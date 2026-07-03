@@ -33,3 +33,9 @@
 ## VI. Mythology
 
   This book contains the mythic history of Prism: the ages of the world, the pantheon, the constellations, and the sagas. It is the in-world telling of the canon defined in Books IV and V, and the home of factions, religions, and political movements.
+
+---
+
+## VII. Bestiary
+
+  This book contains the creatures of Prism: the fifteen Principality categories, the cross-cutting archetype matrix, and the gothic-horror tonal register the whole bestiary is written in.

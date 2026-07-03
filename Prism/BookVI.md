@@ -78,7 +78,7 @@ All that remained were the forces the Titans had unleashed: **magic** and **mort
 
 Thus, the **First Age of the Immortals** came to an end. The Titans and their children faded into legend, leaving behind only the echoes of their creations and the powerful magic that flowed through the world. But even in this age of mortality, the world waited. The Light had more yet to reveal, and though the Titans slept, the forces of the universe would stir once more, in time.
 
-> **[EDITORIAL — First Titan pronouns; ledger 5E9DB061]** In the myth above, the First Titan's pronouns shift among *he*, *she*, *they*, and *it* — sometimes within a single sentence (see the council paragraph: "death had torn them apart, it still lived, his form marked by the chaos she had touched, their presence shadowed by the void"). Whether this is intentional — a being shattered into multiple forces carrying mixed pronouns — or drafting drift is an open fork on the recompile ledger. The prose above is preserved exactly as written and must not be normalized without a ruling from Elideus.
+> **[CANON — First Titan pronouns; ledgers 5E9DB061, 5E2FB886]** The First Titan's pronouns shift among *he*, *she*, *they*, *it*, and *we* — sometimes within a single sentence (see the council paragraph: "death had torn them apart, it still lived, his form marked by the chaos she had touched, their presence shadowed by the void"). This is **intentional — the expression of chaos** (ruled 2026-07-02): a being shattered into many forces speaks as many. Each successive pronoun rotates through *they, him, her, them, us, hers, his, she, we* — the first-person plural included. The prose above is preserved as written; future First-Titan text follows the rotation rather than normalizing it.
 
 ---
 
@@ -138,7 +138,7 @@ Canon this saga must honor (ledger BDB707A5; Book V):
 
 - **What became of her** — destroyed, sealed or sleeping within the Prism, or still present and acting across the realms? Asked directly of Elideus in the source session and left unanswered; this single fact decides whether the myth is finished cosmology or ongoing plot. (The Factions hook "those who remember the Muse," and the endgame's Chalice gate, imply she is at least not forgotten.)
 - Why "Lonely"? The First Age myth describes the Eternal Ones' landscapes as "lonely, but they did not long for more" — an echo, or unrelated? (Textual observation only.)
-- The twelve constellations hold at least two beats of her story — the Night of the Daggers, and the reception murder she was blamed for (ledger AF819A62) — but which of her story's turns are memorialized in the sky is unwritten.
+- The constellations hold beats of her story: the **reception murder she was blamed for** remains a candidate constellation (ledger AF819A62). *(The Night of the Daggers, previously floated as one such beat, was retired in round 9 as derivative — ledger 25699317.)* Which of her story's turns are memorialized in the sky is otherwise unwritten.
 
 #### The Shattering of the Prism
 
@@ -150,14 +150,14 @@ Canon this saga must honor:
 - The Titans' motive is now ruled (ledger BDB707A5): her mastery of all seven schools gave her godlike power, and the sundering was **their solution to keep her from becoming a god** — they did not kill her; they divided the world.
 - **PRISM is the crystal** (ledger BDB707A5). The sundered world is a crystal that refracts the one light into seven colors; the prison/prism pun surfaced in the source session and Elideus's correction stands: "It's not prison. It's prism like a crystal."
 - The realm division and the celestial order are one structure (Book V, cosmology ruling 05840ADF/8543A752): the realms are distilled into the celestial system — seven world-instances on seven bodies in one simulated universe, the pentagon zones their gateways, the ruled body order in Book V. The seven sky-planets are refractions of the one home reality. The gateways are the **Advent locations** (ledger 35A9CEAE) — unreachable anomalies where the standard world ends and the elsewhere begins, "with all of the Berserk meaning attached." The doors, like everything else, answer to the sky: celestial primacy is ruled (ledger 3312B2AB), and the concrete mechanics of the opening are the part still undecided.
-- The resulting order: the Realm of Light (White); the Ethereal Realms — the First Titan's Study (Black) and the First Titan's Laboratory (Orange); the Mortal Realms — Terria, Aerolon, Sanguia, Aquia (Book V). *(Whether these seven realm names name the seven bodies is the open mapping fork — ledger 7BC8E9B6.)*
+- The resulting order: the Realm of Light (White); the Ethereal Realms — the First Titan's Study (Black) and the First Titan's Laboratory (Orange); the Mortal Realms — Terria, Aerolon, Sanguia, Aquia (Book V). **These realm names are the names of the seven bodies and their Titans** (ruled 2026-07-02, ledger 2FCEB0B3, closing fork 7BC8E9B6): each Mortal Realm's name is at once a planet, a realm, and a Titan.
 - Black combines with nothing, for mythological reasons — reasons this book must eventually state (Seed canon 3, ledger 442D03E8). Whether that isolation is a consequence of the Shattering or older is unrecorded; it is not to be invented here. (See also ledger 244A27FF on Black's seat in Book IV's synergy cycle.)
 - The myth must leave the wound open: the endgame arc is the Muse's path — walk her road, master the seven, and at the summit make the choice she was denied, reuniting or re-shattering the Prism during a celestial eclipse of the Chalice; the choice is personal and terminal, and the world persists (Seed canon 12, ledger 10A6150F; endgame ruling EC054473).
 
 [OPEN QUESTION]s:
 
 - What did the Shattering cost the Titans, and where are they now?
-- Did the First Titan lead the Shattering as it led the council of the First Age — and under which pronouns? (Ledger 5E9DB061.)
+- Did the First Titan lead the Shattering as it led the council of the First Age? *(The pronoun question is resolved — the rotation is intentional, the expression of chaos; ledgers 5E9DB061, 5E2FB886.)*
 
 ### The Second Age of the Immortals
 
@@ -181,51 +181,68 @@ Canon this saga must honor:
 
 ## The Pantheon
 
-*(Scaffold — one deity is canon; the structure of the pantheon is an open fork.)*
+*(The gods of Prism are the Titans — ruled 2026-07-02, ledgers 2FCEB0B3, 69E6E8E7.)*
 
-The gods of Prism and their domains.
+The "gods of Prism" are not a separate invented pantheon: they are **the Titans themselves**, remembered by mortal religion after the forgetting. The Titans are **non-humanoid cosmic forms** — "less embodiments than concepts" (ledger 66541B83): the concept of the vine, of the mountain and its lava, of earth, fire, water, air, lightning, life, light, chaos, illusion, prophecy. **Five Titans count** — the Two-Faced God and the four elementals — spread across the seven realms, with White standing apart.
 
-Canon:
+**White — the formless source.** White is not an embodied Titan. It is "other, formless, eternity" — the **Principality of White**, "the source, the one, the pure, the origin of eternity," holding Light and Prophecy (ledger 232B6EEE). It takes no elemental form and casts no constellation.
 
-- The **god of the vine** — deity of the Green school (Earth and Life), of growth and green things; Life magic is his domain (Seed canon 2, ledger 4C62E790; Book V Canon Ruling 2026-07-02, "Life is Green"). No other deity is named in any source; none may be added without Elideus.
-- **The Titans are not humanoid** (ledger 66541B83). They are cosmic forms: one of the original Titans is **the Great Vine — the Divine Vine** — "just a planet sized vine growing in a valley… the galaxy sized vine." Early-creation stories of the Titans' materialization exist in an old document, referenced but not yet recovered (ledger 66541B83 flags its retrieval).
-- **The Two-Faced God is the First Titan** (ruled 2026-07-02, ledger 232B6EEE) — the Titan of Death and Chaos, one god with two faces, whose shattering in the First Age myth birthed Orange and Black. The four schools of those two colors belong to it as their **Principality**.
-- **The Principalities** (ledger 232B6EEE): magic belongs to the Principalities of the Titans and the ancient immortals — ownership, not permission; the "superhuman" tier is whose magic it is, not who may touch it. The **Principality of White** — "the source, the one, the pure, the origin of eternity" — holds Light and Prophecy. The First Titan holds the four schools of Black and Orange. The principalities of the four mortal colors are unrecorded.
+**The Two-Faced God — the First Titan.** Death and Chaos, one god with two faces, whose shattering in the First Age myth birthed Orange and Black (ledgers 232B6EEE, 2FCEB0B3). The four schools of those two colors belong to it as their **Principality**. In the sky it is the two orbital extremes — Chaos innermost, Death outermost — and the constellation of **the Faces** ("> <").
 
-**[OPEN QUESTION]** Is the Divine Vine the same figure as the god of the vine — a Titan whom Green's mortals worship as their deity, and perhaps Green's Principality? The names rhyme too well to ignore and no source connects them; the Principalities ruling makes the question sharper, not settled. Do not resolve without Elideus. Likewise which beings hold Yellow, Red, and Blue.
+**The four elemental Titans.** Each names a Mortal Realm, its planet, and its Titan at once (ledger 2FCEB0B3, closing fork 7BC8E9B6), and each is a cosmic form spanning its color's two domains:
 
-**[OPEN QUESTION] — pantheon structure (ledger 69E6E8E7):** the prior stub presumed "each school presumably carries divine figures." That is presumption, not canon. Three readings, none chosen:
+| Titan | Color | Domains | Form | Constellation |
+|---|---|---|---|---|
+| **Terria** | Green | Earth + Life | **the Vine** — soil and growth in one | the Vine |
+| **Aerolon** | Yellow | Air + Lightning | **the Bird** — wind its span, thunder its cry | the Bird |
+| **Sanguia** | Red | Fire + Blood | **the Mountain** — the molten peak; lava is the blood of fire, the world's forge | the Anvil |
+| **Aquia** | Blue | Water + Illusion | **the Serpent** — the deep its body, illusion its glamour | the Spiral |
 
-- One god per school — seven deities mirroring the one-stat-per-school, one-realm-per-school pattern (Book V).
-- Multiple figures per school — each school's virtue/vice pair (Book V) justified by contrasting divine figures within the color.
-- No separate gods at all — the "gods" are the Titans and the children of the Titans, remembered differently by mortal religion after the forgetting (First Age myth: "the Titans and their children faded into legend").
+**The Divine Vine is the god of the vine.** The Great Vine — "just a planet-sized vine growing in a valley… the galaxy-sized vine" (ledger 66541B83) — is **Terria**, Green's patron Titan, and the same figure as the **god of the vine**, deity of growth and green things (Seed canon 2, ledger 4C62E790; "Life is Green"). Divine Vine, god of the vine, and Terria are one (ruled 2026-07-02, ledger 2FCEB0B3, closing the Green fork of 66541B83).
 
-Further open: where the First Titan stands relative to any pantheon (pronoun fork, ledger 5E9DB061); whether Black — which combines with nothing (Seed canon 3) — has a god at all; whether the Lonely Muse is an object of worship (see Factions).
+**The Principalities and their mortal patrons.** Magic belongs to the Principalities of the Titans and the ancient immortals — ownership, not permission (ledger 232B6EEE). The titan-tier Principalities are **White** (the Principality of White) and **Orange + Black** (the First Titan). The **four mortal colors' Principality-holders are human** — gifted to the first humans by the ancient immortals (ledger 24054B89) — and each elemental Titan is the **patron** behind its color's human Principality: the Vine behind Green, Aerolon behind Yellow, Sanguia behind Red, Aquia behind Blue. The Titan is the source; the holder is mortal.
+
+[OPEN QUESTION]s (narrowed):
+
+- The identities of the four human mortal-Principality-holders (ledger 24054B89) — a single founder-figure per color, or a bloodline/office passed down — are unrecorded.
+- Whether Black — which combines with nothing (Seed canon 3) — carries any figure beyond the First Titan.
+- Whether the Lonely Muse is an object of worship (see Factions).
+- The **"story of the mountain and the plow"** — the Sanguia↔Terria intertwining of earth, life, growth, and blood — is remembered by Elideus but unrecovered: a named authoring/recovery need, alongside the "vines of early creation" document (ledger 66541B83).
 
 ## Constellations and the Celestial Order
 
-*(Scaffold — the sky's structure and five constellations are canon; the rest is unwritten.)*
+*(The sky's two-layer structure, eight named constellations, and the alignment-event system are canon; five constellation slots remain open.)*
 
-The mythic telling of the heavens. The celestial simulation is the mechanical truth — real deterministic orbits from which eclipses, alignments, and transits emerge — and this section is that truth as mortals tell it. The sky has two layers that drift against one another: the **seven wandering planets** (the divine, systemic order — the septisigil made visible) moving through a fixed field of **thirteen constellations** (the folk order, what people invented looking up).
+The mythic telling of the heavens. The celestial simulation is the mechanical truth — real deterministic orbits from which eclipses, alignments, and transits emerge — and this section is that truth as mortals tell it. The sky has two layers that drift against one another: the **seven wandering planets** (the divine, systemic order — the septisigil made visible) moving through a fixed field of **thirteen constellations** (the folk order, what people invented looking up). Because the field rotates while the planets each move at their own rate, the two layers are never still against one another — their crossings are the engine of celestial events.
 
-Canon (Book V's ruled celestial order, ledgers 8543A752, D2AAFEEC; constellations ruling AF819A62):
+Canon (Book V's ruled celestial order, ledgers 8543A752, D2AAFEEC; constellations rulings AF819A62, 25699317):
 
 - The **seven elemental planets** hang in every sky, in the ruled body order (Book V): Chaos, Fire, Home, Earth, Light, Air, Water, Death — one planet per school (ledger D30A32BF). Chaos and Fire transit the sun; Air carries the sky's one ring system; Death hides behind the star and is known mostly by its shadow crossing the galactic cloud.
 - **The moon is the one real thing in a sky of reflections**: it tracks the real-world Moon one-to-one, phase and place, a window through the dream rather than a body in it (ledger D2AAFEEC). The sun anchors; the moon rides with Home.
-- There are **thirteen constellations**: twelve known, ringing the galactic cloud, and a hidden thirteenth at the **galactic heart**.
-- **The Chalice** is the thirteenth — the Lonely Muse's constellation. "It always has been. It always will be." It is revealed only when **the moon and the Death planet align**, and while it shows, magic runs stronger — the Chalice eclipse is the endgame's appointed hour (Book I; ledger EC054473).
+- There are **thirteen constellations**: twelve ringing the galactic cloud and a hidden thirteenth at the **galactic heart**. **Eight are named**; **five slots remain open**, to be filled from the Titans, the school founders, the demigods, and the great events — not invented without Elideus. Each elemental Titan appears twice in the sky: as its color's wandering planet, and as its fixed constellation.
+
+**The named constellations** (ledgers AF819A62, 25699317):
+
+- **The Chalice** — the hidden thirteenth, the Lonely Muse's, at the galactic heart. "It always has been. It always will be." It is revealed only when **the moon and the Death planet align**, and while it shows, magic runs stronger — the Chalice eclipse is the endgame's appointed hour (Book I; ledger EC054473).
+- **The Faces** — the **Two-Faced God**, the First Titan (Death and Chaos): two angles facing each other, "> <". Its two colors are the system's orbital extremes, Chaos innermost and Death outermost (ledger 232B6EEE).
+- **The Vine** — **Terria**, the Titan of Green (Earth and Life); the god of the vine drawn in the stars.
+- **The Anvil** (and Hammer) — **Sanguia**, the Titan of Red (Fire and Blood): the world's forge, where fire meets the blood-heat of making. The Titan's cosmic form is the Mountain; its constellation is the Anvil.
+- **The Spiral** — **Aquia**, the Titan of Blue (Water and Illusion): the coiled Serpent, an irregular spiral around one large central star.
+- **The Bird** — **Aerolon**, the Titan of Yellow (Air and Lightning): a great wingspan across the sky.
 - **Beltan the Bear** — the one constellation every culture in every shard knows. An early mortal of immense size and strength who spent it protecting the weak; he defeated Dragan, chieftain of the Bloodfangs, and wandered on, declining every honor. He is near-immortal and walked into the modern age (ledgers AF819A62, 66541B83).
-- **The Two-Faced God** — the Titan of Death and Chaos, one god with two faces — **is the First Titan** (ruled 2026-07-02, ledger 232B6EEE): the four schools of Black and Orange belong to it as their Principality. Its two colors are the system's orbital extremes: Chaos innermost, Death outermost.
-- **The Touching of God** — an event in the stars: the first mortal to touch Light — the leader of the School of Light achieving light magic. How it is drawn is unrecorded.
-- **The Night of the Daggers** — an event in the stars: a night of betrayal and murder. Distinct from the Chalice and from the reception murder the Muse was blamed for, which is its own candidate constellation.
-- The register is **mixed by ruling**: figures, gods, and events coexist in the twelve, "a couple from here, a couple from there" — not a single schema. **Eight slots are open**, to be filled from the Titans, the school founders, the demigods, and the great events; not to be invented without Elideus.
+- **The Scar** — the **Touching of God**: the first mortal to touch Light, the leader of the School of Light achieving light magic, drawn as a jagged scar across the sky — an event remembered as a wound.
+
+White casts no constellation: it is the formless source, the light behind the field, not a figure in it. The register is **mixed by ruling** — Titans, a figure, and events coexist, "a couple from here, a couple from there." *(The Night of the Daggers was retired in round 9 as derivative; its slot reopens — ledger 25699317.)*
+
+**The alignment-event system** (ledger 25699317). The rotating field and the differently-paced planets are the game's event engine. When a **planet aligns with a constellation**, a bonus event occurs, and which planet meets which constellation names it. Alignments **stack** — further planets or constellations on the same line compound the effect — and **counter-alignments** (oppositions, occultations) are their own class. A planet crossing **its own** constellation — Aerolon over the Bird, Sanguia over the Anvil — is peak resonance for that color and its schools. The Chalice's reveal, the moon crossing Death, is the marquee instance of this one grammar. It is "a pattern system we can event off in any way we'd like."
+
 - Alignments, eclipses, and scarcity are foretold: celestial events are global modifiers across all tiers and regions, and those who learn the heavens can predict abundance and famine (Seed canon 6, ledger 8FB95281).
 - **Celestial primacy is total** (ledger 3312B2AB): the sky's schedule drives all possibilities in the game. Mortals resolve the heavens to dates and calendars, but the heavens are the authority — "colors, stats, events, people, bodies, magic, titans, all reflections of the same Prism."
 
 [OPEN QUESTION]s:
 
+- The five unnamed constellations; the Chalice's own story; and the specific bonus each named alignment confers (downstream design, per celestial primacy).
 - Why thirteen — and does the count structure a calendar? A thirteen-period civil calendar aligned to the group financial system was floated and left open (ledger D2AAFEEC).
-- The eight unnamed constellations; the Chalice's own story; how the Touching of God is drawn.
 
 ## Factions, Movements, and Religions
 

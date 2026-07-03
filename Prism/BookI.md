@@ -90,10 +90,9 @@ Three further facts are canon (ledger 91F84075): **levels exist, and level 10 is
 
 The skill system's shape is sketched but undesigned (ledger F618F695): **each discipline is a skill**, and skills are **layered** — "learning about axes teaches about wood and farming and gardening and combat" — with "probably three or four layers of skill scopes." Flagged by Elideus as a **major open issue for Sonnet collaboration**; nothing here may be elaborated until that session.
 
-> **[STUB]** The ring progression. Book IV references a ring progression — mages gain their synergy schools' shapes at the **4th ring** and their secondary synergy shapes at the **7th ring**, and spells are "arranged by school and ring" — but no book defines what rings are. Ownership of the definition is an open fork (ledger 63B28A6B): **Option A**, rings are a character-progression tier system and belong here in Book I; **Option B**, rings are a magic-mastery structure internal to Book IV. This section anchors the Book I side of that fork without defining rings.
-> - **[OPEN QUESTION]** Who owns rings — the fork itself (ledger 63B28A6B). Not resolved here.
-> - **[OPEN QUESTION]** If Book I owns them: do rings measure per-school mastery or whole-character tier? Book IV's text implies at least seven rings exist; the actual count, and what advancement costs, are unrecorded.
-> - **[OPEN QUESTION]** How ring advancement interacts with the unresolved synergy-cycle orderings (ledger 244A27FF) and with Black's exclusion from ring-based synergy (Book IV; ledger 442D03E8 — Black combines with nothing).
+**The ring progression belongs to Book IV, not here.** Rings are a magic-mastery structure internal to spell research — a per-school milestone gating vocabulary breadth, spell-string complexity, and reagent grade, with shape access (4th/7th ring) as one instance of it — resolving fork 63B28A6B in favor of Option B (ledger B92EE74A). Book I tracks whole-character levels and retirement (above) as a separate axis from a mage's per-school ring standing.
+
+> **[OPEN QUESTION]** How ring advancement interacts with the unresolved synergy-cycle orderings (ledger 244A27FF) and with Black's exclusion from ring-based synergy (Book IV; ledger 442D03E8 — Black combines with nothing).
 > - **[OPEN QUESTION]** Whether ring progress transfers across generations (ledger D2C52C88).
 > - **[OPEN QUESTION]** Progression beyond rings — levels, XP curves, skill training — is entirely unrecorded.
 

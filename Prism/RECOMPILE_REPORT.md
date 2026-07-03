@@ -74,13 +74,11 @@ Six agents ran against a shared Oracle memory ledger under the four-class discip
 
 Numbered decisions for Elideus, ordered by how much content each ruling unblocks. *(cheap)* = a one-line ruling suffices.
 
-**1. Cosmology — four Mortal Realm planets vs seven elemental planets** (`973162E7`, top priority)
+**1. Cosmology — four Mortal Realm planets vs seven elemental planets** (`973162E7`) — **RESOLVED (rounds 1–3 + 9).** Body order recorded (`8543A752`), slot-5 = Light (`D30A32BF`), and the final piece — the seven realm names ARE the seven bodies and their Titans — ruled round 9 (`2FCEB0B3`, closing `7BC8E9B6`).
 Options: (a) same objects at different altitudes — the mythic/structural view (4 mortal planets + Realm of Light + 2 ethereal realms) and the astronomical view (7 planets, one per school) coexist; (b) genuine conflict — Book V's roster predates the celestial model and gets revised. Also needed regardless: **the seven-planet orbital order recorded somewhere durable** — it exists only in your head; no book or memory holds it.
 Unblocks: Book V realm roster, Book VI Constellations and celestial mythology, which peoples live where, the celestial sim's body roster and alignment patterns.
 
-**2. Rings — who owns the progression** (`63B28A6B`)
-Options: (a) Book I character progression that Book IV references; (b) Book IV magic-mastery structure. Then: how many rings, what advancing costs, per-school vs whole-character.
-Unblocks: Book I's entire Progression section, Book IV's shape-assignment mechanics.
+**2. Rings — who owns the progression** (`63B28A6B`) — **RESOLVED round 8** (`B92EE74A`): Option (b), Book IV magic-mastery structure. Remaining sub-items (exact ring count/table, reagent-grade curve, Black's ring mechanic) are new small forks, not this queue item.
 
 **3. Death rules — what ends an active life** (`D25A57E1`)
 Options: (a) retirement only, combat death is a setback; (b) combat death can end a life (permadeath tier); (c) something between (age + circumstance). Agent A called this the single highest-leverage unknown: it decides whether the dynasty system is load-bearing or flavor.
@@ -119,7 +117,7 @@ Options: (a) fix Book IV's two citations to point at thread decision `442D03E8`;
 **12. "Moral realms" vs "mortal realms"** (`89D9BC90`) *(cheap)*
 Typo or deliberate wordplay. Book VI already quotes the phrasing; both books follow the ruling.
 
-**13. Pantheon structure** (`69E6E8E7`)
+**13. Pantheon structure** (`69E6E8E7`) — **RESOLVED round 9** (`2FCEB0B3`): Option (c), the gods ARE the Titans. Five count — the Two-Faced God + Terria/the Vine, Aerolon/the Bird, Sanguia/the Mountain, Aquia/the Serpent; White is the formless Principality (no figure); the Divine Vine = god of the vine = Terria; mortal Principality-holders stay human (`24054B89`) with Titan patrons.
 One god per school / multiple per virtue-vice pair / no gods, only remembered Titans. Unblocks Book VI Pantheon and Factions (religious orders).
 
 **14. Who are the Second Age immortals?** (`BB152B09`)
@@ -135,14 +133,14 @@ Outside the Prism by design / a casting style of an existing school / legacy pen
 **17. Synergy cycle vs school genealogy** (`244A27FF`)
 Book IV's cycle (White→Yellow→Red→Orange→Black→Blue→Green) vs Book V's genealogy (White → Black/Orange → Green/Yellow → Red/Blue), and Black's seat in a loop when Black combines with nothing. Vocabulary side is deferred to engine work; the *ordering* question is book-side.
 
-**18. First Titan pronouns** (`5E9DB061`) *(cheap)*
+**18. First Titan pronouns** (`5E9DB061`) *(cheap)* — **RESOLVED round 9** (`5E2FB886`): intentional, the expression of chaos; pronouns rotate they/him/her/them/us/hers/his/she/we. Prose preserved; Book VI editorial converted to canon.
 Intentional shattered-being pronoun mixing, or drift. Book VI annotates but does not touch the text.
 
 **19. Voxel model fork** (`9C677816`, with `78524243`)
 Same model at two resolutions, or Book III revision. Low urgency — Book III is fully flagged and readable either way.
 
 **20. Authoring sessions wanted** (not rulings)
-The Lonely Muse founding myth (exists nowhere; Book VI stub is ready to receive it) · constellation names and stories (thirteen + hidden Chalice) · Book II per-tier unlock table · the flicker combat-clock engine doc.
+The Lonely Muse founding myth (exists nowhere; Book VI stub is ready to receive it) · constellation names and stories (**8 of 13 named as of round 9, `25699317`; 5 slots open**) · the **"story of the mountain and the plow"** (Sanguia↔Terria — earth, life, growth, blood; remembered but unrecovered, round 9) · Book II per-tier unlock table · the flicker combat-clock engine doc.
 
 ---
 
@@ -187,6 +185,17 @@ And: **celestial primacy ruled** (`3312B2AB`) — celestial events drive ALL pos
 Round 6 follow-up: **disciplines are not new** (`DCB350D4`) — they are Book IV's documented domain layer (Magical/Specialty/Ancient Domains: Pyromancy, Divination, Thaumaturgy, …); each spell belongs to a discipline. This also RESOLVES Agent D's "domain double-duty" fork (`9D85D076`, Option A): color aspects are **schools**, spell categories are **disciplines**; Book IV's "Domain" headings stay as legacy labels pending the deferred reconciliation. Full ruled structure: **color → school → discipline → spell**. Still open from that fork: one-vs-many discipline membership (Elideus's phrasing leans singular).
 
 **Round 7 (2026-07-02): Domains, Principalities, and the skill flag** (`232B6EEE`). Refinement: **Domains ≠ Disciplines** — "Domain" properly names the fourteen school-aspects (each of the 14 schools aligned with a Domain); disciplines are the spell types, and **each discipline is a skill in the skill system**. Full structure: **color → Domain → aligned school → discipline (a skill) → spell**. Major mythology canon: **the Principalities** — the superhuman tier is ownership, not permission; White's magic belongs to the **Principality of White** ("the source, the one, the pure, the origin of eternity"), and the four Black/Orange schools belong to the **First Titan — confirmed as the Two-Faced God** (closing that constellation fork). New sharper question: the mortal colors' principalities (is the Divine Vine Green's?). And per Elideus's explicit instruction, **the skill system (3–4 layered skill scopes, cross-scope learning) is flagged as a MAJOR open issue for Sonnet collaboration** (`F618F695`).
+
+**Round 8 (2026-07-02): rings and reagents** (`B92EE74A`). **Queue item 2 RESOLVED in favor of Option (b)**: rings are a magic-mastery structure internal to Book IV, not a Book I character-progression tier. A ring is a per-school milestone in the Words of Power research track; ranking up grants vocabulary breadth, spell-string complexity headroom, and reagent grade — shape access at the 4th/7th ring (unchanged, confirmed as correct original intent) is one instance of this, not the whole of it. New canon: **reagents come in three kinds** — consumable (burned per cast), charge-limited talismans, and permanent foci (equipped, never depletes) — and higher ring is intended to let a mage satisfy a spell with a cheaper-grade reagent. Book IV gained a **Reagent Grades** subsection; Book I's ring stub trimmed to a cross-reference; Book II's shape-proc open question citation updated. Still open: exact ring count/table, the reagent-grade curve, Black's "other means" ring mechanic, ring inheritance (`D2C52C88`), and the synergy-cycle-vs-genealogy conflict (`244A27FF`) — none of those were adjudicated here.
+
+**Round 9 (2026-07-02): the Pantheon, the constellations, and the alignment system.** Elideus closed the cosmology's last piece and built the pantheon and the sky end to end.
+
+- **The Pantheon = the Titans** (`2FCEB0B3`, closing `69E6E8E7` → Option C). Five Titans count: the **Two-Faced God** (First Titan, Orange+Black) and four elementals, each naming a Mortal Realm, its planet, and its Titan at once — **Terria/the Vine** (Green), **Aerolon/the Bird** (Yellow), **Sanguia/the Mountain** (Red), **Aquia/the Serpent** (Blue). Titans are non-humanoid cosmic forms. **White** stands apart — "other, formless, eternity," the Principality of White, with no form and no constellation. **The Divine Vine = the god of the vine = Terria** (closes the Green fork of `66541B83`). The realm↔body↔Titan identity closes **`7BC8E9B6`**. The four mortal-color Principality-*holders* remain **human** (`24054B89` preserved), with the elemental Titans as their patrons.
+- **The constellations** (`25699317`, amending `AF819A62`). Eight of thirteen now named: the **Chalice** (Muse, galactic heart), the **Faces** (Two-Faced God, "> <"), the **Vine** (Terria), the **Anvil** (Sanguia — the Mountain's forge), the **Spiral** (Aquia, the coiled Serpent), the **Bird** (Aerolon), **Beltan the Bear**, and the **Scar** (the Touching of God, drawn as a wound). **The Night of the Daggers is retired** as derivative; **White casts no constellation.** Five slots open.
+- **The alignment-event system** (`25699317`): the constellation field rotates while the seven planets each move at their own rate; planet↔constellation alignments are bonus events, they stack, counter-alignments are their own class, and self-alignment (a planet over its own constellation) is peak resonance. The Chalice/moon–Death reveal is the marquee instance. Mechanism is canon; the specific effect of any given alignment is downstream design (celestial primacy `3312B2AB`).
+- **First Titan pronouns — RULED intentional** (`5E2FB886`, closing `5E9DB061`): the expression of chaos, rotating they/him/her/them/us/hers/his/she/we; the myth prose is preserved, future First-Titan text follows the rotation.
+
+**Queue effect:** items 1 (final piece), 13, and 18 close. Item 20's constellation want is now 8/13 named. New authoring/recovery need logged: the **"story of the mountain and the plow"** (Sanguia↔Terria — earth, life, growth, blood). New small opens: the five remaining constellation slots; the four human mortal-Principality-holders' identities (`24054B89`); the specific bonus each named alignment confers.
 
 ---
 

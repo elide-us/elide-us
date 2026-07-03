@@ -48,7 +48,9 @@ The sun anchors the system and the moon rides with Home — both outside the sev
 
 The seven sky-planets map one per school (ledger D30A32BF): Chaos → Orange, Fire → Red, Earth → Green (Earth *and* Life), Light → White, Air → Yellow, Water → Blue, Death → Black.
 
-*[EDITORIAL — still open: (a) whether the seven realm names above are the names of the seven bodies (realm↔body mapping, [PROPOSED] only — ledger 7BC8E9B6); (b) pentagon transit mechanics — undecided, including how twelve points serve six destination realms (ledger 73EA6D39); (c) the in-game↔real latitude mapping and reference longitude for the moon ephemeris (ledger D2AAFEEC).]*
+By ruling (2026-07-02, ledger 2FCEB0B3) each Mortal Realm name is at once a realm, its planet/body, and its Titan: **Terria** (Earth), **Aerolon** (Air), **Sanguia** (Fire), and **Aquia** (Water) are the four elemental Titans of the Pantheon (Book VI).
+
+*[EDITORIAL] Resolved 2026-07-02: **(a) the seven realm names ARE the names of the seven bodies and their Titans** — realm↔body↔Titan identity (ledger 2FCEB0B3, closing fork 7BC8E9B6). Still open: (b) pentagon transit mechanics — undecided, including how twelve points serve six destination realms (ledger 73EA6D39); (c) the in-game↔real latitude mapping and reference longitude for the moon ephemeris (ledger D2AAFEEC).]*
 
 ---
 
@@ -66,7 +68,7 @@ Each color has two aspects — its **Domains** — and **each Domain has an alig
 
 Every pair runs off one axiom: one pole approaches the color's virtue collectively and impersonally; the other through the self — inherited, claimed. By ruling (ledger E4F46BA5) the split carries **no name and no judgment**: "we do not preach, we reveal" — which pole is right is the player's own conclusion, never the design's. Both poles have strengths and weaknesses, and the pole a player's choices align to expresses in their NPC settlements. (An earlier "honorable vs dishonorable" framing was a misspeak, struck 2026-07-02.)
 
-**The Principalities (ledger 232B6EEE).** The superhuman tier marks ownership, not permission — the magic is not strictly limited to superhumans; it **belongs to the Principalities of the Titans and the ancient immortals**. White's magic of Light and Prophecy belongs to the **Principality of White** — "the source, the one, the pure, the origin of eternity." The four schools of Black and Orange belong to the **First Titan — the Two-Faced God** of the constellations (Book VI). The principalities of the four mortal colors are unrecorded.
+**The Principalities (ledgers 232B6EEE, 24054B89, 2FCEB0B3).** The superhuman tier marks ownership, not permission — the magic is not strictly limited to superhumans; it **belongs to the Principalities of the Titans and the ancient immortals**. White's magic of Light and Prophecy belongs to the **Principality of White** — "the source, the one, the pure, the origin of eternity." The four schools of Black and Orange belong to the **First Titan — the Two-Faced God** of the constellations (Book VI). The four **mortal colors' Principality-holders are human** — gifted to the first humans by the ancient immortals — and each stands under an elemental **Titan as its patron**: Green under the Vine (Terria), Yellow under Aerolon, Red under Sanguia, Blue under Aquia (Book VI Pantheon). The holders' own identities are unrecorded.
 
 The philosophical traits that drive the moral realms are Valor, Courage, Knowledge and Perseverance. *[EDITORIAL — "moral realms" may be a typo for "mortal realms" (the four traits are exactly the four mortal schools' virtues) or deliberate wordplay (they are the moral virtues of the mortal realms). Meaning-level; do not normalize without a ruling from Elideus. Ledger 89D9BC90.]*
 

@@ -270,7 +270,9 @@ Adverbs modify verbs, adding details about how actions are performed.
 
 Shapes are an integral part of spellcasting, defining how the magic interacts with space and direction. As mages advance in their mastery of the magical schools, they gain access to additional shapes through the synergy system, unlocking more complex and powerful spellcasting potential.
 
-> **[OPEN QUESTION]** The "ring" progression referenced below (4th ring, 7th ring) is defined in no book — it may be a character-progression tier (Book I) or a magic-mastery structure internal to this book. Ring numbers here are not ratified. (Ledger 63B28A6B.)
+**Rings are a magic-mastery structure internal to this book** — a per-school milestone in the Words of Power research track, not a Book I character-progression tier (resolving fork 63B28A6B in favor of Option B; ledger B92EE74A). Ranking up a school's ring grants three things at once: **vocabulary breadth** (new nouns/verbs/adjectives/adverbs in that school become researchable), **grammatical complexity headroom** (how many modifiers may stack in a single researched spell string), and **reagent grade** (see **Reagent Grades**, below). Shape access at the 4th and 7th ring, described next, is one instance of this — not the totality of what a ring grants.
+
+> **[OPEN QUESTION]** The exact ring count beyond the 4th/7th anchors below, and the per-ring vocabulary/complexity unlock table, are unratified. (Ledger B92EE74A.)
 
 - **At the 4th ring**, a mage gains access to the two shapes from their synergy schools. These are the schools adjacent to their primary school in the synergy cycle. For example, a mage specializing in **White (Life Magic)** would gain access to the shapes of **Yellow (Lightning Magic)** and **Green (Nature Magic)** at the 4th ring. *[Deprecated label: per the 2026-07-02 "Life is Green" ruling (Book V, Canon Rulings), White is Light and Prophecy only — "White (Life Magic)" is a Life/Light conflation retained pending revision. Ledger 62E81F6F.]*
 
@@ -304,6 +306,18 @@ In the full synergy cycle—**White -> Yellow -> Red -> Orange -> Black -> Blue 
 
 - **Spiralis** – Spiral - The Shape of Green  
   A continuous, coiling shape.
+
+### **Reagent Grades**
+
+Spells draw on reagents in three kinds (ledger B92EE74A):
+
+- **Consumable reagents** — a single material, burned per cast. Book III's alchemy and material tables are the natural source.
+- **Charge-limited talismans** — a crafted item good for a fixed number of casts before it is spent or needs recharging.
+- **Permanent foci** — an equipped item (wand, staff, amulet) that never depletes, but must be held to cast that word or spell, or that waives the consumable cost while worn.
+
+A spell's required reagent kind is not fixed — ranking up a school's ring is intended to let a mage satisfy the same spell with a cheaper-grade reagent (consumable → talisman → focus-only), giving ring progression a felt payoff beyond vocabulary size.
+
+> **[OPEN QUESTION]** The exact ring-to-grade curve — which ring downgrades which reagent tier, and whether the downgrade is per-spell or per-word — is unratified. (Ledger B92EE74A.)
 
 ### **Creatures**
 
