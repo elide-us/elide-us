@@ -80,13 +80,11 @@ Unblocks: Book V realm roster, Book VI Constellations and celestial mythology, w
 
 **2. Rings — who owns the progression** (`63B28A6B`) — **RESOLVED round 8** (`B92EE74A`): Option (b), Book IV magic-mastery structure. Remaining sub-items (exact ring count/table, reagent-grade curve, Black's ring mechanic) are new small forks, not this queue item.
 
-**3. Death rules — what ends an active life** (`D25A57E1`)
+**3. Death rules — what ends an active life** (`D25A57E1`) — **RESOLVED round 10** (`0B98560B`): Option (a) — combat death is a setback (respawn + EQ-style corpse recovery). Terminal exits are a category of *additive* dispositions (settlement NPC / heroic status / old-age patron / the Muse's path); only **Burning** subtracts — permanent delete or a sacrifice play — at extreme cost. Roster is limited only by time. Inheritance (`D2C52C88`) stays separate/open.
 Options: (a) retirement only, combat death is a setback; (b) combat death can end a life (permadeath tier); (c) something between (age + circumstance). Agent A called this the single highest-leverage unknown: it decides whether the dynasty system is load-bearing or flavor.
 Unblocks: Book I lifecycle, dynasty stakes, and most of the combat stub's tone.
 
-**4. Combat vitals and the five unruled stats**
-Canon defines Con (capacity to be hit) and End (capacity for sustained effort). Whether those are literally HP and stamina, and what Str/Dex/Int/Wis/Luck do in combat terms, has no source.
-Unblocks: the entire Book I combat framework beyond the clock; stat-to-gameplay coupling everywhere.
+**4. Combat vitals and the five unruled stats** — **RESOLVED round 10** (`DE7E8605`, `BFBE6085`): Con → Health (survivability), End → Stamina (action economy); the five lanes ruled — Str force, Dex speed/precision, Int technique + the research gate, Wis foresight/parry/divine, Luck fortune/crit/loot. The derived-value *formulas* remain `[BUILD]`.
 
 **5. Dynasty inheritance — what transfers across generations** (`D2C52C88`, with `432AAB1F`)
 Options per fork: items / school mastery / reputation / ring progress / stat predispositions by bloodline — any subset. Plus the endgame corollary: how "master all seven schools across lifetimes" accumulates, and whether reunite-vs-re-shatter resolves world-globally, per-dynasty, or cyclically.
@@ -197,6 +195,18 @@ Round 6 follow-up: **disciplines are not new** (`DCB350D4`) — they are Book IV
 - **The metaphysics of the three magics** (`BC54B7D7`): holy magic is divine invocation, elemental magic is element-channelling. **White** channels *eternity* (divination + divine invocation, "words of divine power") — direct and uncreated. **Black/Orange** are the First Titan's own two faces (Black = *not-life*; **Orange/Chaos = the magic side of psionics and the Titan's hidden other face**). Only the **elemental colors** were *created for mortals and taught*, which is why they alone carry the intermediary chain; the "ancient immortals" are long-lived *mortals*, and Titans, as concepts, are neither mortal nor immortal. Illuminates item 16 / `7609E7E9` (psionics seat) and `57960182` (hidden Titan) without resolving them.
 
 **Queue effect:** items 1 (final piece), 13, and 18 close. Item 20's constellation want is now 8/13 named. New authoring/recovery need logged: the **"story of the mountain and the plow"** (Sanguia↔Terria — earth, life, growth, blood). New small opens: the five remaining constellation slots; the four human mortal-Principality-holders' identities (`24054B89`); the specific bonus each named alignment confers; whether Chaos-as-psionics'-magic-side subsumes the hidden-Titan flag (`57960182`) or is distinct.
+
+---
+
+**Round 10 (2026-07-02): the combat system opens.** Elideus set the authoring format and the design identity, then worked the combat frame; Book I gains ruled stat lanes, a resource model, and two new sections.
+
+- **The two games** (`02D30987`): Prism builds both tabletop roles into one MMO — the **Game Master's game** (build challenges, Book II) and the **Player's game** (EQ/WoW adventuring, Book I). Everyone can do both; **only adventurers earn XP**; design outputs are shaped like a **GM guide** (tables of stats, weapons, costs, advancement).
+- **Death — RESOLVED** (`0B98560B`, closing `D25A57E1`): combat death is **respawn + EQ corpse recovery**; terminal exits are a category of *additive* dispositions (settlement-NPC grows your city, heroic status, old-age patron, the Muse's path); only **Burning** subtracts (permanent delete *or* a sacrifice play), at extreme cost; the roster is limited only by time.
+- **The seven stats' combat lanes — RULED** (`DE7E8605`): Con→survivability/Health, End→action-economy/Stamina, Str→force, Dex→speed/precision, Int→technique **+ the research gate**, Wis→foresight/parry/divine, Luck→fortune/crit/loot — closing the five-stat combat stub and three open questions (Int gates research = yes; Luck owns loot/discovery = yes; **Wisdom does *not* read the sky** — that's the player's own realm).
+- **Resources** (`BFBE6085`): OneBar discarded; three bars (Health/Stamina/Mana) scaled to 100, no markers, shown as normalized 0.0–1.0 with **no absolute numbers**; the **Journal / adventure-summary system** replaces XP popups with a home-written narrative diary; the wider **philosophy of ambiguity** is a major open decision.
+- **Weapons & build** (`DE7E8605`): scaling flows from an **abstract material affinity, not literal color** (blades stay realistic gothic metal; glow comes from enchants); **no classes** — open Souls-like build where the Roles are investable **talent graphs** (early-WoW-light, hybrids, maybe the septisigil wheel), and **every investment is permanent (no respec)**; **item creation is Dungeon-Maker-side**, adventurers enhance.
+
+**Queue effect:** items 3 and 4 close; combat is now framed in Book I with derived-value formulas, status tables, and the talent graphs flagged `[BUILD]`. The **layered skill-scope system stays reserved** (`F618F695`).
 
 ---
 
