@@ -127,7 +127,7 @@ The heading "The Second Age of the Immortals" frames the present, mortal game ag
 Which races exist, lifespans, playability — plus the interface question: does Book IV's Terradun entry (dwarves, kobolds, gnomes) attest peoples or only targeting vocabulary? This is an authoring session more than a ruling.
 Unblocks: Book V Peoples of Prism, Book I race–lifespan values.
 
-**16. Psionics' seat** (`7609E7E9`)
+**16. Psionics' seat** (`7609E7E9`) — **Illuminated round 9** (`BC54B7D7`): Chaos (Orange) is the magic side of psionics and the First Titan's hidden other face; Psionics keeps its own Principality (Inverted, Book VII) as the willed/power side. Not fully resolved — the exact seat and the hidden-Titan link (`57960182`) stay open.
 Outside the Prism by design / a casting style of an existing school / legacy pending redesign. Unblocks Book IV psionics framing and whether "master all seven schools" has an eighth asterisk.
 
 **17. Synergy cycle vs school genealogy** (`244A27FF`)
@@ -194,8 +194,9 @@ Round 6 follow-up: **disciplines are not new** (`DCB350D4`) — they are Book IV
 - **The constellations** (`25699317`, amending `AF819A62`). Eight of thirteen now named: the **Chalice** (Muse, galactic heart), the **Faces** (Two-Faced God, "> <"), the **Vine** (Terria), the **Anvil** (Sanguia — the Mountain's forge), the **Spiral** (Aquia, the coiled Serpent), the **Bird** (Aerolon), **Beltan the Bear**, and the **Scar** (the Touching of God, drawn as a wound). **The Night of the Daggers is retired** as derivative; **White casts no constellation.** Five slots open.
 - **The alignment-event system** (`25699317`): the constellation field rotates while the seven planets each move at their own rate; planet↔constellation alignments are bonus events, they stack, counter-alignments are their own class, and self-alignment (a planet over its own constellation) is peak resonance. The Chalice/moon–Death reveal is the marquee instance. Mechanism is canon; the specific effect of any given alignment is downstream design (celestial primacy `3312B2AB`).
 - **First Titan pronouns — RULED intentional** (`5E2FB886`, closing `5E9DB061`): the expression of chaos, rotating they/him/her/them/us/hers/his/she/we; the myth prose is preserved, future First-Titan text follows the rotation.
+- **The metaphysics of the three magics** (`BC54B7D7`): holy magic is divine invocation, elemental magic is element-channelling. **White** channels *eternity* (divination + divine invocation, "words of divine power") — direct and uncreated. **Black/Orange** are the First Titan's own two faces (Black = *not-life*; **Orange/Chaos = the magic side of psionics and the Titan's hidden other face**). Only the **elemental colors** were *created for mortals and taught*, which is why they alone carry the intermediary chain; the "ancient immortals" are long-lived *mortals*, and Titans, as concepts, are neither mortal nor immortal. Illuminates item 16 / `7609E7E9` (psionics seat) and `57960182` (hidden Titan) without resolving them.
 
-**Queue effect:** items 1 (final piece), 13, and 18 close. Item 20's constellation want is now 8/13 named. New authoring/recovery need logged: the **"story of the mountain and the plow"** (Sanguia↔Terria — earth, life, growth, blood). New small opens: the five remaining constellation slots; the four human mortal-Principality-holders' identities (`24054B89`); the specific bonus each named alignment confers.
+**Queue effect:** items 1 (final piece), 13, and 18 close. Item 20's constellation want is now 8/13 named. New authoring/recovery need logged: the **"story of the mountain and the plow"** (Sanguia↔Terria — earth, life, growth, blood). New small opens: the five remaining constellation slots; the four human mortal-Principality-holders' identities (`24054B89`); the specific bonus each named alignment confers; whether Chaos-as-psionics'-magic-side subsumes the hidden-Titan flag (`57960182`) or is distinct.
 
 ---
 
