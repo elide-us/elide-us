@@ -98,6 +98,48 @@ Each Role is a natural fit for a **simple talent graph**, kept deliberately ligh
 
 ---
 
+## Group Combat and the Threat Model
+
+*(Framework [PROPOSED]; the numbers are [BUILD]. Group combat takes the Souls action model to EverQuest scale.)*
+
+Group combat is **Dark Souls action combat at EverQuest scale** — large-monster fights few games attempt, kept honest by the fairness law even when forty people share one boss. The **event system is what makes it possible**: because every attack is an authored TAE timeline (Combat Framework), a boss can **select targets for ranged attacks** and **catch clusters of players in a single swing**, and **every player caught reacts on their own dodge and parry window.** Forty individual skill-checks resolve against one boss's timeline at once (ledger A573A152).
+
+**Threat, not class, decides who the boss hits.** Aggro is a **threat table** any build can climb by what it does; the boss swings at whoever holds it. **Roles are jobs, not classes** (open build; *Areas of Focus*): a "tank" is *hold threat + survive the incoming*, and survival is paid either in armor (Constitution/block — the Warden) **or** in pure skill (perfect parry — Wisdom). A cloth-clad dagger master can tank a boss the whole fight — holding aggro, parrying every swing — **when the boss has parryable attacks and they can keep threat.** Parry-tanking is legitimate but conditional; **each combat is unique and its solutions are multiple** — no dominant strategy survives contact with the next boss.
+
+**Casters are power bought with fragility.** Spells occupy combat timelines like weapon swings — cast times, interrupts, rotations (resolving the Combat Framework's open question). Casters put out the damage (death mages burning a boss with black flame) and **draw aggro they cannot survive** unless a tank pulls it off them; healers run full **heal rotations** and, when needed, throw **crowd control** to keep adds off the casters. Roles flex to the fight.
+
+**The stakes are real.** **Combat resurrection is limited**, backups are few, and death is a corpse run (below) — "don't fuck up." The design **rewards the impossible line: be inventive, do it ridiculous, king plays are expected.** A game that hides its numbers and forbids respec earns the right to demand mastery.
+
+> **[BUILD]** The threat formula and pull mechanics; parry/dodge frame windows at raid scale; resurrection rules and their interaction with corpse recovery; boss-side raid-wide mechanics and how cluster/targeted events are authored (the Dungeon-Maker seam, Book II).
+
+---
+
+## The Contested World
+
+*(Ruled — the world's social stance. Ledgers A573A152, 6BEB00D3.)*
+
+Prism's world is **non-instanced**: real-time world spawns in shared space, not per-group copies. **Cleared ground stays cleared** — on the order of a week — so holding a beachhead is a real tactic and a wipe means retaking territory, not resetting an instance. And the world is **contested**: **loot stealing and claim jumping are allowed** — intended, not exploits. "Get what you can when you can, and live with the results."
+
+The game **does not prohibit antisocial play; the world remembers it.** Ninja-looting and claim-jumping make you a **pariah**, and pariah-hood has teeth through the settlement system (ledger E4F46BA5): a selfish line grows **settlements hostile to outsiders**, trainers who won't teach, doors that close. Reputation is lived terrain, not a number. This is the old-school (EverQuest / Ultima Online) ethos, of a piece with permanent decisions and honest, unbending rules — a **world, not a ride**.
+
+> **[BUILD]** The concrete reputation/pariah mechanics, and how claim-jumping interacts with the dungeon claim/upkeep and settlement-reputation systems (Book II).
+
+---
+
+## The Advent Raids — Endgame Horizon
+
+*(Horizon content — [PROPOSED], scheduled for the v1.1–v1.5 range, not launch. Ledgers 021891E4, A573A152, 639B9FD9; the zones themselves are Book V/III material.)*
+
+The apex of adventuring is the **Advent raids** — the pentagon resonance zones (Book V), reached not by travel but by **quest**: physical travel there is not meant to happen (the pentagons are unreachable by design). Entry needs the **skill to teleport a group in** and **material attunement**, and the **first trip is roughly ten times harder than returning**, since it yields the materials that ease the way back. Play is EverQuest-classic — **camp the zone, send scouts** — at **72-person, week-long** scale, in **contested, non-instanced** space.
+
+Each zone is an **abstract, rule-shifting plane** — the seven color-realms rendered as places that express their nature (the Void where you swim in all directions; a Chaos plane that rewrites itself; an Air realm with no floor), plus surreal challenge spaces (an infinite city where one step crosses light-years; Escher geometry; Geiger horror). **The zone's strange rule *is* the challenge** — and the fairness law still holds: insane, but legible to anyone open enough to perceive it (the resonance/perception principle, Book VI).
+
+**These zones are not Dungeon-Maker content.** They are built by Elideus or the community as curated later content; standard DM **dungeons run to tier 10 and may hold gateways into the portals**, seeding the horizon inside the launch world. Boss authoring belongs to the complex **DM tech tree** (Book II) for regular content, but the pentagon tier sits above it.
+
+> **[OPEN QUESTION]** Whether and how the **Advent eclipse** (the celestial event) gates or reshapes a zone — the sky's hook into the raids (ledgers 35A9CEAE, 3312B2AB); the mapping of the twelve pentagon points to the destination realms (73EA6D39); in-zone resurrection and party-composition rules.
+
+---
+
 ## Character Lifecycle and the Generational Dynasty System
 
 An adventurer is one life in a family line. The character system is **generational**: a **family tapestry** records the line; characters leave active play through defined **retirement flows**; and the peoples of Prism trade lifespan against generational turnover — longer-lived races trade turnover for continuity, shorter-lived races cycle through the family tapestry faster. (Ledger 10A6150F, Seed canon 12; corroborated by Book V, Peoples of Prism.) The races themselves are Book V material and are currently a stub there.
