@@ -120,9 +120,7 @@ Group combat is **Dark Souls action combat at EverQuest scale** — large-monste
 
 Prism's world is **non-instanced**: real-time world spawns in shared space, not per-group copies. **Cleared ground stays cleared** — on the order of a week — so holding a beachhead is a real tactic and a wipe means retaking territory, not resetting an instance. And the world is **contested**: **loot stealing and claim jumping are allowed** — intended, not exploits. "Get what you can when you can, and live with the results."
 
-The game **does not prohibit antisocial play; the world remembers it.** Ninja-looting and claim-jumping make you a **pariah**, and pariah-hood has teeth through the settlement system (ledger E4F46BA5): a selfish line grows **settlements hostile to outsiders**, trainers who won't teach, doors that close. Reputation is lived terrain, not a number. This is the old-school (EverQuest / Ultima Online) ethos, of a piece with permanent decisions and honest, unbending rules — a **world, not a ride**.
-
-> **[BUILD]** The concrete reputation/pariah mechanics, and how claim-jumping interacts with the dungeon claim/upkeep and settlement-reputation systems (Book II).
+The game **does not prohibit antisocial play — and it does not systematize the consequence either, because it doesn't need to.** There is no reputation score, no pariah meter, no karma system. Steal loot and jump claims and **people simply won't want to play with you** — and in a persistent, non-instanced world where the biggest content takes a guild's worth of people who trust you, that is the whole punishment, and it is enough. The consequence is other human beings, remembering. This is the old-school (EverQuest / Ultima Online) ethos, of a piece with permanent decisions and honest, unbending rules — a **world, not a ride**.
 
 ---
 
