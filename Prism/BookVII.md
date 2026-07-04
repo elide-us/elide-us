@@ -49,7 +49,7 @@ A few structural rules apply across every color's roster:
 
 ## Inverted — Psionics
 
-Cosmic/psychic horror, explicitly Lovecraftian, reading harder and weirder than any color set: perception/screen distortion, forced-panic fear effects, auditory horror (screeching). Seed concepts: **Static Choir** (the screen corrupts before the sound peaks, then forces flight), **the Unseen Tally** (invisible, detected only by what's missing), **Loom-things** (resolve into shape only when not looked at directly). Separate from the Mentis noun (Book IV) — Psionics is unschooled and willed, not word-grammar magic.
+The eighth set, and the one that isn't a bestiary at all. Inverted is cosmic/psychic horror — the void group, the non-real group, the phantasms and night spooks — and none of it has a body to fight. It is a catalog of **localized phenomena**: effect-zones with a cause but no creature, expressed through particle effects, sound, screen and audio corruption, and the statuses they force on the player (Fear, Panic, Stun, Confound, loss of control). You don't kill these — you endure them, escape their zone, or find and disrupt whatever's generating them. They double as the psychic-effect library that Dungeon-Maker boss and room construction draws from. Because they have no stat block or tiers, they use their own **Phenomenon template**, not the creature template. The full set lives at the end of this book; separate from the Mentis noun (Book IV) — Psionics is unschooled and willed, not word-grammar magic.
 
 ---
 
@@ -102,6 +102,8 @@ Four bands per creature, not a new tier system alongside Book II's ten DM tiers:
 | Boss | several multiples of Normal | unique, named instance; always ≥1 signature mechanic |
 
 Weak/Normal are available from a dungeon's earliest tiers by default. Strong requires ranking Book II's **Monster Mastery** tech tree to mid-level — the realistic ceiling for most DM builds. Boss is gated by the same top-tier/deep-tech-tree wall already ruled for raid-zone and Advent-gate construction — most builds cap below it by design.
+
+*The one exception is the Inverted set (at the end of this book), which has no creatures, stat blocks, or power tiers — its localized phenomena scale by intensity and use the Phenomenon template documented there.*
 
 ---
 
@@ -3541,3 +3543,256 @@ Two conventions run through the whole set. **Life-drain** (wight, wraith, vampir
 **Attack Patterns:** Base bite, claw, and **Wing-Buffet** (knockback). Signature — **Necrotic Breath**: a wide blast that drains vitality (damages the living; self-heals at higher tiers). Commands lesser dead. Reactive — **Bound Soul**: reforms unless its hidden vessel is destroyed.
 
 **Materials:** Dragon Bone and rotted Scale (potent Black crafting materials), a Soul-Vessel (the apex Black reagent and the key to its true death), and the undying hoard it guards.
+
+---
+
+## Inverted — The Void Phenomena
+
+Not a bestiary. Inverted is the psionics set — the void group, the non-real, the phantasms and night spooks — and nothing in it has a body to fight. Each entry is a **localized phenomenon**: an effect-zone with a cause but no creature, all signal and no source-you-can-see. You do not kill these; you endure them, leave their zone, or find and disrupt whatever generates them.
+
+**These entries use the Phenomenon template, not the creature template:**
+
+- **Name**
+- **Class** — Kinetic (mind moving matter and energy) or Pathic (mind reaching into mind), and the domain within (telekinetic, pyrokinetic, telepathic, etc.).
+- **Manifestation** — what the player *perceives*: particles, sound, screen and audio corruption. This is where "no body" gets expressed — the phenomenon is only ever its signal.
+- **Zone & Trigger** — where it activates and how (proximity, a bounded space, a provocation), and how it builds.
+- **Effect** — the mechanical result, drawn from the same status taxonomy as everything else (Root, Snare, Slow, Expose, Poison/Disease, Stun, Silence, Confound, Sunder, Fear, Panic, Charm), plus the diegetic screen/audio corruption that is this set's signature.
+- **Source & Counter** — deliberately variable (no fixed rule). A given phenomenon may have *no findable source* (a thin place in the world), a *bound source* (a cursed object or scarred place — destroy the anchor), or *a body* perceivable with the right magic and destroyable with the right tools. The right divination is what tells them apart.
+- **Encounter Use** — how a Dungeon Maker bolts the phenomenon onto a boss fight or room. This set is also the psychic-effect construction kit: a room can be built to *embody* an effect, and a boss encounter can trigger one as a phase.
+
+There are no Weak/Normal/Strong/Boss tiers here. Each phenomenon scales by **Intensity** (effect strength, zone size, and how reachable the source is), given as a low → high band.
+
+Inverted has no bosses of its own — a phenomenon is a hazard, not a foe. But any terror in the color sets can *use* these effects, which is what makes this set double as the boss-fight kit.
+
+---
+
+### Kinetics — mind moving matter and energy
+
+#### 1. Poltergeist
+**Class:** Kinetic — Telekinetic.
+
+**Manifestation:** No figure, nothing to point a weapon at — only the room turning hostile. It begins small: a cup slides off a shelf, a door rattles in its frame, a chill and a felt *pressure* as if the air has thickened. Then it escalates — loose objects lift and hang trembling, furniture drags itself across the floor with a shriek of wood, and everything not bolted down begins to fly. The only visual tell of the force itself is a faint refractive shimmer around each object as it's seized, there and gone. The sound is the dread: scraping, rattling, the sudden gunshot bang of something hurled into the wall beside your head.
+
+**Zone & Trigger:** Bound to a specific space — a room, a hall, a cellar. It wakes on intrusion or on a particular provocation (disturbing a grave-good, speaking a name, the fall of night), and it builds: the longer the living remain, the more it lifts and the harder it throws. Leaving the bounded space ends the barrage at once; it does not follow.
+
+**Effect:** Hurled objects strike for impact damage with a chance to Stun on a heavy hit; a sustained barrage can Snare a target where they stand, pinned and battered, and larger flung furniture applies knockback. At low intensity it is harassment and atmosphere; at its peak, a genuine kill-zone of flying mass.
+
+**Source & Counter:** Variable — a thin place with no source (only endured and escaped); a cursed object or charged relic anchoring it (destroy the anchor and it collapses); or a latent, grieving, or malevolent psion nearby, unseen, driving it (perceivable with the right magic, killable with the right tools).
+
+**Encounter Use:** Overlay on a boss arena so the room itself joins the fight — debris on a timer, or triggered when the boss is wounded. Standalone, it works as a haunt, a hazard-puzzle (find the anchor), or a pressure mechanic that punishes lingering.
+
+**Intensity:** *Low* — a few rattling, sliding objects, barely harmful. *Mid* — a steady hail of thrown debris, a room you want out of. *High* — a storm of hurled furniture and stone, lethal to stand in, worsening the longer you stay.
+
+#### 2. Cold Hollow
+**Class:** Kinetic — Cryokinetic.
+
+**Manifestation:** The temperature falls without cause. Breath fogs, then frost creeps across stone and steel, feathering outward from a center that isn't anything — no ice-thing, no source, just cold spreading like a stain. The air aches to breathe. At its heart, surfaces go white and brittle, and the last of the warmth drains out of everything, including you.
+
+**Zone & Trigger:** A slowly spreading region, growing outward from a fixed origin point over time. It doesn't lunge or trigger — it simply expands, and the danger is failing to notice how far it has crept while you lingered.
+
+**Effect:** A killing cold that inflicts frost damage-over-time to anything within the zone and Slows those it grips as limbs stiffen. Deeper toward the center, the cold bites harder and the Slow deepens toward a Root.
+
+**Source & Counter:** Variable — an unquiet place that simply bleeds cold; a frost-charged relic at the origin (destroy it to halt the spread); or a dying cryokinetic mind somewhere near the center. Fire and warmth push the edge back; leaving outpaces it, since it spreads slowly.
+
+**Encounter Use:** A creeping-hazard room that forces movement and denies a safe corner, or a boss-arena layer that shrinks the usable floor as the fight drags on.
+
+**Intensity:** *Low* — an uncomfortable chill, minor drain. *Mid* — a spreading frost-zone with real damage and a biting Slow. *High* — a fast, wide killing-cold that Roots and kills those caught in its heart.
+
+#### 3. Spontaneous Flame
+**Class:** Kinetic — Pyrokinetic.
+
+**Manifestation:** Heat with no fire to explain it, then fire with no spark. Cloth smolders, hair singes, the air shimmers — and then things simply catch: a curtain, a book, the oil on a blade, and sometimes flesh, igniting as though a flame that was always there has only just become visible. There is no fire-elemental, no burning shape; the flame arrives already halfway to consuming its fuel.
+
+**Zone & Trigger:** Keys on flammable material and on the living within a bounded area, igniting things one after another rather than all at once. Often triggered by a provocation or simply by presence, and it favors whatever burns easiest first.
+
+**Effect:** Ignites gear and surroundings and sets targets burning — a burn damage-over-time — and a spreading fire becomes an environmental hazard in its own right, blocking paths and filling a space with smoke (a lingering Confound from the choking haze).
+
+**Source & Counter:** Variable — a scarred, fire-prone thin place; a pyrokinetic relic; or a hidden mind with a gift for setting the world alight. Water, smothering, and denying it fuel counter it; the source, where there is one, stops the ignitions when destroyed.
+
+**Encounter Use:** A room that punishes flammable gear and slow movement, or a boss phase that sets the arena alight, forcing repositioning through spreading fire.
+
+**Intensity:** *Low* — smoldering and small ignitions, more hazard than harm. *Mid* — objects and targets catching fire, a spreading burn. *High* — a room igniting around you, walls of spontaneous flame and choking smoke.
+
+#### 4. Crushing Weight
+**Class:** Kinetic — Geo/Telekinetic.
+
+**Manifestation:** Nothing changes to the eye, but everything grows *heavy*. A pressure settles onto shoulders and chest, the floor seems to pull harder, each step is a labor. Dust presses flat, water bulges downward, and at the center of it a person can be driven to their knees and then to the ground by a force that has no shape and cannot be pushed off.
+
+**Zone & Trigger:** A bounded field of oppressive force, sometimes fixed, sometimes pulsing in waves. It intensifies toward a center, and the trigger is usually crossing into range or provoking whatever holds the space.
+
+**Effect:** The weight Roots a caught target in place as movement becomes impossible, and at high intensity crushes for damage and can Stun as the pressure spikes. It also Sunders — armor buckles and gear groans under a force nothing can brace against.
+
+**Source & Counter:** Variable — a gravity-warped thin place; an anchor-object generating the field; or a geokinetic mind bearing down. Reaching and destroying a source releases the field; short of that, escaping the zone's edge is the only relief, and the weight fights every step toward it.
+
+**Encounter Use:** A room that slows and pins, forcing a fight or a puzzle under pressure; or a boss mechanic that periodically Roots the party in place, setting up the boss's own attacks.
+
+**Intensity:** *Low* — a heavy, sluggish drag, movement taxed. *Mid* — a pinning field that Roots and strains gear. *High* — a crushing core that drives targets down, damages, and Stuns.
+
+#### 5. Howling Pressure
+**Class:** Kinetic — Aerokinetic.
+
+**Manifestation:** A wind that isn't weather. It rises in a bounded space with no opening to admit it, howling through a sealed room, tearing at clothing and footing, flinging grit and loose debris in stinging sheets. There is no air-elemental churning at its heart — only the pressure itself, shoving and screaming, with a sound like a gale forced through a keyhole.
+
+**Zone & Trigger:** A bounded region of violent moving air, often gusting in bursts rather than blowing steadily. It keys on presence and builds, and the gusts can come from shifting directions, denying any stable stance.
+
+**Effect:** Battering gusts apply knockback, shoving targets off balance and toward hazards, and the constant pressure Slows movement against it. Airborne grit and debris can Expose on the worst gusts. Its danger is as much in *where* it throws you — toward a ledge, a pit, another effect — as in the force itself.
+
+**Source & Counter:** Variable — a wind-scarred thin place; an aerokinetic relic; or a mind driving the air. Heavy anchoring, cover, and reaching the source counter it; in the open zone, it simply shoves until you're out of it.
+
+**Encounter Use:** A room that pushes toward environmental danger (pits, spikes, another phenomenon), or a boss-arena layer that periodically shoves the party out of position.
+
+**Intensity:** *Low* — a stiff, staggering wind. *Mid* — hard gusts with real knockback and a fighting Slow. *High* — a shrieking maelstrom of pressure that hurls targets bodily across the space.
+
+#### 6. The Maelstrom
+**Class:** Kinetic — Telekinetic (the high-intensity ceiling).
+
+**Manifestation:** The full, catastrophic expression of the kinetic phenomena — a zone where the world itself comes apart and takes flight. Everything not anchored lifts: stone, furniture, weapons, water, dust, all of it orbiting and colliding in a roaring, tearing storm around a still and sourceless center. It is what a poltergeist becomes when nothing restrains it, and standing in it is standing inside a thing that is disassembling the room.
+
+**Zone & Trigger:** A large, bounded storm-zone, usually the climax of a haunted place rather than a common hazard. It builds toward a peak and holds, and the trigger is typically a grave provocation — breaking a seal, reaching a forbidden center, killing the wrong thing.
+
+**Effect:** A convergence of kinetic effects at once: constant impact damage from flying mass, Stun from heavy strikes, knockback and Snare from the churning debris, and Sunder as the storm tears at armor and gear. It is less an attack than a place that cannot be survived for long.
+
+**Source & Counter:** Variable, but at this scale usually tied to something momentous — a powerful mind, a great anchor, a deep wound in the world. It is meant to be escaped or shut off at a source, not weathered; there is rarely a way to simply outlast it.
+
+**Encounter Use:** A climactic room or a final boss-phase where the arena itself becomes the threat — survive, reach the anchor, or end the encounter before the storm ends you.
+
+**Intensity:** *High only* — this phenomenon has no low band; it is the ceiling. Its variation is scale: a single room torn apart, or a whole structure coming down.
+
+---
+
+### Pathy — mind reaching into mind
+
+#### 7. The Whispering
+**Class:** Pathic — Telepathic.
+
+**Manifestation:** Voices where there are none — at first at the edge of hearing, then closer, then *inside*, murmuring in your own voice and the voices of the people you trust. They tell you things: that the floor ahead is safe when it isn't, that an ally has betrayed you, that something is behind you, that you heard a door you didn't. The audio corrupts subtly — footsteps that aren't yours, a name whispered, a conversation half-caught through a wall that has no room behind it.
+
+**Zone & Trigger:** A bounded region, keyed on presence; the whispering rises the longer you stay and grows more specific, more personal, and more plausible the more it learns from being near you.
+
+**Effect:** A pervasive Confound — false information injected directly, so that what the player perceives can no longer be fully trusted. It doesn't damage; it *misleads*, and in a dungeon full of real hazards, being told the wrong one is safe is its own kind of lethal.
+
+**Source & Counter:** Variable — a thin place that murmurs; a cursed object that whispers; or a telepath, hidden, reaching into minds. Wards against the mind, leaving the zone, or silencing the source counter it; without those, the only defense is distrusting your own senses.
+
+**Encounter Use:** A room that lies to the party — false safe-paths, phantom sounds, seeded paranoia — or a boss mechanic that feeds the party misinformation mid-fight.
+
+**Intensity:** *Low* — occasional false sounds, unsettling. *Mid* — persistent lying voices, real risk of acting on them. *High* — a constant, personal, convincing torrent that makes every perception suspect.
+
+#### 8. Dread
+**Class:** Pathic — Telepathic (affective).
+
+**Manifestation:** No sound, no sight, nothing at all — which is the horror of it. You cross an invisible line and, for no reason your senses can name, you are *afraid*. The fear mounts with every step deeper, a certainty of doom pressing on the mind with no object and no cause, until standing still is unbearable and going forward is worse.
+
+**Zone & Trigger:** A bounded field of imposed terror, radiating from a center. It keys purely on presence and intensifies toward the middle; there is nothing to see coming, only the feeling arriving.
+
+**Effect:** Escalating Fear that deepens toward Panic near the center — the mind's own dread turned into a mechanical loss of nerve and, at the worst, of control. It inflicts nothing physical; it simply makes the space psychologically impassable without steadying the mind against it.
+
+**Source & Counter:** Variable — a place soaked in old terror; a fear-charged relic; or a mind projecting dread. Wards against the mind and sheer resolve carry a party through; reaching the source, where there is one, lifts it entirely.
+
+**Encounter Use:** A room that must be crossed against mounting Panic, gating progress on nerve rather than combat; or a boss aura that wears down the party's control the longer the fight runs near it.
+
+**Intensity:** *Low* — unease, a reluctance to proceed. *Mid* — real Fear, hard to push through. *High* — Panic near the center, control lost to terror with no visible cause.
+
+#### 9. The Screech
+**Class:** Pathic — Telepathic / Auditory. *(incorporates the Static Choir)*
+
+**Manifestation:** You hear it before there is anything to see — a thin static rising at the edge of hearing, climbing toward a chorus of screaming that comes from no throat. As it climbs, perception corrupts: the view smears and artifacts, edges tear, colors run wrong, the world stutters like a signal breaking up. There is nothing there. By the time the visual noise peaks with the sound, the screeching is inside your skull, and the body has already started to run.
+
+**Zone & Trigger:** A bounded region; you cross into range and it builds over several seconds whether or not you understand it. It keys on presence, not sight — walls and darkness are no defense, because it was never a sound in the room. It peaks, holds, and subsides in waves.
+
+**Effect:** Escalates on a curve. The rising static Confounds (screen-corruption, inputs feel wrong); Fear takes hold as the chorus mounts; and at the peak it seizes control outright — forced Panic, the character bolting at random, input withheld until the screech subsides. A brief Stun can punctuate the very peak. This is the most Inverted effect in the set: the "run around out of control while it screams" horror.
+
+**Source & Counter:** Variable — a broken psion "singing" without a mouth (a body to find and silence); a cursed relic; or a wound in the world that only screams. Cutting your hearing, leaving the zone, or a Silence strong enough to reach the mind rather than the ear all blunt or end it.
+
+**Encounter Use:** A devastating boss module — trigger a Screech phase so the party scatters, uncontrolled, while the boss presses. As a haunt, it makes a corridor a thing to cross fast and endure rather than explore.
+
+**Intensity:** *Low* — a disorienting hum, a flicker of static; mild Confound. *Mid* — mounting Fear and heavy screen-corruption, hard to act. *High* — the full chorus: the screen tearing apart, Panic seizing control, no input until it ends.
+
+#### 10. The Puppeting
+**Class:** Pathic — Telepathic (compulsion).
+
+**Manifestation:** The worst kind of quiet. There is no warning and little sensation — a moment's cold thread through the mind, and then your hands are doing something you did not choose. A step toward the edge. A blade turned the wrong way. A door opened that should have stayed shut. The horror is watching your own body obey a will that is not yours, briefly, before it lets go and leaves you to face what it made you do.
+
+**Zone & Trigger:** Keys on a specific target within range, seizing them for a short window rather than blanketing an area. It may strike on entry, on a trigger, or at intervals, and it favors the moment when obedience is most dangerous.
+
+**Effect:** A compulsion — mechanically a Charm with forced movement, taking control of the target for a brief interval and steering them (toward a hazard, away from safety, against an ally). Brief but precisely timed; its danger is entirely in *when* and *where* it seizes you.
+
+**Source & Counter:** Variable — rarely a thin place (compulsion tends to want a will behind it); more often a domination-charged relic, or a controlling mind, hidden, reaching in. Wards against the mind resist it; destroying the source, where there is one, frees everyone at once.
+
+**Encounter Use:** A room that turns the party against itself or steers them into its hazards, or a boss mechanic that briefly seizes a party member to break formation or trigger a trap.
+
+**Intensity:** *Low* — a twitch, a wasted action, quickly shaken. *Mid* — a real seizure of control for a dangerous second or two. *High* — longer, repeated compulsions, party members turned reliably against their own interests.
+
+#### 11. Loom-things
+**Class:** Pathic — Telepathic (visual phantasm).
+
+**Manifestation:** Shapes at the edge of sight that are wrong when looked at directly. In peripheral vision, something stands in the corner, tall and articulated and *there* — but turn to face it and it resolves into nothing, a coat on a hook, a trick of shadow, a fold in the dark. Look away and it is back, closer. The geometry never quite holds; the thing only exists in the glimpse, and it is always nearer than it was.
+
+**Zone & Trigger:** A bounded haunted space; the phantasms accumulate the longer you remain and grow bolder, appearing at closer range and in more of the visual field the more the mind strains to catch them.
+
+**Effect:** A Confound built on the classic don't-look-at-it horror — perception corrupts around the shapes, and the strain of tracking things that vanish when faced erodes composure into Fear. It does no direct harm; it degrades the ability to trust what's seen and frays the nerve.
+
+**Source & Counter:** Variable — most often a thin place where the non-real leaks through, sometimes a phantasm-charged relic, rarely a mind. Refusing to engage the shapes, leaving the zone, or wards against illusion counter it; a source, where one exists, ends them when destroyed.
+
+**Encounter Use:** A dread-building room that degrades perception and nerve before a real threat, or a boss-arena layer that fills the edges with false threats to mask the real one.
+
+**Intensity:** *Low* — fleeting corner-of-the-eye shapes, unnerving. *Mid* — persistent, closing phantasms, real Confound and creeping Fear. *High* — a space crowded with wrong geometry, perception barely trustworthy, nerve failing.
+
+#### 12. The Unseen Tally
+**Class:** Pathic — Telepathic (absence).
+
+**Manifestation:** Detectable only by what's missing. A set of footsteps in the dark that has one too many. A shadow with no owner. A count that comes out wrong — six torches lit, five throwing light. Breath heard when everyone is holding theirs. There is never anything to *see*; there is only the growing, skin-crawling certainty that something is present, measured by the gaps it leaves in a world that should add up and doesn't.
+
+**Zone & Trigger:** A bounded region; the wrongness accumulates with time and attention, the discrepancies mounting the longer a party stays and the more carefully they look.
+
+**Effect:** Proximity dread that inflicts Fear and, as the sense of an unseen presence sharpens, pushes toward the urge to flee (Panic at its height). No damage, no visible threat — only the unbearable certainty of being counted by something you cannot find.
+
+**Source & Counter:** Variable — characteristically a sourceless thin place (the phenomenon *is* the absence), occasionally an anchor, very rarely a body. Leaving the zone is the reliable answer; wards against the mind steady the nerve; there is often nothing to destroy.
+
+**Encounter Use:** A slow-burn dread room that primes the party before a reveal, or an ambient boss-arena layer that keeps the party unsettled and expecting an attack that comes from the effect's cover.
+
+**Intensity:** *Low* — a single wrong detail, easily dismissed. *Mid* — mounting discrepancies, real and spreading unease. *High* — an overwhelming certainty of a counting presence, nerve breaking toward flight.
+
+#### 13. The Drowning Air
+**Class:** Pathic — Telepathic (somatic hallucination).
+
+**Manifestation:** You are on dry ground, and you are drowning. The chest seizes, the throat closes, the vision darkens at the edges as though water has closed over your head — but the air is clear and there is nothing in your lungs but the certainty, injected directly into the body, that you cannot breathe. The mind is convinced, and the body obeys the conviction.
+
+**Zone & Trigger:** Keys on targets within a bounded area, imposing the sensation individually. It may build steadily on everyone present or strike a single target at a time, and it favors moments when a held breath is most costly.
+
+**Effect:** A somatic hallucination of suffocation — mechanically a Silence (the victim cannot draw breath to speak or cast) paired with a mounting choke that saps action as the body believes it is drowning. Purely mental in origin, physical in consequence; there is no water to escape, only the belief to break.
+
+**Source & Counter:** Variable — a drowned or suffocated thin place; a relic steeped in that death; or a cruel telepathic mind. Wards against the mind and sheer will resist it; leaving the zone or ending the source lifts it — but there is nothing physical to fight, which is much of its horror.
+
+**Encounter Use:** A room that Silences casters and saps the party's wind, or a boss phase that periodically "drowns" the party to deny spellcasting and steady action.
+
+**Intensity:** *Low* — a tightness in the chest, a caught breath. *Mid* — real suffocation-sense, a fighting Silence and drain. *High* — full imposed drowning, casters silenced, the body failing on a lie.
+
+#### 14. The Stutter
+**Class:** Pathic — Chronokinetic (the local time-trick).
+
+**Manifestation:** Time comes loose. A few seconds you just lived happen again, slightly wrong — a sound arrives before its cause, a step you took un-takes itself, a companion says a thing you're certain they already said. The world skips and repeats like a scratched groove, and you can no longer be sure whether a moment is the first time or the third, or whether the danger ahead is the danger you already passed.
+
+**Zone & Trigger:** A bounded region where local time frays. It keys on presence and worsens with proximity to a center, the loops growing longer and the disorientation deeper the further in you go. This is the "time tricks in local space" ceiling of the psionic register — small in reach, but genuinely wrong in what it does.
+
+**Effect:** A deep Confound built on temporal disorientation — cause and effect stop lining up, actions seem to repeat or fail to register, and the player loses the thread of what has and hasn't happened. It doesn't damage; it makes the space impossible to navigate or fight in with any certainty.
+
+**Source & Counter:** Variable — a time-scarred thin place (the rarest and strangest kind of wound); a chronokinetic relic; or, at the extreme, a mind capable of the psionic ceiling. Wards against the mind help; leaving the zone restores the flow; a source, where one exists, is often buried at the loop's center.
+
+**Encounter Use:** A disorienting puzzle-room where sequence itself is unreliable, or a rare, high-end boss phase that scrambles the party's sense of the fight's timing.
+
+**Intensity:** *Low* — a brief déjà vu, a single skip. *Mid* — repeating seconds, real loss of temporal footing. *High* — sustained looping, cause and effect thoroughly unmoored.
+
+#### 15. The Beckoning
+**Class:** Pathic — Telepathic (lure).
+
+**Manifestation:** A pull that feels like your own idea. A conviction arrives, quiet and reasonable, that you *want* to go that way — toward the dark door, down the flooded stair, out onto the thin ice — and the wanting is seamless enough that it doesn't feel imposed at all. Sometimes it dresses itself in a sound just ahead, a light, a familiar voice calling once and not again, always a little further on.
+
+**Zone & Trigger:** Radiates from a point of danger it wants to draw the living toward, keyed on presence within range. The lure strengthens the more it's resisted-without-being-recognized, and it targets the individual, so a party can be split by it.
+
+**Effect:** A Charm-based compulsion toward danger — a psychic will-o-wisp for the mind, steering the victim toward a hazard, a trap, or simply away from the group and into the dark. Subtle where the Puppeting is brute seizure; the Beckoning makes you *choose* to walk into the danger, which is why it so often works.
+
+**Source & Counter:** Variable — a hungry thin place at the end of the lure; a relic that calls; or a mind fishing for the isolated. Recognizing the pull as foreign is the first defense, wards against the mind the second, and destroying a source, where there is one, silences the call.
+
+**Encounter Use:** A room that splits and scatters a party toward its hazards, or a boss mechanic that lures a party member out of position and into a trap or the boss's reach.
+
+**Intensity:** *Low* — a mild, ignorable pull. *Mid* — a persuasive draw, hard to recognize as foreign. *High* — a near-irresistible compulsion toward danger, splitting the party against its own judgment.
