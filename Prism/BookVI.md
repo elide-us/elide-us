@@ -4,6 +4,24 @@ This book is the in-world telling of Prism. Where Book V defines the structural 
 
 ---
 
+## The Deep Past
+
+**[PROPOSED]** (2026-07-03 session; note CC7C057B companion, ledger D593CB3C). Before any of the Ages below — before even the First Age of the Immortals has a name for it — the present world's scholars have found two layers of a past so old that no chronology in this book claims to explain how it connects to the myths that follow. That silence is deliberate: nothing here should be written as flowing into or out of the Titans, the Eternal Ones, or the Shattering. It simply predates the reach of story, on **Home** — the habitable world, distinct from the seven Domain realms — and is dug up, not told.
+
+#### The Hunter-Gatherer Epoch
+
+Roughly 20,000 to 15,000 years before the present age. Small nomadic bands, deeply animist, held that every stone, river, and beast carried a spirit worth petitioning — a proto-magic of communion rather than command, ancestor to nothing the seven schools recognize as their own. They left standing-stone circles and alignments behind, oriented to the sky (consistent with celestial primacy, ledger 3312B2AB — the stars were already worth watching), and cave-wall depictions of megafauna unlike anything now living. Their sites survive today as sacred ground and as pilgrimage points, and rare hedge-practitioners claim to still draw on land-magic older than any of the fourteen schools. Everything from this epoch is [STUB] for authoring: the bestiary's extinct megafauna, the specific stone-circle sites, and whatever the surviving hedge-tradition actually does mechanically are all open.
+
+#### The Ancient Civilization Era
+
+Roughly 10,000 to 6,000 years before the present age. A civilization of unexplained reach — its magic-technology fusion raised mountains, redirected rivers, and carved deserts and fertile plains to its purpose, and then it collapsed, suddenly and totally, for a reason nobody in the present age can name (overreach, cataclysm, and revolt-of-its-own-creations are all folk theories, none privileged). What it left behind — buried cities, drowned towers, jungle-swallowed temples — is the present age's richest ruin-dressing: dangerous, treasure-bearing, and only ever partially understood by whoever finds it. **[OPEN QUESTION]:** whether this era's magic-technology is connected to psionics in any way is left an in-world rumor, not a design fact — some cultures believe psionics is a rediscovered fragment of this civilization's power, others that it's a curse left by its fall. Do not resolve this; it is exactly the kind of mystery the era is for.
+
+Both epochs exist to be **dug up, not narrated**: myths about them should be contradictory, partial, and often wrong, the way real folklore about a lost past always is.
+
+**Correction (same day, ledger 45DC8EA4, refined by ledger 35D58182): these are not world-gen features.** The world holds no fixed authored geography at all — not even a designer-placed hub. The one guaranteed exception is production-practical, not a world-gen rule: Elideus's own settlement, built with the same Dungeon Maker/settlement tools any player would use (possibly joined by other early testers with long-term building rights), kept fully serviced so early players have at least one town to go to. It has no special status in the fiction or the systems — it is simply the first player-built town, made by the developer instead of a random player. Everywhere else, what a player finds as a "ruin" is ordinary: abandoned player-built dungeons and claims decaying back into the world through the erosion system, because nothing persists that no one maintains (Book II, ledger 95EAF28D). The Hunter-Gatherer and Ancient Civilization material above is *mythic framing*, not a placement rule — it becomes locally true only when a builder deploys the matching **Story Content Pack** (Book II, ledger 95EAF28D) and its Wardens, Standing Ones, and lore-bearing items ride that build into whatever dungeon the builder made, decayed or fresh. The two epochs are authoring material for those packs, not a layer the world grows on its own.
+
+---
+
 ## The Ages of the World
 
 ### The First Age of the Immortals
@@ -282,3 +300,16 @@ Early story development recovered on 2026-07-02 from old ChatGPT logs (ledger 66
 - Also named: the **Luminal Seekers** (desert astronomers), the **Order of the Sacred Stone** (earth and stone, fortress-builders), the **Harmonious Circle** (nature/balance warriors), a mountain **Hidden Realm**; and the **Log of the Nameless General** — fifteen found fragments of an industrial-era war, a proud commander's arc into despair (the lore-through-items exemplar).
 
 [OPEN QUESTION]s: **Dragan and the Bloodfangs appear both here (imperial era) and in Beltan's prehistoric legend** — same figures across eras, reused names, or a conflict the refit must resolve (ledger 66541B83). Where this stratum sits relative to the Shattered Peace, and which of its institutions survive into the present age, is unrecorded.
+
+### The Continental Powers **[PROPOSED, 2026-07-03]**
+
+A second, separately-sourced set of present-age human factions, placed on **Home** (note D593CB3C) rather than the Human-Era Stratum's setting — same human-era register, unreconciled timeline and geography with the stratum above; treat as a sibling set awaiting the same refit pass, not the same institutions under different names.
+
+- **The Crescent Empire** — Middle Eastern / Ottoman / Mughal register. An ancient, dominant empire whose power is rooted in controlling ley lines, ruled by a mage-aristocracy practicing rituals passed down through generations; grand architecture and intricate art as the visible face of that control. Currently strained: psionics is surfacing within the royal court itself, splitting the old order, while outlying provinces grow restless.
+- **The Silver Sultanate** — Persian / Central Asian, with a Gothic-mysticism edge. A smaller, wealthy kingdom astride major trade routes, distinguished by blending magic with craft — alchemy and enchantment layered onto weapons and constructs. Split between those who take psionics as an enhancement to that tradition and those who call it heresy; navigates alliances with the Crescent Empire and the rising powers at once, aware it could become the battleground.
+- **The Jade Dominion** — Indian / Southeast Asian / Far Eastern fusion. A coalition of city-states rather than a single throne, each with its own magical and governing tradition, historically united by scholars and mystics who braided different traditions into one system. Psionics is hitting here hardest of the four — some city-states have embraced it outright, others resist, and the Dominion is the likeliest place for that argument to become a war.
+- **The Iron Republic** — early-20th-century-European-coded, industrializing and militarizing. The youngest of the four, and the only one to make psionics official state doctrine — folded directly into its military-industrial complex. Aggressively expanding, feared and envied in roughly equal measure, and the faction most likely to force the other three's hand.
+
+**Themes carried by this set (author guidance, not mechanics):** tradition vs. innovation, playing out as traditional-magic institutions vs. psionics' spread; cultural identity under pressure from a power that doesn't respect the old lines; and a diplomacy/war balance where the Silver Sultanate in particular is everyone's pressure point. None of the four is written as simply right or villainous — consistent with the design's refusal to judge its own splits (ledger E4F46BA5).
+
+[OPEN QUESTION]s: how this set relates to the Human-Era Stratum above (same age, adjacent age, or a different corner of Home entirely); whether any of the four factions map onto the four mortal Principality-holder identities still unnamed (ledger 24054B89); specific rulers, cities, and named NPCs are all unauthored.

@@ -123,6 +123,17 @@ Ghosts, wraiths, and banshees under Void are, in the same register, "holes shape
 
 **Wild base-fauna** — red junglefowl, wild boar, aurochs, dhole packs, and kin, each also subject to the Death/decay/poison modifier layer same as everything above.
 
+**Golems / Constructs** — [PROPOSED, 2026-07-03, ledger 45DC8EA4] built things, not born things; the Black/Void constraint does not touch them, since nothing had to die for a golem to exist — it was made wrong from the start, not reduced from something right. **Not world-gen dressing** — these deploy as an **Ancient Civilization Story Content Pack** (Book II, ledger 95EAF28D): a builder unlocks it and the lore rides the archetype into whatever dungeon they place it in, the same way any other content pack's NPCs and items ride the build. The world does not grow these on its own.
+- Earth — *Wardens*: stacked-stone sentinels, deployed to stand guard over whatever the pack's validation requires them to guard
+- Death — *Broken Wardens*: a Warden's shell after something died inside it and refuses to leave; doubly wrong, a reflection wearing a construction
+- Fire — *Cinder-Forms*: cooled slag given a shape and a task, the pack's furnace-room variant
+- Void — a Warden's socket, empty, still turning to face you
+
+**Megalith Guardians / the Standing Ones** — [PROPOSED, 2026-07-03, ledger 45DC8EA4] the stone circles' oldest secret: some of the standing stones are not stones. They wake on a celestial trigger (a specific alignment, an eclipse, the Chalice's reveal — celestial primacy, ledger 3312B2AB), not on sight or sound, and move at the speed a continent moves — which is to say, you will not outrun one, but you may simply never see it finish a step. **Same caveat as Golems above:** a **Hunter-Gatherer Story Content Pack**, builder-deployed, not a standing world feature.
+- Prophecy — *the Standing Ones proper*: they were raised to watch the sky and they still do; killing one silences whatever it was counting toward
+- Earth — moss-grown and root-bound, indistinguishable from a hillside until the hillside answers
+- Death — a circle with one stone missing, and a hole in the ground where it used to stand watch
+
 ---
 
 ## Inverted — Psionics (Canon, ledger C3D46D10)
@@ -154,6 +165,32 @@ A Vetala mounted on a Dracolich (ledger 563804ED): both halves are independently
 
 ---
 
-## [STUB] Biome Seeding Table
+## Biome Seeding Table [PROPOSED, 2026-07-03, ledger D593CB3C]
 
-Which specific creatures from the archetype matrix seed which biome types, and at what Dungeon Maker tier they become recruitable, is unbuilt. Needs a pass once the roster-scope question above is narrowed.
+**Correction (same day, superseding the first pass of this table):** biomes are not named places. Home is procedurally generated (hex-sphere heightmap, per-pixel material ledger, quench speed as a conserved hardness/quench/stress field, crust recycling, coastline morphology and biogenic epochs — Book III), so a biome here means a **recurring conceptual dominance** — the terrain type a given patch of hex rolls toward once elevation, moisture, temperature, and the material ledger settle — not a lore-authored zone with a name and a ruling empire. The same biome type recurs everywhere its generating conditions recur; it has no fixed location and belongs to no faction. Named places (Book VI's Continental Powers, the Human-Era Stratum) sit *on top of* whatever biome mix their territory happens to roll, the way a real kingdom sits on whatever geography it was founded on — the biome does not know or care that a kingdom is there.
+
+Each biome's Domain mix decides its recruitable bench (Book II, ledger B4F9A3AC); DM tier gating and exclusive-vs-graded recruitment stay [OPEN QUESTION].
+
+**Ruins are not world-gen either (correction, ledger 45DC8EA4, refined by 35D58182).** The world carries no fixed authored elements at all. The only guaranteed town at launch is a production-practical matter, not a world-gen rule: Elideus's own player-built settlement (built with the same tools any player uses, possibly alongside other early testers with long-term building rights), kept fully serviced so there's somewhere for early players to go — the first player-built town, not a designer-placed one. Everywhere else, what looks like a ruin is the **erosion system's ordinary output**: abandoned player-built dungeons and claims decay back into the world because nothing persists that no one maintains (ledger 95EAF28D). Rubble can turn up in any biome below purely as decayed-dungeon debris, with no lore attached at all. The Ancient Civilization and Hunter-Gatherer *flavor* specifically — Wardens, Broken Wardens, Cinder-Forms, the Standing Ones — only enters play when a builder deploys the matching **Story Content Pack** (Book II, ledger 95EAF28D): a DM can skin a decayed site with "this was ancient and impossible to explain" the same way they'd deploy any other content pack's NPCs and items, but the world does not grow that meaning on its own. What follows is the Domain/creature bench each biome can draw from, ordinary erosion-rubble and content-pack ruin-skins alike.
+
+1. **Desert** — low-moisture, high-insolation read of the material ledger (sand/quartz-dominant composition, minimal biogenic layer). *Domains:* Fire, Chaos, Illusion (heat-mirage). *Bench:* djinn, sandstorm djinn, Marid deceivers, Ifrit, desert-worn Void "holes shaped like people" (ledger D0BE40E5).
+
+2. **Volcanic** — active or recently-active igneous terrain, driven directly by quench speed at the fast-cooling, high-stress end of the field (ledger 41EB4B47). *Domains:* Fire, Transformation. *Bench:* Ash-Kin goblins, Asura-kin, Cinder-Form constructs, hellhounds.
+
+3. **Mountain / Highland** — elevation-dominant heightmap read, rock-heavy material ledger, low biogenic cover. *Domains:* Earth, Air. *Bench:* burrowing wyrms at the roots, Rakshasa and wrong-wisps at altitude, Wardens (Ancient Civilization constructs) sited wherever the old builders needed a peak.
+
+4. **Underland** (the subsurface read of any biome above — caves, collapsed shafts, root-caverns) — not a surface biome but the shared subterranean layer beneath Desert, Mountain, and Forest alike, wherever the material ledger opens a void. *Domains:* Earth, Death, Void. *Bench:* Grave-Digger and Hollow-Digger goblins, Broken Wardens, Void things heard behind walls and never found.
+
+5. **Temperate Forest** — moderate moisture and temperature, biogenic-dominant with heavy woody cover. *Domains:* Life, Illusion, Death (carrion). *Bench:* foxfire spirits, Fetches, raven- and corvid-tricksters, Morrigan-kin, carrion-crow death-omens.
+
+6. **Tropical / Jungle** — high moisture and high temperature together, the densest biogenic read on the ledger. *Domains:* Life, Water, Blood. *Bench:* Naga, Oni raiders, Vetala, venom-cultists.
+
+7. **Wetland** (swamp, bog, fen — saturated, poor-drainage terrain riding coastline morphology and biogenic epochs, ledger 41EB4B47) *Domains:* Void, Water, Illusion. *Bench:* ignis fatuus and wrong-wisps, grave-lights, spectral serpents, Pisacha, Barghest/Black Shuck hounds; the Standing Ones (Hunter-Gatherer megaliths) surface here often, half-sunk.
+
+8. **Coastal / Ocean** — the direct output of coastline morphology (Book III, ledger 41EB4B47): reef, open water, storm-lane. *Domains:* Water, Chaos, Void. *Bench:* Taniwha, Adaro riding waterspouts, Encantado, bound djinn washed ashore in cracked vessels.
+
+9. **Tundra / Polar** — cold-dominant, thin biogenic layer, present wherever the heightmap and latitude drive temperature low regardless of moisture. *Domains:* Void, Death, Air. *Bench:* desert-register Void "holes" reskinned for cold instead of heat, Barghest-kin adapted to snow, Wardens frozen mid-step.
+
+Grassland/Plains and a "blighted/industrial" register were both drafted for this table and cut: Grassland is real but low-conflict enough that it's better treated as the *default* biogenic fill between the eight above rather than a tenth entry competing for bench space; "industrial blight" is not a procedural terrain output at all — it is what the Iron Republic (Book VI) *does to* whatever biome it sits on, and belongs in that faction's write-up, not in the terrain taxonomy.
+
+**[OPEN QUESTION]s carried over:** DM tier gating per biome, and whether recruitment is exclusive or graded (both ledger B4F9A3AC, unchanged by this table); how placement interacts with imp logistics and discovery (Book II, unchanged); whether any of these nine map onto the seven Domain worlds' own native biomes at endgame, or whether those worlds run a separate bestiary register entirely — not addressed here.

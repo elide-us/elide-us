@@ -553,6 +553,8 @@ Psionics is a distinct form of magic that relies on innate mental abilities rath
 
 > **[OPEN QUESTION]** How psionics relates to the seven-school system is an open fork — outside the Prism by design, a casting style mapped to an existing school/stat pair, or unresolved legacy content pending redesign. The content in this section is retained as-is pending that ruling. (Ledger 7609E7E9.)
 
+**Canon (ruled 2026-07-03, ledger CC7C057B):** there are three parallel paths to magic, all effectively the same underlying power: **Magic** (the word-grammar system above — researched, memorized, deep), **Cantrips** (below — simple, teachable to anyone with sufficient intelligence), and **Psionics** — its own path with its own costs, mental and innate rather than external-component-based. Psionics is one discipline, not two. The abilities below run the same spectrum from ordinary to extreme that Magic runs from cantrip to archmage-tier spell — the Inverted Principality's cosmic-horror bestiary entries (Book VII: Static Choir, Loom-things, the Unseen Tally) are this same roster's monstrous end, not a separate system.
+
 ### Abilities
 
 - **Telepathy**
