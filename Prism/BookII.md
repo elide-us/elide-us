@@ -4,7 +4,7 @@ This book defines the Dungeon Maker's half of Prism: the modular template buildi
 
 > **Provenance.** The primary source for this book is `sources/chatgpt-dm-system-notes.md` (early exploratory sessions — source material, not canon). Where that document conflicts with seed canon or Book V's Canon Rulings, the rulings win. Content below is Canon where backed by a ruling or ledger decision; everything else is marked **[PROPOSED]**, **[OPEN QUESTION]**, or **[STUB]**.
 
-> **Terminology.** The source notes say "Dungeon Master"; the books say "Dungeon Maker". Which term wins platform-wide is an open glossary fork — do not treat either as ruled. This book uses **Dungeon Maker** (abbreviated **DM**) throughout pending that ruling. This is the book's single note on the fork. (Ledger 500F8438.)
+> **Terminology — RESOLVED (2026-07-04, ledger 500F8438).** **Dungeon Maker** (abbreviated **DM**) wins platform-wide. "Dungeon Master" is dropped — the term sits too close to TSR/Wizards of the Coast's Dungeons & Dragons trademark. This book uses Dungeon Maker throughout, as it always did.
 
 ---
 

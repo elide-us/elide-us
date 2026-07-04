@@ -36,7 +36,7 @@ This system ensures consistent processing and limitless possibilities, while req
 
 ### **The Constructor Kit Philosophy**
 
-Embracing a **constructor kit** approach, we empower players and Dungeon Masters *[term under review — "Dungeon Maker" vs "Dungeon Master" is an open glossary fork; other books use "Dungeon Maker" (ledger 500F8438)]* to shape almost every aspect of the game world:
+Embracing a **constructor kit** approach, we empower players and Dungeon Makers to shape almost every aspect of the game world:
 
 - **Crafting:** Players use procedural tools to create unique weapons and armor.
 - **NPC Behavior:** Customizable modules and animations allow NPCs to interact in unique ways.
