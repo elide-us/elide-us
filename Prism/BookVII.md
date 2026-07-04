@@ -3093,3 +3093,451 @@ Depth and deception. The animals are ordinary fauna of coast, river, and open se
 **Attack Patterns:** Base bite, claw, and **Wave-Buffet** (knockback, Root). Signature — **Fog Breath**: a bank of blinding mist and force (Confound, Silence); at Elder and Ancient tiers, a lingering fog that blankets and disorients the whole field.
 
 **Materials:** Blue Scales (armor-grade, water-aligned), Claws, Teeth, a Mist Heart (apex Blue reagent, Ancient tier only), and the drowned hoard of its lair.
+
+---
+
+## Black — Death and Void
+
+The absence of. Nothing in this set is created — every entry is a reflection or reanimation of something that once lived, per the Black/Void constraint. There are no animals here: the dead do not return as wildlife but as raised, rotting, or hollow echoes of what they were, and the intelligences that raise them. Undead surface wherever the dead were left, in any terrain, so this set is biome-agnostic.
+
+Two conventions run through the whole set. **Life-drain** (wight, wraith, vampire) is a damage property, not a status effect — the attack wounds the target and heals the undead in the same stroke. **Paralysis** (ghoul) maps to Stun and Root. And most undead carry natural immunities: all are immune to Poison and Disease (already dead), the mindless ones (skeleton, zombie, and their kin) are immune to Fear and Charm, and the incorporeal ones (specter, wraith) shrug off ordinary physical harm.
+
+### Monsters
+
+#### 1. Skeleton
+**Environments:** tombs, battlefields, crypts, anywhere bones were left and a will was raised to move them.
+
+**Description:** A reanimated human skeleton, dry bone held together by the necromancy that raised it, moving with a horrible economy and no flesh to slow it. Empty sockets and a fixed grin are all the face it has, and it neither tires nor flinches.
+
+**Behaviors:** Follows the simple, relentless imperative it was raised with — guard this place, kill that intruder — with no fear, no hesitation, and no self-preservation whatsoever. It fights until destroyed and does not retreat, break, or negotiate; a raised host of them is dangerous through sheer tireless numbers.
+
+**Threats & Defenses:** Fights with whatever blade, spear, or bow it was armed with. Having no flesh, it resists Expose — there is nothing to bleed or tear — and being mindless, it is immune to Fear, Charm, Poison, and Disease. Its dry bones are brittle, though: heavy, crushing blows shatter it far more easily than they would a living body.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 11 | 7 | 19 | 44 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 10 | 6 | 18 | 40 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 6 | 4 | 11 | 24 |
+| Luck | 6 | 4 | 11 | 24 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Base weapon strikes, tireless and unvarying. Vulnerability — crushing blows shatter its brittle frame.
+
+**Materials:** Bone (necromantic reagent), Grave-Dust, plus its weapons and armor.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Grave-Rusted Arms | The blade, spear, or bow it was buried or raised with; serviceable if corroded. |
+
+**Armor:**
+| Drop | Notes |
+|---|---|
+| Corroded Mail | Rotted armor from its living days; salvageable, degraded. |
+
+#### 2. Zombie
+**Environments:** graveyards, plague-pits, ruins, wherever corpses were raised whole.
+
+**Description:** A shambling, rotted corpse driven back into motion, flesh gray and sloughing, movements slow and clumsy but appallingly persistent. It reeks of the grave, and the wounds that killed it still gape, unhealed and unfelt.
+
+**Behaviors:** Lurches toward the living with single-minded, mindless hunger, arms out, never faster than a slow walk but never stopping either. It does not flank, feint, or flee — it simply comes, and keeps coming, and its danger is entirely in numbers and relentlessness rather than any skill.
+
+**Threats & Defenses:** Claws and bites, and the rot it carries spreads Disease to wounds it inflicts. Immune to Fear, Charm, Poison, and Disease, and horribly durable — it fights on through damage that would kill a living thing many times over, feeling nothing, until it's physically destroyed. Its weakness is its slowness; anything that keeps moving can stay ahead of it.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 13 | 8 | 23 | 52 |
+| Dex | 6 | 4 | 11 | 24 |
+| Con | 14 | 8 | 25 | 56 |
+| Int | 2 | 1 | 4 | 8 |
+| Wis | 5 | 3 | 9 | 20 |
+| Luck | 5 | 3 | 9 | 20 |
+| End | 15 | 9 | 26 | 60 |
+
+**Attack Patterns:** Base **Grasp & Bite** (Disease on a wounding hit); slow, relentless, no retreat. Vulnerability — easily outpaced.
+
+**Materials:** Rotting flesh and Bone (grim necromantic reagents); rarely anything else of worth.
+
+#### 3. Ghoul
+**Environments:** graveyards, catacombs, cremation grounds, feeding-warrens beneath cities.
+
+**Description:** A gaunt, hunched undead thing with grave-pale skin drawn tight over sharp bone, claws and teeth grown long from feeding, its eyes lit with a hungry cunning the mindless dead lack. It haunts the places where the dead are laid and feeds on corpses — and on the living, when it can catch them.
+
+**Behaviors:** Hunts in packs through the tunnels and tombs it calls home, quick and clever enough to ambush and to overwhelm, dragging down the paralyzed to feed at leisure. Where a zombie shambles, a ghoul scuttles and lunges, and its pack coordinates to isolate and pin a single victim.
+
+**Threats & Defenses:** Its claws and bite carry a paralytic touch — a solid hit inflicts Root, deepening to Stun, leaving the victim helpless to be fed on. Immune to Poison and Disease; not mindless, so it can be frightened, and it is far less durable than a zombie, relying on the paralysis and the pack rather than raw toughness.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 12 | 7 | 21 | 48 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 11 | 7 | 19 | 44 |
+| Int | 6 | 4 | 11 | 24 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 12 | 7 | 21 | 48 |
+
+**Attack Patterns:** Signature — **Paralytic Claw**: a raking strike that Roots and, untreated, Stuns. Pack tactic — isolates and pins a single target to feed.
+
+**Materials:** Claws, Teeth, a Ghoul-Gland (alchemy reagent tied to paralysis).
+
+#### 4. Wight
+**Environments:** barrow-mounds, old tombs, the graves of once-great warriors.
+
+**Description:** An intelligent, malevolent undead risen from an honored or accursed grave — a preserved corpse with cold, burning eyes and the bearing of what it was in life, be that warrior, lord, or priest. Unlike the mindless dead, a wight remembers, hates, and schemes, guarding its barrow and its grudges across centuries.
+
+**Behaviors:** Lairs in its tomb and defends it and its grave-goods with cunning and cruelty, raising lesser dead to serve as guards and fodder. It fights with the skill it had in life, and takes a cold satisfaction in draining the living to swell the ranks of its dead — those it slays with its touch often rise as its thralls.
+
+**Threats & Defenses:** Fights with the arms it was buried with, and its touch drains vitality — wounding the target and healing the wight in the same stroke. Immune to Poison and Disease; intelligent and strong-willed, resisting Fear and Charm. Its tie to its barrow is the lever — a wight drawn from its grave and its raised guards is far diminished.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 14 | 8 | 25 | 56 |
+| Dex | 13 | 8 | 23 | 52 |
+| Con | 13 | 8 | 23 | 52 |
+| Int | 10 | 6 | 18 | 40 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Base weapon strikes with a warrior's skill. Signature — **Draining Touch**: a strike that drains vitality (damages and self-heals); the slain may rise as thralls. Raises lesser dead as guards.
+
+**Materials:** Grave-goods and buried wealth, a Barrow-Charm (necromantic reagent), plus its arms and armor.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Barrow-Blade | An ancient weapon preserved with its wielder; often still finely made, sometimes cursed. |
+
+**Armor:**
+| Drop | Notes |
+|---|---|
+| Grave-Mail | Preserved armor of its living rank; wearable, often old and ornate. |
+
+#### 5. Specter
+**Environments:** the exact site of a death — a room, a stair, a stretch of road where someone died badly.
+
+**Description:** The incorporeal remnant of someone who died in anguish, bound to the place of their death — a translucent, half-seen figure caught replaying its final moments, faint and cold and wrong. It cannot leave the site that holds it, and it does not want to.
+
+**Behaviors:** Haunts its fixed place, largely inert until the living intrude, then lashing out in confused, sorrowful rage at anything that reminds it of its death or simply disturbs its rest. It cannot pursue beyond the bounds of its haunt, but within them it is relentless and unpredictable.
+
+**Threats & Defenses:** Its chilling touch and sudden manifestations inflict Fear and Confound, disorienting and unnerving the living. Being incorporeal, it passes through walls and shrugs off ordinary weapons — only magic and blessed or specially-forged arms bite on it — but it is bound absolutely to its haunt, and leaving that ground escapes it entirely.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 6 | 4 | 11 | 24 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 10 | 6 | 18 | 40 |
+| Int | 8 | 5 | 14 | 32 |
+| Wis | 11 | 7 | 19 | 44 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 12 | 7 | 21 | 48 |
+
+**Attack Patterns:** Signature — **Chilling Manifestation**: a sudden appearance and cold touch (Fear, Confound). Incorporeal — ignores walls and mundane weapons; bound to its haunt.
+
+**Materials:** None — it leaves nothing behind but the cold; laying it to rest sometimes frees a bound relic tied to its death.
+
+#### 6. Wraith
+**Environments:** places of great death and darkness — battlefields, plague-ruins, lightless tombs.
+
+**Description:** A being of malevolent shadow given the rough shape of a robed, hollow figure, colder and hungrier and far more mobile than a bound specter. Where a specter is a soul trapped in grief, a wraith is a soul curdled into pure predatory hunger, roaming the dark to feed on the living.
+
+**Behaviors:** Drifts through the darkness seeking the warmth of the living, draining life to sustain itself and growing stronger with each victim. It shuns light, which weakens and pains it, and hunts by preference in the dark, ambushing from shadow and retreating into it when pressed.
+
+**Threats & Defenses:** Its touch drains vitality — wounding and self-healing at once — and its presence inflicts Fear. Incorporeal, it passes through walls and turns aside mundane weapons, vulnerable only to magic and to light, which weakens it and drives it back. In darkness it is a terror; in bright light, much diminished.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 8 | 5 | 14 | 32 |
+| Dex | 16 | 10 | 28 | 64 |
+| Con | 12 | 7 | 21 | 48 |
+| Int | 10 | 6 | 18 | 40 |
+| Wis | 12 | 7 | 21 | 48 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Signature — **Life-Draining Touch**: a shadow-strike that drains vitality (damages and self-heals) and radiates Fear. Incorporeal; weakened and repelled by light.
+
+**Materials:** None as a body; a destroyed wraith sometimes leaves a Shadow-Residue (potent Black reagent) where it dissolved.
+
+#### 7. Banshee
+**Environments:** ruined halls, lonely moors, the homes of the tragically or violently dead.
+
+**Description:** The wailing spirit of a woman who died in grief or rage, appearing as a pale, keening figure with streaming hair and a face caught between sorrow and fury. Its presence is announced by a mounting, unearthly cry that the living feel in their bones before they ever see it.
+
+**Behaviors:** Haunts the ruin or lonely place tied to its death, drifting and mourning until disturbed, then loosing a scream of pure anguish and malice at the intruders. It is driven by grief turned outward into hatred of the living, and it wails and strikes rather than schemes.
+
+**Threats & Defenses:** Its keening wail is its weapon — a sound of such despair that it inflicts Fear and, at close range, edges toward Panic, robbing the living of their nerve and control. Incorporeal and hard to strike with mundane weapons; its wail can be endured or interrupted, and silencing or closing on it fast blunts its greatest threat.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 6 | 4 | 11 | 24 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 11 | 7 | 19 | 44 |
+| Int | 9 | 5 | 16 | 36 |
+| Wis | 13 | 8 | 23 | 52 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Signature — **Keening Wail**: a sustained scream inflicting Fear, escalating to Panic up close. Incorporeal; the wail can be interrupted.
+
+**Materials:** None — only a lingering chill; a relic of its living grief is sometimes found at the heart of its haunt.
+
+#### 8. Gargoyle
+**Environments:** old battlements, tomb-facades, ruined temples, among funerary statuary.
+
+**Description:** A squat, winged figure of carved stone, all fangs and claws and leering face, indistinguishable from the countless grotesques that ornament old architecture — until it moves. It waits among the statues it resembles with a patience only stone can hold, and grave-keepers and necromancers alike set them to guard the resting places of the dead.
+
+**Behaviors:** Perches motionless among ordinary statuary, sometimes for years, ambushing anything that intrudes on the place it guards. It attacks from stillness and surprise, diving on prey with stone claws, and returns to its perch and its stillness once a threat is driven off.
+
+**Threats & Defenses:** Rakes with stone claws and bites (Expose), striking hardest from its opening ambush. Its stone body shrugs off many blows and it is immune to Poison, Disease, and Fear, but heavy blunt force cracks and shatters it, and away from the surprise of its ambush it is a straightforward if durable foe.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 15 | 9 | 26 | 60 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 16 | 10 | 28 | 64 |
+| Int | 6 | 4 | 11 | 24 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 15 | 9 | 26 | 60 |
+
+**Attack Patterns:** Signature — **Ambush Dive**: a diving claw-strike from a still perch (Expose). Vulnerability — heavy blunt force shatters stone.
+
+**Materials:** Stone (carved fragments, minor value), and a Gargoyle-Heart (the animating core, an enchanting reagent).
+
+#### 9. Bonemare
+**Environments:** raised alongside the dead — crypts, battlefields, wherever a rider needed a mount that would not tire or fear.
+
+**Description:** The skeletal remains of a horse driven back into motion, bare bone and tattered sinew, empty sockets glowing with the same cold light that animates it. It is the undead reflection of the living steed — swift, tireless, and utterly without the spirit that once made it flinch from fire or fear.
+
+**Behaviors:** Serves as a mount and a beast of burden for the intelligent dead — wights, death knights, and their kin ride bonemares into battle — and fights as its rider directs, or defends its raised master mindlessly if riderless. It gallops without tiring and charges without hesitation, feeling neither exhaustion nor fear.
+
+**Threats & Defenses:** Tramples and kicks with skeletal hooves (knockback), and carries its rider tirelessly through a fight. Immune to Fear, Charm, Poison, and Disease; brittle-boned like all skeletons, vulnerable to the crushing blows that shatter dry bone. Its real value is mobility — a mounted undead foe is far harder to pin down than a shambling one.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 14 | 8 | 25 | 56 |
+| Dex | 13 | 8 | 23 | 52 |
+| Con | 11 | 7 | 19 | 44 |
+| Int | 3 | 2 | 5 | 12 |
+| Wis | 6 | 4 | 11 | 24 |
+| Luck | 6 | 4 | 11 | 24 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Signature — **Trampling Charge**: a tireless charge and skeletal-hoof strike (knockback); carries a rider without fatigue. Vulnerability — crushing blows shatter its frame.
+
+**Materials:** Bone (necromantic reagent), Grave-Dust; a rare intact skull serves as a focus for raising more.
+
+#### 10. Rotting Hound
+**Environments:** raised in packs alongside the dead — battlefields, kennels of the necromantic, ruins.
+
+**Description:** The reanimated corpse of a hound or wolf, half-rotted and half-skeletal, hide hanging in strips over exposed bone, jaws locked in a permanent snarl. It is the undead reflection of the living pack-hunter, stripped of everything but the drive to run down and tear apart whatever its raiser sets it on.
+
+**Behaviors:** Hunts in raised packs, running down prey with tireless, mindless persistence and swarming it under. It retains the pack-coordination of the living hound only crudely — more a mob than a hunting party — but it never tires, never fears, and never abandons the chase.
+
+**Threats & Defenses:** Bites and tears (Expose), and the rot it carries spreads Disease through its wounds; a pack can Snare a target by surrounding it. Immune to Fear, Charm, Poison, and Disease. Its rotted body is fragile, and it lacks the living hound's caution — it commits blindly and can be cut down as it comes.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 12 | 7 | 21 | 48 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 11 | 7 | 19 | 44 |
+| Int | 3 | 2 | 5 | 12 |
+| Wis | 6 | 4 | 11 | 24 |
+| Luck | 6 | 4 | 11 | 24 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Base rotting bite (Expose, Disease). Pack tactic — **Swarm**: surrounds a target to Snare, then piles on; never breaks off.
+
+**Materials:** Bone, rotting Hide (grim reagents); little else.
+
+#### 11. Grave Ogre
+**Environments:** raised where a great brute fell, or stitched together in a necromancer's charnel-works.
+
+**Description:** The reanimated corpse of an ogre — or something ogre-sized, cobbled from more than one body — a rotting, lumbering giant of dead flesh, wounds gaping, driven by borrowed will rather than hunger. It is the undead reflection of the living brute, its strength preserved and its slowness deepened by death.
+
+**Behaviors:** Shambles forward to smash whatever it's pointed at with the same crude, overwhelming force it had in life, now utterly mindless and tireless. It has no tactics and no self-preservation — it swings, it advances, and it does not stop until it's hacked apart.
+
+**Threats & Defenses:** A dead-fisted or club-swung blow lands with ogre strength (heavy knockback, Stun), and its rot spreads Disease. Immune to Fear, Charm, Poison, and Disease, and horribly durable — it fights on through wounds that would fell a living ogre twice over. Slow and mindless, it is easily kited and baited, exactly as its living counterpart is, only more so.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 19 | 11 | 33 | 76 |
+| Dex | 6 | 4 | 11 | 24 |
+| Con | 16 | 10 | 28 | 64 |
+| Int | 2 | 1 | 4 | 8 |
+| Wis | 4 | 2 | 7 | 16 |
+| Luck | 5 | 3 | 9 | 20 |
+| End | 16 | 10 | 28 | 64 |
+
+**Attack Patterns:** Signature — **Dead Smash**: a heavy fist or club-blow (Stun, knockback, Disease). Slow, mindless, no retreat; easily kited.
+
+**Materials:** Bone, rotting Hide, and whatever crude weapon it was raised holding.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Rotted Great Club | The bludgeon it was raised with; salvage or a two-handed weapon for the strong. |
+
+---
+
+### Terrors / Named Bosses
+
+#### 12. Death Knight
+**Environments:** cursed battlefields, fallen strongholds, the tombs of oathbreaker warriors.
+
+**Description:** An armored undead champion — a warrior of great skill in life, risen in death still clad in blackened plate, bound to unlife by a curse, a broken oath, or its own refusal to lie down. Cold light burns in the slits of its helm, and it fights with all the martial mastery it earned in life and none of the mercy.
+
+**Behaviors:** Commands the lesser dead as a captain commands troops, raising and directing skeletons, wights, and bonemares as an undead host around itself. It fights with disciplined, deadly skill, testing a foe's defenses and exploiting every opening, and it does not tire, fear, or falter — it has already died, and has nothing left to lose.
+
+**Threats & Defenses:** A master of arms, striking with a cursed blade that hits hard and drains vitality (damages and self-heals), and commanding its dead host to flank and overwhelm. Immune to Poison and Disease, and iron-willed against Fear and Charm. Heavily armored and skilled; there are few easy openings, and it must generally be ground down through its host and its curse both.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 17 | 10 | 30 | 68 |
+| Dex | 13 | 8 | 23 | 52 |
+| Con | 16 | 10 | 28 | 64 |
+| Int | 11 | 7 | 19 | 44 |
+| Wis | 11 | 7 | 19 | 44 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 16 | 10 | 28 | 64 |
+
+**Attack Patterns:** Base masterful weapon-work. Signature — **Cursed Blade**: strikes that drain vitality (damage and self-heal). Commands and raises an undead host to flank and overwhelm.
+
+**Materials:** A Cursed Weapon and blackened plate at full quality, a Death-Knight's Sigil (potent Black reagent), and the treasures of its fallen hold.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Cursed Blade | A finely-forged weapon bound with a draining curse; powerful, and dangerous to bear. |
+
+**Armor:**
+| Drop | Notes |
+|---|---|
+| Blackened Plate | Heavy, well-made armor preserved by the curse; wearable, ominous. |
+
+#### 13. Vampire Lord
+**Environments:** a lightless castle, an ancestral crypt, a corrupted estate held for centuries.
+
+**Description:** An ancient, aristocratic undead that feeds on the blood of the living — outwardly a pale, compelling, terribly elegant noble, inwardly a predator that has schemed and fed across centuries. Charming, patient, and utterly without conscience, a vampire lord rules a domain of thralls, lesser dead, and terrified mortals from the shadows of its holdfast.
+
+**Behaviors:** Rules its domain through charm, fear, and manipulation as much as force, keeping mortal thralls and raising lesser undead to serve. It prefers to toy with intruders — turning allies against one another, retreating into mist, striking from ambush — and fights in earnest only when cornered, when it becomes a whirlwind of preternatural speed and strength. It shuns sunlight, which weakens and can destroy it.
+
+**Threats & Defenses:** Immensely fast and strong, it drains blood (damaging and self-healing) and bends the weak-willed with a powerful Charm. It can dissolve into mist to escape (a self-Root-break and reposition) and commands lesser dead. Immune to Poison and Disease, resistant to most control. Its curse binds it, though — sunlight, and the old wards against its kind, are what truly threaten it, and it will not fight a losing fight it can slip away from.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 16 | 10 | 28 | 64 |
+| Dex | 16 | 10 | 28 | 64 |
+| Con | 15 | 9 | 26 | 60 |
+| Int | 14 | 8 | 25 | 56 |
+| Wis | 13 | 8 | 23 | 52 |
+| Luck | 12 | 7 | 21 | 48 |
+| End | 15 | 9 | 26 | 60 |
+
+**Attack Patterns:** Base preternatural claw-and-strike at great speed. Signature — **Blood Drain**: a bite that drains blood (damage and self-heal). **Dominate**: a strong Charm on the weak-willed. **Mist Form**: dissolves to escape and reposition. Shuns sunlight.
+
+**Materials:** Ancestral wealth and regalia, a Vampire's Heart-Blood (apex Black/Blood reagent), and whatever cursed treasures fill its holdfast.
+
+#### 14. Bone Colossus
+**Environments:** great charnel-pits, the sites of massacres and plagues, a necromancer's grandest work.
+
+**Description:** A titan built from the bones and corpses of hundreds — a lurching mountain of fused skeletons, grasping half-formed limbs, and staring skulls, bound into one shape by overwhelming necromancy. It is the reflection-and-reanimation principle taken to its horrible extreme: not one dead thing raised, but a multitude welded into a single colossus.
+
+**Behaviors:** Advances with slow, ground-shaking inevitability, sweeping aside everything in its path with limbs the size of trees and simply crushing what it can reach. It is mindless, directed by whatever raised it, and cannot be reasoned with or turned — only stopped by being broken apart faster than its own mass can knit itself back together.
+
+**Threats & Defenses:** Colossal sweeping blows (heavy knockback, Sunder) and a crushing tread; the loose dead that compose it can pull free to Snare and swarm those underfoot. Immune to Fear, Charm, Poison, and Disease, and enormously durable through sheer mass — cut away part of it and the rest hauls more bone into the gap. It is slow, though, and the necromancy binding it can sometimes be unmade at its core.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 22 | 13 | 39 | 88 |
+| Dex | 7 | 4 | 12 | 28 |
+| Con | 21 | 13 | 37 | 84 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 6 | 4 | 11 | 24 |
+| Luck | 6 | 4 | 11 | 24 |
+| End | 20 | 12 | 35 | 80 |
+
+**Attack Patterns:** Signature — **Sweeping Crush**: a colossal limb-sweep (knockback, Sunder). **Grasping Dead**: the loose bones pull free to Snare and swarm underfoot. Slow; bound at a core that can be unmade.
+
+**Materials:** Vast quantities of Bone and Grave-Dust, and a Binding-Core (rare Black reagent — the necromantic knot that held it together).
+
+#### 15. Lich
+**Environments:** a hidden sanctum, a warded tomb, a tower deep in a dead land.
+
+**Description:** The signature terror of the Black set: an undead archmage that traded life for undying power, now a robed, withered skeleton crowned in cold light, its will bound to a hidden phylactery. Per the oldest telling — *a skeleton of, reanimated from, but not living.* It remembers being alive only in wrong, disjointed fragments, and casts from a memory of magic it can no longer truly feel.
+
+**Behaviors:** Schemes across centuries from its sanctum, pursuing ends that made sense to the living mage it was and now continue by cold momentum alone. It commands legions of lesser dead, defends itself with layered wards and traps, and fights with the full array of a master's magic — and even destroyed, it reforms in time at its phylactery, so that killing the body is only ever half the task.
+
+**Threats & Defenses:** A master spellcaster, wielding the deathly disciplines — its touch drains vitality (damage and self-heal), its magic can Stun, Fear, Confound, and raise the dead mid-fight, and it fights from behind wards and a screen of raised undead. Immune to Poison and Disease, resistant to Fear and Charm. Its true defense is the phylactery: destroy the lich and it simply returns unless the hidden vessel is found and unmade first.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 9 | 5 | 16 | 36 |
+| Dex | 11 | 7 | 19 | 44 |
+| Con | 14 | 8 | 25 | 56 |
+| Int | 20 | 12 | 35 | 80 |
+| Wis | 18 | 11 | 32 | 72 |
+| Luck | 12 | 7 | 21 | 48 |
+| End | 15 | 9 | 26 | 60 |
+
+**Attack Patterns:** Signature — **Deathly Magic**: a spellcaster's array — draining touch (damage and self-heal), Stun, Fear, and Confound effects, and raising the dead mid-fight. Fights from behind wards and raised undead. Reactive — **Phylactery**: reforms in time unless the hidden vessel is destroyed.
+
+**Materials:** A Phylactery (the apex Black reagent and the key to its true death), spellbooks and reagents, and the hoarded knowledge and wealth of centuries.
+
+#### 16. Vetala — The Reanimation *(dual-boss mechanic)*
+**Environments:** wherever a great foe has just fallen and its corpse remains on the field.
+
+**Description:** Not a creature in its own right but a death-spirit that rides the newly dead — a Vetala inhabits the corpse of a slain boss and drives it back to its feet, harder and crueller than it was in life. Where the living boss fell, its reanimated reflection rises: the same shape, wearing its own death, moving with a borrowed and malevolent will.
+
+**Behaviors:** Manifests as a **dual-boss encounter** — a boss defeated on suitable ground does not simply die, but rises a second time, Vetala-ridden, for a harder final phase. The reanimated form fights with the base boss's patterns, now driven without restraint or self-preservation, and often gains a death-aligned trick the living version lacked (a draining strike, a raised guard of lesser dead, an aura of Fear).
+
+**Threats & Defenses:** As the base boss it reanimates, elevated — take that boss's Boss-tier statistics and raise them further (roughly a quarter to a half again), and add draining, Fear, or command-of-the-dead to its repertoire. It carries the base boss's own resistances plus the standard undead immunities (Poison, Disease, and, if its living form had a mind to seize, often Fear and Charm as well). Its weakness is the same as any raised thing's — the spirit binding it can be broken, ending the reanimation for good rather than merely felling the body again.
+
+**Statistics:** *No fixed block. The Vetala's statistics are the reanimated boss's own Boss row, amplified ~×1.25–1.5, with one added death-aligned mechanic.* Pairs naturally with the Dracolich (a Vetala riding a slain dragon's corpse) and with any other terror on suitable ground.
+
+**Attack Patterns:** Inherits the base boss's Attack Patterns, driven without restraint, plus one death-aligned addition (draining strike, Fear aura, or raised-dead guard).
+
+**Materials:** As the base boss, plus a Vetala-Spirit residue (a rare Black reagent) if the binding spirit itself is unmade rather than merely the body re-felled.
+
+#### 17. Dracolich *(apex)*
+**Environments:** a corrupted dragon's lair, a necropolis grand enough to hold it, the tomb of a dragon that refused to die.
+
+**Description:** The apex of the Black set — an undead dragon, a great wyrm that cheated death by binding its own soul, now a vast skeleton hung with tatters of rotted hide and wing, cold light burning where its eyes were. It is formed, in the old magic, by binding **Vas + Draco + Mortuus** — the greater dragon-corpse and the word of undeath together — and it keeps a dragon's intellect, pride, and power, stripped of everything but the will to endure.
+
+**Behaviors:** Guards its lair and its bound soul with a dragon's cunning and a lich's patience, commanding lesser dead and fighting with breath, claw, and dread. It has a dragon's arrogance and a dead thing's fearlessness both, and like a lich it is tethered to a hidden vessel that holds its soul — destroy the dracolich and it reforms unless that vessel is first unmade.
+
+**Threats & Defenses:** Its breath is a blast of necrotic energy that drains vitality across a wide area (damaging the living and, at higher tiers, healing the dracolich), on top of claw, bite, and wing-buffet (knockback). Immune to Poison and Disease, resistant to Fear and control; its skeletal frame ignores the bleeding and fear that living dragons feel. Its true defense is its bound soul — like a lich's phylactery, it must be found and destroyed for the death to hold. *(A Vetala-ridden dracolich — a death-spirit riding an undead dragon's corpse — is the natural apex dual-boss, per entry 16.)*
+
+**Statistics** *(tiers are the remnant power of the dragon it was raised from — Lesser / Greater / Elder / Ancient):*
+| Stat | Lesser (Weak) | Greater (Normal) | Elder (Strong) | Ancient (Boss) |
+|---|---|---|---|---|
+| Str | 15 | 25 | 44 | 100 |
+| Dex | 7 | 12 | 21 | 48 |
+| Con | 14 | 24 | 42 | 96 |
+| Int | 9 | 15 | 26 | 60 |
+| Wis | 8 | 14 | 25 | 56 |
+| Luck | 7 | 11 | 19 | 44 |
+| End | 13 | 22 | 39 | 88 |
+
+**Attack Patterns:** Base bite, claw, and **Wing-Buffet** (knockback). Signature — **Necrotic Breath**: a wide blast that drains vitality (damages the living; self-heals at higher tiers). Commands lesser dead. Reactive — **Bound Soul**: reforms unless its hidden vessel is destroyed.
+
+**Materials:** Dragon Bone and rotted Scale (potent Black crafting materials), a Soul-Vessel (the apex Black reagent and the key to its true death), and the undying hoard it guards.
