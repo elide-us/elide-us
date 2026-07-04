@@ -262,15 +262,21 @@ Shapes are an integral part of spellcasting, defining how the magic interacts wi
 
 > **[OPEN QUESTION]** The exact ring count beyond the 4th/7th anchors below, and the per-ring vocabulary/complexity unlock table, are unratified. (Ledger B92EE74A.)
 
-- **At the 4th ring**, a mage gains access to the two shapes from their synergy schools. These are the schools adjacent to their primary school in the synergy cycle. For example, a mage specializing in **White (Life Magic)** would gain access to the shapes of **Yellow (Lightning Magic)** and **Green (Nature Magic)** at the 4th ring. *[Deprecated label: per the 2026-07-02 "Life is Green" ruling (Book V, Canon Rulings), White is Light and Prophecy only — "White (Life Magic)" is a Life/Light conflation retained pending revision. Ledger 62E81F6F.]*
+- **At the 4th ring**, a mage gains access to the two shapes from their synergy schools. These are the schools adjacent to their primary school in the synergy cycle. For example, a mage specializing in **White (Light and Prophecy Magic)** would gain access to the shapes of **Yellow (Lightning and Air Magic)** and **Green (Life and Earth Magic)** at the 4th ring. 
 
-- **At the 7th ring**, mages unlock access to the shapes from the synergy schools of their secondary schools. Continuing the **White (Life Magic)** example, at the 7th ring, the mage would gain access to the shapes of **Red (Fire Magic)** and **Blue (Water Magic)**. *[Same deprecated "White (Life Magic)" label — see the note on the 4th-ring entry above.]*
+- **At the 7th ring**, mages unlock access to the shapes from the synergy schools of their secondary schools. Continuing the **White (Light and Prophecy Magic)** example, at the 7th ring, the mage would gain access to the shapes of **Red (Fire and Blood Magic)** and **Blue (Water and Illusion Magic)**.
 
 - **Black (Death Magic)** is unique in that it does not participate in this synergy system. Instead, Black mages have special gameplay mechanics that allow them to unlock shapes through other means, maintaining their distinct approach to magic.
 
-In the full synergy cycle—**White -> Yellow -> Red -> Orange -> Black -> Blue -> Green**—Black is excluded from the ring-based synergy progression. For example, an **Orange (Chaos Magic)** mage would gain access to the shapes of **Red (Fire Magic)** and **Blue (Water Magic)** at the 4th ring, bypassing Black entirely.
+In the full synergy cycle—**White → Yellow → Red → Orange → Black → Blue → Green**, the perimeter ring of the **septisigil** (see `septisigil.svg`)—Black is excluded from the ring-based synergy progression. For example, an **Orange (Chaos Magic)** mage would gain access to the shapes of **Red (Fire Magic)** and **Blue (Water Magic)** at the 4th ring, bypassing Black entirely.
 
-> **[OPEN QUESTION]** Two orderings coexist and are not reconciled: this synergy cycle (White → Yellow → Red → Orange → Black → Blue → Green) and Book V's school genealogy (White → Black/Orange → Green/Yellow → Red/Blue). Canon further rules that Black combines with nothing (Book V, Canon Rulings; the reasons live in Book VI) — consistent with this section's own bypass rule and with the Specialty Domain pairings below, which trace a six-school loop (White–Yellow–Red–Orange–Blue–Green) with Black apart, but in tension with a stated cycle that seats Black between Orange and Blue. Unresolved. (Ledger 244A27FF.)
+**The two orderings are the two layers of the septisigil** (resolved 2026-07-04, ledger 244A27FF; the figure is `septisigil.svg`). The synergy cycle and Book V's school genealogy were never a single ordering in conflict — they are two different systems drawn on the same seven-pointed sigil, which is why both are true at once:
+
+- **The synergy cycle is the sigil's perimeter ring** — the seven schools set around a heptagon, clockwise from White at the crown: **White → Yellow → Red → Orange → Black → Blue → Green**, and back to White. This governs *magic mechanics*: ring-based shape access and school adjacency. Black holds its seat on the ring but is **bypassed** by the synergy progression — which is precisely what "Black combines with nothing" means in this system. (Removing Black leaves the six-school working loop the Specialty Domains trace.)
+
+- **The genealogy is the sigil's inner weave** — the lines struck across the figure: White→Black and White→Orange; Black→Green and Orange→Yellow; Green→Red and Yellow→Blue. This governs *cosmology* (Books V–VI): the descent of the colors, in two lineages from White — the **Black line** (Black → Green → Red) and the **Orange line** (Orange → Yellow → Blue), matching the creation myth in which chaos gives rise to air-and-lightning and thence to water, and death gives rise to earth-and-life and onward.
+
+Because the two systems describe different relationships — mechanical adjacency versus cosmological descent — they coexist by design. Black is a genealogical *parent* on the weave (death gives rise to life) yet combines with nothing on the *ring*; there is no contradiction between the two. (Closes ledger 244A27FF.)
 
 ---
 
