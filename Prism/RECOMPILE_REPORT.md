@@ -288,6 +288,8 @@ Book II's two citations of these collisions (adjective-quality, noun-residency) 
 
 **Queue effect:** none (bestiary content).
 
+**Round 20 (2026-07-04): Yellow (Air/Lightning) roster.** Third color set, 19 entries in the full template (`8B5930F9`). Theme: storm and sky, on a windswept storm-steppe biome. Animals: Falcon, Wild Horse, Pronghorn, Crane, Grouse, Marmot, Cheetah. Monsters: Harpy, Griffin, Hippogriff, Wyvern, Cockatrice (petrifying peck via Root→Stun, distinct from Orange's gaze-based Basilisk), Storm Elemental, Cloud Giant (Weapons/Armor), Skyborn Marauder (armed winged humanoids, Weapons/Armor). Terrors: Roc, Storm Giant, Thunderbird (the global-mythology survivor converging here), Yellow Dragon (apex, age tiers, chain lightning). Elideus flagged a developing biome-coverage gap across the sets but chose to fill it later with additional sets. Remaining: Red, Blue, Green, Black.
+
 ---
 
 *Ledger conventions, all entry GUIDs, and full finding bodies live in the Oracle thread `prism-bible-recompile`. Books remain internally honest: every unsourced claim is marked, every fork is cited, nothing was invented.*

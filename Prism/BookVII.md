@@ -1047,3 +1047,498 @@ The First Titan's Laboratory: aberration, mutation, and things assembled wrong o
 **Attack Patterns:** Base bite and claw, sequenced unpredictably. Signature — **Chaos Breath**: a cone that Confounds and warps (Poison-plus-Sunder to the body); at Elder and Ancient tiers, a second breath variant briefly turns a target's own strengths against it.
 
 **Materials:** Ever-shifting Scales (chaos-aligned, armor-grade), Claws, Teeth, a Mutable Heart (rare transmutation reagent, Ancient tier only).
+
+---
+
+## Yellow — Air and Lightning
+
+Storm and open sky. The animals are ordinary fauna of windswept storm-steppe — high open plains, big skies, grass bent flat under the wind — while the monsters and terrors are the things that own the air above it: winged predators, storm-born elementals, and the great fliers that treat the ground as nothing but a place their prey can't escape to.
+
+### Animals
+
+#### 1. Falcon
+**Environments:** open sky over plains and mesas.
+
+**Description:** A compact, sharp-winged raptor built for speed rather than soaring, its plumage barred in browns and grays that vanish against a cloudy sky. Where an eagle circles and waits, a falcon climbs and stoops, killing with the shock of the dive itself.
+
+**Behaviors:** Hunts alone or in a mated pair from great height, folding into a near-vertical dive the instant it commits to a target below. Largely indifferent to anything too big to take, but fiercely defensive of a nest, harrying intruders with repeated stoops until they leave.
+
+**Threats & Defenses:** A stooping strike hits with real force for its size and can inflict a brief Expose, but it poses no danger to anything human-sized. Fast and hard to catch in the air; fragile and near-helpless once grounded.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 6 | 4 | 11 | 24 |
+| Dex | 17 | 10 | 30 | 68 |
+| Con | 7 | 4 | 12 | 28 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 9 | 5 | 16 | 36 |
+
+**Attack Patterns:** Signature — **Stoop**: a near-vertical dive-strike (Expose on a solid hit) that trades everything for the force of the drop. Motion variant only — it does not fight from a standstill.
+
+**Materials:** Feathers (prized for fletching), Talons, Beak.
+
+#### 2. Wild Horse
+**Environments:** open steppe, grass plains.
+
+**Description:** A hardy, unshod herd animal of the open grasslands, coarse-coated and heavier-boned than any tamed breed, ranging in bands wherever the grass and water hold out. Constant exposure to predators has left it perpetually alert and quick to run.
+
+**Behaviors:** Moves in bands led by a dominant mare, grazing in the open with sentries always watching, and breaks into headlong flight at the first real sign of danger. Stallions will fight rivals and, cornered, will fight a predator — but flight is always the first answer.
+
+**Threats & Defenses:** A cornered horse kicks with both hind legs hard enough to break bone (a stance-breaking knockback, Sunder-lite), and bites. Its true defense is speed and stamina over open ground, where almost nothing runs it down.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 13 | 8 | 23 | 52 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 12 | 7 | 21 | 48 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Signature — **Kick**: a two-legged rear kick (knockback) delivered only when flight is cut off. Base bite as a lesser fallback.
+
+**Materials:** Hide, Mane and tail hair, Meat, Bone; a living wild horse can also be captured and broken to use as a mount.
+
+#### 3. Pronghorn
+**Environments:** open plains, dry grassland.
+
+**Description:** A slender, pale-flanked grazer with short forked horns and enormous lungs, built to run at a flat sprint for longer than anything hunting it can sustain. It does not hide; it simply outdistances the problem.
+
+**Behaviors:** Grazes in scattered herds across open ground with clear sightlines in every direction, relying on early sight of a threat and sheer sustained speed rather than cover. Bolts at the first movement it distrusts and does not stop for a long way.
+
+**Threats & Defenses:** No meaningful offense. Its defense is running — among the fastest and most tireless things on the plains, effectively impossible to run down over distance.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 8 | 5 | 14 | 32 |
+| Dex | 16 | 10 | 28 | 64 |
+| Con | 10 | 6 | 18 | 40 |
+| Int | 3 | 2 | 5 | 12 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** None. **Sprint Flight** — sustained flat-out running that no plains predator matches over distance.
+
+**Materials:** Hide, Horns, Meat.
+
+#### 4. Crane
+**Environments:** wet meadows, marsh edges, open sky between.
+
+**Description:** A tall, long-legged wading bird with a spear of a beak and a broad soaring wingspan, pale-plumaged and stately on the ground, tremendous in the air. It migrates in great calling flocks across the open sky.
+
+**Behaviors:** Feeds in shallows and wet grass in loose gatherings, always with sentries, and takes to the air in unison at any real disturbance. Solitary breeding pairs defend a nest more stubbornly, jabbing with the beak at anything that presses too close.
+
+**Threats & Defenses:** A defensive beak-jab can put out an eye but threatens little else. Its relevance is as a sentinel — a flock erupting into the air marks a disturbance for a long way across open country.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 5 | 3 | 9 | 20 |
+| Dex | 13 | 8 | 23 | 52 |
+| Con | 7 | 4 | 12 | 28 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 9 | 5 | 16 | 36 |
+
+**Attack Patterns:** Signature — **Beak Jab**: a defensive stab at the face, used only to protect a nest.
+
+**Materials:** Feathers, Meat, thin hollow Bone (used in flutes and fletching).
+
+#### 5. Grouse
+**Environments:** scrub, tall grass, brushy plains.
+
+**Description:** A plump, ground-dwelling fowl mottled in browns that make it nearly invisible against dead grass and scrub, until it panics. It spends most of its life walking and pecking, flying only when it must.
+
+**Behaviors:** Holds absolutely still when a threat approaches, trusting its camouflage to the last possible instant, then explodes into loud, clattering flight in a short burst that startles predator and traveler alike before dropping back to cover a short distance on.
+
+**Threats & Defenses:** No offense at all. Its sudden thunderous flush is purely a startle defense — enough to buy the half-second it needs to break line of sight.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 4 | 2 | 7 | 16 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 6 | 4 | 11 | 24 |
+| Int | 2 | 1 | 4 | 8 |
+| Wis | 7 | 4 | 12 | 28 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 7 | 4 | 12 | 28 |
+
+**Attack Patterns:** None. **Flush** — a sudden, loud burst-flight from cover; startling, not harmful.
+
+**Materials:** Feathers, Meat (common game bird).
+
+#### 6. Marmot
+**Environments:** high steppe, rocky slopes, burrow colonies.
+
+**Description:** A stout, thick-furred burrowing rodent the size of a small dog, living in extended colonies riddled through the high open ground. Its shrill alarm whistle carries across the whole slope.
+
+**Behaviors:** Forages near its burrow mouths in daylight with sentries posted on high rocks, and at the first alarm whistle the entire colony vanishes underground within seconds. It fights nothing; its whole strategy is warning and retreat.
+
+**Threats & Defenses:** No offense beyond a cornered nip. Its shrill alarm, though, gives away everything moving through the area — a colony's sudden silence and disappearance is itself a sign that something is coming.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 4 | 2 | 7 | 16 |
+| Dex | 11 | 7 | 19 | 44 |
+| Con | 8 | 5 | 14 | 32 |
+| Int | 3 | 2 | 5 | 12 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 9 | 5 | 16 | 36 |
+
+**Attack Patterns:** None. **Alarm Whistle** — a piercing colony-wide warning that scatters every marmot underground.
+
+**Materials:** Pelt (warm fur), Meat, Fat (rendered for oil).
+
+#### 7. Cheetah
+**Environments:** open plains, short grass.
+
+**Description:** A lean, long-legged cat built entirely for the sprint, its spotted coat close and light, its frame too slight for a stand-up fight and too fast for anything on the plains to escape over a short distance. Everything about it is spent on the first two hundred yards.
+
+**Behaviors:** Stalks to within a short dash of its prey across open ground, then commits to a single explosive sprint, tripping the target with a foreleg and pinning it. If the sprint fails or overheats it, it gives up at once — it cannot afford a prolonged chase or fight.
+
+**Threats & Defenses:** The sprint-and-trip is the whole of its danger; a hit knocks a target off its feet (knockback) and pins it for the killing bite. Fragile and quickly exhausted — anything that survives the opening rush and stands its ground has the clear advantage.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 12 | 7 | 21 | 48 |
+| Dex | 18 | 11 | 32 | 72 |
+| Con | 10 | 6 | 18 | 40 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 11 | 7 | 19 | 44 |
+
+**Attack Patterns:** Signature — **Sprint & Trip**: a single committed sprint ending in a foreleg trip (knockback) and pinning bite; disengages immediately if it fails.
+
+**Materials:** Spotted Hide, Claws, Fangs, Meat.
+
+---
+
+### Monsters
+
+#### 8. Harpy
+**Environments:** cliff roosts, ruins, isolated crags above the plains.
+
+**Description:** A foul hybrid of woman and carrion bird — a filth-matted human face and torso above a bird's clawed legs and ragged wings, roosting in reeking colonies among the high rocks. Its voice, unaccountably, is beautiful, which is the entire trap.
+
+**Behaviors:** Sings from its roost to lure travelers off safe ground toward the cliffs and their nests, then falls on the entranced and the fallen together. Cowardly against anything that resists the song and fights back, but relentless against prey it has already snared.
+
+**Threats & Defenses:** Its song functions as Charm, drawing victims toward it, edging into Confound at close range as the beauty curdles into a disorienting shriek. In the air it rakes with its claws. It has little stomach for a fair fight — break the song's hold and it loses much of its advantage.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 10 | 6 | 18 | 40 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 11 | 7 | 19 | 44 |
+| Int | 8 | 5 | 14 | 32 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 12 | 7 | 21 | 48 |
+
+**Attack Patterns:** Signature — **Luring Song**: a sustained Charm that draws targets toward it, shifting to a Confounding shriek up close. Base claw-rake from a diving pass.
+
+**Materials:** Feathers (foul, low value), Talons; its roost often holds the picked-over gear and coin of past victims.
+
+#### 9. Griffin
+**Environments:** high crags, cliff eyries above open country.
+
+**Description:** A powerful predator with the head, foreclaws, and wings of a great eagle joined to the muscled hindquarters of a lion — a fusion old enough to breed true, and proud in a way that reads almost as nobility. It nests on the highest crags and hunts the plains below.
+
+**Behaviors:** Hunts from the air with patience and real intelligence, striking from the sun and carrying off prey to its eyrie. Fiercely territorial and protective of its young, but not needlessly aggressive; a griffin that isn't hunting or defending its nest will often simply watch. It can be tamed from the nest with great difficulty, and bonds for life when it is.
+
+**Threats & Defenses:** A diving strike with beak and both foreclaws hits hard enough to Sunder armor and knock a rider from the saddle. Strong, fast, and clever enough to break off and re-engage on its own terms rather than commit to a losing fight. Resists Fear.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 17 | 10 | 30 | 68 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 15 | 9 | 26 | 60 |
+| Int | 7 | 4 | 12 | 28 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 15 | 9 | 26 | 60 |
+
+**Attack Patterns:** Signature — **Diving Rake**: a stoop with beak and foreclaws (Sunder on a solid hit, knockback to riders). Stationary variant: a rearing double-claw strike on the ground. Motion variant: a full aerial stoop from height.
+
+**Materials:** Feathers (large, prized), Beak, Claws, Pelt (lion-hindquarter hide); a nestling can be raised as a bonded flying mount.
+
+#### 10. Hippogriff
+**Environments:** open highlands, cliff meadows.
+
+**Description:** A hybrid of eagle and horse — the head, wings, and taloned forelegs of a raptor on the body and hind hooves of a horse — swifter and far simpler in temperament than the griffin it superficially resembles. Where the griffin schemes, the hippogriff mostly just flies and eats.
+
+**Behaviors:** Grazes and hunts both, ranging widely over open highland in small groups, and takes flight readily from any threat rather than confronting it. Less territorial and less clever than a griffin, and correspondingly easier to tame — the common flying mount where griffins are too proud or too rare.
+
+**Threats & Defenses:** Slashing foretalons and a hard kick from the hind hooves (knockback). It would rather flee than fight and takes to the air at the first opening, but a cornered or nest-guarding hippogriff strikes hard and fast.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 15 | 9 | 26 | 60 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 14 | 8 | 25 | 56 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Signature — **Talon-and-Hoof**: a diving foretalon slash followed by a landing kick (knockback). Prefers to disengage into flight afterward.
+
+**Materials:** Feathers, Talons, Hide, Hooves; commonly captured young and raised as a flying mount.
+
+#### 11. Wyvern
+**Environments:** crags, ruins, high lonely roosts.
+
+**Description:** A lesser cousin of true dragons — a winged reptile with a single pair of clawed legs, a long lashing tail tipped with a venom barb, and none of a dragon's intelligence or breath. It is all wings, teeth, hunger, and that poisoned sting.
+
+**Behaviors:** Hunts on the wing over its territory and attacks nearly anything it can carry off or bring down, without caution or cleverness. Solitary and aggressive, it commits to a fight readily and relies on wearing prey down with the venom rather than winning outright at first strike.
+
+**Threats & Defenses:** Bites and claws in passing, but the real danger is the tail-barb, which drives home a potent Poison. It fights until badly hurt rather than fleeing early, trusting the venom to finish what its jaws start. No breath weapon and no great cunning — a wyvern can be outmaneuvered in a way a dragon cannot.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 17 | 10 | 30 | 68 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 15 | 9 | 26 | 60 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 15 | 9 | 26 | 60 |
+
+**Attack Patterns:** Base bite and claw on a flying pass. Signature — **Tail Sting**: a whipping barb-strike that inflicts Poison. Stationary variant: an overhead tail-stab from a perched crouch. Motion variant: a strafing bite-and-sting in a single pass.
+
+**Materials:** Scaled Hide, Venom Gland (potent alchemy reagent), Barb, Teeth, Wing-leather.
+
+#### 12. Cockatrice
+**Environments:** ruins, rubble, dry scrub, old roosts.
+
+**Description:** A small, ugly creature the size of a large rooster — a feathered bird's body with a lizard's tail and leathery wings, and a wattled, cruel-eyed head. Unremarkable to look at, which is exactly why the petrified figures around its roost catch travelers by surprise.
+
+**Behaviors:** Skittish and quarrelsome, it flaps and pecks at anything that crowds it rather than hunting deliberately. It is not the gaze but the bite that does the work — a solid peck begins turning flesh to stone, and the cockatrice simply harasses until one lands.
+
+**Threats & Defenses:** Its peck inflicts a creeping petrification — a Root that deepens toward full Stun if the wound isn't treated quickly. Physically feeble and easily killed once cornered; the danger is entirely in taking a bite before then, especially from a flock of several.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 7 | 4 | 12 | 28 |
+| Dex | 13 | 8 | 23 | 52 |
+| Con | 9 | 5 | 16 | 36 |
+| Int | 3 | 2 | 5 | 12 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 9 | 5 | 16 | 36 |
+
+**Attack Patterns:** Signature — **Petrifying Peck**: a darting bite that Roots and, untreated, escalates to Stun (petrification). Fights by harassment, flapping in and out rather than committing.
+
+**Materials:** Feathers, Petrifying Gland (rare alchemy/enchanting reagent — smaller and weaker than a basilisk's).
+
+#### 13. Storm Elemental
+**Environments:** storm fronts, high ridges, wherever wind and lightning gather.
+
+**Description:** A living knot of howling wind and crackling charge, bodied only as a churning column of cloud, dust, and forking light. It has no face and no fixed shape, roughly man-high to towering depending on the weather feeding it, and it moves with the storm rather than against it.
+
+**Behaviors:** Drawn to open high ground and active weather, it lashes out at anything that intrudes on the storm it rides, without malice or strategy — it simply discharges. It cannot be reasoned with, frightened, or lured, and it weakens and disperses as the weather feeding it fades.
+
+**Threats & Defenses:** Its touch and its hurled bolts inflict Stun (the shock of the lightning) and its winds knock targets from their feet (knockback, Sunder-lite to stance). Having no body or mind, it is immune to Fear, Panic, Charm, Poison, and most physical harm — it must be dispersed or its weather broken rather than simply cut down.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 14 | 8 | 25 | 56 |
+| Dex | 16 | 10 | 28 | 64 |
+| Con | 14 | 8 | 25 | 56 |
+| Int | 6 | 4 | 11 | 24 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 16 | 10 | 28 | 64 |
+
+**Attack Patterns:** Signature — **Shock Bolt**: a hurled bolt inflicting Stun. **Gale**: a close-range wind burst that knocks targets back and off-balance. Immaterial — no melee weakness to exploit, only dispersal.
+
+**Materials:** None as a corpse; a dispersed elemental sometimes leaves a Stormheart (rare Yellow-aligned reagent) where it grounded.
+
+#### 14. Cloud Giant
+**Environments:** high mountaintops, cloud-wreathed peaks, remote strongholds.
+
+**Description:** A towering giant, pale-skinned and cloud-haired, dwelling at the very tops of the mountains where the air thins and the clouds gather. Aloof and proud, it regards the world below as a distant and largely uninteresting thing — which does not make it any less dangerous when roused.
+
+**Behaviors:** Keeps to its high holdfast and troubles the lands below rarely and on its own terms, more given to disdain than aggression. It prefers to drive off intruders with hurled stone from a distance rather than close, and treats most who reach it as beneath a real fight — until they prove otherwise.
+
+**Threats & Defenses:** Hurls boulders with devastating force at range (heavy knockback, Sunder), and in melee its sheer strength and reach overwhelm. It commands the thin high air enough to buffet foes off balance. Its pride is the opening — it underestimates smaller foes until the fight is already joined.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 22 | 13 | 39 | 88 |
+| Dex | 10 | 6 | 18 | 40 |
+| Con | 19 | 11 | 33 | 76 |
+| Int | 9 | 5 | 16 | 36 |
+| Wis | 12 | 7 | 21 | 48 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 18 | 11 | 32 | 72 |
+
+**Attack Patterns:** Signature — **Boulder Throw**: a hurled stone at long range (Sunder, knockback). Base greatclub or fist smash in melee. **Buffeting Wind**: a gust that staggers approaching foes.
+
+**Materials:** Giant Hide, Bone, and whatever wealth its holdfast has accumulated over a long life.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Giant's Greatclub | An oversized club or hewn-stone maul; usable only as a two-handed heavy weapon by the strongest, or as crafting material. |
+
+**Armor:** Crude oversized hides and plate; not wearable as-found, but valuable salvage.
+
+#### 15. Skyborn Marauder
+**Environments:** cliff aeries, high ruins, raiding the plains below.
+
+**Description:** Winged humanoids — lean, feather-crested, hollow-boned — who nest in inaccessible aeries and raid the settlements and travelers of the open plains from above. They carry spears and short bows suited to fighting on the wing, and prize bright metal and worked goods above all.
+
+**Behaviors:** Raid in coordinated flights, diving to strike and climbing away before a counter can land, and retreating entirely if a target proves too well-defended. They are intelligent, tribal, and territorial, quick to swarm an isolated party and quicker to break off against a strong one. They can sometimes be parleyed with, if approached carefully and paid well.
+
+**Threats & Defenses:** Fight with thrown spears and arrows from the air (Expose on solid hits) and dive to strike in melee before climbing out of reach. Their strength is mobility and numbers, not durability — grounded or isolated, an individual marauder is no match for a trained fighter.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 12 | 7 | 21 | 48 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 12 | 7 | 21 | 48 |
+| Int | 10 | 6 | 18 | 40 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 10 | 6 | 18 | 40 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Signature — **Diving Strike**: a spear-thrust or bowshot on a diving pass, climbing back out of reach immediately. **Hit-and-Away**: a flight coordinates strikes from several angles, none committing to melee.
+
+**Materials:** Feathers, and the coin and worked goods a raider carries; its aerie holds accumulated plunder.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Wing-Spear | A light throwing spear balanced for use on the wing. |
+| Short Bow | A compact bow suited to firing in flight. |
+
+**Armor:**
+| Drop | Notes |
+|---|---|
+| Feathered Harness | Light leather-and-feather armor; wearable, favors mobility over protection. |
+
+---
+
+### Terrors / Named Bosses
+
+#### 16. Roc
+**Environments:** the highest peaks, open ocean sky, remote colossal eyries.
+
+**Description:** A bird of prey grown to impossible scale — wings that darken the ground beneath them like a passing cloud, talons that can close around a horse and its rider together. It nests on the loneliest high crags, and its passing is felt as a sudden wind and a shadow before it is ever seen.
+
+**Behaviors:** Hunts the largest prey the land offers, stooping from such height that the strike arrives almost before the shadow, and carrying whole animals — or people — back to its eyrie. Territorial over an enormous range and utterly unafraid of anything that walks, it treats an armed party as simply more prey.
+
+**Threats & Defenses:** A single stoop can snatch a target off the ground entirely (a grappling Root that carries them into the air) or crush it under taloned impact (heavy knockback, Sunder). Its wingbeats alone stagger those beneath it. Enormous durability; the only reliable approach is to keep it from getting a clean grip and to punish it when it lands.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 20 | 12 | 35 | 80 |
+| Dex | 13 | 8 | 23 | 52 |
+| Con | 18 | 11 | 32 | 72 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 18 | 11 | 32 | 72 |
+
+**Attack Patterns:** Signature — **Snatch**: a diving talon-grab that Roots and lifts a target off the ground. **Talon Slam**: a crushing stoop (Sunder, knockback). **Wing Buffet**: a downdraft that staggers everything beneath it.
+
+**Materials:** Colossal Feathers, Talons, Beak, Hide; an egg or nestling, if one could ever be taken, would be beyond price.
+
+#### 17. Storm Giant
+**Environments:** cloud-castles, thunderhead-wreathed peaks, the eye of great storms.
+
+**Description:** The greatest and most storied of the giants — vast, grave, and wreathed in the weather it commands, its skin the color of storm-light, its voice the roll of distant thunder. Where a cloud giant merely lives among the clouds, a storm giant rules them.
+
+**Behaviors:** Solitary and remote, dwelling at the heart of the storms it shapes, and rarely concerned with the affairs below — but implacable and overwhelming when finally roused. It fights with deliberation rather than fury, calling the storm itself against intruders as readily as it swings a blade.
+
+**Threats & Defenses:** Commands weather directly — calling down lightning that Stuns, winds that scatter and knock back, and thunderclaps that Confound — on top of a giant's crushing strength and reach. Resists Fear and control effects. Its remoteness is the only mercy: it must be sought out, and it does not pursue beyond its storm.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 24 | 14 | 42 | 96 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 21 | 13 | 37 | 84 |
+| Int | 12 | 7 | 21 | 48 |
+| Wis | 14 | 8 | 25 | 56 |
+| Luck | 10 | 6 | 18 | 40 |
+| End | 20 | 12 | 35 | 80 |
+
+**Attack Patterns:** Signature — **Call Lightning**: a summoned strike inflicting Stun on a target and those near it. **Thunderclap**: an area Confound. Base greatsword or fist in melee, with a **Storm-Wind** knockback to clear space.
+
+**Materials:** Giant Hide, Bone, a Storm-Heart (rare Yellow-aligned reagent), and the treasures of a cloud-castle.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Storm-Etched Greatsword | A giant's blade veined with fixed lightning; wieldable only by the strongest, or reforged down. |
+
+#### 18. Thunderbird
+**Environments:** the heart of the greatest storms, high sacred peaks, open storm-sky.
+
+**Description:** A vast raptor that is less an animal than a storm given wings and will — its wingbeats *are* the thunder, and lightning forks in the wake of its passage. Older stories treat it as a spirit of the storm itself rather than a creature that merely lives in one, and nothing about it argues otherwise.
+
+**Behaviors:** Rides the great storms and answers intrusion into them with the storm's own violence, wheeling through the thunderheads and striking with talon and bolt together. It is proud, remote, and vastly powerful, and treats those who challenge it in its element as trespassers to be scoured from the sky.
+
+**Threats & Defenses:** Every strike carries the storm — talon-blows that Stun with discharged lightning, wingbeat thunderclaps that Confound and knock back, and forked bolts that leap between grouped targets. Resists Fear, Charm, and most control. It fights within its storm, where the weather itself is a weapon on its side.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 18 | 11 | 32 | 72 |
+| Dex | 16 | 10 | 28 | 64 |
+| Con | 16 | 10 | 28 | 64 |
+| Int | 8 | 5 | 14 | 32 |
+| Wis | 12 | 7 | 21 | 48 |
+| Luck | 11 | 7 | 19 | 44 |
+| End | 17 | 10 | 30 | 68 |
+
+**Attack Patterns:** Signature — **Thunder Wing**: a wingbeat thunderclap (Confound, knockback). **Chain Bolt**: forked lightning that Stuns and leaps between nearby targets. Base talon-rake carrying a shock (Stun) on a diving pass.
+
+**Materials:** Storm-charged Feathers (potent Yellow reagent), Talons, a Thunder-Heart (rare — the storm bound into a fragment).
+
+#### 19. Yellow Dragon *(apex)*
+**Environments:** storm-wracked peaks, high open sky, thunderhead lairs.
+
+**Description:** The apex predator of the Yellow set — a great dragon of the storm-skies, lean and long-winged compared to its earthbound kin, its scales the yellow-white of a lightning flash and its lair always where the weather is worst. Like most dragons it grows into its power across a very long life, and the storms seem to deepen around it as it ages.
+
+**Behaviors:** Territorial over a vast reach of sky and quick to punish intrusion, it fights on the wing by preference, striking and climbing out of reach rather than grappling on the ground. It is intelligent and patient in the way of dragons, using the storm and the height it lives in as advantages a grounded foe cannot answer.
+
+**Threats & Defenses:** Its breath is a searing bolt of lightning that Stuns whatever it strikes, arcing to nearby targets at higher tiers. Beyond the breath it fights with claw, bite, and wing-driven wind (knockback). Resists Fear and control effects; its preference for fighting from the air is its strongest defense.
+
+**Statistics** *(tiers are age — Young / Adult / Elder / Ancient):*
+| Stat | Young (Weak) | Adult (Normal) | Elder (Strong) | Ancient (Boss) |
+|---|---|---|---|---|
+| Str | 14 | 24 | 42 | 96 |
+| Dex | 9 | 15 | 26 | 60 |
+| Con | 13 | 22 | 39 | 88 |
+| Int | 7 | 12 | 21 | 48 |
+| Wis | 7 | 12 | 21 | 48 |
+| Luck | 7 | 11 | 19 | 44 |
+| End | 12 | 20 | 35 | 80 |
+
+**Attack Patterns:** Base bite, claw, and **Wing-Wind** (knockback). Signature — **Lightning Breath**: a bolt inflicting Stun; at Elder and Ancient tiers it chains to nearby targets.
+
+**Materials:** Storm-Scales (armor-grade, Yellow-aligned), Claws, Teeth, a Charged Heart (rare Yellow reagent, Ancient tier only).
