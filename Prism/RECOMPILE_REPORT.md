@@ -268,4 +268,12 @@ Book II's two citations of these collisions (adjective-quality, noun-residency) 
 
 ---
 
+**Round 17 (2026-07-04): White's roster corrected; Book VII cleaned up.** Elideus rejected the first White roster as "too ham, too campy... angelic tier stuff... critters and animals is way too extra" (`E8323659`). Replaced with 18 plainer entries: 7 ordinary-wildlife critters (Mountain Goat, Snow Hare, Highland Eagle, Pale Wolf, White Owl, Snow Leopard, Mountain Ram), 8 classic monsters (Pegasus, Unicorn, Sphinx, Couatl, Will-o-Wisp, Radiant Guardian, Cursed Oracle, Hollow Zealot), 3 boss/terror (Temple Sentinel, Mad Prophet, White Dragon) — locked in.
+
+**Standing cleanup instruction:** once a section's actual content demonstrates the pattern, drop the decision/guidance detail from the book itself (it stays here and in Oracle memory) and keep only generic theme/intent prose. Applied this pass: the "Fifteen Categories" section trimmed to a short Color Ownership table; the global-mythology Archetype Matrix list cut to three generic Cross-Cutting Rules plus the still-load-bearing Golems/Megalith Guardians mechanic; the Biome Seeding Table's multi-correction history collapsed to a short stub. Apply the same trim to each remaining color as it's written.
+
+**Queue effect:** none (bestiary content, not ledger contradictions). Sets the cleaned-up baseline the remaining six color rosters (Yellow, Red, Orange, Blue, Green, Black) build from.
+
+---
+
 *Ledger conventions, all entry GUIDs, and full finding bodies live in the Oracle thread `prism-bible-recompile`. Books remain internally honest: every unsourced claim is marked, every fork is cited, nothing was invented.*

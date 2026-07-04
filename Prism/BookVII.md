@@ -1,219 +1,96 @@
 # VII. Bestiary
 
-This book records the creatures of Prism: the fifteen Principality categories they belong to, the archetype system that lets one creature-kind recur across several categories, and the tonal register the whole bestiary is written in. It resolves the document-placement question left open in Book II (ledger B4F9A3AC) — the bestiary lives here, not as a subsection of Book II or Book V. Book II's Placement and Monster Recruitment section retains the biome-seeding and recruitment-gating mechanics; this book owns creature taxonomy and content.
+This book records the creatures of Prism, organized into seven color-based sets plus a separate Inverted (psionics) bucket — roughly twenty creatures per color, critters through boss-tier terrors. The register is traditional high fantasy with a gothic edge: recognizable monster-manual staples (undead, dragons, giants, goblins and kin) reskinned toward decay and dread rather than exotic invention. This book owns creature taxonomy and content; Book II's Placement and Monster Recruitment section owns biome-seeding and recruitment-gating mechanics.
 
 ---
 
-## Tone (Canon Ruling, ledger C3D46D10)
+## Tone
 
-The bestiary is **gothic horror, Dark Souls–style** — not high-fantasy-tame. Elideus, rejecting a first pass: "too tame... too World of Warcraft." Classic dungeon-crawl creature types (goblins, orcs, kobolds, liches, ghosts, slimes, beholders, lizardmen) are the right vocabulary, but every entry is reskinned toward decay, body horror, corruption, and grimness rather than generic adventure-fantasy flavor. This governs every category below, without exception.
-
----
-
-## The Fifteen Categories
-
-Fourteen categories are the Domains already established in Book V (two per color, seven colors); the fifteenth, Inverted, stands outside the color system entirely and belongs to Psionics.
-
-| # | Domain | Color | Principality |
-|---|---|---|---|
-| 1 | Light | White | Principality of White |
-| 2 | Prophecy | White | Principality of White |
-| 3 | Air | Yellow | Human (mortal Principality) |
-| 4 | Lightning | Yellow | Human (mortal Principality) |
-| 5 | Fire | Red | Human (mortal Principality) |
-| 6 | Blood | Red | Human (mortal Principality) |
-| 7 | Chaos | Orange | First Titan (the Two-Faced God) |
-| 8 | Transformation | Orange | First Titan (the Two-Faced God) |
-| 9 | Water | Blue | Human (mortal Principality) |
-| 10 | Illusion | Blue | Human (mortal Principality) |
-| 11 | Earth | Green | Human (mortal Principality) |
-| 12 | Life | Green | Human (mortal Principality) |
-| 13 | Death | Black | First Titan (the Two-Faced God) |
-| 14 | Void | Black | First Titan (the Two-Faced God) |
-| 15 | **Inverted** | — (Psionics) | Principality of Psionics |
-
-**Canon (ledger 232B6EEE, sharpened by round-8 rulings 24054B89, B9276D17, C3D46D10):**
-- White's two Domains belong to the Principality of White — "the source, the one, the pure, the origin of eternity."
-- The four Black/Orange Domains belong to the First Titan, confirmed as the Two-Faced God constellation.
-- The four mortal colors' Domains (Yellow, Red, Blue, Green) belong to **human** Principalities — gifted to the first humans by the ancient immortals, placed near the end of the Age of Immortals (Book VI). Only the placement is ruled; the holders' identities are not (see Open Questions).
-- Inverted is Psionics' own Principality — not a 16th Domain, not folded into any color. Psionics is a parallel power source: overlapping in capability with color-magic (telekinesis, mind-affecting effects) but more primitive, more elemental, and more powerful in ceiling — psychics can work "time tricks in local space with global effects."
-
-**[PROPOSED]** — the four human Principality-holders may be the "children of the elements" of Book VI's mythic history, who embodied Valor, Courage, Knowledge, and Perseverance — exactly the four mortal-color philosophy poles in Book V's table. Basis: BookVI's First Age narrative already names these four traits as what mortals embodied at the close of the Age of Immortals. Not confirmed by Elideus; do not treat as settled.
+Gothic horror, Dark Souls–style — not high-fantasy-tame. Traditional Forgotten Realms/Diablo/Ultima-coded monsters (undead, liches, dragons, goblins, kobolds, hobgoblins, ogres, giants, cyclopes) reskinned toward decay, corruption, and dread rather than generic adventure-fantasy flavor. This governs every entry below.
 
 ---
 
-## The Black/Void Constraint (Canon, ledger D0BE40E5)
+## Color Ownership
 
-Black — also called Void magic — is definitionally **the absence of**. It cannot invent or create on its own; it can only reflect or reanimate what already lived elsewhere in the spectrum. This is why Black combines with no other school (Book IV, ledger 44F17D1E lineage). Every creature native to Death or Void is a reflection of something that was once alive, never an original invention of Black's own.
+Each color has two Domains (Book V) and belongs to a Principality:
 
-**Canon definition — lich:** "a skeleton of, reanimated from, but not living." A lich remembers being alive only in wrong fragments, and casts from a memory of magic it can no longer feel. Use this as the governing flavor for every lich-type entry.
+| Color | Domains | Principality |
+|---|---|---|
+| White | Light, Prophecy | Principality of White |
+| Yellow | Air, Lightning | Human |
+| Red | Fire, Blood | Human |
+| Orange | Chaos, Transformation | First Titan |
+| Blue | Water, Illusion | Human |
+| Green | Earth, Life | Human |
+| Black | Death, Void | First Titan |
+| *(Inverted)* | — | Psionics |
 
-Ghosts, wraiths, and banshees under Void are, in the same register, "holes shaped like people" — absence given form. Desert spirits are not a separate creature type but this same category's dressing in arid biomes, worn thin by heat and dry wind until almost nothing is left — consistent with Book II's biome-seeding canon (ledger B4F9A3AC): the same Principality/Domain seeds different biomes with different flavor, not different creatures.
-
----
-
-## The Archetype Matrix
-
-**Canon (structural principle, ledger BEE2FC2D):**
-1. Creature archetypes recur across multiple categories rather than living in exactly one — goblins of Earth, goblins of Fire, goblins of Death, goblins of Illusion are all the same archetype in different Domain dress.
-2. **Death is near-universal.** Almost any archetype from any other category can take a Death-Domain variant: a reflection or reanimation of itself, per the Black/Void constraint above.
-3. **Decay and poison are cross-cutting modifiers**, not their own category — any creature in any of the fifteen can carry a decaying or venomous variant.
-4. Ordinary animals appear in their **wild/ancestral forms**, never modern domesticated stock — red junglefowl, not chickens; wild boar, not pigs; aurochs, not cattle.
-5. **Mythological sourcing must be globally broad**: Middle Eastern, Far Eastern/Japanese (the Souls-like tonal home base), deep South American, Pacific Islander/Oceanic, and South/Southeast Asian (Sanskrit-rooted) traditions are all required reach, not just Western/European default. When drawing on a living Indigenous or actively-practiced tradition, the archetype is filed down to its shape rather than lifting a specific named sacred figure wholesale.
-
-**[PROPOSED]** — seed archetypes from the round-8 planning session. Elideus's assessment: "a good starter list and probably a bit too ambitious... establishes the tone and conceptual direction appropriately." The *direction* is ratified; the specific roster below is illustrative and explicitly not scoped or finalized (see Open Questions).
-
-**Goblins** (small malicious humanoid)
-- Earth — *Grave-Diggers*: cannibal miners in collapsed shafts
-- Fire — *Ash-Kin*: ember tribes in cooling volcanic vents, camouflaged in soot
-- Illusion — *Fetches*: changeling doubles that replace missing children (European root)
-- Death — *Hollow-Diggers*: dead goblins still tunneling, unaware they've died, filling every hole with themselves
-- Void — heard behind walls, never found
-
-**Wisps / lantern-lights**
-- Fire — *ignis fatuus*: the classic will-o'-the-wisp, lures travelers into bogs
-- Life — foxfire: bioluminescent fungus-spirits
-- Illusion — Onibi (Japan) / Min Min lights (Aboriginal Australia): mimic the voices of the lost
-- Chaos — wrong-wisps: drift against the wind, multiply the longer you stare
-- Void — grave-lights that follow funerals uninvited
-
-**Hounds**
-- Death — Barghest / Black Shuck (British), Cadejo (Central American — a white and a black version, a clean fit for the unnamed philosophy-pole split, ledger E4F46BA5)
-- Fire — hellhounds
-- Void — the Grim, seen only by the dying
-- Blood — feral Bloodfast war-dog packs
-
-**Corvids / tricksters**
-- Illusion — raven-tricksters (Native American lineage, filed off — not a lifted sacred figure)
-- Death — carrion-crows as death-omens, near-universal across cultures
-- Void — Morrigan-kin: crow-shaped wardens who choose who dies in battle (Irish)
-
-**Serpents / Naga**
-- Water — Naga: South/Southeast Asian river guardians, monstrous or benevolent depending on the philosophy pole
-- Earth — burrowing wyrms
-- Blood — venom-cultists: serpent-blooded raiders whose own blood is poison
-- Void — spectral serpents that swallow shadows
-
-**Rakshasa / Oni / Asura-kin** (Sanskrit and Japanese)
-- Chaos — Rakshasa: shapeshifting illusion-demons
-- Blood — Oni raiders: brutal ogre-demons
-- Fire — Asura-kin: fire-warriors in eternal war against order
-
-**Vetala / Pisacha** (Sanskrit corpse-spirits — near-literal matches for the Black/Void constraint)
-- Death — Vetala: a spirit that reanimates and rides a corpse, not the corpse itself
-- Void — Pisacha: flesh-eating spirits haunting cremation grounds
-
-**Jiangshi** (Chinese hopping corpse)
-- Death — a stiff, hopping reanimated body, blinded by talisman-paper; another literal "reflection, not life" creature
-
-**Djinn / Ifrit** (Middle Eastern)
-- Fire — Ifrit
-- Air — sandstorm djinn
-- Illusion — Marid deceivers who corrupt the wish they grant
-- Void — bound djinn trapped in vessels, echoing hollow
-
-**Encantado / Chupacabra** (South American)
-- Water — Encantado: shapeshifting river-dolphin spirit that seduces and drowns
-- Blood — Chupacabra-kin: blood-drainer
-- Illusion — the Encantado's human disguise at river festivals
-
-**Taniwha / Adaro** (Oceanic / Pacific)
-- Water — Taniwha: guardian-or-monster of river and sea (Maori)
-- Chaos / Void — Adaro: vengeful reef-spirit riding waterspouts (Solomon Islands)
-
-**Wild base-fauna** — red junglefowl, wild boar, aurochs, dhole packs, and kin, each also subject to the Death/decay/poison modifier layer same as everything above.
-
-**Golems / Constructs** — [PROPOSED, 2026-07-03, ledger 45DC8EA4] built things, not born things; the Black/Void constraint does not touch them, since nothing had to die for a golem to exist — it was made wrong from the start, not reduced from something right. **Not world-gen dressing** — these deploy as an **Ancient Civilization Story Content Pack** (Book II, ledger 95EAF28D): a builder unlocks it and the lore rides the archetype into whatever dungeon they place it in, the same way any other content pack's NPCs and items ride the build. The world does not grow these on its own.
-- Earth — *Wardens*: stacked-stone sentinels, deployed to stand guard over whatever the pack's validation requires them to guard
-- Death — *Broken Wardens*: a Warden's shell after something died inside it and refuses to leave; doubly wrong, a reflection wearing a construction
-- Fire — *Cinder-Forms*: cooled slag given a shape and a task, the pack's furnace-room variant
-- Void — a Warden's socket, empty, still turning to face you
-
-**Megalith Guardians / the Standing Ones** — [PROPOSED, 2026-07-03, ledger 45DC8EA4] the stone circles' oldest secret: some of the standing stones are not stones. They wake on a celestial trigger (a specific alignment, an eclipse, the Chalice's reveal — celestial primacy, ledger 3312B2AB), not on sight or sound, and move at the speed a continent moves — which is to say, you will not outrun one, but you may simply never see it finish a step. **Same caveat as Golems above:** a **Hunter-Gatherer Story Content Pack**, builder-deployed, not a standing world feature.
-- Prophecy — *the Standing Ones proper*: they were raised to watch the sky and they still do; killing one silences whatever it was counting toward
-- Earth — moss-grown and root-bound, indistinguishable from a hillside until the hillside answers
-- Death — a circle with one stone missing, and a hole in the ground where it used to stand watch
+The four human Principality-holders' identities are unrecorded — an open question, not to be invented here.
 
 ---
 
-## Inverted — Psionics (Canon, ledger C3D46D10)
+## The Black/Void Constraint
 
-Inverted creatures are cosmic/psychic horror, explicitly Lovecraftian, and read harder and weirder than any color-magic category. Elideus: "Psychic horror, scrambles your screen, applies fear effects causing you to run around at random, out of control, loud screeching noises, truly Lovecraftian shit here." Signature effects: perception/screen distortion (diegetic UI corruption), forced-panic fear effects (loss of player control, random movement), and auditory horror (screeching, non-diegetic-feeling noise).
-
-**[PROPOSED]** seed concepts:
-- **Static Choir** — the screen artifacts before the sound peaks; by the time visual corruption maxes out, the character is already fleeing, and input doesn't return until the screaming stops.
-- **The Unseen Tally** — invisible, detectable only by what's missing (absent footsteps, an ownerless shadow); proximity alone triggers flee.
-- **Loom-things** — non-Euclidean silhouettes that resolve into a shape only when not looked at directly.
-
-Do not conflate Inverted/Psionics with the Mentis noun in Book IV (thought/intellect/psychic-force spells) — Mentis is magic-grammar vocabulary for spells; Psionics is a separate, unschooled, willed system (ledger B9276D17).
+Black is definitionally the absence of — it cannot invent or create, only reflect or reanimate what already lived elsewhere in the spectrum, which is why Black combines with no other school. A lich is "a skeleton of, reanimated from, but not living" — it remembers being alive only in fragments. Ghosts and wraiths are, in the same register, holes shaped like people. This governs every Death/Void entry.
 
 ---
 
-## Boss Composition [PROPOSED]
+## Cross-Cutting Rules
 
-A Vetala mounted on a Dracolich (ledger 563804ED): both halves are independently "reflections of what once lived, not new creation" under the Black/Void constraint — a spirit riding a body that isn't its own, astride a dragon corpse reanimated the same way. This is a candidate direction for Book II's open boss-composition question (ledger EBF514AA — whether bosses compose via Book IV's word-grammar, socketed templates, or both): **archetype + word-grammar composition, stacked.** Not a resolution of that fork — flagged for whenever it is ruled on.
+A few structural rules apply across every color's roster:
 
----
+- **Death is near-universal** — almost any creature can have a Death-variant reflection of itself, per the Black/Void constraint.
+- **Decay and poison are modifiers**, not their own category — any creature can carry a decaying or venomous variant.
+- **Wild fauna, not domesticated stock** — animals appear as ancestral/wild forms, not modern pets or livestock.
 
-## [OPEN QUESTION]s
-
-- **Roster scope.** The archetype matrix above is a seed, explicitly called "probably a bit too ambitious" by Elideus — full roster size, how many archetypes ship, and how deep each goes into the fifteen categories is a scope question deferred to later.
-- **Human Principality identities.** The Valor/Courage/Knowledge/Perseverance synthesis above is [PROPOSED] only; the four mortal Principality-holders' actual names and nature are unrecorded.
-- **Psionics ↔ Chaos ↔ the First Titan.** New canon (ledger BC54B7D7): **Chaos (Orange) is the magic side of psionics** and the **hidden realm of the First Titan's other face** (Chaos/Transformation, the Laboratory — opposite the Black/Death Study). Inverted here — the willed, power side of psionics — stays its own Principality, *not* folded into Orange; the link is that psionics' *magic* expression is Chaos. Still **[OPEN]**: whether that "hidden realm of the other face" is the **hidden Titan behind the Two-Faced God** flagged in ledger 57960182 (who teaches that the Prism is illusion and all things are will alone), or a distinct thing — do not write that identification as canon without Elideus.
-- **Biome → creature table.** Per Book II (ledger B4F9A3AC), which creatures seed which biomes is still unbuilt. This book supplies the taxonomy; the seeding table itself is a separate, later pass.
-- **Recruitment gating.** Whether DM-side recruitment gating by biome is exclusive or graded remains open (Book II, ledger B4F9A3AC).
+**Golems/Constructs and Megalith Guardians** are a separate, cross-cutting archetype family tied to the world's two deep-past epochs (Ancient Civilization, Hunter-Gatherer — Book VI). Neither is a standing world feature: both ride in only via builder-deployed Story Content Packs (Book II), never as baked-in world-gen dressing. Golems are unaffected by the Black/Void constraint — nothing died to make one, so it isn't a reflection of anything. Megalith Guardians wake on celestial triggers, not on sight or sound.
 
 ---
 
-## Biome Seeding Table [PROPOSED, 2026-07-03, ledger D593CB3C]
+## Inverted — Psionics
 
-**Correction (same day, superseding the first pass of this table):** biomes are not named places. Home is procedurally generated (hex-sphere heightmap, per-pixel material ledger, quench speed as a conserved hardness/quench/stress field, crust recycling, coastline morphology and biogenic epochs — Book III), so a biome here means a **recurring conceptual dominance** — the terrain type a given patch of hex rolls toward once elevation, moisture, temperature, and the material ledger settle — not a lore-authored zone with a name and a ruling empire. The same biome type recurs everywhere its generating conditions recur; it has no fixed location and belongs to no faction. Named places (Book VI's Continental Powers, the Human-Era Stratum) sit *on top of* whatever biome mix their territory happens to roll, the way a real kingdom sits on whatever geography it was founded on — the biome does not know or care that a kingdom is there.
+Cosmic/psychic horror, explicitly Lovecraftian, reading harder and weirder than any color set: perception/screen distortion, forced-panic fear effects, auditory horror (screeching). Seed concepts: **Static Choir** (the screen corrupts before the sound peaks, then forces flight), **the Unseen Tally** (invisible, detected only by what's missing), **Loom-things** (resolve into shape only when not looked at directly). Separate from the Mentis noun (Book IV) — Psionics is unschooled and willed, not word-grammar magic.
 
-Each biome's Domain mix decides its recruitable bench (Book II, ledger B4F9A3AC); DM tier gating and exclusive-vs-graded recruitment stay [OPEN QUESTION].
+---
 
-**Ruins are not world-gen either (correction, ledger 45DC8EA4, refined by 35D58182).** The world carries no fixed authored elements at all. The only guaranteed town at launch is a production-practical matter, not a world-gen rule: Elideus's own player-built settlement (built with the same tools any player uses, possibly alongside other early testers with long-term building rights), kept fully serviced so there's somewhere for early players to go — the first player-built town, not a designer-placed one. Everywhere else, what looks like a ruin is the **erosion system's ordinary output**: abandoned player-built dungeons and claims decay back into the world because nothing persists that no one maintains (ledger 95EAF28D). Rubble can turn up in any biome below purely as decayed-dungeon debris, with no lore attached at all. The Ancient Civilization and Hunter-Gatherer *flavor* specifically — Wardens, Broken Wardens, Cinder-Forms, the Standing Ones — only enters play when a builder deploys the matching **Story Content Pack** (Book II, ledger 95EAF28D): a DM can skin a decayed site with "this was ancient and impossible to explain" the same way they'd deploy any other content pack's NPCs and items, but the world does not grow that meaning on its own. What follows is the Domain/creature bench each biome can draw from, ordinary erosion-rubble and content-pack ruin-skins alike.
+## Boss Composition
 
-1. **Desert** — low-moisture, high-insolation read of the material ledger (sand/quartz-dominant composition, minimal biogenic layer). *Domains:* Fire, Chaos, Illusion (heat-mirage). *Bench:* djinn, sandstorm djinn, Marid deceivers, Ifrit, desert-worn Void "holes shaped like people" (ledger D0BE40E5).
+A Vetala riding a Dracolich is a worked example of archetype + word-grammar composition, stacked — both halves are independent "reflections, not creation" under the Black/Void constraint. One candidate direction for how bosses compose generally; not yet ruled.
 
-2. **Volcanic** — active or recently-active igneous terrain, driven directly by quench speed at the fast-cooling, high-stress end of the field (ledger 41EB4B47). *Domains:* Fire, Transformation. *Bench:* Ash-Kin goblins, Asura-kin, Cinder-Form constructs, hellhounds.
+---
 
-3. **Mountain / Highland** — elevation-dominant heightmap read, rock-heavy material ledger, low biogenic cover. *Domains:* Earth, Air. *Bench:* burrowing wyrms at the roots, Rakshasa and wrong-wisps at altitude, Wardens (Ancient Civilization constructs) sited wherever the old builders needed a peak.
+## Open Questions
 
-4. **Underland** (the subsurface read of any biome above — caves, collapsed shafts, root-caverns) — not a surface biome but the shared subterranean layer beneath Desert, Mountain, and Forest alike, wherever the material ledger opens a void. *Domains:* Earth, Death, Void. *Bench:* Grave-Digger and Hollow-Digger goblins, Broken Wardens, Void things heard behind walls and never found.
+- The four human Principality-holders' identities.
+- Whether Psionics' hidden-Titan link (behind the Two-Faced God) is the same thing as Chaos being psionics' magic-side, or a distinct thing.
+- DM-side recruitment gating — exclusive or graded per biome.
+- How the seven color rosters map onto biome benches — pending once all seven exist.
 
-5. **Temperate Forest** — moderate moisture and temperature, biogenic-dominant with heavy woody cover. *Domains:* Life, Illusion, Death (carrion). *Bench:* foxfire spirits, Fetches, raven- and corvid-tricksters, Morrigan-kin, carrion-crow death-omens.
+---
 
-6. **Tropical / Jungle** — high moisture and high temperature together, the densest biogenic read on the ledger. *Domains:* Life, Water, Blood. *Bench:* Naga, Oni raiders, Vetala, venom-cultists.
+## Biome Seeding [STUB]
 
-7. **Wetland** (swamp, bog, fen — saturated, poor-drainage terrain riding coastline morphology and biogenic epochs, ledger 41EB4B47) *Domains:* Void, Water, Illusion. *Bench:* ignis fatuus and wrong-wisps, grave-lights, spectral serpents, Pisacha, Barghest/Black Shuck hounds; the Standing Ones (Hunter-Gatherer megaliths) surface here often, half-sunk.
+Biomes are procedural conceptual-dominance categories (the terrain a patch of world rolls toward given elevation, moisture, temperature, and the material ledger), not named lore zones with a faction owner — the same biome type recurs wherever its generating conditions recur. The world holds no fixed authored geography beyond one production-practical player-built town; anything else that looks like a ruin is ordinary erosion-system output. Ancient Civilization/Hunter-Gatherer flavor (Golems, Megalith Guardians) enters play only via builder-deployed Story Content Packs.
 
-8. **Coastal / Ocean** — the direct output of coastline morphology (Book III, ledger 41EB4B47): reef, open water, storm-lane. *Domains:* Water, Chaos, Void. *Bench:* Taniwha, Adaro riding waterspouts, Encantado, bound djinn washed ashore in cracked vessels.
-
-9. **Tundra / Polar** — cold-dominant, thin biogenic layer, present wherever the heightmap and latitude drive temperature low regardless of moisture. *Domains:* Void, Death, Air. *Bench:* desert-register Void "holes" reskinned for cold instead of heat, Barghest-kin adapted to snow, Wardens frozen mid-step.
-
-Grassland/Plains and a "blighted/industrial" register were both drafted for this table and cut: Grassland is real but low-conflict enough that it's better treated as the *default* biogenic fill between the eight above rather than a tenth entry competing for bench space; "industrial blight" is not a procedural terrain output at all — it is what the Iron Republic (Book VI) *does to* whatever biome it sits on, and belongs in that faction's write-up, not in the terrain taxonomy.
-
-**[OPEN QUESTION]s carried over:** DM tier gating per biome, and whether recruitment is exclusive or graded (both ledger B4F9A3AC, unchanged by this table); how placement interacts with imp logistics and discovery (Book II, unchanged); whether any of these nine map onto the seven Domain worlds' own native biomes at endgame, or whether those worlds run a separate bestiary register entirely — not addressed here.
-
-**[PENDING REVISION 2026-07-04, ledger 24DD9710]:** the table above still fills its bench with the earlier global-mythology archetype pass. Round 16 converged the bestiary's primary axis onto the **7 colors** (below) with a curated, traditional Forgotten Realms-coded roster, cutting most of that pass. This table's per-biome benches need a rewrite to draw from the new color rosters instead once all seven are written; left as-is for now rather than half-updated.
+Nine working biome categories: Desert, Volcanic, Mountain/Highland, Underland, Temperate Forest, Tropical/Jungle, Wetland, Coastal/Ocean, Tundra/Polar. Their creature benches will be built from the seven color rosters below once all seven are written.
 
 ---
 
 ## Creature Entry Template
 
-**Canon format (ledger 24DD9710).** Every bestiary entry from here forward uses this shape:
+Every bestiary entry uses this shape:
 
 - **Name**
 - **Type** — archetype + category (e.g. "Undead — Reanimate")
 - **Color** — which of the 7 color sets it belongs to, plus biome-flavor tags
 - **Description** — appearance, flavor, tone
 - **Behaviors** — AI pattern: solitary/pack, aggro range, signature actions
-- **Threats & Defenses** — what it inflicts and resists, drawn from Book IV's existing Combat Mechanics status-effect taxonomy (Root, Snare, Slow, Expose, Poison/Disease, Stun, Silence, Confound, Sunder, Fear, Panic, Charm) — no bespoke effects invented per-creature
-- **Statistics** — a baseline stat block at **Normal tier**, using the same seven player stat lanes (Str, Dex, Con, Int, Wis, Luck, End). Values run roughly 1–20 for ordinary mortal range, 20+ into monster/legendary territory. Health/Stamina/Mana stay derived-and-`[BUILD]` per Book I's existing open item — not computed here.
+- **Threats & Defenses** — what it inflicts and resists, drawn from Book IV's existing status-effect taxonomy (Root, Snare, Slow, Expose, Poison/Disease, Stun, Silence, Confound, Sunder, Fear, Panic, Charm) — no bespoke effects per creature
+- **Statistics** — a baseline stat block at **Normal** tier, using the same seven player stat lanes (Str, Dex, Con, Int, Wis, Luck, End). Values run roughly 1–20 for ordinary mortal range, 20+ into monster/legendary territory. Health/Stamina/Mana stay derived-and-`[BUILD]` per Book I's existing open item.
 
 ## Power Tiers
 
-**Canon (ledger 24DD9710).** Four bands per creature, not a new tier system alongside Book II's ten DM tiers:
+Four bands per creature, not a new tier system alongside Book II's ten DM tiers:
 
 | Tier | Scale | Notes |
 |---|---|---|
@@ -222,149 +99,136 @@ Grassland/Plains and a "blighted/industrial" register were both drafted for this
 | Strong | ~175% of Normal | elite/alpha variant, often one extra trick |
 | Boss | several multiples of Normal | unique, named instance; always ≥1 signature mechanic |
 
-**Gating reuses existing gates — no new system:** Weak/Normal are available from a dungeon's earliest tiers by default. Strong requires ranking Book II's **Monster Mastery** tech tree to mid-level — the realistic ceiling for most DM builds. Boss is gated by the same top-tier/deep-tech-tree wall already ruled for raid-zone and Advent-gate construction (ledgers `639B9FD9`, `CA50B875`, `8E571A6E`) — most builds cap below it by design.
+Weak/Normal are available from a dungeon's earliest tiers by default. Strong requires ranking Book II's **Monster Mastery** tech tree to mid-level — the realistic ceiling for most DM builds. Boss is gated by the same top-tier/deep-tech-tree wall already ruled for raid-zone and Advent-gate construction — most builds cap below it by design.
 
 ---
 
 ## White — Light and Prophecy
 
-Twenty entries, austere and radiant rather than warm — White punishes as readily as it blesses. Critters and animals overlap with other colors' benches where noted; monsters and terrors are White-native.
+Austere and radiant rather than warm. Critters are ordinary wildlife of bright, high terrain; monsters and terrors are White-native.
 
-#### 1. White Hart — Critter/Animal
-**Color:** White; sacred groves, high clean pastures.
-**Description:** An elusive, unnaturally pale stag, antlers faintly luminous at dusk and dawn.
-**Behaviors:** Flees on sight and never attacks first; grants a minor blessing to travelers who let it go unpursued.
-**Threats & Defenses:** No offense. Resists Fear and Charm — it cannot be cowed or dominated. Short-range blink if cornered.
-**Statistics (Normal):** Str 8 · Dex 16 · Con 10 · Int 6 · Wis 14 · Luck 12 · End 12
+#### 1. Mountain Goat — Animal
+**Color:** White; high crags and pale cliffs.
+**Description:** A sturdy wild goat with a pale coat, common to the highest reaches.
+**Behaviors:** Sure-footed and skittish; flees uphill from any threat.
+**Threats & Defenses:** None. Outruns most predators on steep ground.
+**Statistics (Normal):** Str 9 · Dex 15 · Con 10 · Int 3 · Wis 8 · Luck 8 · End 12
 
-#### 2. Doves of Dawn — Critter/Animal
-**Color:** White; shrines, holy ruins, high ledges.
-**Description:** A flock of unusually bright white doves that roost near consecrated ground.
-**Behaviors:** Scatters at the first sign of danger, well before a threat is otherwise visible.
-**Threats & Defenses:** Harmless. Their scattering itself functions as a warning tell.
-**Statistics (Normal):** Str 2 · Dex 14 · Con 4 · Int 2 · Wis 8 · Luck 10 · End 6
+#### 2. Snow Hare — Animal
+**Color:** White; open snowfields and pale scrub.
+**Description:** A small hare whose coat pales further in bright, cold terrain.
+**Behaviors:** Freezes, then bolts in an unpredictable zigzag.
+**Threats & Defenses:** None. Extremely hard to hit while fleeing.
+**Statistics (Normal):** Str 2 · Dex 16 · Con 4 · Int 2 · Wis 6 · Luck 9 · End 5
 
-#### 3. Augur-Cat — Critter/Animal
-**Color:** White; wherever fate is thick — crossroads, thresholds, deathbeds.
-**Description:** A small, watchful feline that appears where something significant is about to happen.
-**Behaviors:** Solitary, observes far more than it acts; sometimes leads travelers toward or away from danger.
-**Threats & Defenses:** Inflicts a minor Confound (a hex of ill luck) on those who harm it; otherwise flees.
-**Statistics (Normal):** Str 4 · Dex 15 · Con 8 · Int 12 · Wis 16 · Luck 14 · End 8
+#### 3. Highland Eagle — Animal
+**Color:** White; high cliffs, open sky.
+**Description:** A large raptor that nests on the tallest available ledges.
+**Behaviors:** Hunts from great height; solitary, territorial only near its nest.
+**Threats & Defenses:** Talon strike inflicts minor Expose. Weak on the ground.
+**Statistics (Normal):** Str 11 · Dex 16 · Con 9 · Int 4 · Wis 9 · Luck 9 · End 10
 
-#### 4. Radiant Moth-Swarm — Critter/Animal
-**Color:** White; any light source, natural or cast.
-**Description:** A cloud of pale moths drawn irresistibly to brightness, including a caster's own spells.
-**Behaviors:** Swarms toward the nearest light in blinding, chaotic clouds.
-**Threats & Defenses:** Inflicts minor Confound in melee range (dazzling wingbeats). Disperses easily to area effects.
-**Statistics (Normal):** Str 3 · Dex 13 · Con 6 · Int 1 · Wis 4 · Luck 6 · End 10
+#### 4. Pale Wolf — Animal
+**Color:** White; open highlands, pack hunter.
+**Description:** A wolf with an unusually light coat, common to bright, exposed terrain.
+**Behaviors:** Hunts in packs of 3–6, coordinating to isolate stragglers.
+**Threats & Defenses:** Packs can Snare through encirclement.
+**Statistics (Normal):** Str 11 · Dex 14 · Con 11 · Int 5 · Wis 9 · Luck 8 · End 12
 
-#### 5. Sunhawk — Animal
-**Color:** White; open sky above pale cliffs and sunlit peaks.
-**Description:** A pale hawk that hunts using reflected light rather than raw speed.
-**Behaviors:** Dives from above, using glare to blind prey before the strike.
-**Threats & Defenses:** Inflicts brief Expose on a successful dive-strike. Poor Con — vulnerable once grounded.
-**Statistics (Normal):** Str 10 · Dex 17 · Con 9 · Int 5 · Wis 10 · Luck 10 · End 10
+#### 5. White Owl — Animal
+**Color:** White; open ground, ruins, high rafters.
+**Description:** A large pale owl, silent in flight, active at dusk and dawn.
+**Behaviors:** Solitary ambush hunter; avoids direct confrontation.
+**Threats & Defenses:** None beyond normal predation. Very hard to detect.
+**Statistics (Normal):** Str 5 · Dex 15 · Con 6 · Int 4 · Wis 10 · Luck 8 · End 8
 
-#### 6. Pegasus — Monster
-**Color:** White; high peaks, clean air, untouched summits.
-**Description:** A winged horse, territorial over the highest and cleanest places it can find.
-**Behaviors:** Will bear a worthy rider but never a cruel one; fights to protect its territory, not to hunt.
+#### 6. Snow Leopard — Animal
+**Color:** White; rocky high slopes.
+**Description:** A large, pale, solitary cat built for climbing and ambush.
+**Behaviors:** Stalks at range; strikes once and withdraws if it fails.
+**Threats & Defenses:** Pounce inflicts Expose. Avoids prolonged fights.
+**Statistics (Normal):** Str 14 · Dex 17 · Con 12 · Int 5 · Wis 9 · Luck 9 · End 11
+
+#### 7. Mountain Ram — Animal
+**Color:** White; steep crags.
+**Description:** A heavy-horned wild ram, aggressive during mating season.
+**Behaviors:** Charges rivals and intruders alike when provoked; otherwise grazes.
+**Threats & Defenses:** Charge inflicts a knockback (Sunder-lite to stance). Mainly a hazard, not a hunter.
+**Statistics (Normal):** Str 13 · Dex 10 · Con 13 · Int 3 · Wis 6 · Luck 7 · End 13
+
+#### 8. Pegasus — Monster
+**Color:** White; high peaks, clean air.
+**Description:** A winged horse, territorial over high, untouched ground.
+**Behaviors:** Avoids people; fights only to defend territory, not to hunt.
 **Threats & Defenses:** Kick Sunders light armor. Resists Fear.
-**Statistics (Normal):** Str 14 · Dex 18 · Con 14 · Int 8 · Wis 13 · Luck 12 · End 14
+**Statistics (Normal):** Str 14 · Dex 18 · Con 14 · Int 8 · Wis 12 · Luck 12 · End 14
 
-#### 7. Unicorn — Monster
-**Color:** White; deep sacred forest, untouched clearings.
-**Description:** A horned horse, solitary and ancient in bearing regardless of true age.
-**Behaviors:** Avoids all conflict unless defending the innocent or gravely provoked.
-**Threats & Defenses:** Horn strike Sunders magical wards. Near-immune to Poison and Disease.
-**Statistics (Normal):** Str 13 · Dex 16 · Con 15 · Int 10 · Wis 18 · Luck 16 · End 14
+#### 9. Unicorn — Monster
+**Color:** White; deep untouched forest.
+**Description:** A horned horse, solitary and wary of all contact.
+**Behaviors:** Avoids conflict entirely unless cornered.
+**Threats & Defenses:** Horn strike Sunders wards. Resists Poison and Disease.
+**Statistics (Normal):** Str 13 · Dex 16 · Con 15 · Int 9 · Wis 16 · Luck 15 · End 14
 
-#### 8. Sphinx — Monster
-**Color:** White; guards a specific place, object, or piece of knowledge.
-**Description:** A great maned beast with a human-keen gaze, ancient and unhurried.
-**Behaviors:** Challenges intruders with a riddle before violence, never after — refusal or failure is what triggers the fight.
-**Threats & Defenses:** Silences those who answer falsely (their own words turned to nothing). Resists Confound and Charm.
-**Statistics (Normal):** Str 16 · Dex 12 · Con 16 · Int 20 · Wis 18 · Luck 10 · End 14
+#### 10. Sphinx — Monster
+**Color:** White; guards a fixed place or object.
+**Description:** A large maned beast with a disturbingly human gaze.
+**Behaviors:** Poses a riddle before any confrontation; attacks only on refusal or failure.
+**Threats & Defenses:** Silences those who answer falsely. Resists Confound and Charm.
+**Statistics (Normal):** Str 16 · Dex 12 · Con 16 · Int 19 · Wis 17 · Luck 9 · End 14
 
-#### 9. Lightbound Hound — Monster
-**Color:** White; patrols sacred boundaries in packs of 2–4.
-**Description:** A pale, faintly luminous hound bred or born to guard consecrated lines.
-**Behaviors:** Howls to summon its pack before engaging; coordinates rather than fighting alone.
-**Threats & Defenses:** Bite inflicts Expose; the pack Snares fleeing targets together.
-**Statistics (Normal):** Str 12 · Dex 15 · Con 13 · Int 6 · Wis 11 · Luck 9 · End 13
+#### 11. Couatl — Monster
+**Color:** White; old libraries, places of learning, high ruins.
+**Description:** A winged serpent, calm and deliberate in movement.
+**Behaviors:** Ignores most intruders; attacks only those who damage or steal what it guards.
+**Threats & Defenses:** Constricts (Root). Resists Charm and Confound.
+**Statistics (Normal):** Str 13 · Dex 15 · Con 13 · Int 14 · Wis 15 · Luck 10 · End 12
 
-#### 10. Dawnwisp — Monster
-**Color:** White; wherever travelers lose their way at first light.
-**Description:** A wandering mote of pale fire that leads the lost — to safety, or to their doom, at its own judgment.
-**Behaviors:** Erratic movement, blinking short distances; its intent toward a given traveler is never obvious in advance.
-**Threats & Defenses:** Near-untouchable in melee (constant blinking). Can inflict Confound with a sudden flare.
-**Statistics (Normal):** Str 4 · Dex 14 · Con 8 · Int 9 · Wis 13 · Luck 15 · End 8
+#### 12. Will-o-Wisp — Monster
+**Color:** White; wherever travelers lose the path at first light.
+**Description:** A small drifting light of uncertain origin and uncertain intent.
+**Behaviors:** Leads followers off the path; whether toward safety or a hazard varies unpredictably.
+**Threats & Defenses:** Near-untouchable (constant short blinks). Minor Confound on close approach.
+**Statistics (Normal):** Str 2 · Dex 15 · Con 5 · Int 6 · Wis 9 · Luck 13 · End 6
 
-#### 11. Radiant Sentinel — Monster (Construct)
-**Color:** White; warded thresholds, sealed vaults, sacred approaches.
-**Description:** An animated suit of light-forged armor, faceless, unwavering.
-**Behaviors:** Stationary or slow patrol; activates only on intrusion into its warded space, then fights without fear or mercy.
-**Threats & Defenses:** No mind to affect — immune to Fear, Panic, and Charm. Vulnerable to Sunder once its armor cracks, exposing its light-core.
-**Statistics (Normal):** Str 17 · Dex 8 · Con 20 · Int 4 · Wis 10 · Luck 4 · End 18
+#### 13. Radiant Guardian — Monster (Construct)
+**Color:** White; warded thresholds, sealed vaults.
+**Description:** An animated suit of armor or statue, faceless.
+**Behaviors:** Stationary or slow patrol; activates only when its warded space is breached.
+**Threats & Defenses:** No mind to affect — immune to Fear, Panic, Charm. Vulnerable to Sunder once cracked open.
+**Statistics (Normal):** Str 16 · Dex 8 · Con 19 · Int 3 · Wis 8 · Luck 4 · End 17
 
-#### 12. Scorched Faithful — Monster/Terror
-**Color:** White; ruins of blinded shrines, sites of failed pilgrimage.
-**Description:** A husk of a pilgrim who stared too long into unfiltered light; sockets weep molten brightness, mouth sewn shut against blasphemy.
-**Behaviors:** Shambles toward the nearest light source, attacking anything between it and the glare. Moans in the shape of a prayer it no longer remembers.
-**Threats & Defenses:** Inflicts Fear on sighted targets. Resists Confound — it has nothing left to disorient.
-**Statistics (Normal):** Str 11 · Dex 9 · Con 12 · Int 5 · Wis 8 · Luck 6 · End 13
+#### 14. Cursed Oracle — Monster/Terror
+**Color:** White; sites of an old, unresolved prophecy.
+**Description:** A blinded prophet, erratic and hostile to anyone who approaches.
+**Behaviors:** Attacks on sight rather than warning first; speaks in broken fragments mid-fight.
+**Threats & Defenses:** Inflicts Confound at range. Resists Silence.
+**Statistics (Normal):** Str 7 · Dex 8 · Con 10 · Int 15 · Wis 18 · Luck 9 · End 10
 
-#### 13. Unmade Seer — Monster/Terror
-**Color:** White; sites of a great, unresolved foretelling.
-**Description:** An oracle who saw its own death so many times it lost the ability to die correctly — bound in an endless loop of its final moment.
-**Behaviors:** Repeats the same instant on a fixed cycle; touching it drags the target a few seconds into that loop with it.
-**Threats & Defenses:** Inflicts Confound (temporal disorientation) on contact. Resists Stun and Silence — it isn't fully present to interrupt.
-**Statistics (Normal):** Str 6 · Dex 7 · Con 9 · Int 17 · Wis 20 · Luck 8 · End 9
+#### 15. Hollow Zealot — Monster/Terror
+**Color:** White; ruins of failed shrines.
+**Description:** A burnt-out husk of a worshipper, sockets scarred by too much light.
+**Behaviors:** Shambles toward the nearest light source, attacking anything in the way.
+**Threats & Defenses:** Inflicts Fear on sight. Resists Confound.
+**Statistics (Normal):** Str 11 · Dex 9 · Con 12 · Int 4 · Wis 7 · Luck 5 · End 13
 
-#### 14. Choir of the Hollow Bell — Monster/Terror
-**Color:** White; abandoned bell-towers, collapsed chapels.
-**Description:** A single entity expressed across many small chiming motes of light, acting as one mind.
-**Behaviors:** Moves and attacks as a unified swarm; individual motes are expendable to the whole.
-**Threats & Defenses:** Inflicts Confound and mild Panic through disorienting chiming. Destroying enough motes Sunders the group's cohesion, staggering it.
-**Statistics (Normal):** Str 5 · Dex 12 · Con 10 · Int 8 · Wis 12 · Luck 10 · End 11
+#### 16. Temple Sentinel — Terror/Boss *(Radiant Guardian, Boss tier)*
+**Color:** White; guards a specific great vault or work.
+**Description:** An older, larger Radiant Guardian raised for a singular purpose.
+**Behaviors:** Commands any lesser Radiant Guardians present.
+**Threats & Defenses:** As Radiant Guardian, at Boss scale, plus a sweeping strike that Sunders and Exposes together.
+**Statistics (Boss):** Str 21 · Dex 10 · Con 25 · Int 5 · Wis 11 · Luck 6 · End 23
 
-#### 15. Herald of Judgment — Monster/Terror
-**Color:** White; appears wherever a great wrong has been done.
-**Description:** A winged, armored enforcer of the Light's law, stern rather than merciful.
-**Behaviors:** Judges before it fights; will not raise a hand against the innocent regardless of provocation.
-**Threats & Defenses:** Silences oathbreakers specifically as a targeted effect. Otherwise resists Fear and Charm.
-**Statistics (Normal):** Str 16 · Dex 14 · Con 15 · Int 11 · Wis 16 · Luck 8 · End 14
+#### 17. Mad Prophet — Terror/Boss *(Cursed Oracle, Boss tier)*
+**Color:** White; a prophecy large enough to warp the room around it.
+**Description:** A named, singular Cursed Oracle grown far more dangerous than its kin.
+**Behaviors:** Alternates between fits of violence and moments of eerie calm.
+**Threats & Defenses:** As Cursed Oracle, at Boss scale, with a wider Confound burst as its signature.
+**Statistics (Boss):** Str 9 · Dex 10 · Con 13 · Int 20 · Wis 24 · Luck 11 · End 12
 
-#### 16. The Blinding — Terror
-**Color:** White; manifests wherever someone gazes on a forbidden light.
-**Description:** Not a being so much as a burst of pure light given malevolent purpose — punishment for the act of looking.
-**Threats & Defenses:** Inflicts a Confound burst (blinding) in an area on first sighting. No melee presence — a hazard-creature, not a fighter.
-**Statistics (Normal):** Str 9 · Dex 6 · Con 14 · Int 4 · Wis 9 · Luck 12 · End 12
-
-#### 17. Sentinel of the Sun — Terror/Boss *(Radiant Sentinel, Boss tier)*
-**Color:** White; guards a specific great work or vault.
-**Description:** A unique, named Radiant Sentinel raised to a scale and purpose beyond its kin.
-**Behaviors:** Commands any lesser Radiant Sentinels present as its own extension.
-**Threats & Defenses:** As Radiant Sentinel, at Boss scale, plus a signature sweeping light-beam that Sunders and Exposes in a single arc.
-**Statistics (Boss):** Str 22 · Dex 10 · Con 26 · Int 6 · Wis 13 · Luck 6 · End 24
-
-#### 18. The Weeping Oracle — Terror/Boss *(Unmade Seer, Boss tier)*
-**Color:** White; a foretelling large enough to have consumed an entire room.
-**Description:** A named, singular Unmade Seer whose loop has grown to catch everyone nearby, not just those who touch her.
-**Behaviors:** Periodically drags the whole party a few seconds into her memory, replaying the moment of her death.
-**Threats & Defenses:** As Unmade Seer, at Boss scale, with the party-wide loop as its signature mechanic.
-**Statistics (Boss):** Str 8 · Dex 9 · Con 12 · Int 22 · Wis 26 · Luck 10 · End 12
-
-#### 19. White Dragon — Terror/Boss (apex)
+#### 18. White Dragon — Terror/Boss (apex)
 **Color:** White; ancient, solitary, territorial over high or holy places.
-**Description:** The apex predator of the White set — vast, pale-scaled, and utterly certain of its own judgment.
-**Behaviors:** Speaks before it kills, weighing the worth of whoever stands before it.
-**Threats & Defenses:** Breath weapon inflicts Confound (blinding light) in a cone and Sunders wards on contact. Resists Fear and Charm entirely.
-**Statistics (Boss):** Str 24 · Dex 14 · Con 22 · Int 14 · Wis 16 · Luck 10 · End 20
-
-#### 20. The First Witness — Terror/Boss (unique)
-**Color:** White; appears only at moments of great consequence — there is only ever one.
-**Description:** The oldest surviving thing touched by the Principality of White; not quite a being, not quite a place.
-**Behaviors:** Rarely acts directly; its presence alone reframes a fight.
-**Threats & Defenses:** Immune to all Counter Player Control effects (Fear, Panic, Charm). Signature mechanic: its gaze compels a truth from anyone who meets it — a narrative/utility effect as much as a combat one.
-**Statistics (Boss):** Str 14 · Dex 12 · Con 20 · Int 22 · Wis 28 · Luck 14 · End 20
+**Description:** The apex predator of the White set — pale-scaled, vast, aggressive toward any intrusion.
+**Behaviors:** Fights like a dragon: territorial, violent, opportunistic. Nothing more.
+**Threats & Defenses:** Breath weapon inflicts Confound in a cone. Resists Fear.
+**Statistics (Boss):** Str 24 · Dex 14 · Con 22 · Int 10 · Wis 12 · Luck 9 · End 20
