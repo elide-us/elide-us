@@ -62,7 +62,7 @@ Nouns define the objects, elements, and forces that the magic system can interac
   The element of water. Aqua is used in spells related to fluidity, healing, and the force of rivers and seas.
 
 - **Terra** – Earth  
-  Represents solid ground, soil, and stone. Terra is invoked in spells dealing with nature, stability, and physical strength.
+  Represents solid ground and soil. Terra is invoked in spells dealing with nature, stability, and physical strength. *(Narrowed 2026-07-04, ledger 44F17D1E: dropped "stone" from scope — that belongs to Saxum.)*
 
 - **Aer** – Air  
   The element of air, wind, and the sky. Aer can be used for spells related to speed, movement, and unseen forces.
@@ -74,16 +74,16 @@ Nouns define the objects, elements, and forces that the magic system can interac
   The embodiment of chaos, unpredictability, and randomness. Kaos is used in spells that disrupt order or create confusion.
 
 - **Vis** – Force  
-  A general term for energy or physical force. Vis can be used to describe the application of power in various contexts.
+  A general term for energy or applied physical force, excluding gravity specifically (see Grav). Vis can be used to describe the application of power in various contexts.
 
-- **Grav** – Energy  
-  Specifically refers to energy, particularly gravitational or kinetic energy. Grav can be invoked for spells manipulating momentum or attraction. *[CONTRADICTION — glossed "Energy" but described as gravitational/kinetic, and overlaps Vis ("Force," itself described as a general term for energy or physical force). Ledger 94774F28, 44F17D1E.]*
+- **Grav** – Gravity  
+  Specifically refers to gravitational and kinetic force — weight, momentum, and attraction. Grav can be invoked for spells manipulating momentum or attraction. *(Resolved 2026-07-04, ledger 44F17D1E/94774F28: re-glossed from "Energy" to "Gravity," and Vis narrowed to exclude it, closing the overlap.)*
 
 - **Ignis** – Heat  
   The essence of warmth and heat, distinct from flame. Ignis is used to raise temperatures or imbue warmth without combustion.
 
 - **Umbra** – Shadow  
-  Represents darkness and shadow, including the absence of light or the concealment of forms. Umbra can be invoked in stealth or shadow-related spells. *[CONTRADICTION — Umbra also appears in the adjectives list as "Dark": one word in two grammar slots. Ledger 94774F28.]*
+  Represents darkness and shadow, including the absence of light or the concealment of forms. Umbra can be invoked in stealth or shadow-related spells. *(Resolved 2026-07-04, ledger 94774F28: Umbra keeps the noun slot; the adjective "Dark" is now Ater.)*
 
 - **Glacies** – Cold  
   Refers to freezing temperatures, frost, or ice. Glacies is essential for spells that slow, freeze, or lower temperatures.
@@ -119,11 +119,11 @@ Nouns define the objects, elements, and forces that the magic system can interac
 - **Scutum** – Shield  
   Represents protection and defense. Invoked in spells related to guarding, blocking, or absorbing damage.
 
-- **Ferrum** – Iron  
-  A term for metals, particularly iron. Ferrum is used in spells related to strength, resilience, and crafting. *[Gloss "Iron" is narrower than the description ("metals"). Ledger 44F17D1E.]*
+- **Ferrum** – Metal  
+  A term for metals generally, particularly iron. Ferrum is used in spells related to strength, resilience, and crafting. *(Broadened 2026-07-04, ledger 44F17D1E: gloss now matches the description.)*
 
 - **Saxum** – Stone  
-  Represents stone or rock, often invoked for solid, immovable objects or defenses. *[CONTRADICTION — Terra's description also covers stone ("solid ground, soil, and stone"); duplicate coverage in the noun slot. Ledger 44F17D1E.]*
+  Represents stone or rock, often invoked for solid, immovable objects or defenses. *(Resolved 2026-07-04, ledger 44F17D1E: Saxum now owns stone/rock exclusively; Terra's scope was narrowed to drop it.)*
 
 - **Lignum** – Wood  
   Represents organic, woody material. Used in spells for nature, construction, or growth.
@@ -174,10 +174,10 @@ Adjectives modify the noun or spell, adding descriptive elements like size, inte
   Describes something weaker or smaller. Used to reduce the power or size of an effect.
 
 - **Altus** – Upper  
-  Refers to something above or higher in position.
+  Refers to something above or higher in position. Stack with Vas/Bet for degree (e.g. "Vas Altus" for much higher) rather than a separate comparative word.
 
 - **Infimus** – Lower  
-  Refers to something below or lower in position.
+  Refers to something below or lower in position. Stack with Vas/Bet for degree, as with Altus.
 
 - **Celer** – Swift  
   Describes speed or quickness.
@@ -188,8 +188,8 @@ Adjectives modify the noun or spell, adding descriptive elements like size, inte
 - **Lumen** – Bright  
   Refers to something with high luminosity or brightness.
 
-- **Umbra** – Dark  
-  Describes something with low light or shadow. *[CONTRADICTION — Umbra also appears in the nouns list as "Shadow": one word in two grammar slots. Ledger 94774F28.]*
+- **Ater** – Dark  
+  Describes something with low light or shadow. *(Resolved 2026-07-04, ledger 94774F28: renamed from Umbra, which stays a noun; Ater — Latin for a dire, ominous black — takes the adjective slot.)*
 
 - **Fortis** – Strong  
   Describes great physical or magical strength.
@@ -202,12 +202,6 @@ Adjectives modify the noun or spell, adding descriptive elements like size, inte
 
 - **Parva** – Small  
   Refers to something of small size or lesser extent.
-
-- **Altior** – Higher  
-  Refers to a higher elevation or status. *[CONTRADICTION — near-duplicate of Altus ("Upper") in the adjective slot. Ledger 44F17D1E.]*
-
-- **Humilis** – Lower  
-  Refers to a lower elevation or status. *[CONTRADICTION — duplicate gloss with Infimus (both "Lower") in the adjective slot. Ledger 44F17D1E.]*
 
 - **Glacialis** – Cold  
   Describes freezing or cold temperatures.
@@ -230,11 +224,11 @@ Adverbs modify verbs, adding details about how actions are performed.
 - **Parvopere** – Slightly  
   Describes something performed to a small extent.
 
-- **Durare** – Lasting  
-  Describes an effect that endures over time.
+- **Diu** – Lastingly  
+  Describes an effect that endures over time. *(Resolved 2026-07-04, ledger 94774F28/44F17D1E: replaces "Durare," which was a verb infinitive misplaced in the adverb slot, with the true Latin adverb of duration.)*
 
-- **Breve** – Briefly  
-  Describes a short-lived action.
+- **Breviter** – Briefly  
+  Describes a short-lived action. *(Resolved 2026-07-04: replaces "Breve" — properly formed via the same -iter pattern as Fortiter/Debiliter below — and absorbs the now-redundant "Brevis.")*
 
 - **Fortiter** – Strongly  
   Describes a powerful or intense action.
@@ -245,20 +239,14 @@ Adverbs modify verbs, adding details about how actions are performed.
 - **Prope** – Nearby  
   Describes proximity to the caster or object.
 
-- **Longius** – Distant  
-  Describes something far away.
-
 - **Superior** – Above  
   Describes something happening above or higher up.
 
 - **Inferior** – Below  
   Describes something happening below or lower down.
 
-- **Longe** – Long-lasting  
-  Describes something long in duration. *[CONTRADICTION — same stem as Longius ("Distant") in the same adverb slot, and duplicates Durare ("Lasting") in the duration slot. Ledger 94774F28, 44F17D1E.]*
-
-- **Brevis** – Short  
-  Describes something short in duration. *[CONTRADICTION — duplicates Breve ("Briefly") in the adverb slot. Ledger 94774F28.]*
+- **Longe** – Distant  
+  Describes something far away. *(Resolved 2026-07-04, ledger 94774F28/44F17D1E: re-glossed to its true classical meaning — "far off" — absorbing the now-redundant "Longius"; duration is Diu's job, not this word's.)*
 
 - **Iterum** – Repeatedly  
   Describes an action done multiple times.
@@ -367,7 +355,7 @@ A spell's required reagent kind is not fixed — ranking up a school's ring is i
     Represents creatures that embody darkness and shadow, like shades and shadow beasts.
 
 16. **Magical Animals and Beasts** – *Mystivora*  
-    Refers to magical creatures like unicorns, phoenixes, and hippogriffs.
+    Refers to magical creatures like unicorns, hippogriffs, and pegasi. *(Phoenixes moved to Pyrravus below, resolved 2026-07-04, ledger 8E29A0D3.)*
 
 17. **Tricksters and Illusionists** – *Illusorix*  
     Represents beings skilled in illusion and trickery, like kitsune and Pookas.
@@ -376,7 +364,7 @@ A spell's required reagent kind is not fixed — ranking up a school's ring is i
     Refers to creatures like dwarves, kobolds, and gnomes.
 
 19. **Cursed and Enchanted Beings** – *Maleforix*  
-    Represents cursed creatures like liches, witches, and enchanted knights. *[CONTRADICTION — liches are also listed under Mortivus (Undead Beings): one creature answering two category nouns. Ledger 8E29A0D3.]*
+    Represents cursed creatures like witches, enchanted knights, and gorgons. *(Liches moved to Mortivus only, resolved 2026-07-04, ledger 8E29A0D3 — a lich is definitionally undead, not merely cursed: "a skeleton of, reanimated from, but not living," Book VII.)*
 
 20. **Desert and Middle-Eastern Creatures** – *Aridusol*  
     Covers desert-dwelling creatures like sphinxes, lamassu, and rocs.
@@ -387,11 +375,11 @@ A spell's required reagent kind is not fixed — ranking up a school's ring is i
 22. **Beings of Fate and Time** – *Tempivor*  
     Represents creatures associated with time and fate, like the Moirai and Norns.
 
-23. **Heavenly and Infernal Hierarchies** – *Aetheron*  
-    Refers to seraphim, cherubim, and other celestial beings in heavenly hierarchies. *[CONTRADICTION — the gloss says "Heavenly and Infernal Hierarchies" but the description is heavenly only; infernal beings live under Inferaxis. Ledger 8E29A0D3.]*
+23. **Heavenly Hierarchies** – *Aetheron*  
+    Refers to seraphim, cherubim, and other celestial beings in heavenly hierarchies. *(Resolved 2026-07-04, ledger 8E29A0D3: gloss narrowed to match the description — infernal beings are Inferaxis's exclusively.)*
 
 - **Pyrravus** – Mythological Birds  
-    Represents creatures like phoenixes, thunderbirds, and other mythological avian creatures. *[CONTRADICTION — phoenixes are also listed under Mystivora (Magical Animals and Beasts): one creature answering two category nouns. Ledger 8E29A0D3.]*
+    Represents creatures like phoenixes, thunderbirds, and other mythological avian creatures.
 
 - **Insectilis** - Insectoid and Arachnid Creatures  
   Refers to giant spiders, scarab beetles, and other insect-like entities.

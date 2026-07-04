@@ -60,8 +60,8 @@ Six agents ran against a shared Oracle memory ledger under the four-class discip
 
 **Open contradictions (cited, not resolved):**
 - `78524243` — Book III water-as-voxel-compound vs engine "water/ice/lava are effects, not layers".
-- `44F17D1E` / `94774F28` — dictionary slot collisions (Umbra, Grav/Vis, Saxum/Terra, Altus/Altior, Infimus/Humilis, Durare/Longe/Longius, Breve/Brevis). *Deferred to engine effect-building per `33173716`.*
-- `8E29A0D3` — creature-category collisions (liches ×2, phoenixes ×2, Aetheron gloss). *Same deferral.*
+- `44F17D1E` / `94774F28` — dictionary slot collisions (Umbra, Grav/Vis, Saxum/Terra, Altus/Altior, Infimus/Humilis, Durare/Longe/Longius, Breve/Brevis). ***RESOLVED round 15*** (`AA124D5D`) — see below; no longer deferred.
+- `8E29A0D3` — creature-category collisions (liches ×2, phoenixes ×2, Aetheron gloss). ***RESOLVED round 15*** (`AA124D5D`) — see below.
 - `62E81F6F` — "White (Life Magic)" ring examples conflate Life/Light (deprecated per Life-is-Green; flagged in place).
 - `313123F1` — Book IV cites "Black combines with nothing" to Book V's rulings ledger, but the clause lives only in thread decision `442D03E8` (see item 11).
 - `363D1BBA` — brief-vs-thread GUID transposition (bookkeeping; recorded, no action needed).
@@ -242,6 +242,19 @@ The same day, a separate planning session built **Book VII: Bestiary** from scra
 - **RETRACTION, then corrected same day** (`AB7749F0`, corrected by `B3DE987E`). First pass overruled round 11's prison mythology (`69412269`, `41729188`, `FF4D0EF0`) in full — wrong scope. Elideus's actual point: "I didn't say get rid of all of the prison stuff, I said the PUN association between prison and prism is not cannon." **Final state:** the Shattering-built-a-prison mythology stands, unretracted — the Titans as wardens, the rebellious scholars (the Muse among them) locked into magicked shards, all canon per round 11. Only the claim that "Prism" was *deliberately named* to pun on "prison" is struck; that resemblance is acknowledged wordplay, not intentional design. Books V and VI reverted to the round-11 text with only that narrow correction applied. **Craft lesson:** confirm the scope of a correction before rewriting — a narrow note ("the pun isn't canon") is not the same as "retract the whole mythology."
 
 **Queue effect:** items 6, 11, and 12 close. No new forks opened by this round — it's pure cleanup, one full retraction included.
+
+---
+
+**Round 15 (2026-07-04): the Book IV dictionary collisions.** Elideus pulled the vocabulary and creature-noun collisions out of their "deferred to engine effect-building" limbo and ruled them directly (`AA124D5D`, closing `44F17D1E`, `94774F28`, `8E29A0D3`), with a standing principle for future word disputes: words should read as Latin-esque words of power, and where two collide, keep the more grammatically correct one rather than picking arbitrarily.
+
+- **Nouns:** Grav re-glossed Energy → **Gravity**; Vis narrowed to exclude gravity specifically. Terra narrowed to soil/ground, dropping "stone" to Saxum. Ferrum's gloss broadened Iron → **Metal**.
+- **Adjectives:** Umbra keeps the noun slot; the adjective "Dark" becomes **Ater**. Altior and Humilis removed as redundant comparative duplicates of Altus/Infimus — degree now stacks via Vas/Bet instead.
+- **Adverbs:** "Durare" (actually a verb infinitive) replaced by **Diu** (true duration adverb); "Breve" replaced by **Breviter**, matching the dictionary's own -iter pattern (Fortiter, Debiliter); "Brevis" removed as redundant. "Longe" re-glossed to its correct classical meaning, **Distant**, absorbing "Longius" — this was the root of the whole Durare/Longe/Longius tangle: "longe" was mislabeled as a duration word when it's actually the standard distance adverb.
+- **Creatures:** liches settle under Mortivus only (undead, not merely cursed); Maleforix swaps in "gorgons." Phoenixes settle under Pyrravus only; Mystivora swaps in "pegasi." Aetheron narrowed to **Heavenly Hierarchies** — infernal beings are Inferaxis's alone.
+
+Book II's two citations of these collisions (adjective-quality, noun-residency) updated to reflect the resolution.
+
+**Queue effect:** the dictionary/creature-noun half of the contradiction ledger closes entirely. No new forks opened.
 
 ---
 
