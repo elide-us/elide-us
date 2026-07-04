@@ -304,6 +304,8 @@ Book II's two citations of these collisions (adjective-quality, noun-residency) 
 
 **Round 26 (2026-07-04): Book VII restructured into book form** (`1B080AB9`). All technical/design front matter moved to **Appendices A–G** at the back; the book now opens with an in-world **Introduction** (what it is / who should read it / where to turn), a **Seven Colors and the Shadow Between** framing, and **On the Nature of Beasts** (unifying principle + the Animals/Monsters/Terrors ranks + cross-cutting truths). Six invented naturalist voices frame the register — Corvane the Archivist (Blue, compiler), Sister Verda of the Vine (Green), Brother Lucen of the Dawn (White), Bralt the Huntsman (Red), Ossian the Mortist (Black), and the apostate Virel (Orange, whose marginalia seeds the budding hidden-Chaos-god theme) — all [PROPOSED] pending Elideus's ratification. No creature/phenomenon content changed; purely editorial reorganization plus new front-matter flavor.
 
+**Round 27 (2026-07-04): tone softened** (`20608A36`): the Appendix G Tone statement was rewritten to match what was actually built — **traditional high fantasy with a gothic edge, horror-adjacent but not full Berserk decay/corruption horror**, and deliberately approachable. Refines/supersedes the original "reskinned toward decay, corruption, and dread" framing of `C3D46D10`. The creature entries themselves already matched the softer register; only the tone note changed.
+
 ---
 
 *Ledger conventions, all entry GUIDs, and full finding bodies live in the Oracle thread `prism-bible-recompile`. Books remain internally honest: every unsourced claim is marked, every fork is cited, nothing was invented.*

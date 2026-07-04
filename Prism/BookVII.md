@@ -3792,7 +3792,7 @@ A few structural rules apply across every color's roster:
 
 ## Appendix D — Entry Formats and Power Tiers
 
-**The creature template.** Every creature entry (the seven color sets) uses this shape:
+**The creature template.** Every creature entry uses this shape:
 
 - **Name**, grouped under its color's Animals / Monsters / Terrors subheadings.
 - **Environments** — biome-flavor tags within its color.
@@ -3835,7 +3835,7 @@ A Vetala riding a Dracolich is a worked example of archetype + word-grammar comp
 
 ## Appendix G — Design Notes and Open Questions
 
-**Tone.** Gothic horror, Dark Souls–style — not high-fantasy-tame. Traditional Forgotten Realms / Diablo / Ultima-coded monsters (undead, liches, dragons, goblins, kobolds, hobgoblins, ogres, giants, cyclopes) reskinned toward decay, corruption, and dread rather than generic adventure-fantasy flavor. This governs every entry.
+**Tone.** Traditional high fantasy with a gothic edge. The roster is built from recognizable staples — unicorns, griffins, and dragons alongside goblins, ogres, cyclopes, and the classic undead — written with atmosphere and genuine danger, but for broad appeal rather than shock. *Gothic* here means shadowed, eerie, and serious: the ominous ruin, the thing best left undisturbed, the beast that is genuinely dangerous to meet. It is horror-adjacent, not horror outright — we deliberately stopped short of the decay, corruption, and body-horror of the grimmest end of the genre. Grim where a thing earns it, never grim for its own sake, and welcoming to a reader who simply likes dragons. This governs every entry.
 
 **Invented framing [PROPOSED].** The in-world compiler and naturalist voices of the Introduction (Corvane, Verda, Lucen, Bralt, Ossian, Virel) are newly invented as of 2026-07-04 and await Elideus's ratification before they are canon.
 
