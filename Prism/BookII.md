@@ -57,7 +57,7 @@ Beyond tier advancement, Dungeon Makers gain access to technology trees — spec
 
 **[PROPOSED]** Example branches — source-work only; the source itself says "examples may include":
 
-- **Monster Mastery** — monster quality, diversity, behavior, and specialization.
+- **Monster Mastery** — monster quality, diversity, behavior, and specialization. Ranking this tree is what gates a DM's access to a bestiary creature's Strong power tier (Weak/Normal are default-available; Boss is gated separately, by the same top-tier/deep-tech-tree wall as raid-zone and Advent-gate construction) — see Book VII's Power Tiers section, ledger 24DD9710.
 - **Trap Engineering** — advanced traps, environmental hazards, and defensive systems.
 - **Arcane Research** — magical enhancements, enchantments, and unusual dungeon mechanics.
 - **Resource Management** — efficiency of minions, logistics, harvesting, and material conversion.

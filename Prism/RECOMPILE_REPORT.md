@@ -258,4 +258,14 @@ Book II's two citations of these collisions (adjective-quality, noun-residency) 
 
 ---
 
+**Round 16 (2026-07-04): the bestiary converges — seven colors, a creature template, and White's roster.** Elideus scoped the bestiary down hard: the earlier global-mythology archetype pass and 15-category/9-biome sprawl give way to **seven color-based sets, ~20 creatures each, ~140 total**, explicitly traditional Forgotten Realms-coded — undead, liches, dragons, headless, goblins, kobolds, hobgoblins, ogres, giants, cyclopes, Diablo/Ultima-tier classics — gothic-horror-coded but not overt. A curated handful of the earlier global-mythology survivors converge into whichever color fits (Ifrit→Red, Naga/Encantado→Blue, Rakshasa→Orange, Vetala/Jiangshi/Pisacha→Black, Thunderbird→Yellow); the rest are cut. One dragon per color anchors each set's apex terror. Critters/animals are a smaller, shared pool rather than 20 unique-per-color. Inverted stays separate, outside the 140.
+
+**Creature entry template and power tiers ruled** (`24DD9710`): every entry gets Name / Type / Color / Description / Behaviors / Threats & Defenses (using Book IV's existing status-effect taxonomy) / Statistics (the same seven player stat lanes, Normal-tier baseline, Health/Stamina/Mana left `[BUILD]`). Four power bands — Weak (~60%), Normal, Strong (~175%), Boss (multiples of Normal, always ≥1 signature mechanic) — gated by *existing* systems, not a new one: Weak/Normal default-available, Strong gated by Book II's Monster Mastery tech tree, Boss gated by the same top-tier/deep-tech-tree wall as raid-zone/Advent construction (`639B9FD9`, `CA50B875`, `8E571A6E`).
+
+**White (Light/Prophecy)'s full 20-entry roster written** — White Hart, Doves of Dawn, Augur-Cat, Radiant Moth-Swarm, Sunhawk, Pegasus, Unicorn, Sphinx, Lightbound Hound, Dawnwisp, Radiant Sentinel, Scorched Faithful, Unmade Seer, Choir of the Hollow Bell, Herald of Judgment, The Blinding, Sentinel of the Sun (Boss), The Weeping Oracle (Boss), White Dragon (Boss/apex), The First Witness (Boss/unique). Book VII's existing 9-biome Bench table is flagged **pending revision** — it still fills its benches from the cut mythology pass and needs a rewrite once all seven color rosters exist.
+
+**Queue effect:** no formal queue items close (this was bestiary content, not ledger contradictions), but it sets the template the remaining six color rosters (Yellow, Red, Orange, Blue, Green, Black) will follow.
+
+---
+
 *Ledger conventions, all entry GUIDs, and full finding bodies live in the Oracle thread `prism-bible-recompile`. Books remain internally honest: every unsourced claim is marked, every fork is cited, nothing was invented.*

@@ -194,3 +194,177 @@ Each biome's Domain mix decides its recruitable bench (Book II, ledger B4F9A3AC)
 Grassland/Plains and a "blighted/industrial" register were both drafted for this table and cut: Grassland is real but low-conflict enough that it's better treated as the *default* biogenic fill between the eight above rather than a tenth entry competing for bench space; "industrial blight" is not a procedural terrain output at all — it is what the Iron Republic (Book VI) *does to* whatever biome it sits on, and belongs in that faction's write-up, not in the terrain taxonomy.
 
 **[OPEN QUESTION]s carried over:** DM tier gating per biome, and whether recruitment is exclusive or graded (both ledger B4F9A3AC, unchanged by this table); how placement interacts with imp logistics and discovery (Book II, unchanged); whether any of these nine map onto the seven Domain worlds' own native biomes at endgame, or whether those worlds run a separate bestiary register entirely — not addressed here.
+
+**[PENDING REVISION 2026-07-04, ledger 24DD9710]:** the table above still fills its bench with the earlier global-mythology archetype pass. Round 16 converged the bestiary's primary axis onto the **7 colors** (below) with a curated, traditional Forgotten Realms-coded roster, cutting most of that pass. This table's per-biome benches need a rewrite to draw from the new color rosters instead once all seven are written; left as-is for now rather than half-updated.
+
+---
+
+## Creature Entry Template
+
+**Canon format (ledger 24DD9710).** Every bestiary entry from here forward uses this shape:
+
+- **Name**
+- **Type** — archetype + category (e.g. "Undead — Reanimate")
+- **Color** — which of the 7 color sets it belongs to, plus biome-flavor tags
+- **Description** — appearance, flavor, tone
+- **Behaviors** — AI pattern: solitary/pack, aggro range, signature actions
+- **Threats & Defenses** — what it inflicts and resists, drawn from Book IV's existing Combat Mechanics status-effect taxonomy (Root, Snare, Slow, Expose, Poison/Disease, Stun, Silence, Confound, Sunder, Fear, Panic, Charm) — no bespoke effects invented per-creature
+- **Statistics** — a baseline stat block at **Normal tier**, using the same seven player stat lanes (Str, Dex, Con, Int, Wis, Luck, End). Values run roughly 1–20 for ordinary mortal range, 20+ into monster/legendary territory. Health/Stamina/Mana stay derived-and-`[BUILD]` per Book I's existing open item — not computed here.
+
+## Power Tiers
+
+**Canon (ledger 24DD9710).** Four bands per creature, not a new tier system alongside Book II's ten DM tiers:
+
+| Tier | Scale | Notes |
+|---|---|---|
+| Weak | ~60% of Normal | young, wounded, or lesser specimens |
+| Normal | baseline | the stat block given in each entry |
+| Strong | ~175% of Normal | elite/alpha variant, often one extra trick |
+| Boss | several multiples of Normal | unique, named instance; always ≥1 signature mechanic |
+
+**Gating reuses existing gates — no new system:** Weak/Normal are available from a dungeon's earliest tiers by default. Strong requires ranking Book II's **Monster Mastery** tech tree to mid-level — the realistic ceiling for most DM builds. Boss is gated by the same top-tier/deep-tech-tree wall already ruled for raid-zone and Advent-gate construction (ledgers `639B9FD9`, `CA50B875`, `8E571A6E`) — most builds cap below it by design.
+
+---
+
+## White — Light and Prophecy
+
+Twenty entries, austere and radiant rather than warm — White punishes as readily as it blesses. Critters and animals overlap with other colors' benches where noted; monsters and terrors are White-native.
+
+#### 1. White Hart — Critter/Animal
+**Color:** White; sacred groves, high clean pastures.
+**Description:** An elusive, unnaturally pale stag, antlers faintly luminous at dusk and dawn.
+**Behaviors:** Flees on sight and never attacks first; grants a minor blessing to travelers who let it go unpursued.
+**Threats & Defenses:** No offense. Resists Fear and Charm — it cannot be cowed or dominated. Short-range blink if cornered.
+**Statistics (Normal):** Str 8 · Dex 16 · Con 10 · Int 6 · Wis 14 · Luck 12 · End 12
+
+#### 2. Doves of Dawn — Critter/Animal
+**Color:** White; shrines, holy ruins, high ledges.
+**Description:** A flock of unusually bright white doves that roost near consecrated ground.
+**Behaviors:** Scatters at the first sign of danger, well before a threat is otherwise visible.
+**Threats & Defenses:** Harmless. Their scattering itself functions as a warning tell.
+**Statistics (Normal):** Str 2 · Dex 14 · Con 4 · Int 2 · Wis 8 · Luck 10 · End 6
+
+#### 3. Augur-Cat — Critter/Animal
+**Color:** White; wherever fate is thick — crossroads, thresholds, deathbeds.
+**Description:** A small, watchful feline that appears where something significant is about to happen.
+**Behaviors:** Solitary, observes far more than it acts; sometimes leads travelers toward or away from danger.
+**Threats & Defenses:** Inflicts a minor Confound (a hex of ill luck) on those who harm it; otherwise flees.
+**Statistics (Normal):** Str 4 · Dex 15 · Con 8 · Int 12 · Wis 16 · Luck 14 · End 8
+
+#### 4. Radiant Moth-Swarm — Critter/Animal
+**Color:** White; any light source, natural or cast.
+**Description:** A cloud of pale moths drawn irresistibly to brightness, including a caster's own spells.
+**Behaviors:** Swarms toward the nearest light in blinding, chaotic clouds.
+**Threats & Defenses:** Inflicts minor Confound in melee range (dazzling wingbeats). Disperses easily to area effects.
+**Statistics (Normal):** Str 3 · Dex 13 · Con 6 · Int 1 · Wis 4 · Luck 6 · End 10
+
+#### 5. Sunhawk — Animal
+**Color:** White; open sky above pale cliffs and sunlit peaks.
+**Description:** A pale hawk that hunts using reflected light rather than raw speed.
+**Behaviors:** Dives from above, using glare to blind prey before the strike.
+**Threats & Defenses:** Inflicts brief Expose on a successful dive-strike. Poor Con — vulnerable once grounded.
+**Statistics (Normal):** Str 10 · Dex 17 · Con 9 · Int 5 · Wis 10 · Luck 10 · End 10
+
+#### 6. Pegasus — Monster
+**Color:** White; high peaks, clean air, untouched summits.
+**Description:** A winged horse, territorial over the highest and cleanest places it can find.
+**Behaviors:** Will bear a worthy rider but never a cruel one; fights to protect its territory, not to hunt.
+**Threats & Defenses:** Kick Sunders light armor. Resists Fear.
+**Statistics (Normal):** Str 14 · Dex 18 · Con 14 · Int 8 · Wis 13 · Luck 12 · End 14
+
+#### 7. Unicorn — Monster
+**Color:** White; deep sacred forest, untouched clearings.
+**Description:** A horned horse, solitary and ancient in bearing regardless of true age.
+**Behaviors:** Avoids all conflict unless defending the innocent or gravely provoked.
+**Threats & Defenses:** Horn strike Sunders magical wards. Near-immune to Poison and Disease.
+**Statistics (Normal):** Str 13 · Dex 16 · Con 15 · Int 10 · Wis 18 · Luck 16 · End 14
+
+#### 8. Sphinx — Monster
+**Color:** White; guards a specific place, object, or piece of knowledge.
+**Description:** A great maned beast with a human-keen gaze, ancient and unhurried.
+**Behaviors:** Challenges intruders with a riddle before violence, never after — refusal or failure is what triggers the fight.
+**Threats & Defenses:** Silences those who answer falsely (their own words turned to nothing). Resists Confound and Charm.
+**Statistics (Normal):** Str 16 · Dex 12 · Con 16 · Int 20 · Wis 18 · Luck 10 · End 14
+
+#### 9. Lightbound Hound — Monster
+**Color:** White; patrols sacred boundaries in packs of 2–4.
+**Description:** A pale, faintly luminous hound bred or born to guard consecrated lines.
+**Behaviors:** Howls to summon its pack before engaging; coordinates rather than fighting alone.
+**Threats & Defenses:** Bite inflicts Expose; the pack Snares fleeing targets together.
+**Statistics (Normal):** Str 12 · Dex 15 · Con 13 · Int 6 · Wis 11 · Luck 9 · End 13
+
+#### 10. Dawnwisp — Monster
+**Color:** White; wherever travelers lose their way at first light.
+**Description:** A wandering mote of pale fire that leads the lost — to safety, or to their doom, at its own judgment.
+**Behaviors:** Erratic movement, blinking short distances; its intent toward a given traveler is never obvious in advance.
+**Threats & Defenses:** Near-untouchable in melee (constant blinking). Can inflict Confound with a sudden flare.
+**Statistics (Normal):** Str 4 · Dex 14 · Con 8 · Int 9 · Wis 13 · Luck 15 · End 8
+
+#### 11. Radiant Sentinel — Monster (Construct)
+**Color:** White; warded thresholds, sealed vaults, sacred approaches.
+**Description:** An animated suit of light-forged armor, faceless, unwavering.
+**Behaviors:** Stationary or slow patrol; activates only on intrusion into its warded space, then fights without fear or mercy.
+**Threats & Defenses:** No mind to affect — immune to Fear, Panic, and Charm. Vulnerable to Sunder once its armor cracks, exposing its light-core.
+**Statistics (Normal):** Str 17 · Dex 8 · Con 20 · Int 4 · Wis 10 · Luck 4 · End 18
+
+#### 12. Scorched Faithful — Monster/Terror
+**Color:** White; ruins of blinded shrines, sites of failed pilgrimage.
+**Description:** A husk of a pilgrim who stared too long into unfiltered light; sockets weep molten brightness, mouth sewn shut against blasphemy.
+**Behaviors:** Shambles toward the nearest light source, attacking anything between it and the glare. Moans in the shape of a prayer it no longer remembers.
+**Threats & Defenses:** Inflicts Fear on sighted targets. Resists Confound — it has nothing left to disorient.
+**Statistics (Normal):** Str 11 · Dex 9 · Con 12 · Int 5 · Wis 8 · Luck 6 · End 13
+
+#### 13. Unmade Seer — Monster/Terror
+**Color:** White; sites of a great, unresolved foretelling.
+**Description:** An oracle who saw its own death so many times it lost the ability to die correctly — bound in an endless loop of its final moment.
+**Behaviors:** Repeats the same instant on a fixed cycle; touching it drags the target a few seconds into that loop with it.
+**Threats & Defenses:** Inflicts Confound (temporal disorientation) on contact. Resists Stun and Silence — it isn't fully present to interrupt.
+**Statistics (Normal):** Str 6 · Dex 7 · Con 9 · Int 17 · Wis 20 · Luck 8 · End 9
+
+#### 14. Choir of the Hollow Bell — Monster/Terror
+**Color:** White; abandoned bell-towers, collapsed chapels.
+**Description:** A single entity expressed across many small chiming motes of light, acting as one mind.
+**Behaviors:** Moves and attacks as a unified swarm; individual motes are expendable to the whole.
+**Threats & Defenses:** Inflicts Confound and mild Panic through disorienting chiming. Destroying enough motes Sunders the group's cohesion, staggering it.
+**Statistics (Normal):** Str 5 · Dex 12 · Con 10 · Int 8 · Wis 12 · Luck 10 · End 11
+
+#### 15. Herald of Judgment — Monster/Terror
+**Color:** White; appears wherever a great wrong has been done.
+**Description:** A winged, armored enforcer of the Light's law, stern rather than merciful.
+**Behaviors:** Judges before it fights; will not raise a hand against the innocent regardless of provocation.
+**Threats & Defenses:** Silences oathbreakers specifically as a targeted effect. Otherwise resists Fear and Charm.
+**Statistics (Normal):** Str 16 · Dex 14 · Con 15 · Int 11 · Wis 16 · Luck 8 · End 14
+
+#### 16. The Blinding — Terror
+**Color:** White; manifests wherever someone gazes on a forbidden light.
+**Description:** Not a being so much as a burst of pure light given malevolent purpose — punishment for the act of looking.
+**Threats & Defenses:** Inflicts a Confound burst (blinding) in an area on first sighting. No melee presence — a hazard-creature, not a fighter.
+**Statistics (Normal):** Str 9 · Dex 6 · Con 14 · Int 4 · Wis 9 · Luck 12 · End 12
+
+#### 17. Sentinel of the Sun — Terror/Boss *(Radiant Sentinel, Boss tier)*
+**Color:** White; guards a specific great work or vault.
+**Description:** A unique, named Radiant Sentinel raised to a scale and purpose beyond its kin.
+**Behaviors:** Commands any lesser Radiant Sentinels present as its own extension.
+**Threats & Defenses:** As Radiant Sentinel, at Boss scale, plus a signature sweeping light-beam that Sunders and Exposes in a single arc.
+**Statistics (Boss):** Str 22 · Dex 10 · Con 26 · Int 6 · Wis 13 · Luck 6 · End 24
+
+#### 18. The Weeping Oracle — Terror/Boss *(Unmade Seer, Boss tier)*
+**Color:** White; a foretelling large enough to have consumed an entire room.
+**Description:** A named, singular Unmade Seer whose loop has grown to catch everyone nearby, not just those who touch her.
+**Behaviors:** Periodically drags the whole party a few seconds into her memory, replaying the moment of her death.
+**Threats & Defenses:** As Unmade Seer, at Boss scale, with the party-wide loop as its signature mechanic.
+**Statistics (Boss):** Str 8 · Dex 9 · Con 12 · Int 22 · Wis 26 · Luck 10 · End 12
+
+#### 19. White Dragon — Terror/Boss (apex)
+**Color:** White; ancient, solitary, territorial over high or holy places.
+**Description:** The apex predator of the White set — vast, pale-scaled, and utterly certain of its own judgment.
+**Behaviors:** Speaks before it kills, weighing the worth of whoever stands before it.
+**Threats & Defenses:** Breath weapon inflicts Confound (blinding light) in a cone and Sunders wards on contact. Resists Fear and Charm entirely.
+**Statistics (Boss):** Str 24 · Dex 14 · Con 22 · Int 14 · Wis 16 · Luck 10 · End 20
+
+#### 20. The First Witness — Terror/Boss (unique)
+**Color:** White; appears only at moments of great consequence — there is only ever one.
+**Description:** The oldest surviving thing touched by the Principality of White; not quite a being, not quite a place.
+**Behaviors:** Rarely acts directly; its presence alone reframes a fight.
+**Threats & Defenses:** Immune to all Counter Player Control effects (Fear, Panic, Charm). Signature mechanic: its gaze compels a truth from anyone who meets it — a narrative/utility effect as much as a combat one.
+**Statistics (Boss):** Str 14 · Dex 12 · Con 20 · Int 22 · Wis 28 · Luck 14 · End 20
