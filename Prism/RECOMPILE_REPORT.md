@@ -276,4 +276,12 @@ Book II's two citations of these collisions (adjective-quality, noun-residency) 
 
 ---
 
+**Round 18 (2026-07-04): the creature template gets real depth.** Elideus corrected a scope miss directly in Book VII (editing the Mountain Goat entry as the reference example): round 17's cleanup instruction applied to the surrounding process/decision text only, not the creature entries — those had wrongly been compressed to single-sentence fields (`5F5BF70D`).
+
+**Template expansion, applies to every future entry:** Statistics is now a table — Base/Weak(×0.6)/Strong(×1.75)/Boss(×4, a floor). Two new sections: **Attack Patterns** (named Souls-like moves, base + signature, stationary-vs-motion variants) and **Materials** (harvestable drops). **Weapons/Armor** tables are conditional, only where a creature would plausibly carry them. All 18 White entries rewritten to this shape; named Boss-tier creatures (Temple Sentinel, Mad Prophet) are now explicitly their base creature's own Boss row rather than a separately hand-tuned line. White Dragon uses age tiers (Young/Adult/Elder/Ancient) mapped onto Weak/Normal/Strong/Boss — a pattern worth reusing for other colors' dragons.
+
+**Queue effect:** none (bestiary content). Sets the final template shape the remaining six color rosters follow.
+
+---
+
 *Ledger conventions, all entry GUIDs, and full finding bodies live in the Oracle thread `prism-bible-recompile`. Books remain internally honest: every unsourced claim is marked, every fork is cited, nothing was invented.*
