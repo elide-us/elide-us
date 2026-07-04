@@ -284,4 +284,10 @@ Book II's two citations of these collisions (adjective-quality, noun-residency) 
 
 ---
 
+**Round 19 (2026-07-04): Orange (Chaos/Transformation) roster.** The second color set, 20 entries in the full expanded template (`C9C4CD10`). Theme: aberration, mutation, body horror — the First Titan's Laboratory — on a broken badlands biome. Animals stay mundane biome fauna per the White precedent (Elideus again rejected a campy mutated-animals first draft): Vulture, Jackal, Hyena, Monitor Lizard, Desert Scorpion, Carrion Beetle Swarm, Jerboa. Monsters: Gray Ooze, Mimic, Owlbear, Chimera, Basilisk, Gibbering Mouther, Rakshasa (the global-mythology survivor that converged here; carries the Weapons/Armor tables), Otyugh, Flesh-Stitched Abomination. Terrors: Beholder (signature — eye-barrage stacking Root/Slow/Sunder/Fear/Confound plus a central-eye Silence field), Hydra (severed-head regrowth), The Fleshwright (named boss, maker of the abominations), Orange Dragon (apex, age tiers). Five colors left: Yellow, Red, Blue, Green, Black.
+
+**Queue effect:** none (bestiary content).
+
+---
+
 *Ledger conventions, all entry GUIDs, and full finding bodies live in the Oracle thread `prism-bible-recompile`. Books remain internally honest: every unsourced claim is marked, every fork is cited, nothing was invented.*

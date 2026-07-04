@@ -545,3 +545,505 @@ Austere and radiant rather than warm. Critters are ordinary wildlife of bright, 
 **Attack Patterns:** Base bite and claw. Signature — **Radiant Breath**: a cone of blinding radiance (Confound); at Elder and Ancient tiers, a second breath variant Sunders wards on direct contact.
 
 **Materials:** Scales (armor-grade, White-aligned), Claws, Teeth, a Heartlight (rare crafting reagent, Ancient tier only).
+
+---
+
+## Orange — Chaos and Transformation
+
+The First Titan's Laboratory: aberration, mutation, and things assembled wrong on purpose. The animals are ordinary scavengers of broken badlands — shattered rock, ashfall, tar seeps, and geyser country — while the monsters and terrors are what chaos makes of flesh once it stops holding a fixed shape.
+
+### Animals
+
+#### 1. Vulture
+**Environments:** open badlands, carrion grounds, thermal updrafts.
+
+**Description:** A large carrion bird with a bald head and ragged dark plumage, built to soar for hours on the rising heat of the wastes without a single wingbeat. Where several circle low, something below is dying or already dead.
+
+**Behaviors:** Rides thermals at great height, watching for the failing and the fallen, and descends only once it's certain nothing living will contest the meal. Gathers in loose committees at a carcass, squabbling over position but rarely doing real harm to one another. Will not attack anything capable of fighting back.
+
+**Threats & Defenses:** No meaningful offense; it feeds on the dead, not the living. Its value to a traveler is as a sign — circling vultures mark a body, and sometimes an ambush that made one.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 6 | 4 | 11 | 24 |
+| Dex | 13 | 8 | 23 | 52 |
+| Con | 7 | 4 | 12 | 28 |
+| Int | 3 | 2 | 5 | 12 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 9 | 5 | 16 | 36 |
+
+**Attack Patterns:** Signature — **Harass**: a beak-and-talon flurry used only to drive competitors off a carcass, never to hunt.
+
+**Materials:** Feathers, Beak, Talons, Bone.
+
+#### 2. Jackal
+**Environments:** badlands, scrub, the edges of carrion grounds.
+
+**Description:** A lean, wary scavenger-canine with a dull tawny coat that vanishes against dry rock and dust. Smaller than a wolf and far less inclined to a stand-up fight, it makes its living on scraps, small prey, and whatever bolder killers leave behind.
+
+**Behaviors:** Runs in loose, shifting packs of three to five with no fixed hierarchy, trailing larger predators to scavenge their kills and scattering the instant one turns on them. Bold toward the weak or wounded, cowardly toward anything that stands its ground.
+
+**Threats & Defenses:** A lone jackal is barely a threat. A pack can worry a wounded or downed target, darting in to bite and away again (a light Snare through harassment), but breaks and scatters the moment the target proves it can still fight.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 8 | 5 | 14 | 32 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 9 | 5 | 16 | 36 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 11 | 7 | 19 | 44 |
+
+**Attack Patterns:** Base bite. Signature — **Harry**: darts in to snap at a flank or heel and immediately retreats, wearing a target down over time rather than committing.
+
+**Materials:** Hide, Fangs, Meat, Sinew.
+
+#### 3. Hyena
+**Environments:** badlands, carrion grounds.
+
+**Description:** A heavy-shouldered scavenger with a sloping back, coarse spotted coat, and jaws powerful enough to crack large bones for the marrow inside. Bolder and stronger than the jackals it routinely shoulders off a kill.
+
+**Behaviors:** Hunts and scavenges in clans, using numbers and stamina to wear down prey or drive other scavengers off a carcass. Far more willing than a jackal to press an attack, especially in numbers, and quick to test whether a traveler is prey or threat.
+
+**Threats & Defenses:** Its bone-cracking bite hits hard and can inflict a brief Expose as it worries at a limb. A clan will attempt to surround and pull down a single target; individually it can be driven off, but it does not spook as easily as smaller scavengers.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 13 | 8 | 23 | 52 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 13 | 8 | 23 | 52 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Base **Bone-Crack Bite** (heavy, Expose on a solid hit). Signature — **Clan Pull-Down**: several close from different angles to drag a single target off its feet.
+
+**Materials:** Hide, Fangs, Meat, Bone.
+
+#### 4. Monitor Lizard
+**Environments:** sun-baked rock, tar seeps, canyon shade.
+
+**Description:** A large, heavy-bodied reptile with loose scaled skin and a slow, deliberate gait that hides real speed over a short burst. It spends most of the day basking and most of the night still, striking only when something edible wanders close enough.
+
+**Behaviors:** Solitary and territorial, ambushing prey from stillness rather than running it down. Largely ignores anything too big to swallow, but reacts with sudden aggression to anything that crowds it or that it mistakes for a meal.
+
+**Threats & Defenses:** A powerful bite and a lashing tail. Its saliva festers wounds, so a serious bite can inflict Disease over time. Slow to close distance but hard to shake once its jaws are set.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 12 | 7 | 21 | 48 |
+| Dex | 11 | 7 | 19 | 44 |
+| Con | 12 | 7 | 21 | 48 |
+| Int | 3 | 2 | 5 | 12 |
+| Wis | 7 | 4 | 12 | 28 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 12 | 7 | 21 | 48 |
+
+**Attack Patterns:** Base bite and **Tail Lash** (knockback). Signature — **Festering Bite**: a clamping bite that holds and inflicts Disease. Stationary variant: a lunge-bite from a basking crouch. Motion variant: a short charging snap.
+
+**Materials:** Scaled Hide (leather), Teeth, Claws, Meat.
+
+#### 5. Desert Scorpion
+**Environments:** rock crevices, sand, ruins, anywhere it can burrow.
+
+**Description:** A large scorpion the length of a forearm, armored in dull chitin, with heavy pincers and a segmented tail tipped by a venom barb held ready over its back. Nocturnal, and near-invisible against dust and stone until it moves.
+
+**Behaviors:** Burrows or wedges into cover during the day and ambushes at night, striking anything that disturbs its patch of ground. Neither hunts travelers nor flees them — it simply defends the space it's in, which makes it a common hazard in ruins and rubble.
+
+**Threats & Defenses:** Pincers grip (a brief Root) while the tail drives home a venom sting inflicting Poison. Small and fragile once found, but easily missed until the sting lands.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 9 | 5 | 16 | 36 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 10 | 6 | 18 | 40 |
+| Int | 2 | 1 | 4 | 8 |
+| Wis | 6 | 4 | 11 | 24 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 10 | 6 | 18 | 40 |
+
+**Attack Patterns:** Signature — **Grip & Sting**: pincers Root the target while the tail delivers a Poison sting. Stationary variant: a straight overhead tail-strike from an ambush burrow.
+
+**Materials:** Chitin, Venom Gland (alchemy reagent), Barb.
+
+#### 6. Carrion Beetle Swarm
+**Environments:** carrion grounds, tombs, rotting ground.
+
+**Description:** A seething mass of finger-length scavenger beetles, black-shelled and blind, that boils up out of the ground wherever enough dead flesh has collected. Individually harmless; together, a moving carpet that strips a carcass to bone in hours.
+
+**Behaviors:** Swarms toward the scent of decay or fresh blood, flowing over and around obstacles as a single spreading tide. It does not hunt so much as consume whatever it reaches and cannot easily leave.
+
+**Threats & Defenses:** Overwhelms by numbers rather than any single bite, swarming onto a stationary or downed target and inflicting steady Poison/Disease from a thousand small wounds. Disperses quickly to fire or area effects, and can simply be outpaced by anything that keeps moving.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 4 | 2 | 7 | 16 |
+| Dex | 11 | 7 | 19 | 44 |
+| Con | 6 | 4 | 11 | 24 |
+| Int | 1 | 1 | 2 | 4 |
+| Wis | 4 | 2 | 7 | 16 |
+| Luck | 6 | 4 | 11 | 24 |
+| End | 9 | 5 | 16 | 36 |
+
+**Attack Patterns:** Signature — **Engulf**: flows onto a target that stops moving, inflicting stacking Poison/Disease for as long as contact holds.
+
+**Materials:** Chitin (bulk alchemy component); no other yield.
+
+#### 7. Jerboa
+**Environments:** open badlands, dust flats, scrub.
+
+**Description:** A small, long-legged desert rodent with oversized hind feet and a tufted tail, built to bound in sudden erratic leaps far larger than its size suggests. Prey to nearly everything else in the badlands, and behaves like it.
+
+**Behaviors:** Skittish to the point of paranoia, freezing at the faintest disturbance and then exploding into a series of unpredictable bounds toward the nearest burrow. Active mostly at night to avoid the day's predators.
+
+**Threats & Defenses:** No offense whatsoever. Its evasion is its only defense — near-impossible to catch by hand once it breaks, and quick to vanish underground.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 2 | 1 | 4 | 8 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 4 | 2 | 7 | 16 |
+| Int | 2 | 1 | 4 | 8 |
+| Wis | 6 | 4 | 11 | 24 |
+| Luck | 10 | 6 | 18 | 40 |
+| End | 5 | 3 | 9 | 20 |
+
+**Attack Patterns:** None. **Erratic Bound** — an unpredictable leap on each stride that defeats committed melee swings and most thrown attacks.
+
+**Materials:** Hide, Meat (marginal); mostly bait, not quarry.
+
+---
+
+### Monsters
+
+#### 8. Gray Ooze
+**Environments:** dungeon floors, sewers, tar seeps, wet cracks in the rock.
+
+**Description:** A creeping sheet of viscous gray matter, wet and near-featureless, that seeps across floors and walls at a pace slow enough to seem harmless right up until it isn't. It takes the color of wet stone and is regularly stepped in before it's seen.
+
+**Behaviors:** Neither hunts nor thinks in any real sense — it flows toward warmth and movement and consumes what it reaches, digesting flesh, wood, and metal alike over time. It cannot be reasoned with, startled, or driven off; it simply keeps coming.
+
+**Threats & Defenses:** Contact corrodes — a solid touch Sunders armor and weapons directly, and clinging ooze Slows anything trying to pull free. Immune to Fear, Panic, Charm, and most control effects, having no mind to work on. Splits rather than dies when struck by anything that doesn't destroy the whole mass at once.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 12 | 7 | 21 | 48 |
+| Dex | 4 | 2 | 7 | 16 |
+| Con | 15 | 9 | 26 | 60 |
+| Int | 1 | 1 | 2 | 4 |
+| Wis | 5 | 3 | 9 | 20 |
+| Luck | 6 | 4 | 11 | 24 |
+| End | 16 | 10 | 28 | 64 |
+
+**Attack Patterns:** Base **Corrosive Touch** (Sunders gear on contact). Signature — **Engulf**: flows over a stationary or grappled target, Slowing it and corroding steadily until it breaks free.
+
+**Materials:** Residuum (a caustic alchemical sludge); no wearable or usable parts.
+
+#### 9. Mimic
+**Environments:** dungeon rooms, treasure vaults, ruins.
+
+**Description:** A shapeshifting predator that holds the form of an ordinary object — most often a chest, door, or statue — with unnerving fidelity, down to the dust and wear of the thing it imitates. Only in the instant it strikes does the surface split into a wet maw and grasping pseudopods.
+
+**Behaviors:** Sits motionless for as long as it takes, sometimes years, waiting for something to touch it. It chooses its disguise to sit exactly where a searching hand or curious eye will go, and springs only once a target is committed and close.
+
+**Threats & Defenses:** Its adhesive flesh grips on contact (a strong Root) and its bite hits hard against a target that expected furniture, not a fight. Resists Confound — its ambush doesn't depend on the target being disoriented, only surprised. Cannot pursue; anything that breaks the grip and backs off is safe.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 15 | 9 | 26 | 60 |
+| Dex | 10 | 6 | 18 | 40 |
+| Con | 15 | 9 | 26 | 60 |
+| Int | 8 | 5 | 14 | 32 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 12 | 7 | 21 | 48 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Signature — **Ambush Grasp**: from its disguised form, seizes the first thing to touch it (Root) and follows with a heavy bite. No approach phase — it is always already in position.
+
+**Materials:** Adhesive Gland (crafting reagent), tough hide-like Flesh; often sitting atop or around real loot it was disguised among.
+
+#### 10. Owlbear
+**Environments:** deep woods at the badlands' edge, caves, ruins.
+
+**Description:** A massive predator with the feathered head and hooked beak of an owl grafted onto the heavy, clawed body of a bear — a fusion old enough that it now breeds true. Bad-tempered, perpetually hungry, and utterly without fear of anything its own size or smaller.
+
+**Behaviors:** Solitary and violently territorial, attacking intruders on sight with no display or warning. It hunts by raw pursuit and ambush both, and does not break off a fight once committed — there is no bluffing it and little reasoning with a thing this aggressive.
+
+**Threats & Defenses:** Grabs with both foreclaws (a Root grapple) and tears with the beak, hitting hard enough to Sunder light armor in the grip. Resists Fear entirely. Its ferocity is also its weakness — it commits fully and can be punished by anything patient enough to bait the charge.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 17 | 10 | 30 | 68 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 16 | 10 | 28 | 64 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 15 | 9 | 26 | 60 |
+
+**Attack Patterns:** Base claw-and-beak. Signature — **Grab & Rend**: seizes a target (Root) and tears with the beak, Sundering armor. Stationary variant: a rearing double-claw slam. Motion variant: a charging tackle that ends in the grapple.
+
+**Materials:** Pelt (feathered hide), Beak, Claws, Meat, Bone.
+
+#### 11. Chimera
+**Environments:** rocky highlands, ruins, remote lairs.
+
+**Description:** A single beast wearing three natures at once — a lion's body and foreparts, a goat's head rising from the shoulders, and a serpent for a tail — each part alive, aware, and pulling in its own direction. The seams where the three meet never quite settle, and the whole thing radiates a low, constant wrongness.
+
+**Behaviors:** Aggressive and erratic, its three heads sometimes cooperating and sometimes working against one another, which makes its next move genuinely hard to read. Lairs in a fixed territory and defends it viciously, attacking with all three natures more or less at once.
+
+**Threats & Defenses:** The lion mauls, the goat rams (a staggering knockback), and the serpent bites with Poison — three distinct threats from one body, often in the same round. Its divided mind resists Charm and Confound (there is no single will to seize), but that same division means it rarely fights with real coordination.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 18 | 11 | 32 | 72 |
+| Dex | 13 | 8 | 23 | 52 |
+| Con | 17 | 10 | 30 | 68 |
+| Int | 6 | 4 | 11 | 24 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 16 | 10 | 28 | 64 |
+
+**Attack Patterns:** Three base attacks — **Maul** (lion), **Ram** (goat, knockback), **Serpent Bite** (Poison). Signature — **Three-Fold Assault**: all three heads strike near-simultaneously against anything in front of it.
+
+**Materials:** Lion Pelt, Goat Horns, Serpent Venom, Bone.
+
+#### 12. Basilisk
+**Environments:** caves, ruins, rubble fields, statue-strewn lairs.
+
+**Description:** A squat, heavy reptile the size of a large dog, plated in dull warty scales, that moves with slow, sullen deliberation. The petrified shapes scattered around its lair — mid-stride, arms raised, faces caught in the instant of understanding — are the surest sign of what it is.
+
+**Behaviors:** Slow and largely sedentary, it doesn't chase; it doesn't have to. It fixes intruders with its gaze and waits for its slow work to finish, feeding on what it catches once the struggling stops.
+
+**Threats & Defenses:** Meeting its gaze begins to turn flesh to stone — mechanically, a creeping Root that deepens toward full Stun if held, reversible only if broken early. Slow and physically unremarkable in melee; the entire danger is in the gaze, and averting your eyes blunts it at the cost of fighting half-blind.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 13 | 8 | 23 | 52 |
+| Dex | 9 | 5 | 16 | 36 |
+| Con | 14 | 8 | 25 | 56 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Signature — **Petrifying Gaze**: a sustained gaze that Roots and, if unbroken, escalates to Stun (petrification). Base bite as a slow melee fallback.
+
+**Materials:** Warty Hide, Petrifying Gland (rare alchemy/enchanting reagent), Teeth.
+
+#### 13. Gibbering Mouther
+**Environments:** dungeon depths, corrupted ground, sites of old chaos-magic.
+
+**Description:** A shifting heap of half-melted flesh studded with mismatched mouths and eyes that open and close at random across its surface. It never holds a stable shape, and the constant overlapping babble of its many mouths is audible well before the thing itself is seen.
+
+**Behaviors:** Flows slowly toward any sound or movement, its mouths never stopping their layered gibbering — a noise that scrambles the thoughts of anyone nearby. It has no strategy beyond reaching prey and pulling it into the mass.
+
+**Threats & Defenses:** The unceasing babble inflicts Confound on everything in earshot and, at close range, edges toward Panic. It grasps with pseudopods (Root) to draw victims into its mouths. Slow and shapeless — easy to escape if the Confound can be endured, dangerous if it can't.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 10 | 6 | 18 | 40 |
+| Dex | 8 | 5 | 14 | 32 |
+| Con | 13 | 8 | 23 | 52 |
+| Int | 3 | 2 | 5 | 12 |
+| Wis | 6 | 4 | 11 | 24 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 12 | 7 | 21 | 48 |
+
+**Attack Patterns:** Passive **Gibbering** (constant area Confound, escalating to Panic up close). Signature — **Drag Under**: pseudopods Root a nearby target and pull it into the mouthed mass.
+
+**Materials:** None usable — it leaves only sludge.
+
+#### 14. Rakshasa
+**Environments:** hidden among people — courts, estates, disguised anywhere it can pass.
+
+**Description:** A shapeshifting fiend that wears a flawless human face in public and drops it only in private or in violence, revealing a tiger-featured, backward-handed true form beneath. Old, intelligent, and patient in a way the beasts of its color are not — it schemes where they simply hunger.
+
+**Behaviors:** Insinuates itself into a position of comfort and trust, feeding on the influence and cruelty its disguise affords far longer than any hunger requires. It fights only when cornered or when a scheme is spent, and prefers manipulation, proxies, and misdirection to open combat.
+
+**Threats & Defenses:** Its deceptions function as Charm, bending the trusting toward its purposes; in a fight it claws with its reversed hands and turns illusions to Confound. Resists mind-affecting effects in turn — it is very hard to deceive a thing that lies for a living. Vain and overconfident, which is the reliable crack in its armor.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 14 | 8 | 25 | 56 |
+| Dex | 16 | 10 | 28 | 64 |
+| Con | 14 | 8 | 25 | 56 |
+| Int | 17 | 10 | 30 | 68 |
+| Wis | 15 | 9 | 26 | 60 |
+| Luck | 13 | 8 | 23 | 52 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Base clawed strikes (reversed hands). Signature — **False Face**: sustains a disguise or illusion that Charms the trusting; drops it for a Confounding flourish when the fight turns against it.
+
+**Materials:** Whatever wealth its disguise accumulated — coin, jewelry, fine goods — plus its own Pelt and Claws.
+
+**Weapons:** Takes the trappings of its assumed station; a Rakshasa posing as a noble or officer carries and can wield that station's arms.
+| Drop | Notes |
+|---|---|
+| Assumed-Station Arms | A concealed blade or an ornate ceremonial weapon appropriate to the identity it wore. |
+
+**Armor:** Fine clothing or light ornamental armor matching its disguise; rarely anything battle-grade, since it relies on not being caught.
+
+#### 15. Otyugh
+**Environments:** middens, sewers, dung-pits, the rotting underside of any settlement.
+
+**Description:** A bloated, three-legged mass of foul hide with a toothed maw at its center and two long tentacles ending in leaf-shaped pads, each fringed with sensory hairs. It lives half-buried in filth of its own gathering and stinks badly enough to announce itself around a corner.
+
+**Behaviors:** Lurks in refuse, waiting for anything edible — carrion by preference, the living when hungry enough — to come within reach of its tentacles. Territorial over its filth-pit and content to stay there, it's a hazard of place rather than a hunter that ranges.
+
+**Threats & Defenses:** Its tentacles seize at a distance (Root) and drag prey to the central maw, and every wound it inflicts festers with the filth it lives in, spreading Disease. Tough and hard to dislodge from its pit; sluggish and near-helpless if drawn out of it.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 15 | 9 | 26 | 60 |
+| Dex | 8 | 5 | 14 | 32 |
+| Con | 16 | 10 | 28 | 64 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 6 | 4 | 11 | 24 |
+| End | 15 | 9 | 26 | 60 |
+
+**Attack Patterns:** Signature — **Tentacle Seize**: grabs at range (Root) and drags the target to the maw. Base **Fouled Bite** (Disease on a solid hit).
+
+**Materials:** Hide (foul, low value), Tentacle sinew; a scavenger, so its pit sometimes holds swallowed valuables.
+
+#### 16. Flesh-Stitched Abomination
+**Environments:** ruined laboratories, chaos-touched sites, wherever the Fleshwright has worked.
+
+**Description:** A lurching assembly of parts that never belonged together — limbs of differing size and origin, seams held by wire and cauterized scar, a body clearly built rather than born. It moves in obvious pain and obvious wrongness, and it does not seem to remember being anything else.
+
+**Behaviors:** Attacks anything that comes near with mindless, thrashing aggression, driven by something between agony and instinct. It has no self-preservation and no tactics, only a relentless will to lash out at whatever's in front of it.
+
+**Threats & Defenses:** Enormously strong and hard to put down — mismatched organs mean no single wound is reliably fatal, and it fights on through damage that would drop a natural creature. The sight of it inflicts Fear. Slow, mindless, and easily kited; the danger is entirely in what happens if it gets its hands on you.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 18 | 11 | 32 | 72 |
+| Dex | 7 | 4 | 12 | 28 |
+| Con | 18 | 11 | 32 | 72 |
+| Int | 2 | 1 | 4 | 8 |
+| Wis | 4 | 2 | 7 | 16 |
+| Luck | 5 | 3 | 9 | 20 |
+| End | 17 | 10 | 30 | 68 |
+
+**Attack Patterns:** Base **Flailing Smash** (heavy, wild). Signature — **Grasp & Crush**: seizes a target (Root) and crushes with mismatched strength. No defense, no retreat.
+
+**Materials:** Salvageable parts (grim crafting/alchemy reagents for those willing); no coin, no gear.
+
+---
+
+### Terrors / Named Bosses
+
+#### 17. Beholder
+**Environments:** sealed vaults, deep lairs, chaos-warped sanctums.
+
+**Description:** A floating orb of leathery flesh dominated by a single great central eye, ringed by a crown of writhing eyestalks, each smaller eye alive with its own malign light. It hangs in the air without wings or support, turning slowly to bring its stalks to bear, radiating an intelligence as vast as it is paranoid.
+
+**Behaviors:** Territorial to the point of madness and convinced everything not itself is a threat to be unmade, it fights from the air at range, playing its many eyes across a group and reshaping the battle faster than most foes can adjust. It reasons, taunts, and schemes — and trusts nothing, least of all its own kind.
+
+**Threats & Defenses:** Each eyestalk fires a different ray — one Roots, one Slows, one Sunders, one strikes Fear, one Confounds — letting it stack several effects across a party in a single turn. Its great central eye projects a field that Silences magic caught within it. Physically fragile for a terror, but reaching it past the eye-barrage is the whole problem.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 8 | 5 | 14 | 32 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 16 | 10 | 28 | 64 |
+| Int | 18 | 11 | 32 | 72 |
+| Wis | 17 | 10 | 30 | 68 |
+| Luck | 10 | 6 | 18 | 40 |
+| End | 15 | 9 | 26 | 60 |
+
+**Attack Patterns:** Signature — **Eye Barrage**: fires several eyestalk rays per turn, each a different status effect (Root, Slow, Sunder, Fear, Confound), distributed across visible targets. Passive — **Central Eye**: a forward cone that Silences spellcasting within it.
+
+**Materials:** Central Eye and Eyestalks (potent, rare enchanting reagents), leathery Hide.
+
+#### 18. Hydra
+**Environments:** swamps and tar pools at the badlands' edge, flooded ruins, deep lairs.
+
+**Description:** A massive serpentine body from which many long necks rise, each ending in a fanged head that acts with a will of its own. Where a head is severed, the wound boils and splits, and in short order two more rise to take its place — the creature's chaos made brutally literal.
+
+**Behaviors:** Attacks with every head at once, striking multiple targets across a wide arc and simply overwhelming defenses that can only face one threat at a time. It does not tire and does not retreat; the longer a fight drags, the more heads it tends to have.
+
+**Threats & Defenses:** Multiple bites per turn across a spread of targets, some sessions venomous (Poison). Cutting a head off without cauterizing the stump causes it to regrow doubled — so raw damage alone makes the problem worse, and the real solution is to deny the regrowth. Resists control effects across so many heads that no single Stun or Silence lands cleanly.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 18 | 11 | 32 | 72 |
+| Dex | 11 | 7 | 19 | 44 |
+| Con | 19 | 11 | 33 | 76 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 18 | 11 | 32 | 72 |
+
+**Attack Patterns:** Signature — **Many-Headed Strike**: one bite per head per turn, spread across all targets in reach. Reactive — **Regrowth**: a severed head that isn't cauterized regrows doubled.
+
+**Materials:** Fangs, Scaled Hide, Venom Sacs, a regenerative Heart-Node (rare alchemy reagent).
+
+#### 19. The Fleshwright *(named boss)*
+**Environments:** its own laboratory — a chaos-warped sanctum of tables, tanks, and half-finished work.
+
+**Description:** The intelligence behind the Flesh-Stitched Abominations: a singular being, more surgeon than monster, its own body an ongoing and deliberate work of self-modification — extra arms for the work, tools grown in place of some of them, a calm that's worse than any snarl. It regards intruders less as enemies than as material that arrived on its own.
+
+**Behaviors:** Fights at a remove behind its creations, sending abominations forward while it reshapes them and itself mid-battle — grafting a downed abomination's strength into another, or altering its own form to answer whatever the party is doing. It is patient, analytical, and entirely without mercy.
+
+**Threats & Defenses:** Reshapes flesh on the fly — mending and augmenting its minions, and Transforming aspects of its own body to shore up weaknesses as they're found. Its worst attacks warp a victim directly, inflicting effects between Poison and a temporary Sunder of the body itself. Its dependence on its creations is the opening: cut off the supply of abominations and it must fight in earnest, which it is not built to do.
+
+**Statistics** *(a singular named instance — no lesser tiers of itself)*:
+| Stat | Str | Dex | Con | Int | Wis | Luck | End |
+|---|---|---|---|---|---|---|---|
+| Boss | 44 | 40 | 68 | 80 | 60 | 44 | 64 |
+
+**Attack Patterns:** Signature — **Reshape**: augments a minion or its own body mid-fight (heal/buff or adapt). **Warping Touch**: a direct strike that inflicts Poison and a body-Sunder. Directs Flesh-Stitched Abominations as its front line throughout.
+
+**Materials:** Surgical implements grown or forged (unusual crafting tools), rare transmutation reagents, and whatever it had been working with.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Grown Instruments | Bladed and needled tools fused to or grown from its limbs; usable as exotic light weapons once removed. |
+
+#### 20. Orange Dragon *(apex)*
+**Environments:** chaos-scarred badlands, warped lairs, unstable ground others avoid.
+
+**Description:** The apex predator of the Orange set — a great dragon whose own form never fully settles, scales and proportions shifting subtly from one sighting to the next, no two descriptions of the same beast quite agreeing. Like most dragons it grows into its power across a very long life, and in this one that growth is visibly, unsettlingly ongoing.
+
+**Behaviors:** Territorial and capricious, attacking on sight but rarely the same way twice, its tactics as unstable as its shape. It fights with breath, claw, and weight like any dragon, but interleaves them unpredictably, giving little for a foe to anticipate.
+
+**Threats & Defenses:** Its breath is a roiling cloud of raw chaos that Transforms and warps what it touches — inflicting Confound and a lingering body-warping effect akin to Poison-plus-Sunder across the affected area. Resists control effects, and its ever-shifting form makes targeting a specific weak point unreliable. At Elder and Ancient tiers the warping breath can briefly force a target's own aspects against them.
+
+**Statistics** *(tiers are age — Young / Adult / Elder / Ancient):*
+| Stat | Young (Weak) | Adult (Normal) | Elder (Strong) | Ancient (Boss) |
+|---|---|---|---|---|
+| Str | 14 | 24 | 42 | 96 |
+| Dex | 8 | 14 | 25 | 56 |
+| Con | 13 | 22 | 39 | 88 |
+| Int | 7 | 12 | 21 | 48 |
+| Wis | 8 | 13 | 23 | 52 |
+| Luck | 7 | 11 | 19 | 44 |
+| End | 12 | 20 | 35 | 80 |
+
+**Attack Patterns:** Base bite and claw, sequenced unpredictably. Signature — **Chaos Breath**: a cone that Confounds and warps (Poison-plus-Sunder to the body); at Elder and Ancient tiers, a second breath variant briefly turns a target's own strengths against it.
+
+**Materials:** Ever-shifting Scales (chaos-aligned, armor-grade), Claws, Teeth, a Mutable Heart (rare transmutation reagent, Ancient tier only).
