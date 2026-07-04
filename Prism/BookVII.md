@@ -495,7 +495,10 @@ Austere and radiant rather than warm. Critters are ordinary wildlife of bright, 
 
 **Threats & Defenses:** All the Radiant Guardian's usual resistances and tactics, plus a signature sweeping strike — a wide arc of light-forged force that Sunders armor and Exposes whatever it touches in the same motion.
 
-**Statistics (Boss):** Str 64 · Dex 32 · Con 76 · Int 12 · Wis 32 · Luck 16 · End 68 (Radiant Guardian's Boss row).
+**Statistics** *(a singular named instance — no Weak/Normal/Strong tiers of itself; this is Radiant Guardian's own Boss row)*:
+| Stat | Str | Dex | Con | Int | Wis | Luck | End |
+|---|---|---|---|---|---|---|---|
+| Boss | 64 | 32 | 76 | 12 | 32 | 16 | 68 |
 
 **Attack Patterns:** Radiant Guardian's Heavy Strike, plus signature **Sweeping Judgment** — a wide arc that Sunders and Exposes together.
 
@@ -510,7 +513,10 @@ Austere and radiant rather than warm. Critters are ordinary wildlife of bright, 
 
 **Threats & Defenses:** As Cursed Oracle, with a wider-radius Confound burst as its signature — capable of catching an entire group at once rather than a single target.
 
-**Statistics (Boss):** Str 28 · Dex 32 · Con 40 · Int 60 · Wis 72 · Luck 36 · End 40 (Cursed Oracle's Boss row).
+**Statistics** *(a singular named instance — no Weak/Normal/Strong tiers of itself; this is Cursed Oracle's own Boss row)*:
+| Stat | Str | Dex | Con | Int | Wis | Luck | End |
+|---|---|---|---|---|---|---|---|
+| Boss | 28 | 32 | 40 | 60 | 72 | 36 | 40 |
 
 **Attack Patterns:** Fractured Utterance, plus signature **Warped Refrain** — a group-wide Confound burst.
 
