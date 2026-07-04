@@ -1,115 +1,65 @@
 # VII. Bestiary
 
-This book records the creatures of Prism, organized into seven color-based sets plus a separate Inverted (psionics) bucket — roughly twenty creatures per color, critters through boss-tier terrors. The register is traditional high fantasy with a gothic edge: recognizable monster-manual staples (undead, dragons, giants, goblins and kin) reskinned toward decay and dread rather than exotic invention. This book owns creature taxonomy and content; Book II's Placement and Monster Recruitment section owns biome-seeding and recruitment-gating mechanics.
+*[EDITORIAL — 2026-07-04: the design and mechanical detail formerly at the front of this book has been moved to the Appendices at the back, and this front matter rewritten as an in-world introduction. The compiler's framing and the naturalist voices quoted throughout — Corvane the Archivist (Blue), Sister Verda of the Vine (Green), Brother Lucen of the Dawn (White), Bralt the Huntsman (Red), Ossian the Mortist (Black), and the apostate Virel (Orange) — are newly invented and stand [PROPOSED] pending Elideus's ratification; once approved, canon. No creature or phenomenon content was changed.]*
 
 ---
 
-## Tone
+## Introduction
 
-Gothic horror, Dark Souls–style — not high-fantasy-tame. Traditional Forgotten Realms/Diablo/Ultima-coded monsters (undead, liches, dragons, goblins, kobolds, hobgoblins, ogres, giants, cyclopes) reskinned toward decay, corruption, and dread rather than generic adventure-fantasy flavor. This governs every entry below.
+*Assembled by Corvane, archivist, from the field-notes of a hundred hands.*
 
----
+### What this book is
 
-## Color Ownership
+This is a register of the living, the unliving, and the unreal things of Prism — the beasts that graze and hunt the wilds, the monsters that lair in its dark places, the terrors that crown them, and the bodiless phenomena that haunt the spaces between. For each I have set down what it is, how it behaves, what it can do to you and what it cannot bear done to it, and — where anything is left worth taking — what may be cut, drawn, or salvaged from its remains.
 
-Each color has two Domains (Book V) and belongs to a Principality:
+I have tried throughout to say plainly what a thing *does*, and to leave the poetry to the marginalia. A hunter with this book open should know, in the time it takes to read a page, whether to nock an arrow, draw a blade, light a torch, or turn and run.
 
-| Color | Domains | Principality |
-|---|---|---|
-| White | Light, Prophecy | Principality of White |
-| Yellow | Air, Lightning | Human |
-| Red | Fire, Blood | Human |
-| Orange | Chaos, Transformation | First Titan |
-| Blue | Water, Illusion | Human |
-| Green | Earth, Life | Human |
-| Black | Death, Void | First Titan |
-| *(Inverted)* | — | Psionics |
+### Who should read it
 
-The four human Principality-holders' identities are unrecorded — an open question, not to be invented here.
+Three kinds of reader, and a fourth who should know better.
+
+Adventurers, who mean to survive what they meet, and who will find here the difference between a thing that will flee and a thing that will not. Dungeon Makers, choosing what to raise and where, and how to make a room itself a threat — for the last chapter is as much a builder's kit as a naturalist's catalogue. Herbalists, hunters, and artificers, after the harvest, for whom the Materials of an entry are the whole of its interest. And the merely curious, who are gently warned that curiosity is how the greater part of this book came to be written, and how a good number of its contributors came to stop contributing.
+
+### Where to turn with questions
+
+For the colors and the schools that order this register, and the Principalities that own them, see Book V. For raising, recruiting, and building with these creatures, and for the deep-past constructs that ride in on a builder's packs, see Book II. For the world that grows them and the ecology that decides where each is found, see Book III. For the magic and the named effects the entries invoke — the roots and snares and fears — see Book IV. Corrections, disputes, and new sightings are to be brought to the Archive; bring the carcass if you can, and a witness who is not yourself if you cannot.
 
 ---
 
-## The Black/Void Constraint
+## The Seven Colors and the Shadow Between
 
-Black is definitionally the absence of — it cannot invent or create, only reflect or reanimate what already lived elsewhere in the spectrum, which is why Black combines with no other school. A lich is "a skeleton of, reanimated from, but not living" — it remembers being alive only in fragments. Ghosts and wraiths are, in the same register, holes shaped like people. This governs every Death/Void entry.
+The world is ordered in seven colors, and every creature in it carries the grain of the one it belongs to. This is not a scheme I laid over the beasts to sort them; it is the sorting the world was already born with. A thing is White or Red or Black the way a stone is heavy — in its nature, before anyone thinks to name it.
 
----
-
-## Cross-Cutting Rules
-
-A few structural rules apply across every color's roster:
-
-- **Death is near-universal** — almost any creature can have a Death-variant reflection of itself, per the Black/Void constraint.
-- **Decay and poison are modifiers**, not their own category — any creature can carry a decaying or venomous variant.
-- **Wild fauna, not domesticated stock** — animals appear as ancestral/wild forms, not modern pets or livestock.
-
-**Golems/Constructs and Megalith Guardians** are a separate, cross-cutting archetype family tied to the world's two deep-past epochs (Ancient Civilization, Hunter-Gatherer — Book VI). Neither is a standing world feature: both ride in only via builder-deployed Story Content Packs (Book II), never as baked-in world-gen dressing. Golems are unaffected by the Black/Void constraint — nothing died to make one, so it isn't a reflection of anything. Megalith Guardians wake on celestial triggers, not on sight or sound.
+- **White — Light and Prophecy.** The austere and the radiant. Guardians that do not tire, seers broken on what they foresaw, and a brightness that reveals rather than warms. Its beasts keep the high, clean places; its terrors keep the law, and are not merciful about it.
+- **Yellow — Air and Lightning.** Storm and open sky. The fliers and the things that own the air — harpies, griffins, the great rocs and the thunder itself given wings — and below them the swift, wary fauna of the windswept plains.
+- **Red — Fire and Blood.** Savagery and war. The burning and the raiding: orcs and ogres, fire that walks, the brutal and the tusked, and the scavengers of the scorched lands that follow them for what they leave.
+- **Orange — Chaos and Transformation.** Aberration and mutation — the wrong-made, the shifting, the things assembled against every rule of shape. *Virel writes in the margin here that we call them aberrations only because they do not keep the shape we agreed on, and asks who agreed, and when. I have let the note stand and drawn no conclusion from it.*
+- **Green — Earth and Life.** The wilderness and the deep places. Goblinkind in the dark, the great beasts of the old wood, the things that grow instead of heal, and the fauna of the forest floor and the caverns beneath.
+- **Blue — Water and Illusion.** Depth and deception. Drowners, shape-thieves, and luring voices; the deep serpents and the deceits that walk ashore wearing a stranger's face.
+- **Black — Death and Void.** The absence. Nothing here is made — only the dead reflected and raised, wearing the shapes they wore in life. It keeps no beasts of its own, for the dead do not graze.
+- **Inverted — the shadow between.** Not a color and not a beast. The non-real: the phantasms, the night-spooks, the effects that wear no body. You do not kill these; you endure them, or you leave.
 
 ---
 
-## Inverted — Psionics
+## On the Nature of Beasts
 
-The eighth set, and the one that isn't a bestiary at all. Inverted is cosmic/psychic horror — the void group, the non-real group, the phantasms and night spooks — and none of it has a body to fight. It is a catalog of **localized phenomena**: effect-zones with a cause but no creature, expressed through particle effects, sound, screen and audio corruption, and the statuses they force on the player (Fear, Panic, Stun, Confound, loss of control). You don't kill these — you endure them, escape their zone, or find and disrupt whatever's generating them. They double as the psychic-effect library that Dungeon-Maker boss and room construction draws from. Because they have no stat block or tiers, they use their own **Phenomenon template**, not the creature template. The full set lives at the end of this book; separate from the Mentis noun (Book IV) — Psionics is unschooled and willed, not word-grammar magic.
+*A unifying principle, and the common observations of those who have gone looking.*
 
----
+Every entry in this book falls into one of three ranks, and the ranks hold across all seven colors. **Animals** are the ordinary living — the biome's own fauna, wary and mortal, most of which would rather run than fight. **Monsters** are the marked and the dangerous, the things a traveler names when asked what haunts a place. **Terrors** are the apex and the named, the great beasts and the singular horrors that a whole region tells stories about. Two colors keep the rule loosely: Black holds no Animals, since it raises the dead rather than growing the living, and Inverted holds no creatures at all.
 
-## Boss Composition
+A handful of truths run through the whole register, and I have found it worth setting the naturalists' own words to them.
 
-A Vetala riding a Dracolich is a worked example of archetype + word-grammar composition, stacked — both halves are independent "reflections, not creation" under the Black/Void constraint. One candidate direction for how bosses compose generally; not yet ruled.
+On the wild, from **Bralt the Huntsman**, who has killed more of the things in this book than any three other contributors and can no longer close his left hand: *"Every animal in here will run. Most monsters will not. Learn which is which before you learn their names — the names keep. You may not."*
 
----
+On the harvest, from **Sister Verda of the Vine**, herbalist: *"There is no beast so foul that no part of it will mend, feed, or kill — the whole art is in knowing which part, and in taking it before the thing has quite finished dying. Waste nothing. The world does not, and the world made these."* She adds, of the venomous and the rotting: *"Decay and poison are not their own kind of creature. They are a shadow that can fall on any flesh. Assume it has."*
 
-## Open Questions
+On the dead, from **Ossian the Mortist**, keeper of the Black register: *"Understand this before you read a page of my chapter. The dead invent nothing. Whatever wears a horror's shape in the dark of a barrow, something wore it first, in the light, and lived. Grieve for that. Do not grieve for what you are about to put down."*
 
-- **Human Principalities — structurally resolved.** The four human Principalities *are* the schools of the mortal-color domains (Yellow, Red, Blue, Green); their descent (Titan → ancient immortals → human holders) is Book VI canon. What remains open is the placement of specific figures within that mythology — the Lonely Muse, at least, was originally a student of Blue.
-- **Psionics and the hidden face of Chaos — emerging.** The First Titan (the Two-Faced God) carries two faces: the dominant Death/Void (Black) personality, and a *hidden* Chaos (Orange) god that teaches a chosen few the "true nature of the universe." Psionics is that hidden school of Chaos. Whether its teaching is truth or merely another perspective is a deliberate, unresolved theme — the forbidden route to power against the consensus — not a fact to settle. A budding idea; belongs to Book VI once matured.
-- **Recruitment gating — resolved in principle.** Determined by the biome the dungeon's entrance sits in; the finer mechanics are deferred to the Dungeon-Maker kit design (Book II).
-- **Biome benches — resolved in direction.** Biomes and their creatures are the emergent output of the world's ecological simulation, not a hand-authored table (see Biome Seeding, below).
+On the seen and the unseen, from **Corvane**, who compiled this book and trusts none of it entirely: *"I have set down what a hundred hands swore they saw. I believe half of them saw truly. The other half met something from the last chapter, which is not in the habit of showing you what is there."*
 
----
+And from **Brother Lucen of the Dawn**, on the color that opens the book: *"Do not mistake White for a comfort. The light does not warm; it reveals, and revelation is not kind. What burns in these pages under that heading would sooner blind a pilgrim than bless him."*
 
-## Biome Seeding
-
-Biomes are not hand-authored zones and their creature benches are not a lookup table. The world is generated as a grid of hexes — each roughly fifty miles across (the engine's world-definition system) — and each hex's contents are procedurally generated and, in the same pass, **classified**. That classification is at once a constraint on generation and an output of it, and it feeds many downstream systems, creature spawning among them.
-
-Biome type emerges from the underlying simulation, centrally the **water cycle** and the **compound/element life-cycle** (Book III). The ecology assembles itself in trophic layers rather than being placed: where water meets nutrients, plants can grow; a plant-growing biome draws an insect layer; the insect layer draws a small-animal layer; and so on up the chain, predators and monsters riding on the layers beneath them.
-
-Creatures spawn from the conditions the simulation detects, not from an assigned list. The bestiary's own flavor already encodes the hooks — a vulture rides heat updrafts, so the presence of those updrafts in the water simulation is itself the key indicator that tells the procedural system to spawn vultures there. Every color roster's creatures attach to the conditions that suit them the same way, and the same detected conditions decide, per Book II, which creatures a Dungeon Maker can recruit from the biome their entrance sits in.
-
-The nine working biome categories — Desert, Volcanic, Mountain/Highland, Underland, Temperate Forest, Tropical/Jungle, Wetland, Coastal/Ocean, Tundra/Polar — are shorthands for recurring bundles of those conditions, not places.
-
-**[STUB]** The water cycle and the full ecological-spawn system are not yet built — engine work. The exact condition-to-creature mappings follow once that simulation exists. The world otherwise holds no fixed authored geography beyond one production-practical player-built town; anything that looks like a ruin is ordinary erosion-system output, and the Ancient Civilization / Hunter-Gatherer flavor (Golems, Megalith Guardians) enters play only via builder-deployed Story Content Packs.
-
----
-
-## Creature Entry Template
-
-Every bestiary entry uses this shape:
-
-- **Name**, grouped under its color's Animals / Monsters / Terrors subheadings.
-- **Environments** — biome-flavor tags within its color.
-- **Description** — appearance, flavor, tone.
-- **Behaviors** — AI pattern: solitary/pack, aggro range, signature actions.
-- **Threats & Defenses** — what it inflicts and resists, drawn from Book IV's existing status-effect taxonomy (Root, Snare, Slow, Expose, Poison/Disease, Stun, Silence, Confound, Sunder, Fear, Panic, Charm) — no bespoke effects per creature.
-- **Statistics** — a table with Base (Normal tier) plus computed Weak (×0.6), Strong (×1.75), and Boss (×4, a floor — named unique Bosses embody or exceed it) columns, across the same seven player stat lanes (Str, Dex, Con, Int, Wis, Luck, End). Health/Stamina/Mana stay derived-and-`[BUILD]` per Book I's existing open item.
-- **Attack Patterns** — named, Souls-like specific moves (not just a status effect): base attack, signature move, and where it applies, a stationary vs. in-motion variant of the same move.
-- **Materials** — what it drops: harvestable parts for an animal, salvage for a construct, incidental effects for the immaterial. Not every entry has valuable materials.
-- **Weapons** / **Armor** tables — *conditional*, only for creatures that would plausibly wield a weapon or wear armor. Most beasts and elementals skip these; armed humanoids and constructs get them.
-
-## Power Tiers
-
-Four bands per creature, not a new tier system alongside Book II's ten DM tiers:
-
-| Tier | Scale | Notes |
-|---|---|---|
-| Weak | ~60% of Normal | young, wounded, or lesser specimens |
-| Normal | baseline | the stat block given in each entry |
-| Strong | ~175% of Normal | elite/alpha variant, often one extra trick |
-| Boss | several multiples of Normal | unique, named instance; always ≥1 signature mechanic |
-
-Weak/Normal are available from a dungeon's earliest tiers by default. Strong requires ranking Book II's **Monster Mastery** tech tree to mid-level — the realistic ceiling for most DM builds. Boss is gated by the same top-tier/deep-tech-tree wall already ruled for raid-zone and Advent-gate construction — most builds cap below it by design.
-
-*The one exception is the Inverted set (at the end of this book), which has no creatures, stat blocks, or power tiers — its localized phenomena scale by intensity and use the Phenomenon template documented there.*
+Read, then, in that spirit. Name the thing, weigh the rank, and remember Bralt: the names keep.
 
 ---
 
@@ -3802,3 +3752,96 @@ Inverted has no bosses of its own — a phenomenon is a hazard, not a foe. But a
 **Encounter Use:** A room that splits and scatters a party toward its hazards, or a boss mechanic that lures a party member out of position and into a trap or the boss's reach.
 
 **Intensity:** *Low* — a mild, ignorable pull. *Mid* — a persuasive draw, hard to recognize as foreign. *High* — a near-irresistible compulsion toward danger, splitting the party against its own judgment.
+
+---
+
+# Appendices
+
+*The design and structural detail that orders this book. The register above reads as an in-world catalogue; the appendices below are the editor's and builder's scaffolding — the colors' ownership, the rules every roster obeys, the entry format, and the systems that decide where each creature is found.*
+
+## Appendix A — The Colors and Their Principalities
+
+Each color owns two Domains (Book V), and each belongs to a Principality:
+
+| Color | Domains | Principality |
+|---|---|---|
+| White | Light, Prophecy | Principality of White |
+| Yellow | Air, Lightning | Human |
+| Red | Fire, Blood | Human |
+| Orange | Chaos, Transformation | First Titan |
+| Blue | Water, Illusion | Human |
+| Green | Earth, Life | Human |
+| Black | Death, Void | First Titan |
+| *(Inverted)* | — | Psionics |
+
+The four human Principalities are the schools of the mortal-color domains themselves; their descent (Titan → ancient immortals → human holders) is Book VI canon. The Black and Orange schools both belong to the First Titan, the Two-Faced God — and an emerging idea holds that the Titan's dominant face is its Death/Void (Black) side, with a hidden Chaos (Orange) face behind it that teaches a chosen few a forbidden "true nature." That framing is not yet ratified; see Appendix G.
+
+## Appendix B — The Black/Void Constraint
+
+Black is definitionally *the absence of*. It cannot invent or create, only reflect or reanimate what already lived elsewhere in the spectrum, which is why Black combines with no other school. A lich is "a skeleton of, reanimated from, but not living" — it remembers being alive only in fragments. Ghosts and wraiths are, in the same register, holes shaped like people. This governs every Death/Void entry, and it is why the Black set holds no animals: the dead are raised, not grown.
+
+## Appendix C — Cross-Cutting Rules
+
+A few structural rules apply across every color's roster:
+
+- **Death is near-universal** — almost any creature can take a Death-variant reflection of itself, per Appendix B.
+- **Decay and poison are modifiers**, not their own category — any creature can carry a decaying or venomous variant.
+- **Wild fauna, not domesticated stock** — animals appear in ancestral/wild forms, never as modern pets or livestock.
+
+**Golems/Constructs and Megalith Guardians** are a separate, cross-cutting archetype family tied to the world's two deep-past epochs (Ancient Civilization, Hunter-Gatherer — Book VI). Neither is a standing world feature: both enter play only via builder-deployed Story Content Packs (Book II), never as baked-in world-gen dressing. Golems are unaffected by the Black/Void constraint — nothing died to make one, so it reflects nothing. Megalith Guardians wake on celestial triggers, not on sight or sound.
+
+## Appendix D — Entry Formats and Power Tiers
+
+**The creature template.** Every creature entry (the seven color sets) uses this shape:
+
+- **Name**, grouped under its color's Animals / Monsters / Terrors subheadings.
+- **Environments** — biome-flavor tags within its color.
+- **Description** — appearance, flavor, tone.
+- **Behaviors** — behavior pattern: solitary/pack, aggression, signature actions.
+- **Threats & Defenses** — what it inflicts and resists, drawn from Book IV's status-effect taxonomy (Root, Snare, Slow, Expose, Poison/Disease, Stun, Silence, Confound, Sunder, Fear, Panic, Charm) — no bespoke effects per creature.
+- **Statistics** — a table with Base (Normal) plus computed Weak (×0.6), Strong (×1.75), and Boss (×4, a floor — named unique Bosses embody or exceed it), across the seven player stat lanes (Str, Dex, Con, Int, Wis, Luck, End). Health/Stamina/Mana stay derived-and-`[BUILD]` per Book I.
+- **Attack Patterns** — named, Souls-like specific moves: a base attack, a signature move, and where it applies, a stationary vs. in-motion variant.
+- **Materials** — harvestable parts, salvage, or (for the immaterial) nothing. Not every entry yields anything of worth.
+- **Weapons / Armor tables** — *conditional*, only for creatures that would plausibly wield a weapon or wear armor.
+
+**Power tiers.** Four bands per creature, not a rival to Book II's ten Dungeon-Maker tiers:
+
+| Tier | Scale | Notes |
+|---|---|---|
+| Weak | ~60% of Normal | young, wounded, or lesser specimens |
+| Normal | baseline | the stat block given in each entry |
+| Strong | ~175% of Normal | elite/alpha variant, often one extra trick |
+| Boss | several multiples of Normal | unique, named instance; always ≥1 signature mechanic |
+
+Weak/Normal are available from a dungeon's earliest tiers by default. Strong requires ranking Book II's **Monster Mastery** tech tree to mid-level — the realistic ceiling for most builds. Boss is gated by the same top-tier/deep-tech-tree wall as raid-zone and Advent-gate construction — most builds cap below it by design.
+
+**The Inverted exception.** The Inverted set uses a different shape entirely — the **Phenomenon template** (Name / Class / Manifestation / Zone & Trigger / Effect / Source & Counter / Encounter Use), documented in that set's own opening. Its phenomena have no stat block and no power tiers; they scale by **intensity** (low → high), and they double as the psychic-effect library that boss and room construction draws from.
+
+## Appendix E — Biome Seeding and the Ecological Simulation
+
+Biomes are not hand-authored zones, and their creature benches are not a lookup table. The world is generated as a grid of hexes — each roughly fifty miles across (the engine's world-definition system) — and each hex's contents are procedurally generated and, in the same pass, **classified**. That classification is at once a constraint on generation and an output of it, and it feeds many downstream systems, creature spawning among them.
+
+Biome type emerges from the underlying simulation, centrally the **water cycle** and the **compound/element life-cycle** (Book III). The ecology assembles itself in trophic layers rather than being placed: where water meets nutrients, plants can grow; a plant-growing biome draws an insect layer; the insect layer draws a small-animal layer; and so on up the chain, predators and monsters riding on the layers beneath them.
+
+Creatures spawn from the conditions the simulation detects, not from an assigned list. The bestiary's own flavor already encodes the hooks — a vulture rides heat updrafts, so the presence of those updrafts in the water simulation is itself the key indicator that tells the procedural system to spawn vultures there. Every color roster's creatures attach to the conditions that suit them the same way, and the same detected conditions decide, per Book II, which creatures a Dungeon Maker can recruit from the biome their entrance sits in.
+
+The nine working biome categories — Desert, Volcanic, Mountain/Highland, Underland, Temperate Forest, Tropical/Jungle, Wetland, Coastal/Ocean, Tundra/Polar — are shorthands for recurring bundles of those conditions, not places.
+
+**[STUB]** The water cycle and the full ecological-spawn system are not yet built — engine work. The exact condition-to-creature mappings follow once that simulation exists. The world otherwise holds no fixed authored geography beyond one production-practical player-built town; anything that looks like a ruin is ordinary erosion-system output, and the Ancient Civilization / Hunter-Gatherer flavor enters play only via builder-deployed Story Content Packs.
+
+## Appendix F — Boss Composition
+
+A Vetala riding a Dracolich is a worked example of archetype + word-grammar composition, stacked — both halves are independent "reflections, not creation" under the Black/Void constraint. It is one candidate direction for how bosses compose generally, and it pairs with the dual-boss reanimation mechanic in the Black set (the Vetala). Not yet ruled as *the* boss-composition system.
+
+## Appendix G — Design Notes and Open Questions
+
+**Tone.** Gothic horror, Dark Souls–style — not high-fantasy-tame. Traditional Forgotten Realms / Diablo / Ultima-coded monsters (undead, liches, dragons, goblins, kobolds, hobgoblins, ogres, giants, cyclopes) reskinned toward decay, corruption, and dread rather than generic adventure-fantasy flavor. This governs every entry.
+
+**Invented framing [PROPOSED].** The in-world compiler and naturalist voices of the Introduction (Corvane, Verda, Lucen, Bralt, Ossian, Virel) are newly invented as of 2026-07-04 and await Elideus's ratification before they are canon.
+
+**Open questions:**
+
+- **Human Principalities — structurally resolved.** The four human Principalities *are* the mortal-color domain schools (Yellow, Red, Blue, Green). Open: the placement of specific figures in the myth — the Lonely Muse was originally a student of Blue.
+- **Psionics and the hidden face of Chaos — emerging (not yet canon).** The First Titan's dominant face is Death/Void (Black); a hidden Chaos (Orange) face behind it teaches a chosen few the "true nature of the universe," and Psionics is that hidden school of Chaos. Whether the teaching is truth or merely another perspective is a deliberate, unresolved theme (the forbidden route to power against the consensus). Belongs to Book VI once matured.
+- **Recruitment gating — resolved in principle.** Determined by the biome the dungeon's entrance sits in; finer mechanics deferred to the Dungeon-Maker kit (Book II).
+- **Biome benches — resolved in direction.** Emergent from the ecological simulation, not a table (Appendix E).
