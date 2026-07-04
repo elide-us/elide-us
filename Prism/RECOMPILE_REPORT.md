@@ -218,6 +218,7 @@ Round 6 follow-up: **disciplines are not new** (`DCB350D4`) — they are Book IV
 - **Quench speed promoted to canon** (`41EB4B47`): a conserved, first-class hex state field (hardness = *if*, quench = *how*, stress = *when* a hex fails); coastline morphology and biogenic epochs ride with it; Book III integration pending a world-sim pass.
 - **Party scales canon, fixed tuning** (`CA50B875`): dungeons **5–7**, mid raids **10–15**, large **25–35**, mega **72→100**; no dynamic scaling. EQ's player-x²/monster-x³ asymmetry, the **puller** role, and the **party logbook** ride as [PROPOSED] (`A40C5CC7`). **Top-tier DMs can unlock raid-zone construction** (deep tech tree + high rating; refines `639B9FD9`) — the community path to Advent-tier content.
 - **Deferred to sessions** (`1E5C0E3C`): the **color counter-web** design (old permadeath model confirmed dead); the **item-creation + enchantment system** (DM-side) — with the explicit constraint that items, combat, and stats interdepend and must land together with the derived-value formulas pass.
+- **The Advent gate chain** (`8E571A6E`, closing the CA50B875 boundary question): **top-tier DM dungeons must be defeated to unlock the Advents** — an advanced Maker earns the capability to place an Advent gateway at the end of a dungeon; clear the dungeon, the gate opens. The Advent zones themselves are future design: **carefully curated puzzle zones, essentially the game's only designed fixed content**, community-built or Elideus's "personal imaginarium of advent insanity projects."
 
 ---
 
