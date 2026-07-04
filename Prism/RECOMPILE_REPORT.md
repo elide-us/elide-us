@@ -210,6 +210,15 @@ Round 6 follow-up: **disciplines are not new** (`DCB350D4`) — they are Book IV
 
 **Queue effect:** items 3 and 4 close; combat is now framed in Book I with derived-value formulas, status tables, and the talent graphs flagged `[BUILD]`. The **layered skill-scope system stays reserved** (`F618F695`).
 
+**Round 11 (2026-07-03): the excavation adjudication.** Five recovered ChatGPT-era sources were captured to `sources/` (origin myth, Blue Realm/Caeloreth, party-scale combat, world-modes/Realmwright, world-sim/quench — intake notes `52C549CC`, `59DF9DD6`, `D834A6A3`, `A40C5CC7` + six myth decisions), then adjudicated:
+
+- **The prison frame is canon** (`69412269`): the Shattering built a prison; the Titans locked the rebellious scholars in — **the Muse was one of them** (`41729188`); the Titans guard the **gateways**, and the **Advent locations are the guarded gates**. The **PRISM pun carries both meanings by intent** — "it's not prison" was Elideus fighting a voice recorder while driving (`BDB707A5` clarified). Books V/VI updated.
+- **Era-specific philosophies** (`CDE8479D`): an era of conflated, hidden philosophies precedes the Golden Age — Caeloreth (Blue's High Seer, castle-root name `F7EFAD30`) sold curated Truth as Knowledge; **the Muse's de-conflation is the transition** to today's public, unjudged pairs. Blue-realm beats canon (Caeloreth, Belmar, the Mirror Lake; prose held as draft); her Lake visions feed the open constellation slots. Answers the old "Knowledge vs Truth — two goods?" question and places the Muse in the Blue school.
+- **Architecture** (`DC66A0FB`): the excavated single-shard directive is **overridden** — one universe instance, **seven literal playable worlds, "the seven prisms"**; Death Gate Cycle noted as loose inspiration. "Shard" in books = world-shard only. **Realmwright stays dead**; Clay Engine/GM-mode/epoch-7 and its isolation principle stand (`59DF9DD6`).
+- **Quench speed promoted to canon** (`41EB4B47`): a conserved, first-class hex state field (hardness = *if*, quench = *how*, stress = *when* a hex fails); coastline morphology and biogenic epochs ride with it; Book III integration pending a world-sim pass.
+- **Party scales canon, fixed tuning** (`CA50B875`): dungeons **5–7**, mid raids **10–15**, large **25–35**, mega **72→100**; no dynamic scaling. EQ's player-x²/monster-x³ asymmetry, the **puller** role, and the **party logbook** ride as [PROPOSED] (`A40C5CC7`). **Top-tier DMs can unlock raid-zone construction** (deep tech tree + high rating; refines `639B9FD9`) — the community path to Advent-tier content.
+- **Deferred to sessions** (`1E5C0E3C`): the **color counter-web** design (old permadeath model confirmed dead); the **item-creation + enchantment system** (DM-side) — with the explicit constraint that items, combat, and stats interdepend and must land together with the derived-value formulas pass.
+
 ---
 
 *Ledger conventions, all entry GUIDs, and full finding bodies live in the Oracle thread `prism-bible-recompile`. Books remain internally honest: every unsourced claim is marked, every fork is cited, nothing was invented.*
