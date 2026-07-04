@@ -1542,3 +1542,1554 @@ Storm and open sky. The animals are ordinary fauna of windswept storm-steppe —
 **Attack Patterns:** Base bite, claw, and **Wing-Wind** (knockback). Signature — **Lightning Breath**: a bolt inflicting Stun; at Elder and Ancient tiers it chains to nearby targets.
 
 **Materials:** Storm-Scales (armor-grade, Yellow-aligned), Claws, Teeth, a Charged Heart (rare Yellow reagent, Ancient tier only).
+
+---
+
+## Red — Fire and Blood
+
+Savagery and war. The animals are ordinary fauna of hot, scorched country — lava fields, ash plains, and sun-blasted savanna — while the monsters and terrors are the things that thrive in heat and violence: warbands, fire-born spirits, and the great burning beasts.
+
+### Animals
+
+#### 1. Wild Boar
+**Environments:** scrub, dry woodland edges, brush along the ash plains.
+
+**Description:** A heavy, bristle-backed pig with curved tusks and a foul temper, common wherever there's rooting to be had. Compact and low-slung, it's far stronger and faster than its bulk suggests.
+
+**Behaviors:** Forages alone or in small sounders, generally ignoring anything that doesn't crowd it, but quick to turn aggressive when startled, cornered, or protecting young. A charging boar commits fully and does not bluff.
+
+**Threats & Defenses:** A goring charge from the tusks hits hard and can Expose a wound as it rips upward. Tough and stubborn — it fights on through injury that would send most animals running, and does not break off easily once it charges.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 13 | 8 | 23 | 52 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 13 | 8 | 23 | 52 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Signature — **Goring Charge**: a committed tusk-first rush (Expose on a solid hit). Stationary variant: a sideways tusk-slash if already close.
+
+**Materials:** Hide, Tusks, Meat, Bone.
+
+#### 2. Lion
+**Environments:** open savanna, dry grassland, rocky kopjes.
+
+**Description:** A powerful tawny cat of the open plains, the males maned and heavy, the females leaner and the real hunters. It lives in prides and rules the ground it holds through sheer presence.
+
+**Behaviors:** Hunts cooperatively in prides, the females driving prey toward an ambush, and defends kills and territory with loud, aggressive display before violence. It sizes up a threat and will back down from a genuinely dangerous one — but reads hesitation as weakness and presses it hard.
+
+**Threats & Defenses:** A pouncing maul with claws and a crushing bite; a pride can surround and pull down a single target, inflicting a Snare through encirclement. Confident rather than reckless — it commits when it judges the odds good and disengages when they turn.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 16 | 10 | 28 | 64 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 14 | 8 | 25 | 56 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Base maul-and-bite. Signature — **Pride Ambush**: the pride drives a target into an encircling Snare, then pounces together.
+
+**Materials:** Pelt, Claws, Fangs, Meat, Bone.
+
+#### 3. Aurochs
+**Environments:** open grassland, savanna, river meadows.
+
+**Description:** A massive wild ox, far larger and fouler-tempered than any tamed cattle, with a heavy horned head carried low and a body built like a battering ram. Herds of them move like slow weather across the plains.
+
+**Behaviors:** Grazes in herds that close ranks around the young when threatened, presenting a wall of horns to any predator. Bulls are territorial and short-fused, charging a perceived threat rather than fleeing it, and a whole herd stampeding is a hazard in its own right.
+
+**Threats & Defenses:** A horned charge from something this heavy is a stance-shattering knockback that can outright trample a downed target. Enormous durability; the danger is as much in being caught in front of one, or under a stampede, as in the animal itself.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 17 | 10 | 30 | 68 |
+| Dex | 9 | 5 | 16 | 36 |
+| Con | 16 | 10 | 28 | 64 |
+| Int | 3 | 2 | 5 | 12 |
+| Wis | 7 | 4 | 12 | 28 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 15 | 9 | 26 | 60 |
+
+**Attack Patterns:** Signature — **Trampling Charge**: a heavy horned rush (knockback) that runs over a downed or staggered target. Stationary variant: a goring toss of the head.
+
+**Materials:** Hide (heavy leather), Horns, Meat, Bone.
+
+#### 4. Pit Viper
+**Environments:** hot rock, scree, ruins, anywhere with cover and sun.
+
+**Description:** A thick-bodied venomous snake patterned to vanish against dry stone and dead grass, with a broad head and heat-sensing pits that let it strike accurately in full dark. It coils in cover and waits.
+
+**Behaviors:** Ambush hunter, near-motionless until something warm passes within a strike's reach. It doesn't pursue and doesn't seek confrontation — it defends the ground it's coiled on, which makes it a frequent hazard in rubble and rocky trails.
+
+**Threats & Defenses:** A lightning strike delivers a Poison that worsens over time. Small and fragile once located, but its camouflage means the bite usually lands before the snake is ever seen.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 5 | 3 | 9 | 20 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 8 | 5 | 14 | 32 |
+| Int | 2 | 1 | 4 | 8 |
+| Wis | 7 | 4 | 12 | 28 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 8 | 5 | 14 | 32 |
+
+**Attack Patterns:** Signature — **Ambush Strike**: a single fast bite from cover inflicting Poison, then a withdrawal back into coil.
+
+**Materials:** Skin (patterned leather), Venom Gland (alchemy reagent), Fangs.
+
+#### 5. Ash Kite
+**Environments:** burnt lands, thermals over scorched ground, carrion sites.
+
+**Description:** A dark, sharp-winged raptor-scavenger that rides the heat rising off scorched ground, its sooty plumage streaked with pale gray. Bolder than a vulture, it takes small live prey as readily as carrion.
+
+**Behaviors:** Quarters the burnt country on the wing, dropping on small prey and squabbling over larger carcasses. It follows fires and warbands alike, having learned both leave the dead and dying in their wake, and shows little fear of people who aren't actively threatening it.
+
+**Threats & Defenses:** A diving talon-strike can Expose a wound on small prey, but it's no danger to anything armed. Like the vulture, its value is as a sign — kites gathering over the scrub mark carrion, and often what made it.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 7 | 4 | 12 | 28 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 8 | 5 | 14 | 32 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 10 | 6 | 18 | 40 |
+
+**Attack Patterns:** Signature — **Diving Snatch**: a dropping talon-strike on small prey (Expose on a solid hit).
+
+**Materials:** Feathers, Talons, Beak.
+
+#### 6. Tortoise
+**Environments:** dry scrub, rocky flats, sun-baked ground.
+
+**Description:** A large, slow land tortoise armored in a heavy domed shell, weathered the color of the stone it lumbers across. It asks nothing of the world but forage and warmth, and gives nothing back.
+
+**Behaviors:** Plods placidly through its day, grazing on tough scrub and withdrawing entirely into its shell at any threat. It has no aggression in it at all — its whole strategy is to become an inedible rock and wait the danger out.
+
+**Threats & Defenses:** No offense beyond a sluggish defensive bite. Its shell is genuinely formidable, shrugging off most attacks and making it far more trouble to crack than it's worth; predators generally give up and move on.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 9 | 5 | 16 | 36 |
+| Dex | 4 | 2 | 7 | 16 |
+| Con | 15 | 9 | 26 | 60 |
+| Int | 3 | 2 | 5 | 12 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** None to speak of. **Withdraw** — retracts fully into a near-impervious shell and waits.
+
+**Materials:** Shell (armor/crafting material), Meat.
+
+#### 7. Dromedary Camel
+**Environments:** hot open country, dune fields, scrub flats.
+
+**Description:** A tall, humped beast of burden built to cross scorched country on little water, splay-footed for sand and thick-lipped for thorn. Domesticated stock has run wild across the hot lands and thrives there.
+
+**Behaviors:** Ranges in loose herds, placid and enduring, and mostly ignores travelers unless harassed. Ill-tempered when pushed — it spits, bites, and kicks — but its real trait is stamina, crossing distances and heat that would kill almost anything else.
+
+**Threats & Defenses:** A defensive bite and kick, more nuisance than danger. Its endurance is the point — a wild camel simply outlasts pursuit across ground that punishes the pursuer far more than the camel.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 14 | 8 | 25 | 56 |
+| Dex | 10 | 6 | 18 | 40 |
+| Con | 15 | 9 | 26 | 60 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 16 | 10 | 28 | 64 |
+
+**Attack Patterns:** Signature — **Kick & Spit**: a defensive kick and a foul spit when harassed; not a hunter, only a nuisance.
+
+**Materials:** Hide, Hair (woven), Meat; readily captured and broken as a pack or riding mount for the hot lands.
+
+---
+
+### Monsters
+
+#### 8. Orc
+**Environments:** warcamps, badland strongholds, anywhere a Bloodfast warband is raiding.
+
+**Description:** A brutal, heavy-browed humanoid, gray-green and slab-muscled, the raiders of the Bloodfast tribes marked by the black-red veins of their blood-drinking rites and filed tusks. They live for the raid and reckon worth in what they can take.
+
+**Behaviors:** Raid in aggressive warbands, favoring overwhelming numbers and ferocity over any subtlety, and driving themselves into a blood-frenzy before a fight. They respect only strength — a warband that meets real resistance may break, but one that smells weakness becomes relentless.
+
+**Threats & Defenses:** Fight with heavy blades, axes, and spears, hitting hard and inflicting Expose through sheer battering aggression. Their frenzy makes them fearless (they resist Fear) but reckless — they overcommit, leaving openings a disciplined fighter can punish.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 14 | 8 | 25 | 56 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 14 | 8 | 25 | 56 |
+| Int | 8 | 5 | 14 | 32 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Base weapon strikes. Signature — **Blood-Frenzy**: works itself into a fearless rage, hitting harder and faster at the cost of any defense.
+
+**Materials:** Coin and plunder, plus whatever it carried.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Warband Blade / Axe | Crude but heavy iron weapons, serviceable if inelegant. |
+| Raiding Spear | A simple thrusting and throwing spear. |
+
+**Armor:**
+| Drop | Notes |
+|---|---|
+| Scrap Plate | Mismatched scavenged armor, wearable, dented and heavy. |
+
+#### 9. Ogre
+**Environments:** caves, ruins, badland lairs near a food supply.
+
+**Description:** A hulking brute two or three times a man's height, thick with fat and muscle, dim-witted and perpetually hungry. It solves every problem by hitting it, and most problems stay solved.
+
+**Behaviors:** Solitary or in small brutish family groups, it attacks anything edible or annoying with a great club and no strategy beyond reach and force. Slow to think and easily baited, but a single connecting blow ends most fights on its own.
+
+**Threats & Defenses:** A club-swing hits like a falling tree — heavy knockback and a good chance to Stun. Enormous strength and toughness, but slow, stupid, and easily lured into overcommitting; the whole fight is about not being where the club lands.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 19 | 11 | 33 | 76 |
+| Dex | 8 | 5 | 14 | 32 |
+| Con | 17 | 10 | 30 | 68 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 6 | 4 | 11 | 24 |
+| Luck | 6 | 4 | 11 | 24 |
+| End | 16 | 10 | 28 | 64 |
+
+**Attack Patterns:** Signature — **Club Smash**: a heavy overhead swing (Stun and knockback on a solid hit). Motion variant: a lumbering charge-and-swing that covers ground first.
+
+**Materials:** Hide, Bone, and whatever it's hoarded; sometimes a crude club worth salvaging.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Great Club | A tree-trunk or hewn-stone bludgeon; usable two-handed by the strong, or broken down. |
+
+#### 10. Minotaur
+**Environments:** ruins, cavern mazes, walled labyrinths.
+
+**Description:** A towering bull-headed brute, heavy-horned and human-bodied, that haunts the twisting places of the world. Powerful and single-minded, it knows its maze the way a spider knows its web.
+
+**Behaviors:** Lairs in a labyrinth or ruin it has learned by heart, using the twists to ambush and separate intruders. It charges headlong down straight runs and corners prey against dead ends, driven by a rage that reads almost as ritual.
+
+**Threats & Defenses:** A horned charge is a battering, stance-breaking knockback that can pin a target against a wall; in close it swings a great axe or fists. It never loses its way in its own maze, and resists Confound — misdirection that would disorient another foe doesn't touch it on its home ground.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 18 | 11 | 32 | 72 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 16 | 10 | 28 | 64 |
+| Int | 7 | 4 | 12 | 28 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 15 | 9 | 26 | 60 |
+
+**Attack Patterns:** Signature — **Gore Charge**: a headlong horned rush down a straight line (knockback, pins against walls). Base great-axe swing in close.
+
+**Materials:** Hide, Horns, Meat, and its weapon; its lair often holds the goods of those who never found the way out.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Labyrinth Axe | A great double-bladed axe, heavy and battle-worn. |
+
+#### 11. Manticore
+**Environments:** crags, ruins, lairs overlooking travelled ground.
+
+**Description:** A monstrous predator with the body of a lion, leathery wings, and a vaguely human, cruel-featured face, its tail a mass of iron-hard spikes it can loose like a volley of arrows. It hunts with a malign intelligence that ordinary beasts lack.
+
+**Behaviors:** Ambushes from above or from a ridge, opening with a volley of tail-spikes before closing to maul. Cunning and cruel, it prefers to soften prey at range and finish the wounded, and will flee to fight another day rather than lose a losing fight.
+
+**Threats & Defenses:** A volley of tail-spikes strikes at range (Expose and bleeding on hits), followed by claw and bite up close. Its spikes regrow between fights but are limited in a single engagement, so weathering the opening volley blunts much of its threat.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 16 | 10 | 28 | 64 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 15 | 9 | 26 | 60 |
+| Int | 6 | 4 | 11 | 24 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 15 | 9 | 26 | 60 |
+
+**Attack Patterns:** Signature — **Spike Volley**: a ranged burst of tail-spikes (Expose). Base maul-and-bite once closed. Motion variant: a strafing volley from a diving pass.
+
+**Materials:** Pelt, Iron Spikes (usable as crude ammunition or crafting stock), Wing-leather, Fangs.
+
+#### 12. Hell Hound
+**Environments:** volcanic ground, scorched lairs, wherever fire and cruelty gather.
+
+**Description:** A large, coal-black hound with embers for eyes and a furnace glow visible through the seams of its hide, breathing heat and cinders. It runs in disciplined packs and radiates a warmth you feel before you see it.
+
+**Behaviors:** Hunts in coordinated packs, herding prey with gouts of flame and flanking to surround. More disciplined than an ordinary hound and drawn to fire and destruction, it presses relentlessly and uses its breath to cut off escape as much as to wound.
+
+**Threats & Defenses:** Bites, and breathes a short gout of fire that inflicts a lingering burn (damage over time). Immune to fire and heat, and a pack coordinates flame and flanking to Snare a target in a closing ring. Vulnerable to cold and water, which dampen the fire that is half its strength.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 13 | 8 | 23 | 52 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 13 | 8 | 23 | 52 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Base bite. Signature — **Ember Breath**: a short cone of fire inflicting a burning damage-over-time. Pack tactic — **Flame Herd**: uses breath to Snare prey into an encircling ring.
+
+**Materials:** Hide (heat-resistant leather), Fangs, an Ember-Gland (fire-aligned alchemy reagent).
+
+#### 13. Fire Elemental
+**Environments:** lava fields, great fires, forges, wherever flame runs free.
+
+**Description:** A living body of flame, roughly humanoid or a churning column depending on what feeds it, shedding light and scorching heat with every movement. It has no face and no fixed form, only fire given hunger and motion.
+
+**Behaviors:** Drawn to fuel and to fire, it spreads toward anything that will burn and lashes at anything that intrudes, without malice or plan. It grows where there's fuel and gutters where there isn't, and cannot be reasoned with or frightened.
+
+**Threats & Defenses:** Its touch and hurled flame inflict a heavy burn (damage over time), and it ignites flammable gear and surroundings. Immune to fire, Fear, Charm, and most physical harm — water, cold, and smothering are what actually threaten it, not blades.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 14 | 8 | 25 | 56 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 14 | 8 | 25 | 56 |
+| Int | 6 | 4 | 11 | 24 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 16 | 10 | 28 | 64 |
+
+**Attack Patterns:** Signature — **Immolating Touch**: a strike that sets the target burning (damage over time) and ignites gear. **Flame Lash**: a ranged whip of fire. Immaterial to conventional harm — must be doused or smothered.
+
+**Materials:** None as a corpse; a quenched elemental sometimes leaves an Ember-Core (potent fire reagent).
+
+#### 14. Salamander
+**Environments:** volcanic caverns, lava tubes, scorched ruins.
+
+**Description:** A serpentine creature with the upper body of a scaled humanoid and a long, coiling lower half wreathed in its own heat, its hide radiating enough warmth to blister at arm's length. Cruel and cunning, it makes its home in the deep volcanic places.
+
+**Behaviors:** Lairs near lava and heat, ambushing prey that ventures into its element and constricting the trapped in its burning coils. Intelligent enough to set traps and lay ambushes, and cruel enough to enjoy them, it fights on its own scorching ground by preference.
+
+**Threats & Defenses:** Coils to constrict (Root) while its searing hide inflicts a continuous burn (damage over time) on anything it holds; it also strikes with a heated blade or the lash of its tail. Immune to fire; vulnerable to cold, and much less dangerous away from its heat.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 15 | 9 | 26 | 60 |
+| Dex | 13 | 8 | 23 | 52 |
+| Con | 15 | 9 | 26 | 60 |
+| Int | 8 | 5 | 14 | 32 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Signature — **Searing Coil**: constricts a target (Root) while its hide burns it (damage over time). Base heated tail-lash or blade in melee.
+
+**Materials:** Scaled Hide (heat-resistant, valuable), a Fire-Gland (potent reagent), Fangs.
+
+#### 15. Ifrit
+**Environments:** deserts, volcanic wastes, bound within lamps and ruins.
+
+**Description:** A towering spirit of living fire and smoke wearing a broadly humanoid shape — dark-skinned, ember-eyed, wreathed in flame, often crowned or armored in blackened brass. Proud, wrathful, and old, an ifrit carries itself with the arrogance of something that predates the kingdoms of men.
+
+**Behaviors:** Haughty and quick to anger, it disdains lesser beings and answers slights with fire. Some are bound to service in lamp or vessel and chafe bitterly at it; free ifrit raid and rule the hot wastes as petty tyrants. It bargains, schemes, and holds grudges, and fights with both fire and a warrior's skill.
+
+**Threats & Defenses:** Wields a flame-wreathed scimitar and hurls fire, inflicting a burn (damage over time) with both. Immune to fire and resistant to Charm and Fear — it is not easily cowed or turned. Its towering pride is the reliable weakness; it underestimates and grandstands where a colder foe would simply win.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 15 | 9 | 26 | 60 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 15 | 9 | 26 | 60 |
+| Int | 14 | 8 | 25 | 56 |
+| Wis | 12 | 7 | 21 | 48 |
+| Luck | 12 | 7 | 21 | 48 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Base flame-scimitar strikes (burn on hit). Signature — **Hurl Fire**: a thrown gout of flame (damage over time). Immune to its own element.
+
+**Materials:** A Flame-Heart (potent fire reagent), blackened brass ornaments, and whatever wealth it has gathered or was bound with.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Flame-Wreathed Scimitar | A curved blade sheathed in fire; retains a fire enchantment if properly kept. |
+
+**Armor:**
+| Drop | Notes |
+|---|---|
+| Blackened Brass | Ornamental fire-forged armor; heat-resistant, wearable as heavy armor. |
+
+---
+
+### Terrors / Named Bosses
+
+#### 16. Fire Giant
+**Environments:** volcanic strongholds, great forges, mountain calderas.
+
+**Description:** A colossal giant with soot-dark skin, hair like living flame, and the build of a thing that has spent its life at the anvil. Fire giants are smiths and warlords both, dwelling in fortress-forges deep in the volcanic mountains, and their craft is as feared as their strength.
+
+**Behaviors:** Militaristic and disciplined for a giant, dwelling in ordered strongholds and marching to war in armored ranks. It fights with a smith's precision behind a warlord's fury — hurling molten stone, wielding forge-hot steel, and directing lesser creatures as troops.
+
+**Threats & Defenses:** A great forge-blade and hurled molten rock hit with crushing force and set targets burning (damage over time and knockback). Immune to fire and heavily armored; resists Fear. Its discipline means fewer of the openings a wilder giant leaves — it must be worn down rather than tricked.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 23 | 14 | 40 | 92 |
+| Dex | 10 | 6 | 18 | 40 |
+| Con | 20 | 12 | 35 | 80 |
+| Int | 9 | 5 | 16 | 36 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 19 | 11 | 33 | 76 |
+
+**Attack Patterns:** Signature — **Molten Throw**: a hurled mass of molten stone (burn + knockback) at range. Base forge-blade cleave in melee, with a **Forge-Heat** aura that burns those who close.
+
+**Materials:** Giant Hide, Bone, forge-craft treasures, and its weapon and armor at giant scale.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Forge-Blade | A giant's greatsword still warm from the forge; wieldable only by the strongest, or reforged. |
+
+#### 17. Phoenix
+**Environments:** volcanic peaks, sun-scorched heights, its own pyre-nest.
+
+**Description:** A great bird of living fire, plumage burning gold and crimson, trailing embers with every wingbeat. Storied above all for its death and return — when slain, it is consumed in its own flame and rises again from the ashes, so that killing it is only the beginning of the problem.
+
+**Behaviors:** Solitary, radiant, and largely aloof, nesting in the highest and hottest places and rarely troubling the world below unless disturbed. Roused, it fights with fire and fearless fury, and its rebirth makes it patient in a way mortal things cannot be — it has died before, and expects to again.
+
+**Threats & Defenses:** Its touch and flaming dives inflict heavy burns (damage over time), and its death-throes detonate in a burst of fire. Its signature is renewal: unless its ashes are quenched or scattered in the moments after it falls, it rises again at reduced strength. Immune to fire; vulnerable to cold and water, which can also deny the rebirth.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 14 | 8 | 25 | 56 |
+| Dex | 16 | 10 | 28 | 64 |
+| Con | 16 | 10 | 28 | 64 |
+| Int | 9 | 5 | 16 | 36 |
+| Wis | 13 | 8 | 23 | 52 |
+| Luck | 12 | 7 | 21 | 48 |
+| End | 16 | 10 | 28 | 64 |
+
+**Attack Patterns:** Signature — **Flaming Dive**: a burning stoop (damage over time). **Pyre-Burst**: on death, detonates in fire. Reactive — **Rebirth**: rises from its ashes unless they're quenched in time.
+
+**Materials:** A Phoenix Feather and Phoenix Ash (both rare, potent Red reagents tied to renewal) — recoverable only if the rebirth is denied.
+
+#### 18. Efreeti Sultan *(Ifrit, named boss)*
+**Environments:** a palace of brass and fire in the deep wastes or the elemental heart of a volcano.
+
+**Description:** A greater ifrit risen to rule its kind — vast, crowned in flame, robed in molten brass, throned in a palace where the floors run with fire. Where a common ifrit is a proud tyrant, the Sultan is a sovereign, commanding lesser fire-spirits as a court and an army.
+
+**Behaviors:** Rules from its burning court and rarely stirs to fight in person until forced, sending ifrit and salamanders and fire-beasts against intruders first. When it does engage, it fights with immense fiery power, a warrior's skill, and the arrogance of absolute authority — bargaining, threatening, and burning by turns.
+
+**Threats & Defenses:** All an ifrit's fire and blade-work at far greater scale, plus command over fire itself — walls of flame, storms of ember, and the power to bind or banish lesser fire-creatures to its will. Immune to fire, resistant to control effects. Its pride, magnified into sovereignty, is still the crack — it will not flee a fight it has publicly claimed.
+
+**Statistics** *(a singular named instance — no lesser tiers of itself)*:
+| Stat | Str | Dex | Con | Int | Wis | Luck | End |
+|---|---|---|---|---|---|---|---|
+| Boss | 60 | 56 | 64 | 60 | 52 | 52 | 56 |
+
+**Attack Patterns:** Signature — **Wall of Flame**: raises barriers of fire to control the field (burn to any who cross). **Ember Storm**: an area burn. Commands lesser fire-creatures throughout, and fights in melee with a great flame-scimitar.
+
+**Materials:** A Sovereign Flame-Heart (an apex fire reagent), a crown and regalia of enchanted brass, and the treasure of a burning court.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Sultan's Scimitar | A masterwork flame-blade carrying a powerful, lasting fire enchantment. |
+
+#### 19. Red Dragon *(apex)*
+**Environments:** volcanic peaks, deep fire-caverns, hoards beneath burning mountains.
+
+**Description:** The apex predator of the Red set, and the most feared of all dragonkind — vast, scarlet-scaled, and radiating heat, greedy and cruel and vain in equal measure. It claims a volcanic lair and a great hoard, and grows into ever more terrible power across a very long, covetous life.
+
+**Behaviors:** Territorial, avaricious, and arrogant, it regards everything within reach as its property and intruders as thieves to be burned. It fights with intelligence and overwhelming force both — using fire, flight, and raw power together, and rarely fleeing, for it believes, usually correctly, that it is the most dangerous thing on the field.
+
+**Threats & Defenses:** Its breath is a roaring cone of fire that inflicts devastating burns (damage over time) across a wide area, on top of crushing claws, bite, and wing-buffet (knockback). Immune to fire, resistant to Fear and control; its scales turn all but the heaviest blows. Its vanity and greed are the only reliable levers against it.
+
+**Statistics** *(tiers are age — Young / Adult / Elder / Ancient):*
+| Stat | Young (Weak) | Adult (Normal) | Elder (Strong) | Ancient (Boss) |
+|---|---|---|---|---|
+| Str | 15 | 25 | 44 | 100 |
+| Dex | 8 | 14 | 25 | 56 |
+| Con | 14 | 23 | 40 | 92 |
+| Int | 8 | 13 | 23 | 52 |
+| Wis | 7 | 12 | 21 | 48 |
+| Luck | 7 | 11 | 19 | 44 |
+| End | 13 | 21 | 37 | 84 |
+
+**Attack Patterns:** Base bite, claw, and **Wing-Buffet** (knockback). Signature — **Fire Breath**: a wide cone of flame inflicting heavy burns (damage over time); at Elder and Ancient tiers, a sustained breath that sets the whole field alight.
+
+**Materials:** Red Scales (armor-grade, fire-aligned), Claws, Teeth, a Burning Heart (apex fire reagent, Ancient tier only), and the great hoard it dies atop.
+
+---
+
+## Green — Earth and Life
+
+Wilderness, endurance, and the deep places. The animals are ordinary fauna of old-growth forest — deep woods, root-tangled hollows, and the caverns beneath — while the monsters and terrors are what the wild breeds where it's oldest and least disturbed: goblinkind in the dark, things that grow instead of heal, and the great beasts of the deep wood.
+
+### Animals
+
+#### 1. Red Deer
+**Environments:** forest, woodland edge, clearings.
+
+**Description:** A graceful woodland deer, the stags crowned with branching antlers, russet-coated and long-legged. It is the common large grazer of the deep woods, wary and quick.
+
+**Behaviors:** Grazes in herds at the forest edge and in clearings, always alert, melting into cover at the first alarm. Stags spar over territory and mates in the rut, and a cornered one will strike with antler and hoof, but flight is always the first choice.
+
+**Threats & Defenses:** A cornered stag's antler-thrust and hoof-strike can injure, but it poses no threat unless trapped. Its defense is speed, alertness, and knowing the wood — it's gone before most predators finish deciding to chase.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 12 | 7 | 21 | 48 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 11 | 7 | 19 | 44 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Signature — **Antler Thrust**: a defensive gore used only when cornered. Base hoof-strike.
+
+**Materials:** Hide, Antlers, Meat, Sinew, Bone.
+
+#### 2. Brown Bear
+**Environments:** deep forest, river valleys, cave dens.
+
+**Description:** A massive forest omnivore, heavy with muscle and fat beneath a thick brown coat, capable of standing head and shoulders above a man. It is not a hunter of people, but it is emphatically not to be crowded.
+
+**Behaviors:** Solitary and territorial, foraging widely and generally avoiding trouble, but ferociously dangerous when surprised, defending a kill, or protecting cubs. It gives clear warning — bluster, huff, and mock-charge — before it truly commits, but once it commits, it is overwhelming.
+
+**Threats & Defenses:** A swat from a foreleg carries bone-breaking force (knockback and Expose), and its bite and weight can pin and maul. Enormously strong and tough; the safest fight with a bear is the one avoided by heeding its warnings and backing away.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 18 | 11 | 32 | 72 |
+| Dex | 11 | 7 | 19 | 44 |
+| Con | 16 | 10 | 28 | 64 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 15 | 9 | 26 | 60 |
+
+**Attack Patterns:** Signature — **Maul**: a foreleg swat (knockback, Expose) into a grappling bite. Warning — **Bluster**: mock-charges and displays before committing.
+
+**Materials:** Pelt, Claws, Fangs, Meat, Fat (rendered), Bone.
+
+#### 3. Badger
+**Environments:** forest floor, burrows, root-hollows.
+
+**Description:** A low, powerfully built burrower with a striped face, heavy digging claws, and a temperament wildly out of proportion to its size. It minds its own business right up until it doesn't.
+
+**Behaviors:** Solitary and mostly nocturnal, denning in extensive burrows and foraging alone. It avoids larger creatures but will not be driven from its sett — cornered or dug out, it fights with a tenacity and fury that makes far larger predators think better of the effort.
+
+**Threats & Defenses:** Its bite is powerful and its digging claws rake deep (Expose), and it simply does not give up once committed. Small, but its ferocity and thick loose hide make it a genuinely bad idea to corner, and it fights until the threat leaves.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 9 | 5 | 16 | 36 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 12 | 7 | 21 | 48 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Signature — **Ferocious Bite**: a locking bite paired with raking claws (Expose); refuses to disengage once committed.
+
+**Materials:** Pelt, Claws, Meat.
+
+#### 4. Elk
+**Environments:** forest, marsh edges, upland meadows.
+
+**Description:** A huge deer, far larger than the red deer, the bulls carrying broad, palmate antlers and a heavy dewlapped neck. Ungainly-looking and genuinely dangerous, especially in the rut.
+
+**Behaviors:** Solitary or in small groups, browsing forest and marsh edge, generally placid but wildly aggressive and unpredictable during the rutting season, when bulls charge nearly anything that moves. A cornered or rutting elk is one of the more dangerous animals of the deep woods.
+
+**Threats & Defenses:** A charge from a bull drives home antlers with tremendous force (knockback, Expose), and its sheer size makes even a kick dangerous. Aggressive and stubborn in season; the danger is being caught in the path of a charge from something this large.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 15 | 9 | 26 | 60 |
+| Dex | 11 | 7 | 19 | 44 |
+| Con | 14 | 8 | 25 | 56 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Signature — **Antler Charge**: a heavy charging gore (knockback, Expose). Base kick and trample once closed.
+
+**Materials:** Hide, Antlers (large), Meat, Bone.
+
+#### 5. Forest Constrictor
+**Environments:** dense forest, riverbanks, low branches.
+
+**Description:** A large, non-venomous constricting snake, patterned in browns and greens that dissolve against leaf-litter and bark, thick as a man's arm and several times his length. It hangs in low branches and lies along the forest floor, near-invisible until it moves.
+
+**Behaviors:** Ambush hunter, holding still for hours until prey passes within reach, then striking and coiling with startling speed. It has no interest in anything too large to swallow but will strike defensively if trodden on or grabbed, and its instinct when it does strike is always to coil and squeeze.
+
+**Threats & Defenses:** Strikes and wraps a target in constricting coils (a strong Root that tightens toward suffocation over time). No venom, but the grip is powerful and hard to break once set; a caught limb or a fallen, wrapped target is in real danger.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 13 | 8 | 23 | 52 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 12 | 7 | 21 | 48 |
+| Int | 3 | 2 | 5 | 12 |
+| Wis | 7 | 4 | 12 | 28 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 12 | 7 | 21 | 48 |
+
+**Attack Patterns:** Signature — **Strike & Coil**: a fast bite from cover followed by constricting coils (Root, tightening over time).
+
+**Materials:** Skin (large patterned leather), Meat.
+
+#### 6. Wild Turkey
+**Environments:** forest floor, brush, woodland clearings.
+
+**Description:** A large, ungainly ground fowl with dull iridescent plumage, running the forest floor in flocks and roosting in low branches at night. Loud, wary, and quick to panic.
+
+**Behaviors:** Forages in flocks with constant nervous vigilance, exploding into short, heavy flight or a fast run at any disturbance. It fights nothing; a startled flock's clattering flush is loud enough to give away a disturbance across a good stretch of wood.
+
+**Threats & Defenses:** No offense beyond a cornered peck and wing-buffet. Its value is as a woodland alarm — a flock flushing loudly marks something moving through the trees.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 5 | 3 | 9 | 20 |
+| Dex | 11 | 7 | 19 | 44 |
+| Con | 7 | 4 | 12 | 28 |
+| Int | 2 | 1 | 4 | 8 |
+| Wis | 7 | 4 | 12 | 28 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 8 | 5 | 14 | 32 |
+
+**Attack Patterns:** None. **Flush** — a loud, clattering burst-flight from cover.
+
+**Materials:** Feathers, Meat (common game).
+
+#### 7. Wildcat
+**Environments:** deep forest, thickets, rocky woodland.
+
+**Description:** A small, fierce forest cat, larger and heavier than any tame breed, striped and thick-furred, with a reputation for savagery well beyond its size. Rarely seen and rarely willingly.
+
+**Behaviors:** Solitary, secretive, and territorial, hunting small prey by stealth and pounce and avoiding anything larger. It flees contact where it can, but cornered it fights with a shrieking ferocity that can drive off animals many times its size.
+
+**Threats & Defenses:** A pouncing rake of claws and a bite (Expose), delivered with startling speed and fury. No real threat to an armed traveler, but a genuine hazard to reach for or corner — it will not be handled.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 8 | 5 | 14 | 32 |
+| Dex | 16 | 10 | 28 | 64 |
+| Con | 9 | 5 | 16 | 36 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 10 | 6 | 18 | 40 |
+
+**Attack Patterns:** Signature — **Pounce & Rake**: a fast leaping claw-strike (Expose); shrieks and fights savagely if cornered.
+
+**Materials:** Pelt, Claws, Fangs, Meat.
+
+---
+
+### Monsters
+
+#### 8. Goblin
+**Environments:** caves, ruins, warrens beneath the forest.
+
+**Description:** A small, wiry humanoid with sallow green-brown skin, oversized ears, and quick, spiteful eyes, standing barely waist-high to a man. Cowardly alone and vicious in numbers, goblins swarm the dark places beneath and around the forest.
+
+**Behaviors:** Lives in crowded warrens and fights in swarms, relying on numbers, traps, and ambush rather than courage. Quick to flee a losing fight and quicker to pile onto a winning one, a goblin pack is dangerous through sheer weight of bodies and a total absence of scruples.
+
+**Threats & Defenses:** Fights with crude blades, spears, and thrown stones, individually feeble but dangerous in a mob that can surround and Snare a target. Cowardly — break their momentum or kill enough of them and the rest scatter, but a confident swarm is relentless.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 8 | 5 | 14 | 32 |
+| Dex | 13 | 8 | 23 | 52 |
+| Con | 9 | 5 | 16 | 36 |
+| Int | 8 | 5 | 14 | 32 |
+| Wis | 7 | 4 | 12 | 28 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 10 | 6 | 18 | 40 |
+
+**Attack Patterns:** Base crude weapon strikes and thrown stones. Signature — **Swarm**: piles onto a single target in numbers to Snare and overwhelm; scatters if the momentum breaks.
+
+**Materials:** Scavenged coin and trinkets, plus its weapons.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Crude Blade / Spear | Rusty, ill-kept, but serviceable small weapons. |
+
+**Armor:**
+| Drop | Notes |
+|---|---|
+| Scrap Leather | Patchwork hide-and-scrap armor, light and poor. |
+
+#### 9. Kobold
+**Environments:** cave warrens, mines, trapped tunnels beneath the earth.
+
+**Description:** A small, scaled reptilian humanoid, rat-sized in courage but cunning far beyond it, with a dog-like snout and quick claws. Kobolds infest the deep tunnels and old mines, and their real weapon is not their arms but their traps.
+
+**Behaviors:** Industrious, cowardly, and endlessly cunning, kobolds honeycomb their territory with traps, deadfalls, and ambush points, fighting only on ground they've prepared. They avoid open confrontation, whittling intruders down with hazards and hit-and-run swarms rather than standing to fight.
+
+**Threats & Defenses:** Individually weak, but a warren's traps inflict the real damage — pits, deadfalls, and snares that can Root, Expose, or Poison the unwary, backed by kobold spears and slings. Draw them into the open, away from their traps, and they crumble.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 6 | 4 | 11 | 24 |
+| Dex | 13 | 8 | 23 | 52 |
+| Con | 8 | 5 | 14 | 32 |
+| Int | 9 | 5 | 16 | 36 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 10 | 6 | 18 | 40 |
+| End | 9 | 5 | 16 | 36 |
+
+**Attack Patterns:** Base spear-jab and sling-stone from range. Signature — **Trap Warren**: fights amid prepared traps (Root/Expose/Poison hazards) and retreats to lure pursuers into them.
+
+**Materials:** Scavenged coin and mined trinkets, plus its weapons.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Kobold Spear / Sling | Small, light weapons suited to skirmishing and ambush. |
+
+#### 10. Hobgoblin
+**Environments:** fortified camps, ruins held as strongholds, war-warrens.
+
+**Description:** A larger, stronger, and far more disciplined cousin of the goblin — tall as a man, red-skinned and hard-eyed, dressed in ordered ranks of real armor. Where goblins swarm, hobgoblins soldier, and their war-camps are run with grim military order.
+
+**Behaviors:** Organized and disciplined, hobgoblins fight in trained units with tactics, formations, and a clear chain of command, holding the line where goblins would break. They take slaves, drill their troops, and treat war as a craft, making them far more dangerous than their smaller kin.
+
+**Threats & Defenses:** Well-armed and armored, fighting in coordinated formations that can hold ranks, flank, and Expose a target through disciplined pressure. They resist Fear through drill and morale, and don't scatter like goblins — a hobgoblin unit must be broken as a unit, not merely frightened.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 13 | 8 | 23 | 52 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 13 | 8 | 23 | 52 |
+| Int | 10 | 6 | 18 | 40 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Base disciplined weapon strikes. Signature — **Formation Fighting**: holds ranks and flanks in unison, resisting Fear and pressing coordinated advantage.
+
+**Materials:** Coin, war-spoils, and its arms and armor (better-kept than any goblin's).
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Soldier's Blade / Polearm | Well-maintained military weapons, properly forged. |
+
+**Armor:**
+| Drop | Notes |
+|---|---|
+| Ranked Mail | Real, cared-for mail or scale armor; wearable and effective. |
+
+#### 11. Troll
+**Environments:** caves, marsh edges, deep forest hollows, under bridges and in ruins.
+
+**Description:** A gangling, rubbery-skinned giant, green-black and warty, with long clawed arms and a wound-closing vitality that makes it appallingly hard to kill. It is all hunger and regeneration, and it never seems to stop being hungry.
+
+**Behaviors:** Solitary and voracious, it attacks nearly anything for food, wading in with claw and bite and simply outlasting most foes as its wounds knit shut. Stupid and single-minded, it doesn't retreat and doesn't strategize — it just keeps coming, healing, as long as it isn't burned or seared.
+
+**Threats & Defenses:** Rends with claws and bite (Expose), but the real threat is its regeneration — cut it down and it rises again in moments unless the wounds are cauterized with fire or acid. Immensely durable through healing rather than armor; without fire, a party can win every exchange and still lose the fight.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 18 | 11 | 32 | 72 |
+| Dex | 11 | 7 | 19 | 44 |
+| Con | 18 | 11 | 32 | 72 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 7 | 4 | 12 | 28 |
+| Luck | 6 | 4 | 11 | 24 |
+| End | 18 | 11 | 32 | 72 |
+
+**Attack Patterns:** Base claw-and-bite (Expose). Reactive — **Regeneration**: closes wounds and rises again unless cut down with fire or acid.
+
+**Materials:** Hide, Claws, and a Troll-Gland (prized alchemical regenerative reagent).
+
+#### 12. Giant Spider
+**Environments:** deep forest, cave mouths, ruins strung with web.
+
+**Description:** A spider grown monstrous, its body the size of a large dog or larger, squatting at the center of a web that fills a whole thicket or chamber. Patient, silent, and venomous, it turns its lair into a trap before anything ever enters.
+
+**Behaviors:** Lurks at the edge of its web, sensing prey by the vibration of the strands, and rushes in to bite and wrap once something is caught. It doesn't chase far beyond its web; its whole strategy is to make the ground itself a snare and let prey do the work of trapping itself.
+
+**Threats & Defenses:** Its web Roots and Snares anything that blunders into it, and its bite delivers a Poison that weakens and slows. Fast within its own web and nearly helpless away from it — cut free of the strands and the fight tilts sharply against it.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 12 | 7 | 21 | 48 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 12 | 7 | 21 | 48 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 12 | 7 | 21 | 48 |
+
+**Attack Patterns:** Signature — **Web Snare**: strands that Root and Snare intruders in place. Base venom-bite (Poison) on the trapped.
+
+**Materials:** Silk (valuable crafting material), Venom Gland (alchemy reagent), Chitin, Fangs.
+
+#### 13. Treant
+**Environments:** ancient forest, sacred groves, the oldest heart of the wood.
+
+**Description:** A great tree given slow life and a grave, deliberate mind — bark for skin, boughs for limbs, roots for feet, a face suggested in the whorls of its trunk. Treants are wardens of the oldest forest, immensely strong, immensely patient, and roused only rarely and only for grave cause.
+
+**Behaviors:** Nearly immobile and content to stand as a tree for years, a treant stirs to defend its forest against fire, axe, and corruption. Slow to anger and slower to move, but once roused it is implacable, tearing intruders apart with limbs like falling timber and calling the surrounding wood to hinder them.
+
+**Threats & Defenses:** Its blows land with the force of falling trees (heavy knockback, Sunder), and it can cause roots and branches to Root and Snare those around it. Immensely tough and immune to Fear and Charm; but it is slow, made of wood, and dreads fire above all — flame is the one thing that turns a treant's strength to panic.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 20 | 12 | 35 | 80 |
+| Dex | 6 | 4 | 11 | 24 |
+| Con | 20 | 12 | 35 | 80 |
+| Int | 9 | 5 | 16 | 36 |
+| Wis | 13 | 8 | 23 | 52 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 19 | 11 | 33 | 76 |
+
+**Attack Patterns:** Signature — **Timber Slam**: a great limb-blow (knockback, Sunder). **Grasping Roots**: Roots and Snares foes underfoot. Vulnerability — takes and fears fire above all.
+
+**Materials:** Heartwood and Bark (rare, potent Green crafting/enchanting materials); a felled treant yields no meat, only wood.
+
+#### 14. Lizardman
+**Environments:** swamps, marsh, wet lowland ruins, jungle rivers.
+
+**Description:** A tall, scaled reptilian humanoid, cold-eyed and powerfully built, dwelling in the wet lowlands and marshes at the forest's edge. Tribal and territorial, lizardmen are neither evil nor kind by human measure — simply alien, practical, and deeply hostile to trespass.
+
+**Behaviors:** Lives in tribes among the swamps, hunting and raiding with stone-tipped spears and hurled javelins, and defending its territory without mercy or negotiation. It uses the water and the terrain expertly, ambushing from beneath the surface and dragging prey down into the murk.
+
+**Threats & Defenses:** Fights with spears, clubs, and claws (Expose), and is a powerful swimmer that can Root a target by dragging it underwater. Tough-scaled and at home in water and mud that hampers its foes; its weakness is its insularity — driven off its territory, it rarely pursues.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 13 | 8 | 23 | 52 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 13 | 8 | 23 | 52 |
+| Int | 7 | 4 | 12 | 28 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Base spear-thrust and claw (Expose). Signature — **Drag Under**: seizes a target in the water and drags it below (Root/drowning).
+
+**Materials:** Scaled Hide (leather), Claws, Teeth, and its weapons.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Bone-Tipped Spear | A stone- or bone-headed thrusting and throwing spear. |
+
+**Armor:**
+| Drop | Notes |
+|---|---|
+| Hide Shield | A simple hide-and-bone shield; its own scales serve as its armor. |
+
+#### 15. Centaur
+**Environments:** open woodland, forest meadows, the borders of the deep wood.
+
+**Description:** A being with the upper body of a human joined to the body of a great horse, proud and wild, dwelling in roaming bands at the edges of the forest. Centaurs are skilled hunters and fierce archers, deeply protective of their lands and wary of outsiders.
+
+**Behaviors:** Ranges in bands through open woodland, hunting and guarding its territory, and generally avoiding strangers rather than seeking conflict. Provoked or trespassed upon, it fights with disciplined archery from the gallop and hooves and spear up close, using its speed to control the fight's distance.
+
+**Threats & Defenses:** Looses arrows on the move (Expose), and charges with spear and hooves (knockback). Fast and mobile, it kites foes it can outrun and closes only when it chooses; cornered against terrain that denies its mobility, it loses much of its advantage.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 14 | 8 | 25 | 56 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 13 | 8 | 23 | 52 |
+| Int | 9 | 5 | 16 | 36 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Signature — **Galloping Volley**: mounted-style archery on the move (Expose), kiting at range. Base spear-and-hoof (knockback) in close.
+
+**Materials:** Coin and worked goods, plus its weapons; a fallen centaur yields hide and horsehair.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Longbow | A well-made bow suited to firing on the move. |
+| Hunting Spear | A long thrusting spear used in the charge. |
+
+---
+
+### Terrors / Named Bosses
+
+#### 16. Hill Giant
+**Environments:** hills, forest uplands, crude strongholds and cave lairs.
+
+**Description:** A crude, enormous giant, thick-limbed and slope-shouldered, dressed in stitched hides and reeking of its own filth. The least of the great giants and the most brutish, it takes what it wants from the lands below by simple overwhelming force.
+
+**Behaviors:** Solitary or in small squalid family groups, it raids farms and travelers for food and loot, smashing what it can't carry. Stupid, greedy, and lazy, it relies entirely on size and strength, uprooting trees and hurling boulders at anything it can't simply reach and crush.
+
+**Threats & Defenses:** Hurls boulders at range (Sunder, knockback) and swings uprooted trees or a great club in melee (heavy knockback). Enormously strong and tough, but slow-witted and clumsy — easily baited, misdirected, and led into overreaching, which is the only real way to fight it.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 22 | 13 | 39 | 88 |
+| Dex | 8 | 5 | 14 | 32 |
+| Con | 20 | 12 | 35 | 80 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 7 | 4 | 12 | 28 |
+| Luck | 6 | 4 | 11 | 24 |
+| End | 19 | 11 | 33 | 76 |
+
+**Attack Patterns:** Signature — **Boulder Throw**: a hurled rock at range (Sunder, knockback). Base club or uprooted-tree swing (heavy knockback) in melee.
+
+**Materials:** Hide, Bone, and the crude plunder of its lair.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Great Club | An uprooted trunk or hewn-log bludgeon; salvage or two-handed weapon for the strong. |
+
+#### 17. Cyclops
+**Environments:** mountain caves, remote islands, ruined megalithic strongholds.
+
+**Description:** A giant of a single great eye set in a heavy brow, larger and older than the hill giants, and a smith and herder of savage skill despite its brutish look. Cyclopes dwell apart in cave strongholds, and the megalithic ruins of their old works still stand in lonely places.
+
+**Behaviors:** Solitary and territorial, fiercely protective of its flocks and lair, and hostile to trespassers it treats as thieves or prey. It hurls great stones with uncanny accuracy for a one-eyed thing and fights with a massive club or blade, and it is cunning enough to lay simple traps and ambushes.
+
+**Threats & Defenses:** Its thrown boulders land with devastating force and accuracy (Sunder, heavy knockback), and its melee blows can Stun. Immensely strong and durable; its single eye is its one true weakness — blinded, it loses its deadly aim and much of its fight.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 23 | 14 | 40 | 92 |
+| Dex | 9 | 5 | 16 | 36 |
+| Con | 20 | 12 | 35 | 80 |
+| Int | 6 | 4 | 11 | 24 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 6 | 4 | 11 | 24 |
+| End | 19 | 11 | 33 | 76 |
+
+**Attack Patterns:** Signature — **Great Throw**: a hurled boulder of uncanny accuracy (Sunder, knockback). Base club-smash (Stun) in melee. Weakness — blinding the single eye ruins its aim.
+
+**Materials:** Hide, Bone, forge-and-flock goods, and its weapon.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Colossal Club | A giant's bludgeon or crude greatblade; salvage or a weapon for the mightiest. |
+
+#### 18. Elder Treant
+**Environments:** the ancient heart of the oldest forest, sacred groves lost to time.
+
+**Description:** A treant of enormous age and size, its trunk a tower and its canopy a small forest in itself, the living memory and warden of the oldest wood. Where a common treant is a great tree walking, the Elder is a hill of living timber, and the forest around it moves at its will.
+
+**Behaviors:** All but rooted in place for centuries, stirring only when the deep forest itself is threatened — and then bringing the whole wood to bear. It commands lesser treants and the surrounding growth as extensions of itself, and fights with the patient, overwhelming force of the forest given a single purpose.
+
+**Threats & Defenses:** Its blows fell like avalanches of timber (heavy knockback, Sunder), and it can Root and Snare across a wide area, turning the whole battlefield into grasping wood. Immensely durable, immune to Fear and Charm, and able to mend its own wounds slowly with the forest's life. Fire remains its dread — a determined blaze is the one thing that can truly bring it down.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 22 | 13 | 39 | 88 |
+| Dex | 6 | 4 | 11 | 24 |
+| Con | 22 | 13 | 39 | 88 |
+| Int | 11 | 7 | 19 | 44 |
+| Wis | 15 | 9 | 26 | 60 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 20 | 12 | 35 | 80 |
+
+**Attack Patterns:** Signature — **Forest's Wrath**: area-wide grasping Root and Snare from roots and branches. **Avalanche Slam**: a massive limb-blow (knockback, Sunder). Commands lesser treants and growth throughout; dreads fire.
+
+**Materials:** Ancient Heartwood (an apex Green crafting/enchanting material), and rare grove-herbs grown only in its shadow.
+
+#### 19. Green Dragon *(apex)*
+**Environments:** the deep old forest, overgrown ruins, poison-misted woodland lairs.
+
+**Description:** The apex predator of the Green set — a great forest dragon, scaled in mottled greens that vanish among the leaves, cunning and cruel and patient. It lairs in the deepest, most tangled wood, and the forest around a green dragon's den grows wrong, choked and poisoned by its long presence.
+
+**Behaviors:** Secretive and manipulative where a red dragon is brazen, it prefers to stalk, ambush, and poison, using the forest's cover and its own guile rather than open force. Intelligent and deceitful, it may toy with intruders, misdirect them, and let the poisoned wood do its work before it ever shows itself.
+
+**Threats & Defenses:** Its breath is a rolling cloud of toxic gas that inflicts a worsening Poison across a wide area, on top of claw, bite, and wing-buffet (knockback). Resistant to Poison and to Fear and control; its camouflage and cunning make it hard to find and harder to corner. Its guile is also its habit — it prefers not to commit openly, which a bold, fast party can exploit.
+
+**Statistics** *(tiers are age — Young / Adult / Elder / Ancient):*
+| Stat | Young (Weak) | Adult (Normal) | Elder (Strong) | Ancient (Boss) |
+|---|---|---|---|---|
+| Str | 14 | 24 | 42 | 96 |
+| Dex | 8 | 13 | 23 | 52 |
+| Con | 13 | 22 | 39 | 88 |
+| Int | 8 | 13 | 23 | 52 |
+| Wis | 8 | 13 | 23 | 52 |
+| Luck | 7 | 11 | 19 | 44 |
+| End | 12 | 20 | 35 | 80 |
+
+**Attack Patterns:** Base bite, claw, and **Wing-Buffet** (knockback). Signature — **Poison Breath**: a wide cloud of toxic gas (worsening Poison); at Elder and Ancient tiers, a lingering cloud that chokes the whole area over time.
+
+**Materials:** Green Scales (armor-grade, nature-aligned), Claws, Teeth, a Verdant Heart (apex Green reagent, Ancient tier only), and the hoard beneath its roots.
+
+---
+
+## Blue — Water and Illusion
+
+Depth and deception. The animals are ordinary fauna of coast, river, and open sea — reef, current, and fog-bound shore — while the monsters and terrors are what moves in the deep and the dark water: drowners and shape-thieves, luring voices, and the vast things that wait beneath the waves.
+
+### Animals
+
+#### 1. Seal
+**Environments:** rocky coasts, ice edges, river mouths.
+
+**Description:** A sleek, blubbery marine mammal, clumsy and comical hauled out on the rocks and transformed into pure grace the moment it hits the water. Common along cold coasts and the mouths of rivers.
+
+**Behaviors:** Gathers in noisy colonies on shore and hunts fish alone or in loose groups in the water, curious about but wary of anything on land. It flees to the sea at any real threat, where almost nothing on two legs can follow it.
+
+**Threats & Defenses:** No meaningful offense beyond a cornered bite. In the water it is faster and more agile than any pursuer; on land it is vulnerable but rarely far from the escape of the waves.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 10 | 6 | 18 | 40 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 12 | 7 | 21 | 48 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** None to speak of. **Dive** — flees to open water, where it easily outswims pursuit.
+
+**Materials:** Pelt, Blubber (rendered oil), Meat.
+
+#### 2. Reef Shark
+**Environments:** reefs, shallows, coastal waters.
+
+**Description:** A lean, gray coastal shark, several feet of muscle and teeth patrolling the reefs and shallows. Not the largest of its kind, but bold, quick, and drawn unerringly to blood in the water.
+
+**Behaviors:** Patrols its reef alone or in loose groups, testing potential prey with passing bumps before committing to a bite. Blood and thrashing draw it into a feeding aggression, and several sharks worked into a frenzy will attack far more boldly than any one would alone.
+
+**Threats & Defenses:** A driving bite tears deep and inflicts bleeding (Expose), and the scent of blood only makes it bolder. Fast and dangerous in the water; helpless out of it — the whole threat is confined to the sea and shallows it hunts.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 14 | 8 | 25 | 56 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 13 | 8 | 23 | 52 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Signature — **Blood Frenzy**: grows bolder and faster in the presence of blood, driving repeated tearing bites (Expose).
+
+**Materials:** Hide (rough leather), Teeth, Fins, Meat.
+
+#### 3. Octopus
+**Environments:** reefs, tide pools, rocky shallows.
+
+**Description:** A soft-bodied cephalopod of unnerving cleverness, all boneless limbs and shifting color, able to pour itself through any gap larger than its beak. Reef octopuses are shy, curious, and startlingly intelligent.
+
+**Behaviors:** Solitary and secretive, hiding in dens and reef crevices and changing color and texture to vanish against any surface. It hunts small prey by ambush and stealth, and avoids larger creatures entirely, jetting away in a cloud of ink when startled.
+
+**Threats & Defenses:** A cornered octopus grips with sucker-lined arms (a weak Root) and bites with a sharp beak, but poses little threat to anything large. Its defenses are camouflage and escape — an ink cloud that Confounds pursuit and a body that fits anywhere.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 8 | 5 | 14 | 32 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 9 | 5 | 16 | 36 |
+| Int | 8 | 5 | 14 | 32 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 10 | 6 | 18 | 40 |
+
+**Attack Patterns:** Signature — **Ink & Vanish**: releases a Confounding ink cloud and jets away, changing color to disappear.
+
+**Materials:** Ink (alchemy/dye reagent), Meat.
+
+#### 4. Cormorant
+**Environments:** coasts, cliffs, river mouths, fishing waters.
+
+**Description:** A dark, long-necked diving seabird, oily-plumaged and ungainly on land but a superb underwater hunter, common on rocky coasts and river mouths. It perches with wings spread to dry after its dives.
+
+**Behaviors:** Fishes by diving and pursuing prey underwater, gathering in colonies on cliffs and rocks. Wary and quick to take flight, it fights nothing; a colony erupting into the air is a sign of disturbance along the shore.
+
+**Threats & Defenses:** No offense beyond a defensive jab. Its relevance is as a coastal sentinel — cormorants scattering off the rocks mark something approaching along the water's edge.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 5 | 3 | 9 | 20 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 7 | 4 | 12 | 28 |
+| Int | 4 | 2 | 7 | 16 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 10 | 6 | 18 | 40 |
+
+**Attack Patterns:** None. **Flush** — a colony takes flight together at a disturbance.
+
+**Materials:** Feathers, Meat.
+
+#### 5. River Otter
+**Environments:** rivers, lakes, wooded banks.
+
+**Description:** A sleek, whiskered river hunter, playful and quick, denning in the banks of rivers and lakes. All muscle and mischief, it's more often heard splashing than seen.
+
+**Behaviors:** Lives in family groups along the water, hunting fish and crayfish with darting agility and spending much of its day at what looks unmistakably like play. Curious about intruders but quick to vanish underwater and into bank-dens at any real threat.
+
+**Threats & Defenses:** A cornered otter bites sharply, but it's no threat worth the name. Its defense is agility in the water and an intimate knowledge of its stretch of river, where it simply disappears.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 6 | 4 | 11 | 24 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 9 | 5 | 16 | 36 |
+| Int | 6 | 4 | 11 | 24 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 11 | 7 | 19 | 44 |
+
+**Attack Patterns:** None to speak of. **Slip Away** — vanishes underwater and into a bank-den.
+
+**Materials:** Pelt (fine fur), Meat.
+
+#### 6. Giant Crab
+**Environments:** tidal flats, reefs, rocky shallows, sea caves.
+
+**Description:** A crab grown to monstrous size, its carapace broad as a shield and its claws capable of shearing through bone. It scuttles the tidal zones and sea caves, armored, patient, and slow.
+
+**Behaviors:** Lurks half-buried in sand or wedged in reef crevices, ambushing prey that wanders within reach of its claws. Territorial but sluggish, it doesn't pursue — it waits, and lets the shallows bring food to it.
+
+**Threats & Defenses:** Its claws seize and crush (a strong Root, and a shearing pinch that can Sunder gear or maim). Heavily armored against attack, but slow — sidestep the claws and its thick shell is more a liability than a shield, keeping it from turning quickly.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 13 | 8 | 23 | 52 |
+| Dex | 7 | 4 | 12 | 28 |
+| Con | 15 | 9 | 26 | 60 |
+| Int | 2 | 1 | 4 | 8 |
+| Wis | 6 | 4 | 11 | 24 |
+| Luck | 7 | 4 | 12 | 28 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Signature — **Claw Seize**: grabs a target (Root) and crushes (Sunder). Slow to turn — vulnerable to being flanked.
+
+**Materials:** Shell (armor/crafting material), Claws, Meat.
+
+#### 7. Moray Eel
+**Environments:** reefs, wrecks, rocky crevices, sea caves.
+
+**Description:** A thick, muscular eel that lurks in reef holes and wreck-crevices, jaws lined with backward-curving teeth and a second set of jaws in its throat to drag prey down. It shows only its head, mouth working, until it strikes.
+
+**Behaviors:** Wedges itself into a crevice with only its head exposed, ambushing anything that ventures within reach. Territorial and quick to bite anything it mistakes for prey or threat — including a careless hand reaching into the wrong hole — but it won't leave its crevice to chase.
+
+**Threats & Defenses:** A lunging bite locks on with wickedly hooked teeth (Expose, and a Root as it refuses to release). Dangerous only within a strike's reach of its hole; drawn out into open water, it's far less sure of itself.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 10 | 6 | 18 | 40 |
+| Dex | 13 | 8 | 23 | 52 |
+| Con | 11 | 7 | 19 | 44 |
+| Int | 3 | 2 | 5 | 12 |
+| Wis | 8 | 5 | 14 | 32 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 11 | 7 | 19 | 44 |
+
+**Attack Patterns:** Signature — **Ambush Bite**: a lunging locking bite from a crevice (Expose, Root); refuses to leave its hole.
+
+**Materials:** Skin (leather), Teeth, Meat.
+
+---
+
+### Monsters
+
+#### 8. Merfolk
+**Environments:** coastal seas, reefs, sunken settlements.
+
+**Description:** An aquatic people, human above the waist and finned below, dwelling in the coastal deeps and the ruins of drowned cities. Merfolk are proud and insular, neither the gentle singers of sailors' hopes nor simple monsters, but a wary folk who guard their waters jealously.
+
+**Behaviors:** Lives in ordered communities beneath the waves, trading warily with the surface at times and warring with it at others. It defends its territory and its cities with trained warriors, fighting from the advantage of the water and retreating into depths no surface-dweller can follow.
+
+**Threats & Defenses:** Fights with tridents and spears (Expose), and can Root a foe by dragging them down into the water. Fast and deadly in its element and able to breathe where its enemies drown; on land or in shallows that pin it, it loses nearly every advantage.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 12 | 7 | 21 | 48 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 12 | 7 | 21 | 48 |
+| Int | 10 | 6 | 18 | 40 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Base trident-thrust (Expose). Signature — **Drag Down**: seizes a foe and pulls them into deep water (Root/drowning).
+
+**Materials:** Pearls and sea-treasures, plus its weapons.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Coral Trident | A trident of coral and shell, or salvaged metal; effective in and out of water. |
+
+**Armor:**
+| Drop | Notes |
+|---|---|
+| Scale Harness | Light armor of overlapping scales and shell; favors mobility in water. |
+
+#### 9. Sahuagin
+**Environments:** deep coastal waters, sea caves, raiding the shallows and shore.
+
+**Description:** A savage, shark-like humanoid — scaled, finned, black-eyed, with a maw of needle teeth — dwelling in the deep coastal waters and raiding the surface with merciless hunger. Where merfolk are proud, sahuagin are simply predators, and they regard the surface folk as food.
+
+**Behaviors:** Raids in packs from the deep, striking coastal settlements and ships in a frenzy, especially at night and in storms. Aggressive, coordinated, and utterly without mercy, a sahuagin war-party fights with ferocity and numbers, whipped into a killing frenzy by blood in the water.
+
+**Threats & Defenses:** Fights with barbed tridents, claws, and a shark's bite (Expose, bleeding), growing more frenzied and fearless as blood spreads. Deadly in the water and the surf; like the shark it resembles, it loses coordination and much of its threat when denied its element and its numbers.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 14 | 8 | 25 | 56 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 13 | 8 | 23 | 52 |
+| Int | 8 | 5 | 14 | 32 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Base trident-and-claw (Expose). Signature — **Feeding Frenzy**: grows fearless and faster as blood spreads, pressing relentless attacks.
+
+**Materials:** Raid-plunder and sea-spoils, plus its weapons.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Barbed Trident | A cruel, hooked trident that tears on the pull-out. |
+
+**Armor:**
+| Drop | Notes |
+|---|---|
+| Shark-Hide Harness | Rough scaled armor of its own kind's making; light and grim. |
+
+#### 10. Sea Serpent
+**Environments:** open sea, deep coastal waters, sailors' nightmares.
+
+**Description:** A vast serpent of the deep ocean, long as a ship and thick as a mast, coiling up out of the water to swamp boats and drag crews under. It is the terror of the open sea lanes, more rumor than sighting until the day it rises beside a hull.
+
+**Behaviors:** Roams the deep waters hunting large prey — whales, sharks, and the occasional ship it mistakes or resents. It attacks from below and without warning, coiling around a hull or a swimmer and crushing or dragging it down, and vanishes as suddenly as it appears.
+
+**Threats & Defenses:** Constricts with crushing coils (a powerful Root) and strikes with a serpent's bite; large specimens can capsize small vessels outright. Immensely strong in the water; its only real limit is that it must surface to reach anything above the waves, giving a brief window to strike back.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 17 | 10 | 30 | 68 |
+| Dex | 13 | 8 | 23 | 52 |
+| Con | 16 | 10 | 28 | 64 |
+| Int | 5 | 3 | 9 | 20 |
+| Wis | 9 | 5 | 16 | 36 |
+| Luck | 8 | 5 | 14 | 32 |
+| End | 16 | 10 | 28 | 64 |
+
+**Attack Patterns:** Signature — **Crushing Coils**: wraps and constricts a target or hull (Root, crushing). Base lunging bite from below.
+
+**Materials:** Scaled Hide (large, valuable), Teeth, a Serpent's Heart (potent Water reagent).
+
+#### 11. Siren
+**Environments:** rocky coasts, reef-wrecked shores, fog-bound waters.
+
+**Description:** A beautiful, deceptive creature of the coastal rocks, appearing as an alluring figure singing from the surf until it is far too late to turn back. What the sailors see and what is truly there are seldom the same thing.
+
+**Behaviors:** Perches on the rocks of dangerous shores and sings, weaving illusion and enchantment into a lure that draws ships onto the reefs and swimmers into the deep. It feeds on the drowned and the wrecked, and rarely fights directly — its whole art is to make its prey destroy itself.
+
+**Threats & Defenses:** Its song is a powerful Charm that draws victims toward it and the rocks, laced with Illusion that Confounds their sense of where safety lies. Physically weak and quick to flee direct confrontation — break the song's hold, and the siren has little left but to slip back into the water.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 8 | 5 | 14 | 32 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 10 | 6 | 18 | 40 |
+| Int | 10 | 6 | 18 | 40 |
+| Wis | 11 | 7 | 19 | 44 |
+| Luck | 11 | 7 | 19 | 44 |
+| End | 11 | 7 | 19 | 44 |
+
+**Attack Patterns:** Signature — **Luring Song**: a sustained Charm drawing victims toward the rocks, laced with Confounding Illusion. Flees rather than fight if the song is broken.
+
+**Materials:** None typical; its rocks are often littered with the goods of the wrecked and drowned.
+
+#### 12. Kelpie
+**Environments:** lonely lochs, river fords, still pools.
+
+**Description:** A shapeshifting water-spirit that most often appears as a fine horse standing by the water's edge, or as a beckoning figure, luring the unwary to mount or approach. Its skin is always faintly wet, and those who look closely see waterweed in its mane and something wrong in its eyes.
+
+**Behaviors:** Haunts a single body of water, presenting itself as a tame horse or a helpless traveler to draw victims close, then seizing them the moment they touch it. Whatever mounts it finds itself stuck fast as the kelpie plunges into the water to drown and devour its rider.
+
+**Threats & Defenses:** Its flesh becomes adhesive on contact (a strong Root that cannot be let go of), and it drags the held victim underwater to drown (Silence and drowning as they can neither breathe nor call out). Its power is the ambush and the grip; forced into a straight fight before it lands its trap, it is far less formidable.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 13 | 8 | 23 | 52 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 12 | 7 | 21 | 48 |
+| Int | 9 | 5 | 16 | 36 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 10 | 6 | 18 | 40 |
+| End | 13 | 8 | 23 | 52 |
+
+**Attack Patterns:** Signature — **Adhesive Lure**: disguised as a horse or figure, seizes whatever touches it (Root, cannot release) and plunges underwater to drown it (Silence/drowning).
+
+**Materials:** A Kelpie's Bridle (rare — if taken, said to grant power over the creature), and river-treasures from its drowned victims.
+
+#### 13. Water Elemental
+**Environments:** deep water, storm surf, rivers in flood, wherever water gathers with force.
+
+**Description:** A living body of water, rising as a churning wave, a towering column, or a roughly humanoid mass of surge and current. Formless and relentless, it has no face and no fixed shape, only water given weight and will.
+
+**Behaviors:** Drawn to open water and disturbance, it lashes out at intruders on or near the water with the raw force of the flood, without malice or plan. It cannot be reasoned with or frightened, and it weakens and disperses only as it's drawn away from the water that feeds it.
+
+**Threats & Defenses:** Slams with crushing waves (heavy knockback) and can engulf and drown a target, dragging them under (Root and Silence as they can't breathe). Immune to Fear, Charm, Poison, and most physical harm — it must be dispersed or drawn from its water, not simply struck; it reforms from any water at hand.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 14 | 8 | 25 | 56 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 15 | 9 | 26 | 60 |
+| Int | 6 | 4 | 11 | 24 |
+| Wis | 10 | 6 | 18 | 40 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 16 | 10 | 28 | 64 |
+
+**Attack Patterns:** Signature — **Engulf**: surrounds and drowns a target (Root, Silence/drowning). **Wave Slam**: a crushing surge (knockback). Immaterial to conventional harm — must be dispersed or denied its water.
+
+**Materials:** None as a corpse; a dispersed elemental sometimes leaves a Tidal Core (potent Water reagent).
+
+#### 14. Doppelganger
+**Environments:** hidden among people — towns, courts, wherever it can wear a stolen life.
+
+**Description:** A shapeshifting infiltrator, in its true form a gray, blank-faced humanoid with hollow eyes, that can perfectly assume the shape, voice, and manner of anyone it studies. It lives by wearing other lives, discarding each when it's spent.
+
+**Behaviors:** Insinuates itself into a community by replacing someone — often quietly disposing of the original — and feeds on the wealth, secrets, and safety the stolen identity affords. Patient and manipulative, it avoids direct violence until unmasked, preferring to deceive, misdirect, and slip away.
+
+**Threats & Defenses:** Its deception functions as a sustained Charm and Illusion — those around it trust the face it wears, and it can sow Confusion by wearing an ally's shape mid-fight. Physically capable but not exceptional; unmasked and forced into a straight fight, it's a dangerous duelist but no longer a monster hiding in plain sight.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 11 | 7 | 19 | 44 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 12 | 7 | 21 | 48 |
+| Int | 13 | 8 | 23 | 52 |
+| Wis | 12 | 7 | 21 | 48 |
+| Luck | 11 | 7 | 19 | 44 |
+| End | 12 | 7 | 21 | 48 |
+
+**Attack Patterns:** Signature — **Stolen Face**: wears a trusted identity (Charm) and can shift to an ally's shape mid-fight to Confound. Base weapon or claw once unmasked.
+
+**Materials:** Whatever the stolen life accumulated — coin, goods, secrets; no distinctive parts of its own.
+
+#### 15. Naga
+**Environments:** river temples, sunken ruins, sacred pools and waterways.
+
+**Description:** A serpentine being with a great snake's body and a human-featured head and face, ancient and intelligent, guarding sacred waters and drowned temples. Neither wholly monstrous nor benevolent, a naga keeps its own counsel and its own law, and treats trespass as a matter of grave consequence.
+
+**Behaviors:** Dwells in and guards a specific sacred place — a temple pool, a river shrine, a sunken ruin — with long patience and long memory. It prefers to warn, test, and turn away intruders through glamour and word before violence, but defends what it guards without mercy once its patience is spent.
+
+**Threats & Defenses:** Weaves Illusion and enchantment that Charm and Confound intruders, and strikes with a venomous bite (Poison) and constricting coils (Root). Intelligent and resistant to deception in turn; its long patience and preference for warning are the mercy, but a naga pushed to fight is a formidable and cunning foe.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 14 | 8 | 25 | 56 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 14 | 8 | 25 | 56 |
+| Int | 14 | 8 | 25 | 56 |
+| Wis | 14 | 8 | 25 | 56 |
+| Luck | 11 | 7 | 19 | 44 |
+| End | 14 | 8 | 25 | 56 |
+
+**Attack Patterns:** Signature — **Glamour**: Illusion that Charms and Confounds intruders. Base venom-bite (Poison) and **Coil** (Root) if the glamour fails.
+
+**Materials:** Temple-treasures and sacred goods it guards, plus its Venom (potent reagent) and patterned Skin.
+
+#### 16. Encantado
+**Environments:** great rivers, river-towns, festival waters.
+
+**Description:** A shapeshifter of the great rivers that takes the form of a river dolphin in the water and a charming, finely dressed stranger on land, always with some small tell — a hat never removed, a faint scent of the river, wet footprints that shouldn't be. It comes ashore to seduce, deceive, and lure victims back to the water.
+
+**Behaviors:** Emerges from the river in human guise, especially at festivals and gatherings, to charm and seduce the unwary, then draws them back to the water to drown or spirit away. Vain, playful, and cruel beneath the charm, it delights in the game of deception as much as the prize.
+
+**Threats & Defenses:** Its beauty and manner are a potent Charm, and it weaves river-glamour to Confound those who resist. It seizes the enchanted and drags them into the river to drown (Root, Silence/drowning). Compelling in disguise but physically slight — expose the tell, break the charm, and its power collapses.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 11 | 7 | 19 | 44 |
+| Dex | 15 | 9 | 26 | 60 |
+| Con | 12 | 7 | 21 | 48 |
+| Int | 13 | 8 | 23 | 52 |
+| Wis | 12 | 7 | 21 | 48 |
+| Luck | 13 | 8 | 23 | 52 |
+| End | 12 | 7 | 21 | 48 |
+
+**Attack Patterns:** Signature — **Seductive Glamour**: a strong Charm in human guise, backed by Confounding river-illusion; drags the enchanted into the water (Root, drowning) when the moment comes.
+
+**Materials:** Fine clothing and charmed gifts it carried, plus river-treasures; its true form yields a dolphin-like Hide.
+
+---
+
+### Terrors / Named Bosses
+
+#### 17. Kraken
+**Environments:** the deep ocean, abyssal trenches, the graveyards of sunken fleets.
+
+**Description:** A colossal cephalopod of the deep ocean, its body vast as an island's flank and its arms long enough to pluck ships from the surface and pull them whole beneath the waves. The kraken is the great terror of the open sea, ancient and patient and rising only rarely — which is the only mercy in it.
+
+**Behaviors:** Dwells in the abyssal deeps, rising to hunt the largest prey the sea offers, including whole ships and the great beasts of the ocean. It attacks from below, wrapping a vessel or a swimmer in its arms and dragging it down, and it fears nothing that swims or sails.
+
+**Threats & Defenses:** Its immense arms seize and crush (multiple Roots, heavy Sunder to hulls and armor) and drag prey into the deep to drown (Silence/drowning). It can loose a cloud of ink that Confounds an entire area. Enormously durable; the only approach is to fight the arms, deny it a grip, and punish it in the brief windows it surfaces.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 22 | 13 | 39 | 88 |
+| Dex | 12 | 7 | 21 | 48 |
+| Con | 20 | 12 | 35 | 80 |
+| Int | 9 | 5 | 16 | 36 |
+| Wis | 11 | 7 | 19 | 44 |
+| Luck | 9 | 5 | 16 | 36 |
+| End | 19 | 11 | 33 | 76 |
+
+**Attack Patterns:** Signature — **Grasping Arms**: multiple tentacles seize and crush (Root, Sunder) and drag prey under (drowning). **Ink Cloud**: an area Confound. Fight the arms — it rarely commits its whole bulk to the surface.
+
+**Materials:** Colossal Tentacle-hide, a Kraken's Beak, Ink (potent reagent in bulk), and the sunken treasures of the ships it has taken.
+
+#### 18. Aboleth
+**Environments:** lightless underwater caverns, drowned pre-human ruins, the deep dark places of the water.
+
+**Description:** An ancient aquatic horror from before the age of mortals — a great, finned, eel-like body trailing tentacles, with three unblinking eyes and a mind vast, alien, and old beyond reckoning. The aboleth remembers the world as it was before the shattering of things, and it regards all lesser life as raw material for its will.
+
+**Behaviors:** Lurks in the lightless deep water, rarely moving its bulk, working instead through the minds it dominates — enslaving lesser creatures and travelers alike to serve as thralls and puppets. It schemes across ages with inhuman patience, and prefers to turn intruders against one another rather than fight them itself.
+
+**Threats & Defenses:** Its chief weapon is domination — a powerful Charm that enslaves the mind, turning victims into thralls, and Illusions that Confound and mislead. Its touch transforms flesh to a slick membrane that must stay wet (a lingering effect between Poison and Sunder of the body). It resists mental effects in turn. Immensely old and cunning; its arrogance and reliance on thralls are the cracks — free its slaves, and it must face the fight alone.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 15 | 9 | 26 | 60 |
+| Dex | 9 | 5 | 16 | 36 |
+| Con | 17 | 10 | 30 | 68 |
+| Int | 18 | 11 | 32 | 72 |
+| Wis | 16 | 10 | 28 | 64 |
+| Luck | 10 | 6 | 18 | 40 |
+| End | 16 | 10 | 28 | 64 |
+
+**Attack Patterns:** Signature — **Dominate**: a powerful Charm that enslaves a target to fight for it. **Illusory Deep**: area Confound. **Membrane Touch**: a transforming strike (lingering Poison/Sunder). Works through thralls before ever exposing itself.
+
+**Materials:** An Aboleth's Eye and slime-glands (rare, potent Blue/Illusion reagents), and the pre-human relics of its drowned domain.
+
+#### 19. Marid *(water-djinn lord)*
+**Environments:** the elemental deeps, palaces of coral and pearl, bound within great vessels.
+
+**Description:** A towering spirit of living water, greatest and proudest of the water-genies — a vast blue-skinned figure crowned in foam and pearl, its lower body a churning waterspout, its bearing that of a sovereign who has ruled the deeps since before the coasts had names. Where the ifrit rules fire, the marid rules water, and with the same magnificent arrogance.
+
+**Behaviors:** Haughty, grandiose, and immensely powerful, the marid holds court in the elemental deeps and regards mortals as amusing trifles at best. Some are bound to service in vessels and resent it bitterly; free marid rule their waters as capricious lords. It bargains and boasts as readily as it fights, and its pride shapes everything it does.
+
+**Threats & Defenses:** Commands water absolutely — drowning surges, crushing waves (knockback), and whirlpools that Root and pull under (Silence/drowning), on top of a warrior's skill with a great blade. Immune to drowning and resistant to control; its overwhelming vanity is the reliable lever, as it will not stoop to flee a fight it has grandly claimed.
+
+**Statistics:**
+| Stat | Base | Weak (×0.6) | Strong (×1.75) | Boss (×4) |
+|---|---|---|---|---|
+| Str | 17 | 10 | 30 | 68 |
+| Dex | 14 | 8 | 25 | 56 |
+| Con | 17 | 10 | 30 | 68 |
+| Int | 14 | 8 | 25 | 56 |
+| Wis | 13 | 8 | 23 | 52 |
+| Luck | 13 | 8 | 23 | 52 |
+| End | 16 | 10 | 28 | 64 |
+
+**Attack Patterns:** Signature — **Whirlpool**: a summoned vortex that Roots and drowns (Silence/drowning). **Tidal Surge**: a crushing wave (knockback). Base great-blade strikes; immune to its own element.
+
+**Materials:** A Tidal Heart (apex Water reagent), a crown and regalia of pearl and coral, and the treasures of a drowned court.
+
+**Weapons:**
+| Drop | Notes |
+|---|---|
+| Marid's Blade | A masterwork blade carrying a powerful, lasting water enchantment. |
+
+#### 20. Blue Dragon *(apex)*
+**Environments:** coastal deeps, fog-bound waters, drowned ruins and sea-caves.
+
+**Description:** The apex predator of the Blue set — a great dragon of the coastal deeps and the fog-bound waters, scaled in shifting blues and grays that blur into mist and wave, subtle and manipulative where other dragons are brazen. It lairs where the water meets the fog, and the truth of where it is and what it's doing is never quite what it seems.
+
+**Behaviors:** Deceptive and patient, it prefers illusion, misdirection, and ambush from the mist and the water to open confrontation, toying with intruders and turning their own senses against them. Intelligent and vain, it delights in deception as much as destruction, and rarely reveals its true position until it strikes.
+
+**Threats & Defenses:** Its breath is a rolling bank of blinding fog and disorienting force that Confounds and Silences across a wide area, on top of claw, bite, and a drowning wave-buffet (knockback, Root). Resistant to Illusion and control in turn, and nearly impossible to pin down in its own fog and water. Its guile is its habit — a foe that forces a straight, close fight denies the dragon the deception it relies on.
+
+**Statistics** *(tiers are age — Young / Adult / Elder / Ancient):*
+| Stat | Young (Weak) | Adult (Normal) | Elder (Strong) | Ancient (Boss) |
+|---|---|---|---|---|
+| Str | 14 | 24 | 42 | 96 |
+| Dex | 9 | 15 | 26 | 60 |
+| Con | 13 | 22 | 39 | 88 |
+| Int | 8 | 14 | 25 | 56 |
+| Wis | 8 | 13 | 23 | 52 |
+| Luck | 7 | 12 | 21 | 48 |
+| End | 12 | 20 | 35 | 80 |
+
+**Attack Patterns:** Base bite, claw, and **Wave-Buffet** (knockback, Root). Signature — **Fog Breath**: a bank of blinding mist and force (Confound, Silence); at Elder and Ancient tiers, a lingering fog that blankets and disorients the whole field.
+
+**Materials:** Blue Scales (armor-grade, water-aligned), Claws, Teeth, a Mist Heart (apex Blue reagent, Ancient tier only), and the drowned hoard of its lair.
