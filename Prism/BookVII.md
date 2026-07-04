@@ -61,18 +61,24 @@ A Vetala riding a Dracolich is a worked example of archetype + word-grammar comp
 
 ## Open Questions
 
-- The four human Principality-holders' identities.
-- Whether Psionics' hidden-Titan link (behind the Two-Faced God) is the same thing as Chaos being psionics' magic-side, or a distinct thing.
-- DM-side recruitment gating — exclusive or graded per biome.
-- How the seven color rosters map onto biome benches — pending once all seven exist.
+- **Human Principalities — structurally resolved.** The four human Principalities *are* the schools of the mortal-color domains (Yellow, Red, Blue, Green); their descent (Titan → ancient immortals → human holders) is Book VI canon. What remains open is the placement of specific figures within that mythology — the Lonely Muse, at least, was originally a student of Blue.
+- **Psionics and the hidden face of Chaos — emerging.** The First Titan (the Two-Faced God) carries two faces: the dominant Death/Void (Black) personality, and a *hidden* Chaos (Orange) god that teaches a chosen few the "true nature of the universe." Psionics is that hidden school of Chaos. Whether its teaching is truth or merely another perspective is a deliberate, unresolved theme — the forbidden route to power against the consensus — not a fact to settle. A budding idea; belongs to Book VI once matured.
+- **Recruitment gating — resolved in principle.** Determined by the biome the dungeon's entrance sits in; the finer mechanics are deferred to the Dungeon-Maker kit design (Book II).
+- **Biome benches — resolved in direction.** Biomes and their creatures are the emergent output of the world's ecological simulation, not a hand-authored table (see Biome Seeding, below).
 
 ---
 
-## Biome Seeding [STUB]
+## Biome Seeding
 
-Biomes are procedural conceptual-dominance categories (the terrain a patch of world rolls toward given elevation, moisture, temperature, and the material ledger), not named lore zones with a faction owner — the same biome type recurs wherever its generating conditions recur. The world holds no fixed authored geography beyond one production-practical player-built town; anything else that looks like a ruin is ordinary erosion-system output. Ancient Civilization/Hunter-Gatherer flavor (Golems, Megalith Guardians) enters play only via builder-deployed Story Content Packs.
+Biomes are not hand-authored zones and their creature benches are not a lookup table. The world is generated as a grid of hexes — each roughly fifty miles across (the engine's world-definition system) — and each hex's contents are procedurally generated and, in the same pass, **classified**. That classification is at once a constraint on generation and an output of it, and it feeds many downstream systems, creature spawning among them.
 
-Nine working biome categories: Desert, Volcanic, Mountain/Highland, Underland, Temperate Forest, Tropical/Jungle, Wetland, Coastal/Ocean, Tundra/Polar. Their creature benches will be built from the seven color rosters below once all seven are written.
+Biome type emerges from the underlying simulation, centrally the **water cycle** and the **compound/element life-cycle** (Book III). The ecology assembles itself in trophic layers rather than being placed: where water meets nutrients, plants can grow; a plant-growing biome draws an insect layer; the insect layer draws a small-animal layer; and so on up the chain, predators and monsters riding on the layers beneath them.
+
+Creatures spawn from the conditions the simulation detects, not from an assigned list. The bestiary's own flavor already encodes the hooks — a vulture rides heat updrafts, so the presence of those updrafts in the water simulation is itself the key indicator that tells the procedural system to spawn vultures there. Every color roster's creatures attach to the conditions that suit them the same way, and the same detected conditions decide, per Book II, which creatures a Dungeon Maker can recruit from the biome their entrance sits in.
+
+The nine working biome categories — Desert, Volcanic, Mountain/Highland, Underland, Temperate Forest, Tropical/Jungle, Wetland, Coastal/Ocean, Tundra/Polar — are shorthands for recurring bundles of those conditions, not places.
+
+**[STUB]** The water cycle and the full ecological-spawn system are not yet built — engine work. The exact condition-to-creature mappings follow once that simulation exists. The world otherwise holds no fixed authored geography beyond one production-practical player-built town; anything that looks like a ruin is ordinary erosion-system output, and the Ancient Civilization / Hunter-Gatherer flavor (Golems, Megalith Guardians) enters play only via builder-deployed Story Content Packs.
 
 ---
 
