@@ -246,7 +246,7 @@ Canon (Book V's ruled celestial order, ledgers 8543A752, D2AAFEEC; constellation
 
 **The named constellations** (ledgers AF819A62, 25699317):
 
-- **The Chalice** — the hidden thirteenth, the Lonely Muse's, at the galactic heart. "It always has been. It always will be." It is revealed only when **the moon and the Death planet align**, and while it shows, magic runs stronger — the Chalice eclipse is the endgame's appointed hour (Book I; ledger EC054473).
+- **The Chalice** — the hidden thirteenth, the Lonely Muse's, at the galactic heart. "It always has been. It always will be." It is revealed only when **the moon and the Death planet align**, and while it shows, magic runs stronger — the Chalice eclipse is the endgame's appointed hour (Book I; ledger EC054473). **The Chalice IS the septisigil** (ruled 2026-07-04, ledger 244A27FF / `Prism/septisigil.svg`): its seven stars are the seven schools set in the sigil's ring, and it is drawn as the winged sigil pattern — the same figure that carries the magic synergy cycle on its perimeter and the school genealogy in its weave. The Muse, who mastered all seven, is written in the sky as the seven-in-one.
 - **The Faces** — the **Two-Faced God**, the First Titan (Death and Chaos): two angles facing each other, "> <". Its two colors are the system's orbital extremes, Chaos innermost and Death outermost (ledger 232B6EEE).
 - **The Vine** — **Terria**, the Titan of Green (Earth and Life); the god of the vine drawn in the stars.
 - **The Anvil** (and Hammer) — **Sanguia**, the Titan of Red (Fire and Blood): the world's forge, where fire meets the blood-heat of making. The Titan's cosmic form is the Mountain; its constellation is the Anvil.

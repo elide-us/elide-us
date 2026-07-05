@@ -278,6 +278,8 @@ In the full synergy cycle—**White → Yellow → Red → Orange → Black → 
 
 Because the two systems describe different relationships — mechanical adjacency versus cosmological descent — they coexist by design. Black is a genealogical *parent* on the weave (death gives rise to life) yet combines with nothing on the *ring*; there is no contradiction between the two. (Closes ledger 244A27FF.)
 
+The septisigil is not only a diagram. **It is the Chalice constellation** — the hidden thirteenth, the Lonely Muse's, at the galactic heart (Book VI; ledger 244A27FF): its seven stars are these seven schools set in the ring, drawn as the winged sigil. The figure on the page and the figure in the sky are one and the same.
+
 ---
 
 - **Orbis** – Circle - The Shape of White  
