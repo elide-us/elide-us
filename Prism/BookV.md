@@ -27,126 +27,103 @@ From Green and Yellow came Red and Blue
   - Sanguia (Fire and Blood)
   - Aquia (Water and Illusion)
 
----
+This genealogy is the **inner weave of the septisigil** (Book IV, `septisigil.svg`; ledger 244A27FF), and the sigil pins the two lineages that the descent above leaves paired: the **Black line** (Black → Green → Red) and the **Orange line** (Orange → Yellow → Blue) — matching the creation myth in which chaos gives rise to air-and-lightning and thence to water, and death gives rise to earth-and-life and onward. It is a distinct system from the sigil's *perimeter ring* (the magic synergy cycle, Book IV); the two coexist because they describe different relations — cosmological descent versus mechanical adjacency.
 
-Each realm is associated with a specific statistic and associated philosophies which are studied and reinforced in each school.
+**Cosmology ruling (2026-07-02, ledgers 05840ADF, 8543A752; architecture confirmed 2026-07-03, ledger DC66A0FB).** The realms are distilled into the celestial system: **one instance of the universe, seven literal bodies — worlds we play on: "the seven prisms"** — all sharing the same celestial simulation. The hex planets' pentagon zones are **gateways into the other realms**. The seven sky-planets are refractions of the one home reality (source: the 2026-07-01 celestial session, archived at `sources/celestial-cosmology-session-2026-07-01.md`). *(Out-of-world provenance, recorded honestly: the seven-worlds-with-portals concept is loosely inspired by the Death Gate Cycle — "our own spin, the seven colors of the prism." An early single-world architecture directive is overridden by this design. "Shard" in these books always means a world-shard of the sundered Prism, never a server.)*
 
-**White - Light and Prophecy**
-  - Enlightenment vs Mendacity
-  - Aspects of Wisdom
+**World-gen (2026-07-12): the seven prisms share one accretion budget.** All seven worlds are generated from a single **canonical accretion budget** — the fixed roster of the world's matter (Book III, §The Seven Shards and World Selection) — and differ only by **generation seed**; each shipped shard is hand-selected by the designer from generated candidates. Because the budget is shared, every shard carries all twenty-eight canon elements, so every craft functions on every world. (Ledger AF30A79B.)
 
-**Yellow - Air and Lightning**
-  - Courage vs Audacity
-  - Aspects of Dexterity
+Each world has twelve pentagon points (hex-sphere topology, Book III). These are **Advent locations** (ledgers 73EA6D39, 35A9CEAE): **unreachable by design** — world generation constrains them beyond the survivable line (the working idea, idea-grade: six as mountains, six as deep ocean), because pentagon spaces are not part of the standard world — entering one removes you from it. The zones around them are anomalous — "weird," in the register of the Bermuda Triangle mythos, with all of the Berserk meaning of "Advent" attached. **The gateways are guarded by the Titans** (ruled 2026-07-03, ledger 69412269): the Shattering built a prison, the Titans stand as its wardens, and the Advent locations are the guarded gates of that prison (Book VI, The Shattering) — the in-fiction reason reaching them is quest-gated and the first breach is the hardest (ledger 021891E4). What lies through them is hand-crafted: unique zones and alien, magical realms where the rules of the universe shift. A fog wall that teleports any player who reaches one "elsewhere" is an open idea; the specific transit mechanics are undecided.
 
-**Red - Fire and Blood**
-  - Valor vs Wrath
-  - Aspects of Strength
+**Ordinary world-to-world travel is trivial magic (canon, 2026-07-05).** The Advent pentagons are not how adventurers reach the seven worlds day to day — they are the guarded, unreachable, endgame-tier prison gates, full stop. Ordinary inter-world travel is a **separate, solved system**: by ruling, the hundred-thousand-year civilization of the present age has long since **figured out how to travel between the shards by magic as a trivial action** (Elideus, 2026-07-05). It is deliberately **not a challenge** — available as a matter of course for the ordinary purposes that require it (schooling at the seven worlds' Grimoires — Book VIII; trade; the adventurer's endgame arc of mastering a school of every color across a lifetime). This resolves part of the still-open pentagon-transit fork (ledger 73EA6D39): the twelve points per world never had to double as everyday transit for six destination realms, because everyday transit isn't their job. **[STUB]** the concrete form of the trivial travel magic (a researched spell, fixed waypoint stones, a worn item, or some combination) is undesigned — but that it is trivial and magic-based is ruled.
 
-**Orange - Chaos and Transformation**
-  - Diligence vs Anarchy
-  - Aspects of Luck
+**[OPEN QUESTION / idea-grade] The Advent connections as a lever.** With ordinary travel solved separately, the Advent gates are freed to *mean* something mechanically rather than just being unreachable set-dressing. Elideus floats using Advent connections to do interesting things — for instance, **temporarily blocking travel to a realm** (a realm sealed off while an Advent event is active, or as the stakes of one). This is open ideation, not a ruling; it pairs naturally with celestial primacy (the doors answer to the sky, ledger 3312B2AB) and the guarded-prison frame (Book VI).
 
-**Blue - Water and Illusion**
-  - Knowledge vs Truth
-  - Aspects of Intelligence
+**The body order** (ruled; inner → outer):
 
-**Green - Life and Earth**
-  - Perseverance vs Relentlessness
-  - Aspects of Endurance
+1. **Chaos** — innermost; red, orange, and black
+2. **Fire** — red
+3. **Home** — the habitable band; carries the moon
+4. **Earth** — brown and green
+5. **Light** — the white gas giant *(ruled 2026-07-02: the source session's "Life/Light" was human error; White is Light and Prophecy — ledger D30A32BF)*
+6. **Air** — the ringed planet; white and pale blue
+7. **Water** — Neptune blue
+8. **Death** — outermost; black, occulted behind the star, seen only as a shadow transiting the galactic cloud
 
-**Black - Death and Void**
-  - Transcendence vs Ambition
-  - Aspects of Constitution
+The sun anchors the system and the moon rides with Home — both outside the seven. All seven planets share one apparent size, about a quarter of the sun/moon disc. **The moon is not a simulated body**: it tracks the real-world Moon one-to-one — true synodic cycle, phase and position from real ephemeris (ledger D2AAFEEC). Time runs at roughly one in-game minute per five real seconds — a two-hour in-game day — **[WORKING VALUE]**: that ratio is an **earlier estimation and may already be superseded** (Elideus, 2026-07-13, ledger BC3248DD). The day/night length and its real→game translation are an open axis, worked out by timing simulation — the design fixes a **target real-time day length** first (illustratively, a four-hour day) and derives the one-second-real → game-time conversion, and the fundamental gameplay time unit, from it; the recovered "one real second = one in-game minute" is a still-earlier estimate of the same. The number is unsettled, but the ephemeris moon above is unaffected — it tracks real wall-clock time regardless of the day length. *(The moon's origin and Home's axial tilt are a formation-time authored event — a giant impact whose mass exchange is really accounted, Book III §Volatiles and Static Formation Events; this concerns how the world was baked, not how the live moon is rendered.)*
 
-The philosophical traits that drive the moral realms are Valor, Courage, Knowledge and Perserverance.
+**Celestial primacy (ledger 3312B2AB).** Celestial events drive all possibilities in the game — core design. Design-side, every event is conceived only as the sky's schedule: configurations of the planets, the moon, and the stars. Players who learn the stars and their patterns can see when things will happen, and will resolve the sky to dates and times — but the design never runs the other way. It is all one structure: colors, stats, events, people, bodies, magic, titans — *"all reflections of the same Prism."*
 
----
+The seven sky-planets map one per school (ledger D30A32BF): Chaos → Orange, Fire → Red, Earth → Green (Earth *and* Life), Light → White, Air → Yellow, Water → Blue, Death → Black.
 
-### The First Age of the Immortals
+By ruling (2026-07-02, ledger 2FCEB0B3) each Mortal Realm name is at once a realm, its planet/body, and its Titan: **Terria** (Earth), **Aerolon** (Air), **Sanguia** (Fire), and **Aquia** (Water) are the four elemental Titans of the Pantheon (Book VI).
 
-In the beginning, there was only light. Endless, pure, and unbroken. No land, no sky, no stars, no living thing—only the **Titans**, colossal entities tasked with shaping the universe, their purpose hidden deep within the radiant brilliance. The light was everything: the source of all, the fount of knowledge, the beacon of creation.
-
-Among these Titans, there was one who dared to gaze deeper into the light, yearning to uncover its wisdom, to dissect it and extract its ultimate truth. This Titan, driven by an insatiable hunger to understand the light’s secrets, ventured beyond the radiance—beyond the comfortable glow of creation. The Titan sought the core of all knowledge, believing that within the light lay all answers.
-
-But what the Titan discovered was not enlightenment. As the Titan delved deeper into the spectrum, the light began to fragment, and something else was revealed. There, at the edge of creation, lurked the **chaos of the universe**, untamed and wild. The spectrum, split apart into colors never before seen, burst open a realm of terrifying disorder, one where the laws of reality unraveled. **Orange**, the color of chaos, flickered violently—a force of transformation that twisted the very fabric of existence.
-
-And from within that chaos came the unimaginable: **death**. Not just the ending of life but the birth of something far darker, something beyond understanding. **Black**, the void where the light could not reach, where not even death existed as we know it, but rather the absence of everything. A place of nothingness, cold and unfeeling.
-
-The Titan, seeking wisdom, had uncovered the **anarchy of free will**. The Titan had expected truth, but instead, **chaos** and **death** descended. In an instant, reality itself lashed back. The Titan, once a being of unimaginable power, was struck down. The very force of death, newly born, tore through the Titan's immortal form. But death—though it claimed the Titan—could not complete its task, for a Titan is not of this world. Not truly alive, but also not truly dead.
-
-The Titan’s body shattered, its form twisted by the chaos it had uncovered. What was once a singular being was now two—two forces created from the remnants of its divine essence. **Orange**, the chaotic, writhing energy, now lived as a school of magic, a manifestation of the universe's capacity to destroy and recreate. It was **transformation**, birthed from the pieces of a god that were too stubborn to die.
-
-And from the pieces that had died, from the remnants that crumbled and decayed, there came the first **undead**, a hollow shell bound to the void. This was **Black**, the magic of death and void, a force that would haunt the world as the embodiment of the Titan’s death—a death that could never fully come.
-
-The first Titan had sought wisdom in the light but had instead unleashed the twin forces of chaos and death, giving birth to the **Orange** and **Black** schools of magic. And so, from that day forth, the light would never again be whole, for the discovery of its spectrum had forever split creation into opposing forces. And thus, the universe knew death, chaos, and the eternal void.
+*[EDITORIAL] Resolved 2026-07-02: **(a) the seven realm names ARE the names of the seven bodies and their Titans** — realm↔body↔Titan identity (ledger 2FCEB0B3, closing fork 7BC8E9B6). Narrowed 2026-07-05: **(b) pentagon transit mechanics** no longer needs to explain how twelve Advent points per world serve six destination realms as everyday transit — they don't; ordinary inter-world travel runs on a separate default network (above), and the pentagons' only job is being the guarded, unreachable prison gates. What remains open under (b) is the transit mechanics *of the Advent pentagons themselves* (the fog-wall idea) and the default network's own concrete form (ledger 73EA6D39). Still open: (c) the in-game↔real latitude mapping and reference longitude for the moon ephemeris (ledger D2AAFEEC).]*
 
 ---
 
-In the aftermath of the First Titan’s fateful discovery, the cosmos trembled, for the world had learned chaos, and it had learned death. The light, once unbroken, now fractured into the **Prism**, revealing realms of magic both fearsome and misunderstood. Yet even as death and chaos spread their shadow across the universe, the Titans did not despair. They knew that to survive, to shape the universe as it was meant to be, they must confront what had been unleashed.
+Each color has two aspects — its **Domains** — and **each Domain has an aligned school**: two schools per color, **fourteen schools among the seven shard worlds**, each color's pair housed on its associated world (ledgers FF1F7955, 232B6EEE). Within each school lie **disciplines** — the types of spells (Abjuration, Divination, Pyromancy, Thaumaturgy, and kin; documented in Book IV under legacy "Domain" headings), every spell belonging to a discipline, and **each discipline is a skill in the skill system** (ledgers DCB350D4, 232B6EEE). Room for divergence and unity (ledger A8FF6AB0). Each realm is associated with a specific statistic and a philosophy pair. The philosophies belong to the **color**, not to either school: the pair is two contrasting approaches to the color's virtue — deliberately unlabeled — and followers of both philosophies are found at both of the color's schools.
 
-In shock, the remaining Titans gathered. The strongest and wisest among them, drawn by the gravity of their shared fate, formed a **council**. At its head stood the First Titan—though death had torn them apart, it still lived, his form marked by the chaos she had touched, their presence shadowed by the void. And yet, it was no longer simply a victim of these forces. He had mastered them. The very energies that had undone her now resided within, and from this place of hard-won wisdom, they led the council with the gravest caution.
+| Stat | Color | Schools | Philosophy |
+|---|---|---|---|
+| Wisdom | White | Light and Prophecy | Enlightenment vs Revelation |
+| Dexterity | Yellow | Air and Lightning | Courage vs Audacity |
+| Strength | Red | Fire and Blood | Valor vs Conquest |
+| Luck | Orange | Chaos and Transformation | Diligence vs Cunning |
+| Intelligence | Blue | Water and Illusion | Knowledge vs Truth |
+| Endurance | Green | Earth and Life | Perseverance vs Hunger |
+| Constitution | Black | Death and Void | Transcendence vs Ambition |
 
-“We must understand what we have seen,” they said, our voice echoing through the stars, “and we must not err again. The light is far more than we knew. It is a **Prism**, and we must learn its edges with care.”
+Every pair runs off one axiom: one pole approaches the color's virtue collectively and impersonally; the other through the self — inherited, claimed. By ruling (ledger E4F46BA5) the split carries **no name and no judgment**: "we do not preach, we reveal" — which pole is right is the player's own conclusion, never the design's. Both poles have strengths and weaknesses, and the pole a player's choices align to expresses in their NPC settlements. (An earlier "honorable vs dishonorable" framing was a misspeak, struck 2026-07-02.)
 
-The council, now guided by this profound understanding, turned its gaze back toward the Light. They moved with a new respect, a tempered resolve. The light was not to be fully opened again, not recklessly, not like before. They would peel away the layers gently, searching for the other truths hidden within. And so, from the **death** they had uncovered, they found its counterbalance: **life**.
+**The Principalities (ledgers 232B6EEE, 24054B89, 2FCEB0B3).** The superhuman tier marks ownership, not permission — the magic is not strictly limited to superhumans; it **belongs to the Principalities of the Titans and the ancient immortals**. White's magic of Light and Prophecy belongs to the **Principality of White** — "the source, the one, the pure, the origin of eternity." The four schools of Black and Orange belong to the **First Titan — the Two-Faced God** of the constellations (Book VI). The four **mortal colors' magic descends through a chain** (ledgers 24054B89, 12411325): the **Titans** are its divine source — they refracted the magics from the Light and **taught them to the ancient immortals**, who were the **original patrons** of the mortal magics (earth, air, fire, water) and whose **names are lost to the centuries**; those immortals in turn **gifted the magics to the first humans**, today's mortal Principality-holders. Each mortal color still answers to its Titan as source — Green to the Vine (Terria), Yellow to Aerolon, Red to Sanguia, Blue to Aquia (Book VI Pantheon). The human holders' own identities are unrecorded; the ancient immortals' names are lost in-world. Structurally the tiers divide by *kind* (ledger BC54B7D7; Book VI): **White is divine** — invoked, the channelling of eternity (Light and Prophecy); **Black and Orange are titanic** — the First Titan's own two faces; and only the **four elemental colors** were created for mortals and taught, which is why they alone carry the intermediary chain.
 
-Life emerged, not as a distant idea but as a force in its own right. It did not rise in the heavens but was born from the **ground**, from the foundation of existence itself. The **earth**, firm and fertile, became the cradle of life. **Green**, the school of **Earth and Life**, took shape—rich, profound, and unyielding. The Titans felt its weight, its promise, for it was from this soil that all things would grow. Life would spring forth, reborn from the death that had preceded it. Here, in this profound balance, the Titans saw the strength of renewal. It was the essence of the **Green** school, a reminder that even in the shadow of death, life finds a way to bloom.
-
-But from **chaos**, there was yet more to uncover. The Titans turned their attention upward, to the skies, and there they discovered the unpredictable, volatile power of **air** and **lightning**. **Yellow**, the school of **Air and Lightning**, was born from the crackling energy that surged through the heavens, the roaring winds and electric storms that tore through the firmament. It was wild, potent, and chaotic, but not without purpose. The sky itself was a force of life—dynamic, ever-changing, and full of potential. The Titans learned the might of this force, recognizing in it the unshakable will of **Courage**. The chaos that birthed it was no longer a mindless force but one that drove the air to shape the heavens.
-
-Thus, from the depths of **Green**, life rooted in the **earth**, and from the heights of **Yellow**, storms raged with purpose. These two schools were unlike death and chaos, yet they were **synergized with the light**. They were born not of destruction but of creation and transformation. They were part of the Prism’s natural order, connected intimately to the White, each a reflection of its careful balance.
-
-And so, the **Titans**, having learned from the folly of their first discovery, cautiously extracted these truths from the Light. With great wisdom, they now understood that the edges of the spectrum could be explored, if only with patience and care. And so, the schools of **Green** and **Yellow** were born—firmament and soil, sky and earth, life and air, the powers of renewal and storm that would forever shape the universe.
-
----
-
-As the Titans’ curiosity deepened, they realized that the universe was still unbalanced. Though they had uncovered the powers of life, earth, air, and lightning, there were two more colors waiting within the spectrum - **sympathetic colors**, just outside the edges of what they had already discovered.
-
-First, seeking balance to Green, they found on the edge of Yellow a terrible glow: Red. It was the flame, the pulse, the beating heart of life. In so many ways, it stood in opposition to life, but the Titans saw its necessity. The **soil**, rich and fertile, needed the **blood** of life to sustain itself. And while **life** grew from the earth, **fire** brought both destruction and rebirth. **Red** balanced the equation, for the **blood** of life flowed from the earth, and fire gave warmth and strength to all things. Thus, from the depths of **Green**, cousin to **Yellow**, the Titans found **Red**, the magic of Fire and Blood.
-
-But the Titans were not finished. Balancing Yellow, they sensed on the edge of Green another sympathetic force—one tied closely to life and the air itself. In the skies, within the chaos of storms, they found **Water**. Blue, they realized, was born of the air, hidden within the clouds, and for the first time, **rain** fell upon the earth. Water, fluid and reflective, brought a new kind of magic: **Illusion**, the unseen, the hidden truths that danced like reflections on the surface of a stream. **Blue** flowed through the air, from cloud to earth, nourishing life as the **rains** poured down for the first time.
-
-With these final discoveries—**Red** and **Blue**, fire and water—the Titans felt the spectrum had revealed all it needed to. There was **balance** now, between life and death, between chaos and order, between fire and water. The universe was complete. And so, the Titans ceased their explorations, content with what they had uncovered. They left the magic of **Prism** to flow through the realms, allowing **life** to flourish, nourished by the balance they had restored to the universe.
+The philosophical traits that drive the mortal realms are Valor, Courage, Knowledge and Perseverance. (Resolved 2026-07-04, ledger 89D9BC90: "moral" was a voice-transcription artifact; "mortal" is correct — the four traits are exactly the four mortal schools' virtues.)
 
 ---
 
-After the Prism’s balance was found, the Titans, satisfied with their creation, retreated into a deep rest, and from the quiet of their slumber, the first generation of mortals emerged. These beings, nearly immortal in their nature, were long-lived, their lifespans stretching out like the lifespans of trees and mountains. They were not mere mortals but **spirits**, birthed from the harmony of **light, air, and soil**, infused with the essence of **the first resonance**. From **White**, they carried the light of wisdom and prophecy; from **Yellow**, the breath of the skies and the spark of life; and from **Green**, the nurturing soil that gave rise to the forests and mountains.
+## Canon Rulings
 
-Thus, the **world of Prism** was born—vast, beautiful, and peaceful, a world shaped by the careful hands of these eternal beings. They wandered the valleys, shaped the fields, and raised the mountains to the sky. The **forests** grew tall, thick with life, and the **rivers** flowed with pristine waters, untouched by chaos or destruction. In this serene world, there was no need for haste or conflict. The landscapes of Prism were lonely, but they did not long for more. To these beings, it was enough to be **one with the Light**, to live in peace and harmony with the world they had crafted.
+A running ledger of rulings that resolve ambiguities between source documents. Each entry is dated; where a book conflicts with a ruling, the ruling wins until the book is revised.
 
-These creatures, who were born from the **essence of the Titans**, learned the nature of **magic**. It was a quiet, subtle force that flowed through the world, drawn from the colors of the spectrum. They wielded it not for power or domination, but to enhance the beauty of their world. With the magic of **White**, they filled each dawn with radiant light. With **Yellow**, they shaped the winds and guided the storms, bringing fresh rains to nourish the soil. And with **Green**, they tended the forests and fields, ensuring that all life flourished in harmony.
+- **2026-07-02 — Life is Green.** Life magic belongs to the Green school (Earth and Life): the domain of the god of the vine, magic for green and growing things. White is Light and Prophecy only. Healing therefore splits across the White/Green seam — White protects and wards (Thaumaturgy), Green grows and mends (Biomancy). Any earlier reference to a superhuman "Life/Light" school is deprecated; Life is mortal magic.
 
-Every **dawn** was a spectacle of vibrance and beauty, a gift from these peaceful beings. They lived in communion with the world, their magic woven into the fabric of reality itself. Though they lacked nothing, and though they did not yearn for what was absent, they still felt that the world was not yet complete. Yet, in their hearts, they were content. They knew that being part of the **One**, the **Light**, was enough.
+- **2026-07-02 — Schools are two-domain.** Every school spans two domains (Red is Fire *and* Blood; Green is Earth *and* Life). Single-element school names are shorthand only. The "four elements" accessible to mortals refer to the four Mortal Realm schools: Green (Earth/Life), Yellow (Air/Lightning), Red (Fire/Blood), Blue (Water/Illusion). The three Ethereal/Light schools — White, Orange, Black — are the superhuman tier. *(Superseded in part by the realignment ruling below: the two domains are themselves two schools, and "school" no longer names the color. The color-level facts — tiers, shorthand — stand.)*
 
-For ages and eons, they crafted their world in harmony, their lives an eternal dance with the elements of the first resonance. And so the world of Prism stood, a testament to peace, beauty, and balance, awaiting the day when the final colors of the Prism would be revealed. But for now, they rested in the light of creation, basking in the joy of what had been made.
+- **2026-07-02 — The seven stats are canonical.** One stat per school, as tabled above: Strength (Red), Dexterity (Yellow), Constitution (Black), Intelligence (Blue), Wisdom (White), Endurance (Green), Luck (Orange). Stats measure *capacities*, not actions — Charisma is excluded because it is an action, not a stat. Constitution and Endurance do not collapse: Constitution (Black) is the capacity to be hit; Endurance (Green) is the capacity for sustained effort. Combat is Dark Souls–style action combat, and every stat must cash out in combat-relevant terms. Charisma checks, if required, would use Luck instead.
 
----
+- **2026-07-02 — Celestial events are global.** Celestial configurations (eclipses, alignments) modify the whole world at once, across all dungeon tiers and regions — not endgame-only bonuses. Scarcity and abundance are deterministic and foretold in the sky.
 
-After millennia of crafting the world with light, life, and endless beauty, a deep longing stirred once more in the hearts of the children of the Titans. No longer content with merely basking in the light and shaping the perfect world of **Prism**, they felt the pull of something greater—the need for **balance**. Though the world flourished in peace and harmony, they sensed a void, a missing force that could not be ignored. They needed the **fire** of creation, the **water** of life, the **blood** that coursed through living veins, and the **endless forms most beautiful** of new life to bring the world into balance.
+- **2026-07-02 — Colors, schools, and philosophies realigned.** Schools are not schools of colors. Each color has two aspects, and each aspect is a school — two schools per color, each pair on its color's shard world; fourteen schools among the seven worlds. Philosophies belong to the color, not the schools: each pair contrasts two approaches to the color's virtue — deliberately unlabeled and unjudged (an earlier "honorable vs dishonorable" framing was struck as a misspeak) — and both of a color's schools contain followers of both. Revised pairs: Enlightenment vs Revelation (White), Valor vs Conquest (Red), Diligence vs Cunning (Orange), Perseverance vs Hunger (Green); Courage vs Audacity (Yellow), Knowledge vs Truth (Blue), and Transcendence vs Ambition (Black) unchanged.
 
-From the waters, the **younglings** were brought forth—**mortals**, with lifespans as fleeting as the wind. These short-lived beings were the antithesis of the eternal ones, but they held within them a spark of something new, something vital. The mortals were fragile, **short of life**, yet **filled with vigor** and **passion**. Though their existence was often brutal, marked by the need for shelter, sustenance, and survival, they also possessed a fierce **love** for life. They walked alongside the Eternal Ones, learning from their ancient wisdom and basking in the magic of the world.
+- **2026-07-02 — Domains, disciplines, principalities.** The fourteen aspects are **Domains**, each with an aligned school. **Disciplines** are the types of spells (Book IV's categories, under legacy "Domain" headings) — and each discipline is a skill in the skill system. The superhuman tier marks ownership, not permission: the magic belongs to the Principalities of the Titans and the ancient immortals — White to the Principality of White, "the source, the one, the pure, the origin of eternity"; the four schools of Black and Orange to the **First Titan, the Two-Faced God**. The skill system's layered-scope design is a major open issue flagged for collaboration (ledger F618F695).
 
-The mortals were taught the nature of **fire**, the cleansing and the destructive. They learned the mysteries of **water**, the force of transformation and illusion. They became **children of the elements**, mastering **earth** beneath their feet and **air** that carried them forward. They were born into a harsh world but discovered beauty, even in their suffering. They formed the **infant steps** of **civilization**, learning to build, to defend, to grow, and to love. From these earliest generations, there emerged **valor**, **knowledge**, **courage**, and **perseverance**—embodiments of the traits the children of the Titans had once embodied themselves.
+- **2026-07-02 — Mastery spans colors; the split is unnamed.** "All seven schools" in mastery phrasing means **at least one school from each color** — fourteen is excessive by ruling; within each school lie further disciplines. The philosophy split carries no design-side name and no judgment — the design reveals, never preaches. Players choose, and the chosen pole expresses in their NPC settlements: selfish traits breed hostility toward outsiders, communal traits confer different benefits — strengths and weaknesses both ways. (Ledgers A8FF6AB0, E4F46BA5.)
 
-But with the passage of **millions of years**, the world of the mortals began to change. The Eternal Ones withdrew from the mortal world, retreating into quiet obscurity. The stories of their presence faded into myth. Mortals, in their short, brutal existence, mastered the realms of **earth, air, fire, and water**, growing strong, building civilizations, and living lives of fleeting beauty. Yet, they **forgot** the Titans, and they **forgot** the children of the Titans, who had shaped the world in the beginning.
+- **2026-07-04 — Black combines with nothing.** Ratified as hard canon (closing ledger 313123F1; the underlying fact was already seed canon 3, ledger 442D03E8). Black is the sole exception to the "at least two schools" synergy/mastery pattern above — it synergizes with no other school. The mythological reason is that Black/Void is definitionally "the absence of": it cannot invent or create on its own, only reflect or reanimate what already lived elsewhere in the spectrum (Book VII, ledger D0BE40E5).
 
-All that remained were the forces the Titans had unleashed: **magic** and **mortality**. The once-immortal beings faded from memory, and with them, the connection to the ancient balance of the Prism. Mortals built their own worlds, their own stories, but even as they advanced, even as they mastered magic and the elements, they sensed something **missing**. Something vital had been lost from their existence—a sense of purpose that transcended even their greatest achievements.
-
-Thus, the **First Age of the Immortals** came to an end. The Titans and their children faded into legend, leaving behind only the echoes of their creations and the powerful magic that flowed through the world. But even in this age of mortality, the world waited. The Light had more yet to reveal, and though the Titans slept, the forces of the universe would stir once more, in time.
+- **2026-07-12 — World-gen unification (Ruling 1).** The world is generated with **no system-formation simulation**. A single **canonical accretion budget** (28 elements, design ceiling 30) is authored; the molten epochs, the crust cycle, and ore veins are all *outputs* of that budget's chemistry, never seeds (Book III, §The Nine-Epoch Bake, §The Seven Shards and World Selection, §Ore Genesis). The **cosmology is confirmed settled**: the fixed 8-body roster, the sun-anchored sky, the real-ephemeris moon, and the deterministic celestial event calendar are authored and deterministic — no formation simulation produces the live sky. The body roster above and the mythic creation frame (Book VI) are unchanged. (Ledgers E84EF8CE, AF30A79B, BCD0A596, C95EFB32; engine side aligned in flicker memory `worldgen-unification-rulings`.)
 
 ---
 
-### The First Age of the Mortals
+## The Mythic History
 
-#### The Golden Age of Philosophy
+The narrative telling of the ages — the First Titan's delving, the refraction of the schools, the coming of mortals, the Lonely Muse, and the Shattering — lives in **Book VI: Mythology**. This book retains only structural canon: the realms, the schools, the philosophies, and the peoples.
 
-#### The Rise of the Lonely Muse
+---
 
-#### The Shattering of the Prism
+## Peoples of Prism
 
-### The Second Age of the Immortals
+**[STUB]** — The races of Prism, their lifespans, and their social systems.
 
-The Shattered Peace
+Canon (Seed canon 12, ledger 10A6150F): race–lifespan tradeoffs couple directly to the generational character and dynasty systems (Book I) — longer-lived races trade generational turnover for continuity, shorter-lived races cycle through the family tapestry faster.
 
+No source names a playable race, a lifespan value, or a social system, and Oracle memory holds no race, lifespan, or dynasty specifics (memory audit, ledger 7802053D). The roster must come from Elideus; named race lists are not to be written here without one.
 
+[OPEN QUESTION]s:
+
+- The only race-like names in any source are creature-targeting vocabulary: Book IV's **Terradun** ("Underground and Earth Dwellers" — dwarves, kobolds, gnomes). Whether a dictionary word constitutes canon that these exist as peoples, or only that the magic grammar can target such creatures, is an open fork. (Ledger EBA28F43; interface first noted in 8E29A0D3.)
+- Which races exist, their lifespans, and whether all are playable: unrecorded.
+- What a lifespan is worth turns on unresolved dynasty forks: what ends an active life — retirement only, or combat death too (ledger D25A57E1) — and what transfers across generations, including stat predispositions by race or bloodline (ledger D2C52C88).
+- Where the peoples live: the realm/planet roster is the open cosmology fork (ledger 973162E7), and which peoples inhabit which Mortal Realm — Terria, Aerolon, Sanguia, Aquia — is unrecorded even under the current structure.
+- Social systems — houses, guilds, nations, how a family tapestry sits inside a society — are unrecorded beyond the dynasty canon above.
