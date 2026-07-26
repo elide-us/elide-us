@@ -38,4 +38,10 @@
 
 ## VII. Bestiary
 
-  This book contains the creatures of Prism: the fifteen Principality categories, the cross-cutting archetype matrix, and the gothic-horror tonal register the whole bestiary is written in.
+  This book contains the creatures of Prism: an in-world catalogue organized by the seven colors (Animals, Monsters, and Terrors per color, plus the Inverted phenomena), with design scaffolding — the Principalities, cross-cutting rules, entry format, and biome/ecological simulation — collected in its Appendices. Tone is traditional high fantasy with a gothic edge. *(Description updated 2026-07-05 to match the book's current structure; it no longer leads with the archetype matrix or a gothic-horror register.)*
+
+---
+
+## VIII. Grimoire
+
+  This book holds the actual spells of the fourteen schools — the established, hundred-thousand-year canon that Book IV's word-grammar expresses, not a blank space for invention. Scope and format only so far, calibrated against one sample school (Fire) before the rest are attempted.

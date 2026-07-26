@@ -3795,7 +3795,7 @@ A few structural rules apply across every color's roster:
 **The creature template.** Every creature entry uses this shape:
 
 - **Name**, grouped under its color's Animals / Monsters / Terrors subheadings.
-- **Environments** — biome-flavor tags within its color.
+- **Environments** — biome-flavor tags within its color. **Two different registers, by rank (clarified 2026-07-04, ledger pending):** for **Animals**, this is genuine ecological terrain — the conditions Appendix E's simulation actually spawns them from. For **Monsters** and **Terrors**, this is dungeon-placement flavor, not a spawn condition — these are the game's dungeon-oriented, DM-recruited population, and the tag describes where a builder would thematically site them, not where the world grows them. A Monster or Terror *can* still turn up in the open world as an unbuilt "spawn camp" or wandering band — a possibility, not the norm — but the primary path to meeting one is a Dungeon Maker's build. Do not read a Monster/Terror's Environments tag as a claim about the ecological simulation.
 - **Description** — appearance, flavor, tone.
 - **Behaviors** — behavior pattern: solitary/pack, aggression, signature actions.
 - **Threats & Defenses** — what it inflicts and resists, drawn from Book IV's status-effect taxonomy (Root, Snare, Slow, Expose, Poison/Disease, Stun, Silence, Confound, Sunder, Fear, Panic, Charm) — no bespoke effects per creature.
@@ -3843,5 +3843,5 @@ A Vetala riding a Dracolich is a worked example of archetype + word-grammar comp
 
 - **Human Principalities — structurally resolved.** The four human Principalities *are* the mortal-color domain schools (Yellow, Red, Blue, Green). Open: the placement of specific figures in the myth — the Lonely Muse was originally a student of Blue.
 - **Psionics and the hidden face of Chaos — emerging (not yet canon).** The First Titan's dominant face is Death/Void (Black); a hidden Chaos (Orange) face behind it teaches a chosen few the "true nature of the universe," and Psionics is that hidden school of Chaos. Whether the teaching is truth or merely another perspective is a deliberate, unresolved theme (the forbidden route to power against the consensus). Belongs to Book VI once matured.
-- **Recruitment gating — resolved in principle.** Determined by the biome the dungeon's entrance sits in; finer mechanics deferred to the Dungeon-Maker kit (Book II).
+- **Recruitment gating — resolved (2026-07-04).** Learning is biome-gated, using is not: a Dungeon Maker first learns a creature by recruiting it from its native biome, which unlocks that creature (and its Monster Mastery tech-tree branch) permanently. A dungeon built and operated within a biome is what unlocks the tech tree for that biome's sets and features in the first place. Once learned, a creature is part of the Maker's permanent roster — the tech tree gates access generally (Weak/Normal by default, Strong/Boss by rank, per Appendix D), not biome-of-current-build. See Book II, Placement and Monster Recruitment.
 - **Biome benches — resolved in direction.** Emergent from the ecological simulation, not a table (Appendix E).

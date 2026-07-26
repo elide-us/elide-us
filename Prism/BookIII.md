@@ -12,17 +12,27 @@
 
 The world's stored truth is a **material ledger**. Each heightmap pixel carries a **composition vector** — absolute amounts per element — plus trait fields (hardness, brittleness, water capacity, viscosity); each cluster carries a **layered stack of materials** (strata: soil over stone over deeper rock — digging passes down through the layers). Shape — terrain height and voxel geometry — is derived from the ledger at bake time and is never stored as truth. Mass per material is conserved: a player digging a column and a river eroding it are the same kind of transaction against the ledger. (Canon: F156C63C; flicker docs/flicker-world-system-spec.md §4.)
 
-  **[OPEN QUESTION]** The sections below describe voxels as containers of elements whose contents are the truth. Whether that is the same model at two resolutions (voxels as the ledger's materialization/render layer) or a genuine conflict is an open fork — ledger entry 9C677816. The voxel-container text is retained unmodified pending that ruling.
+  **[RESOLVED — 2026-07-13, ledger 6C9C3A9C, closing fork 9C677816]** The sections below describe voxels as containers of elements whose contents are the truth — confirmed canon, as it has been since this book's original text; the fork was a question the 2026-07-02 recompile raised, never a design change. The composition-vector/ledger view and the voxel-container view are **the same model at different levels of aggregation**, not a conflict. A **voxel is a container of a portion of its cluster's material aggregate** — not a "rock voxel" or a "sand voxel"; **material is a derived property** computed from a voxel's contents, never a label of what the voxel *is* (this is the source of "a lot of carbon under pressure = diamond"). Containment nests as aggregates: a voxel holds a portion of its **cluster**'s aggregate, the cluster a portion of its **hex**'s aggregate, and the hex a portion of the **planet**'s aggregate (the canonical accretion budget above).
 
 ### Elements, Compounds, and Classified Materials
 
-The engine consumes this book directly: the Simplified Periodic Table below is the canonical element vocabulary (flicker docs/material-model-handoff.md — 27 elements: 26 carried verbatim plus Magnesium #12 by ruling, ledger 84E68FF7; the valence-electron counts are this book's gameplay values by design, not IUPAC values). Above the elements, the engine classifies an aggregate composition to one of 256 named materials (granite, sandstone, limestone, dirt, ores, water, ice, lava, and so on).
+The engine consumes this book directly: the Simplified Periodic Table below is the canonical element vocabulary (flicker docs/material-model-handoff.md — 28 elements: 26 carried verbatim plus Magnesium #12 by ruling, ledger 84E68FF7, and Lithium #3 by ruling, ledger F3450870; the valence-electron counts are this book's gameplay values by design, not IUPAC values). Above the elements, the engine classifies an aggregate composition to one of 256 named materials (granite, sandstone, limestone, dirt, ores, water, ice, lava, and so on).
 
   **[PROPOSED]** This book's compound, mineral, and gemstone tables are the chemistry-facing source-work behind that classification and behind the crafting/extraction layer; the exact mapping from these tables to classified materials is unassigned — the engine's compound catalog is deferred, and its world simulation works element→material directly. (Basis: material-model-handoff.md §2; ledger note 3C72165B.)
 
 ### The Nine-Epoch Bake
 
-The planet is generated offline in nine epochs, three groups of three. **Epochs 1–3 (molten):** matter distribution, filtering and sorting, heat distribution, compound formation — these are replaced by the solar-system simulation, so the planet's starting composition is the exact accounting of the matter the world accreted. **Epochs 4–6 (geological):** cooling crust, plate tectonics, continent compression and mountain building, dozens of major erosive cycles, layered strata. **Epochs 7–9 (persistent simulation):** the retained real-world state — the only data the server keeps; epochs 1–6 are discardable scaffolding once it exists. (Canon: F156C63C; flicker-world-system-spec.md §3.)
+The planet is generated offline in nine epochs, three groups of three. **Epochs 1–3 (molten):** matter distribution, filtering and sorting, heat distribution, compound formation. The planet's starting composition is the exact accounting of the matter the world accreted: a single **canonical accretion budget** carrying every element of the simplified periodic table in fixed amounts (the 28-element table below; design ceiling 30). These molten epochs are simulated directly by the world engine's chemistry — differentiation, convection, and the onset of plates are outputs of that budget, never seeds. There is no separate solar-system-formation simulation: the budget is authored and canonical, and the chemistry produces everything else. **Epochs 4–6 (geological):** cooling crust, plate tectonics, continent compression and mountain building, dozens of major erosive cycles, layered strata. **Epochs 7–9 (persistent simulation):** the retained real-world state — the only data the server keeps; epochs 1–6 are discardable scaffolding once it exists. (Canon: F156C63C; world-gen unification ruling 2026-07-12, ledger E84EF8CE; flicker-world-system-spec.md §3.)
+
+The bake models chemistry, geology, and astronomy, and it is **process-additive**: each turn of simulated time evaluates the planet's current outputs and adds the next process as its conditions arise — the planet outgasses, so atmosphere begins to be computed; it is molten, so crust formation is computed; ice arrives from the outer system, so a water cycle begins. The run has a **terminal state**: it ends when an **Earth-like planet has been produced**, at around but no more than **~4.5 billion years** of simulated formation time. (The internal epoch and crust-cycle durations remain working values — ledger 65AE9274; the terminal condition and its ~4.5 BY ceiling are canon — ledger 321B1793.)
+
+### The Seven Shards and World Selection
+
+All playable worlds are generated from the **same canonical accretion budget** (above); only the **generation seed** differs. In lore they are the **seven shards of reality** — "the seven prisms" of the cosmology (Book V). Because every world is baked from that one budget, each carries all twenty-eight canon elements in fixed amounts, so **every crafting and extraction chain functions on every shard** — completeness is guaranteed by construction, not by curation. Each shipped shard is nonetheless **hand-selected by the designer from generated candidates**: the generator proposes worlds, the designer chooses which become the seven. *(Out-of-world provenance, recorded honestly: the worlds are meant to resemble the real Earth without ever being it — the shared budget fixes what exists, the seed decides how a shard arranges it.)* (Canon: world-gen unification ruling 2026-07-12, ledger AF30A79B; F156C63C. Cosmology: Book V; ledgers 8543A752, DC66A0FB.)
+
+### Volatiles and Static Formation Events
+
+Water is real H₂O in the accounting — formed from hydrogen and oxygen and delivered as mass — and so are the atmosphere, outgassing, and every hydration event: all are real accounting transactions that change the planet's mass and composition, exactly as they did for the real Earth. "Water, ice, and lava as effects" is a **render classification only**, never the accounting. Where a formation event is specific to Earth, the design bends the rules slightly and inserts an authored **static event** that reproduces its *kind*, for the gameplay levers it affords — most notably the giant impact that **tilts the planet and ejects the moon** (a Mars-sized body strikes; the accounting stays real, so some of the moon's mass is the planet's and some of the planet is the impactor's), and the delivery of volatiles and ice from the outer system. The events are authored; the mass bookkeeping they drive is conserved. This is **formation-time** accounting — the live moon in the sky is a separate matter, ephemeris-driven and not simulated (Book V). (Canon: 2026-07-13, ledger C72F8F49, closing fork 78524243; F156C63C.)
 
 ### Hex-Sphere Topology
 
@@ -36,11 +46,23 @@ Water, lava, and ice transport runs on **Rivulets**: a directed acyclic graph of
 
 The primary world clock is **crust recycling**, with 500 million years as the working cycle length: crust actively subducts, moves, and regenerates, and the simulation passes that evolve the ledger run on a geological cadence, never in the frame loop. The recycling *concept* is canon; the duration is not — by ruling (Elideus, 2026-07-02; ledger 65AE9274), all epoch and crust-cycle timings are unconfirmed working values from ongoing experimentation, and the exploratory POCs built around them are non-canon. The 500 My figure and the engine roadmap's ~1.5 BY / ≥6-recycle figures (formerly contradiction 53092068) are both such working values; no permanent decision exists. (Canon concept: F156C63C; timing ruling: 65AE9274.)
 
+### Ore Genesis
+
+Veins are made by the living planet, never placed. Subduction zones are sorting boundaries: when one plate runs beneath another, its cargo is carried down into the melt, and chemistry partitions what returns — each pass up through a seam filters and concentrates. Gold that rides a slab down comes back richer at another seam later. Over many convective cycles the seams of the world become its treasure maps: veins of varying density and grade, hosted in the rock that made them (aluminum in bauxite, iron in hematite), and refinement returns everything the container holds. This is the purpose of subduction, convection, and keeping the model's layers separate — gameplay vein formation, by a mechanism close enough to reality to reproduce.
+
+Engine-facing (implementation detail, per Seed canon 1): every simulation layer is a three-dimensional **ledger volume**; large bodies and concentrations of elements, compounds, and minerals are first-class parts of the hex's mass accounting, and that structure is exactly the hardness/softness metadata the erosion cycles iterate on (the conserved quench-speed/hardness field, ledger 41EB4B47). (Canon: world-gen unification ruling 2026-07-12, ledger C95EFB32; F156C63C, 65AE9274, 41EB4B47.)
+
+### Compaction and Emergent Terrain
+
+The world reworks itself locally in response to what players do — but always as an **effect of the simulation, never a scripted event**. Elideus's rule: *"no thing that we're doing, just effects that result in outcomes"* (ledger 75FA3234). The canonical example is the **desire-path**: repeated foot traffic **accumulates compaction** on a cluster — an accumulation to the container, per the voxel-as-container model (ledger 6C9C3A9C); higher compaction lowers the cluster's **water saturation and retention** (the Rivulets water state and the conserved hardness field, ledger 41EB4B47); lower saturation grows **fewer plants** (the Procedural Plant System, §D); and the bare, packed ground that remains reads, without anyone authoring it, as a **pathway** worn into the terrain.
+
+The same principle admits other **local, permanent** modifications — the buildings and settlements players already raise (Books I–II), and, at the far extreme, a single world-shifting LTO that marks one small part of one hex (Book I, Long-Term Objectives). What it does **not** admit is any **player-driven *global* effect** (Book I, ledger FEC89726): the world changes at scale only from the deterministic sky (celestial primacy, ledger 3312B2AB). The principle and the compaction chain are canon design truth (Seed canon 1 / ledger 65C82EE0; Elideus, 2026-07-13); the exact couplings and rates are `[BUILD]`.
+
 ## Simplified Elemental System
 
   The game world is composed of voxels, but unlike traditional cubes that represent just one material, our voxels can both change shape, and are but containers for elements. The contents of any given voxel determines the material. While common interactions with voxels can interact at the level of a voxel material, the simulation undergirding the generation of the world is driven by real-world chemistry and real-world environmental processes. Diamonds aren't produced at random, they're the result of a lot of carbon and temperature and pressure, and this is how we generate them here, too.
 
-  **[OPEN QUESTION]** The voxel-container framing above predates the engine's material-ledger canon (composition vectors per heightmap pixel; voxels as a derived materialization layer). Whether these are one model at two resolutions or a genuine conflict is unresolved — ledger entry 9C677816; see the World-System Frame preamble. The text is retained as written.
+  **[RESOLVED — 2026-07-13, ledger 6C9C3A9C]** The voxel-container framing here is canon (fork 9C677816 closed): voxels-as-containers and the material-ledger's composition vectors are one model at different levels of aggregation. Material is a property *derived* from a voxel's contents, not a description of the voxel; see the World-System Frame preamble (§The Material Ledger).
 
 ### Purpose and Design
 
@@ -78,12 +100,15 @@ The **Simplified Elemental System** serves as the foundational mechanism for sim
 | Element | # | Sym | VEs | Uses |
 |---------|---|-----|-----|------|
 | Hydrogen | 1 | (H) | 1 | Water |
+| Lithium | 3 | (Li) | 1 | Batteries, energy storage, and light alloys |
 | Sodium | 11 | (Na) | 1 | Salt and Glass |
 | Magnesium | 12 | (Mg) | 2 | Explosives, flares, lightweight alloys, and energy catalysis |
 | Potassium | 19 | (K) | 1 | Fertilizer and plant growth |
 | Calcium | 20 | (Ca) | 2 | Limestone, cement, mortar |
 
-*Magnesium added 2026-07-02 by ruling (ledger 84E68FF7): the engine's canonical table gained Mg #12 as a major silicate component (flicker data/materials/periodic_table.json); this book is corrected to match. The Prism table is now 27 elements; the design ceiling is 30.*
+*Magnesium added 2026-07-02 by ruling (ledger 84E68FF7): the engine's canonical table gained Mg #12 as a major silicate component (flicker data/materials/periodic_table.json); this book is corrected to match.*
+
+*Lithium (#3) added 2026-07-04 by ruling (Elideus, gap-review; ledger F3450870): recovered from the ClayEngine world-sim source doc — the one element it carried that current canon lacked. The Prism table is now 28 elements; the design ceiling is 30. The engine's periodic_table.json is to be synced to match, as with Mg.*
 
 ---
 
@@ -381,6 +406,7 @@ In addition to inorganic compounds, voxels can contain biological chemicals cruc
 
 1. **Lignin**
   - **Occurrence:** Found in wood.
+  - **Composition:** Carbon, hydrogen, and oxygen.
   - **Uses:**
     - Provides rigidity and resistance to decay in plants.
     - Can be processed into materials for crafting and construction.
@@ -388,6 +414,7 @@ In addition to inorganic compounds, voxels can contain biological chemicals cruc
 
 2. **Cellulose**
   - **Occurrence:** Found in plant cell walls.
+  - **Composition:** Carbon, hydrogen, and oxygen.
   - **Uses:**
     - Provides structural support to plants.
     - Can be used to produce paper, textiles, and other materials.
@@ -395,6 +422,7 @@ In addition to inorganic compounds, voxels can contain biological chemicals cruc
 
 3. **Chlorophyll**
    - **Occurrence:** Green pigment in plants.
+   - **Composition:** Magnesium (Mg), nitrogen, carbon, hydrogen, and oxygen.
    - **Uses:**
      - Essential for photosynthesis.
      - May be used in crafting dyes and pigments.
@@ -402,6 +430,7 @@ In addition to inorganic compounds, voxels can contain biological chemicals cruc
 
 4. **Resin**
    - **Occurrence:** Produced by plants, especially conifers.
+   - **Composition:** Carbon, hydrogen, and other organic compounds.
    - **Uses:**
      - Used in crafting adhesives, varnishes, and sealants.
      - Essential for creating torches and flammable materials.
@@ -409,6 +438,7 @@ In addition to inorganic compounds, voxels can contain biological chemicals cruc
 
 5. **Nectar**
    - **Occurrence:** Produced by flowers.
+   - **Composition:** Water (H₂O), sugars, and other organic compounds.
    - **Uses:**
      - Attracts pollinators, influencing plant reproduction.
      - Can be collected to produce sweeteners or fermented beverages.
@@ -416,6 +446,7 @@ In addition to inorganic compounds, voxels can contain biological chemicals cruc
 
 6. **Pollen**
    - **Occurrence:** Produced by plants for reproduction.
+   - **Composition:** Proteins, fats, and nucleic acids.
    - **Uses:**
      - Can affect allergies in characters, adding gameplay dynamics.
      - Used in crafting and alchemy, possibly as a reagent.
@@ -423,6 +454,7 @@ In addition to inorganic compounds, voxels can contain biological chemicals cruc
 
 7. **Humus**
    - **Occurrence:** Organic component of soil.
+   - **Composition:** Carbon, nitrogen, and other nutrients.
    - **Uses:**
      - Enhances soil fertility, crucial for agriculture.
      - Affects plant growth rates and crop yields.
@@ -430,6 +462,7 @@ In addition to inorganic compounds, voxels can contain biological chemicals cruc
 
 8. **Wax**
    - **Occurrence:** Produced by plants and insects (e.g., bees).
+   - **Composition:** Long-chain hydrocarbons and fatty acids.
    - **Uses:**
      - Used in crafting candles, polishes, and waterproofing materials.
      - Essential for creating molds in metal casting.
@@ -437,6 +470,7 @@ In addition to inorganic compounds, voxels can contain biological chemicals cruc
 
 9. **Oils**
    - **Occurrence:** Found in seeds and fruits.
+   - **Composition:** Carbon, hydrogen, and oxygen.
    - **Uses:**
      - Used in cooking, crafting, and as fuel for lamps.
      - Essential in creating soaps, lotions, and medicinal items.
@@ -829,7 +863,7 @@ Material transformation and interactions are fundamental to creating a realistic
   
 - **Voxel Dynamics**: Voxels act as dynamic containers that hold one or more elements or compounds. The contents of a voxel can change through player actions or environmental processes, leading to material transformations like melting, solidification, or chemical reactions.
 
-  **[OPEN QUESTION]** "Voxels act as dynamic containers" is voxel-container framing — see ledger entry 9C677816 (voxel-container vs material-ledger fork). Under the ledger model, both player actions and environmental processes are transactions against the cluster's composition vector; the transformations described here are unaffected either way.
+  **[RESOLVED — 2026-07-13, ledger 6C9C3A9C]** "Voxels act as dynamic containers" is canon (fork 9C677816 closed). Both player actions and environmental processes are transactions against the cluster's aggregate, of which the voxel holds a portion; the material a voxel shows is derived from its contents.
 
 2. Environmental Influences
 
@@ -926,7 +960,7 @@ The procedural plant system simulates realistic plant growth, reproduction, and 
   - **Voxel Composition**: Plants extract nutrients and water from surrounding voxels, affecting and being affected by the local environment.
   - **Adaptation**: Plants may alter their growth patterns in response to obstacles or changes in their surroundings.
 
-  **[OPEN QUESTION]** The plant system's soil/nutrient interface is written against the voxel grid; under the material-ledger model it would read against cluster composition and effect state instead. This is a named downstream of fork 9C677816 — not resolved here.
+  **[RESOLVED — 2026-07-13, ledger 6C9C3A9C]** With fork 9C677816 closed (voxel-as-container is canon), the plant system's soil/nutrient interface reads against the voxel's portion of its cluster aggregate; the voxel grid and the cluster/composition view are the same model at different scales.
 
 2. Environmental Resource Management
 
