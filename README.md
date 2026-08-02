@@ -8,7 +8,7 @@
 - 💎 GenX gamer: Apple ][, IBM PC, NES
 - 💰 I provide CIP, Roadmap, and Cloud consulting services
 
-### 🧩 The Elideus Group stack — four repos, one platform (powering Prism)
+#### 🧩 The Elideus Group stack — four repos, one platform (powering Prism)
 
 - 🎮 **[flicker](https://github.com/elide-us/flicker)** — The Rust engine + client. wgpu rendering, a data-driven UI system, voxel-LOD terrain, worldgen, and the character/animation pipeline. The part that renders the world.
 - 🌍 **[clay-engine](https://github.com/elide-us/clay-engine)** — The authoritative, headless world-simulation server. Holds the persistent voxel world and streams it to clients — the backend that makes an MMO an MMO.
